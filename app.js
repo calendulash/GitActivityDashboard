@@ -166,49 +166,13 @@ function renderInsightList(items){
   return `<div class="insight-list">${items.map(item=>`<article class="insight-item"><span class="insight-label">${esc(item.label)}</span><strong>${esc(item.value)}</strong><p>${esc(item.detail)}</p></article>`).join("")}</div>`;
 }
 
-function renderIsoActivity(weekly){
+function renderWeeklyBars(weekly){
   const max=Math.max(...weekly,1);
-  return `<div class="iso-board" aria-label="학기 활동 지형">${weekly.map((value,index)=>{
-    const height=Math.max(10,Math.round(value/max*72));
-    return `<div class="iso-column ${value===max&&value>0?"peak":""}" title="${esc(`주차 ${index+1} · ${value}회`)}"><div class="iso-stack"><i style="height:${height}px"></i></div><small>${index+1}주</small></div>`;
-  }).join("")}</div>`;
-}
-
-function renderSignalRadar(total,qualityRate,quality,student){
-  const metrics=[
-    {label:"Commit",value:Math.min(100,total*16)},
-    {label:"Quality",value:qualityRate},
-    {label:"Type",value:quality.total?Math.round(quality.recommended/quality.total*100):0},
-    {label:"Active",value:Math.min(100,student.activeDays/7*100)},
-    {label:"Recent",value:student.lastCommit.includes("오늘")?100:student.lastCommit.includes("어제")?70:40}
-  ];
-  const center=110;
-  const radius=72;
-  const makePoints=(level)=>metrics.map((_,index)=>{
-    const angle=(-90+(360/metrics.length)*index)*(Math.PI/180);
-    const r=radius*(level/100);
-    return `${(center+Math.cos(angle)*r).toFixed(1)},${(center+Math.sin(angle)*r).toFixed(1)}`;
-  }).join(" ");
-  const area=metrics.map((metric,index)=>{
-    const angle=(-90+(360/metrics.length)*index)*(Math.PI/180);
-    const r=radius*(metric.value/100);
-    return `${(center+Math.cos(angle)*r).toFixed(1)},${(center+Math.sin(angle)*r).toFixed(1)}`;
-  }).join(" ");
-  const labelsMarkup=metrics.map((metric,index)=>{
-    const angle=(-90+(360/metrics.length)*index)*(Math.PI/180);
-    const x=center+Math.cos(angle)*(radius+28);
-    const y=center+Math.sin(angle)*(radius+28);
-    return `<span class="radar-label" style="left:${x}px;top:${y}px">${esc(metric.label)}</span>`;
-  }).join("");
-  const spokes=metrics.map((_,index)=>{
-    const angle=(-90+(360/metrics.length)*index)*(Math.PI/180);
-    return `<line x1="${center}" y1="${center}" x2="${(center+Math.cos(angle)*radius).toFixed(1)}" y2="${(center+Math.sin(angle)*radius).toFixed(1)}" />`;
-  }).join("");
-  return `<div class="radar-card"><div class="radar-visual">${labelsMarkup}<svg viewBox="0 0 220 220" class="radar-svg" role="img" aria-label="활동 신호 요약"><g class="radar-grid"><polygon points="${makePoints(20)}" /><polygon points="${makePoints(40)}" /><polygon points="${makePoints(60)}" /><polygon points="${makePoints(80)}" /><polygon points="${makePoints(100)}" />${spokes}</g><polygon class="radar-area" points="${area}" /></svg></div><p>활동량, 최근성, 메시지 품질을 함께 본 학기 신호입니다.</p></div>`;
+  return `<div class="bar-chart" aria-label="최근 7주 활동">${weekly.map((value,index)=>`<div class="bar-item ${value===max&&value>0?"peak":""}"><em>${value}</em><i style="height:${Math.max(12,Math.round(value/max*100))}%"></i><small>${index+1}주</small></div>`).join("")}</div>`;
 }
 
 function renderTypeGuide(){
-  return `<ul class="guide-types">${recommendedTypes.map(type=>`<li><strong class="type-token">[${type}]</strong><p>${esc(typeDescriptions[type])}</p></li>`).join("")}</ul><article class="guide-update"><strong class="type-token">[Update]</strong><p>너무 넓은 표현이라 가능하면 Feat, Fix, Refactor, Chore 중 하나로 구체화하세요.</p></article>`;
+  return `<ul class="guide-types">${recommendedTypes.map(type=>`<li><strong class="type-token">[${type}]</strong><p>${esc(typeDescriptions[type])}</p></li>`).join("")}<li class="guide-update"><strong class="type-token">[Update]</strong><p>너무 넓은 표현이라 가능하면 Feat, Fix, Refactor, Chore 중 하나로 구체화하세요.</p></li></ul>`;
 }
 
 function renderQualityList(items){
@@ -249,10 +213,7 @@ function renderDashboard(students){
     <div class="content-grid">
       <article class="card activity-card">
         <div class="card-head"><div><h2>최근 활동 흐름</h2><p>커밋 수를 해석한 프로젝트 진행 신호</p></div><span>총 ${total}회</span></div>
-        <div class="activity-showcase">
-          <div class="activity-landscape"><div class="activity-caption"><strong>Activity Landscape</strong><p>최근 7주 활동을 아이소메트릭 지형으로 보여줍니다.</p></div>${renderIsoActivity(s.weekly)}</div>
-          ${renderSignalRadar(total,qualityRate,quality,s)}
-        </div>
+        <div class="activity-chart-card"><div class="activity-caption"><strong>주차별 활동</strong><p>최근 7주 커밋 수를 막대그래프로 보여줍니다.</p></div>${renderWeeklyBars(s.weekly)}</div>
         ${renderInsightList(insights)}
       </article>
       <article class="card guide guide-card"><div class="card-head"><div><h2>커밋 규칙 가이드</h2><p>학생이 바로 따라 쓸 수 있는 타입 안내</p></div></div>${renderTypeGuide()}<ol><li><span>01</span><div><strong>형식 통일</strong><p>[Feat] 플레이어 점프 판정 수정처럼 타입 뒤에 작업 내용을 적습니다.</p></div></li><li><span>02</span><div><strong>Update 지양</strong><p>무엇을 바꿨는지 보이도록 Feat, Fix, Refactor, Chore로 구체화합니다.</p></div></li><li><span>03</span><div><strong>짧은 제목 피하기</strong><p>수정, 테스트, 작업중 같은 모호한 표현은 평가 근거가 약합니다.</p></div></li></ol></article>
