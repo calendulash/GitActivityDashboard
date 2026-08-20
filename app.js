@@ -189,11 +189,11 @@ function activityInsights(student,quality){
 }
 
 function renderInsightList(items){
-  return `<div class="insight-list">${items.map(item=>`<article class="insight-item"><span>${esc(item.label)}</span><strong>${esc(item.value)}</strong><p>${esc(item.detail)}</p></article>`).join("")}</div>`;
+  return `<div class="insight-list">${items.map(item=>`<article class="insight-item"><span class="insight-label">${esc(item.label)}</span><strong>${esc(item.value)}</strong><p>${esc(item.detail)}</p></article>`).join("")}</div>`;
 }
 
 function renderTypeGuide(){
-  return `<ul class="guide-types">${recommendedTypes.map(type=>`<li><strong>[${type}]</strong><p>${esc(typeDescriptions[type])}</p></li>`).join("")}<li><strong>[Update]</strong><p>너무 넓은 표현이라 가능하면 Feat, Fix, Refactor, Chore 중 하나로 구체화하세요.</p></li></ul>`;
+  return `<ul class="guide-types">${recommendedTypes.map(type=>`<li><strong class="type-token">[${type}]</strong><p>${esc(typeDescriptions[type])}</p></li>`).join("")}<li class="warning"><strong class="type-token">[Update]</strong><p>너무 넓은 표현이라 가능하면 Feat, Fix, Refactor, Chore 중 하나로 구체화하세요.</p></li></ul>`;
 }
 
 async function copyEmbedLink(){
@@ -228,8 +228,8 @@ function renderDashboard(students){
     <div class="student-head"><div><p>${esc(semester.label)}</p><h1>${esc(s.name)}<small>${esc(s.id)}</small></h1><a href="https://github.com/${esc(s.github)}" target="_blank" rel="noopener">github.com/${esc(s.github)} ↗</a><div class="semester-range">집계 기간 · ${esc(semester.range)}</div></div><span class="chip ${esc(s.status)}"><i></i>${esc(labels[s.status])}</span></div>
     ${repoTabs}
     <div class="metrics"><article><span>학기 활동 커밋</span><strong>${total}<small>회</small></strong><p>${esc(semester.label)} 집계 기준</p></article><article><span>유효 커밋</span><strong>${quality.valid}<small>/ ${quality.total||0}</small></strong><p>최근 커밋 메시지 형식 점검</p></article><article><span>규칙 준수율</span><strong class="time">${qualityRate}<small>%</small></strong><p>${quality.recommended}개가 핵심 타입 규칙을 따릅니다</p></article></div>
-    <div class="content-grid"><article class="card"><div class="card-head"><div><h2>최근 활동 흐름</h2><p>커밋 수를 해석한 프로젝트 진행 신호</p></div><span>총 ${total}회</span></div>${renderInsightList(insights)}<div class="chart compact">${bars}</div></article>
-    <article class="card guide"><div class="card-head"><div><h2>커밋 규칙 가이드</h2><p>학생이 바로 따라 쓸 수 있는 타입 안내</p></div></div>${renderTypeGuide()}<ol><li><span>01</span><div><strong>형식 통일</strong><p>[Feat] 플레이어 점프 판정 수정처럼 타입 뒤에 작업 내용을 적습니다.</p></div></li><li><span>02</span><div><strong>Update 지양</strong><p>무엇을 바꿨는지 보이도록 Feat, Fix, Refactor, Chore로 구체화합니다.</p></div></li><li><span>03</span><div><strong>짧은 제목 피하기</strong><p>수정, 테스트, 작업중 같은 모호한 표현은 평가 근거가 약합니다.</p></div></li></ol></article></div>
+    <div class="content-grid"><article class="card activity-card"><div class="card-head"><div><h2>최근 활동 흐름</h2><p>커밋 수를 해석한 프로젝트 진행 신호</p></div><span>총 ${total}회</span></div>${renderInsightList(insights)}<div class="chart compact">${bars}</div></article>
+    <article class="card guide guide-card"><div class="card-head"><div><h2>커밋 규칙 가이드</h2><p>학생이 바로 따라 쓸 수 있는 타입 안내</p></div></div>${renderTypeGuide()}<ol><li><span>01</span><div><strong>형식 통일</strong><p>[Feat] 플레이어 점프 판정 수정처럼 타입 뒤에 작업 내용을 적습니다.</p></div></li><li><span>02</span><div><strong>Update 지양</strong><p>무엇을 바꿨는지 보이도록 Feat, Fix, Refactor, Chore로 구체화합니다.</p></div></li><li><span>03</span><div><strong>짧은 제목 피하기</strong><p>수정, 테스트, 작업중 같은 모호한 표현은 평가 근거가 약합니다.</p></div></li></ol></article></div>
     <div class="content-grid secondary"><article class="card quality"><div class="card-head"><div><h2>유효 커밋 점검</h2><p>최근 메시지 기준 자동 판정</p></div><span>${qualityRate}%</span></div>${renderQualityList(quality.warnings.slice(0,4))}</article>
     <article class="card semester"><div class="card-head"><div><h2>학기 집계 기준</h2><p>방학 중 커밋도 동일하게 포함합니다</p></div></div><ul class="quality-list static"><li><strong>1학기</strong><p>매년 1월 1일 ~ 6월 30일</p></li><li><strong>2학기</strong><p>매년 7월 1일 ~ 12월 31일</p></li><li><strong>집계 방식</strong><p>해당 기간 안의 모든 커밋을 학기 활동으로 반영</p></li></ul></article></div>
     <article class="card commits"><div class="card-head"><div><h2>최근 커밋</h2><p>${esc(s.repo)}</p></div><a href="https://github.com/${esc(s.repo)}/commits" target="_blank" rel="noopener">전체 보기 ↗</a></div><div>${commits}</div></article>`;
