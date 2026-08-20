@@ -166,18 +166,12 @@ function renderInsightList(items){
   return `<div class="insight-list">${items.map(item=>`<article class="insight-item"><span class="insight-label">${esc(item.label)}</span><strong>${esc(item.value)}</strong><p>${esc(item.detail)}</p></article>`).join("")}</div>`;
 }
 
-function buildActivityCells(weekly){
-  const max=Math.max(...weekly,1);
-  return weekly.flatMap((value,weekIndex)=>Array.from({length:4},(_,rowIndex)=>{
-    const threshold=(4-rowIndex)/4;
-    const normalized=max?value/max:0;
-    return {filled:normalized>=threshold&&value>0,tall:value>=Math.ceil(max*0.75)&&rowIndex===0,peak:value===max&&value>0,week:weekIndex+1,value};
-  }));
-}
-
 function renderIsoActivity(weekly){
-  const cells=buildActivityCells(weekly);
-  return `<div class="iso-board" aria-label="학기 활동 지형">${cells.map(cell=>`<div class="iso-tile ${cell.filled?"filled":""} ${cell.tall?"tall":""} ${cell.peak?"peak":""}" title="${esc(`주차 ${cell.week} · ${cell.value}회`)}"></div>`).join("")}</div>`;
+  const max=Math.max(...weekly,1);
+  return `<div class="iso-board" aria-label="학기 활동 지형">${weekly.map((value,index)=>{
+    const height=Math.max(10,Math.round(value/max*72));
+    return `<div class="iso-column ${value===max&&value>0?"peak":""}" title="${esc(`주차 ${index+1} · ${value}회`)}"><div class="iso-stack"><i style="height:${height}px"></i></div><small>${index+1}주</small></div>`;
+  }).join("")}</div>`;
 }
 
 function renderSignalRadar(total,qualityRate,quality,student){
