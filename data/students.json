@@ -1,0 +1,10 @@
+{
+  "course": "게임 프로젝트 · 2026학년도 2학기",
+  "notionUrl": "https://www.notion.so",
+  "updatedAt": "샘플 데이터",
+  "students": [
+    {"name":"김하늘","id":"20260001","team":"Pixel Forge","github":"haneul-dev","repo":"pixel-forge/project","commits":24,"activeDays":5,"lastCommit":"오늘 21:42","status":"active","weekly":[2,4,3,6,5,8,7],"recent":[{"message":"feat: 인벤토리 슬롯 드래그 구현","time":"오늘 21:42","sha":"a41c9de"},{"message":"fix: 아이템 중복 장착 오류 수정","time":"어제 18:11","sha":"8bd12f0"}]},
+    {"name":"박서연","id":"20260003","team":"Blue Rabbit","github":"seoyeon-art","repo":"blue-rabbit/game","commits":8,"activeDays":2,"lastCommit":"4일 전","status":"watch","weekly":[0,2,1,3,2,1,2],"recent":[{"message":"art: 스테이지 배경 리소스 추가","time":"4일 전","sha":"aa21d4e"}]},
+    {"name":"최민준","id":"20260004","team":"Blue Rabbit","github":"minjun-choi","repo":"blue-rabbit/game","commits":3,"activeDays":1,"lastCommit":"9일 전","status":"inactive","weekly":[1,0,2,0,1,0,0],"recent":[{"message":"feat: 타이틀 화면 버튼 연결","time":"9일 전","sha":"f10ab94"}]}
+  ]
+}
