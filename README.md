@@ -2,25 +2,21 @@
 
 압축을 풀어 GitHub 저장소 루트에 그대로 커밋하면 됩니다. 별도 설치나 빌드 과정이 없는 순수 HTML·CSS·JavaScript 사이트입니다.
 
-## 1. 학생 목록 수정
+## 1. 실제 데이터 연결
 
-`config/students.json`에서 수업명, Notion 주소, 학기 시작일과 학생 정보를 수정합니다.
+학생 목록을 별도로 입력하지 않습니다. `tracker.py`가 기존 Notion 프로젝트 DB에서 `사용 여부`가 체크된 프로젝트만 읽습니다.
 
-```json
-{"name":"학생명","id":"학번","team":"팀명","github":"GitHub아이디","repo":"소유자/저장소명"}
-```
-
-저장소 하나를 팀원이 함께 쓸 경우 `repo`는 같게 두고 `github`만 학생별로 입력합니다.
+기존 `git-notion-tracker` 저장소에서 사용하던 `NOTION_TOKEN` 값을 이 저장소의 `Settings → Secrets and variables → Actions`에도 같은 이름으로 등록하세요. GitHub의 비밀값은 저장소마다 따로 등록해야 합니다.
 
 ## 2. GitHub Pages 켜기
 
-저장소의 `Settings → Pages → Build and deployment → Source`에서 `GitHub Actions`를 선택합니다. `Actions` 탭에서 `Collect Git activity and deploy Pages`를 한 번 실행하면 주소가 생성됩니다.
+저장소의 `Settings → Pages → Build and deployment → Source`에서 `GitHub Actions`를 선택합니다. `Actions` 탭에서 `Sync Notion Git data and deploy Pages`를 한 번 실행하면 주소가 생성됩니다.
 
-매일 한국시간 00:10에 학생 커밋을 수집하고 Pages를 갱신합니다. `Actions → Run workflow`로 즉시 갱신할 수도 있습니다.
+30분마다 Notion 프로젝트 목록과 GitHub 커밋을 동기화하고 Pages를 갱신합니다. `Actions → Run workflow`로 즉시 갱신할 수도 있습니다.
 
-## 3. 비공개 저장소가 있을 때
+## 3. 데이터 흐름
 
-공개 저장소만 사용하면 추가 설정이 필요 없습니다. 비공개 저장소를 읽어야 한다면 읽기 권한만 가진 Fine-grained personal access token을 만든 뒤 `Settings → Secrets and variables → Actions`에 `GH_PAT`라는 이름으로 저장합니다. 토큰을 파일에 직접 쓰면 안 됩니다.
+`Notion 프로젝트 DB → tracker.py → GitHub 커밋 수집 → Notion Commit DB 갱신 + data/students.json 생성 → GitHub Pages 배포` 순서로 동작합니다.
 
 ## 4. Notion 임베드
 
