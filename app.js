@@ -1,5 +1,5 @@
 const labels={active:"정상",watch:"확인 필요",inactive:"미활동"};
-const state={data:null,github:"",selectedRepo:""};
+const state={data:null,github:"",selectedRepo:"",copyMessage:""};
 const $=(q)=>document.querySelector(q);
 const esc=(v)=>String(v??"").replace(/[&<>'"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c]));
 const githubParam=()=>new URLSearchParams(window.location.search).get("github")?.trim()??"";
@@ -44,9 +44,14 @@ function bind(){
       render();
       return;
     }
+    if(event.target.closest("[data-copy-embed]")){
+      copyEmbedLink();
+      return;
+    }
     if(event.target.closest("[data-reset-github]")){
       state.github="";
       state.selectedRepo="";
+      state.copyMessage="";
       window.history.pushState({github:""},"",window.location.pathname);
       render();
     }
@@ -83,8 +88,7 @@ function renderLookup(message=""){
   return `
     <section class="lookup-card">
       <p class="lookup-eyebrow">개인별 프로젝트 조회</p>
-      <h1>GitHub ID를 입력해 내 프로젝트만 확인하세요.</h1>
-      <p class="lookup-copy">직접 접속 링크도 지원합니다. 예: <code>?github=shingugitvr000</code></p>
+      <h1>Github ID를 입력해서 내 프로젝트 진행 사항을 확인 하세요.</h1>
       <form id="githubLookupForm" class="lookup-form">
         <label class="lookup-input">
           <span>GitHub ID</span>
@@ -96,14 +100,31 @@ function renderLookup(message=""){
     </section>`;
 }
 
+async function copyEmbedLink(){
+  const text=window.location.href;
+  try{
+    if(navigator.clipboard?.writeText){
+      await navigator.clipboard.writeText(text);
+      state.copyMessage="노션에 복사해서 임베드 하세요.";
+    }else{
+      throw new Error("clipboard unavailable");
+    }
+  }catch(error){
+    state.copyMessage="클립보드 복사에 실패했습니다. 브라우저 권한을 확인하세요.";
+  }
+  render();
+}
+
 function renderDashboard(students){
   const s=selectedStudent(students); if(!s)return;
   const max=Math.max(...s.weekly,1); const total=s.weekly.reduce((a,b)=>a+b,0);
   const bars=s.weekly.map((value,index)=>`<div class="bar"><em>${value}</em><i style="height:${Math.max(8,value/max*100)}%"></i><small>${index+1}주</small></div>`).join("");
   const commits=s.recent.length?s.recent.map(c=>`<div class="commit"><span>⌘</span><div><strong>${esc(c.message)}</strong><p><code>${esc(c.sha)}</code> · ${esc(s.github)}</p></div><time>${esc(c.time)}</time></div>`).join(""):'<p class="empty">최근 커밋이 없습니다.</p>';
   const repoTabs=students.length>1?`<nav class="repo-switcher" aria-label="저장소 전환">${students.map(student=>`<button class="repo-tab ${student.repo===s.repo?"current":""}" data-repo="${esc(student.repo)}">${esc(student.repo)}</button>`).join("")}</nav>`:"";
+  const copyNotice=state.copyMessage?`<p class="copy-feedback">${esc(state.copyMessage)}</p>`:"";
   $("#dashboard").innerHTML=`
-    <div class="dashboard-tools"><button class="ghost-button" type="button" data-reset-github>다른 GitHub ID 입력</button></div>
+    <div class="dashboard-tools"><button class="ghost-button" type="button" data-copy-embed>노션 임베드 복사</button><button class="ghost-button" type="button" data-reset-github>다른 GitHub ID 입력</button></div>
+    ${copyNotice}
     <div class="student-head"><div><p>${esc(s.team)}</p><h1>${esc(s.name)}<small>${esc(s.id)}</small></h1><a href="https://github.com/${esc(s.github)}" target="_blank" rel="noopener">github.com/${esc(s.github)} ↗</a></div><span class="chip ${esc(s.status)}"><i></i>${esc(labels[s.status])}</span></div>
     ${repoTabs}
     <div class="metrics"><article><span>이번 주 커밋</span><strong>${s.commits}<small>회</small></strong><p>최근 7일 기준</p></article><article><span>활동한 날짜</span><strong>${s.activeDays}<small>/ 7일</small></strong><p>꾸준한 기록이 중요해요</p></article><article><span>마지막 커밋</span><strong class="time">${esc(s.lastCommit)}</strong><p>${esc(s.repo)}</p></article></div>
