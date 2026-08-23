@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 08. 23. 15:24",
+  "updatedAt": "2026. 08. 23. 16:09",
   "students": [
     {
       "name": "gameproject_1A",
@@ -11,7 +11,7 @@
       "repo": "surren01522-tech/gameproject_1A",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "75일 전",
+      "lastCommit": "76일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -25,13 +25,13 @@
       "recent": [
         {
           "message": "[Update] 플레이 씬 체력 시스템 적용",
-          "time": "75일 전",
+          "time": "76일 전",
           "sha": "d54e987",
           "url": "https://github.com/surren01522-tech/gameproject_1A/commit/d54e98721fd52241e325cee844381341e1836b4f"
         },
         {
           "message": "[Implement] 플레이어 및 적 체력 충돌 처리",
-          "time": "75일 전",
+          "time": "76일 전",
           "sha": "717f084",
           "url": "https://github.com/surren01522-tech/gameproject_1A/commit/717f0846ffd90ff1fa7d298a136fb6574469b86e"
         },
@@ -63,7 +63,7 @@
       "repo": "shingugitvr000/GameJam2026",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "17일 전",
+      "lastCommit": "18일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[Feat] 시스템 기초까지",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "3c1abcf",
           "url": "https://github.com/shingugitvr000/GameJam2026/commit/3c1abcf94750685d97907b97fa893848a3543fc6"
         },
         {
           "message": "Initial commit",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "62012fa",
           "url": "https://github.com/shingugitvr000/GameJam2026/commit/62012faa6970db873b491b0585345aaa6aa70e07"
         }
