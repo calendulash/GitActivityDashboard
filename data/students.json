@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 08. 31. 09:59",
+  "updatedAt": "2026. 08. 31. 15:46",
   "students": [
     {
       "name": "gameproject_1A",
@@ -83,7 +83,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "62012fa",
           "url": "https://github.com/shingugitvr000/GameJam2026/commit/62012faa6970db873b491b0585345aaa6aa70e07"
         }
