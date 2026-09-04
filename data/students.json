@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 04. 18:47",
+  "updatedAt": "2026. 09. 04. 22:52",
   "students": [
     {
       "name": "gameproject_1A",
@@ -37,19 +37,19 @@
         },
         {
           "message": "[Fix] 리소스 파일 정리",
-          "time": "93일 전",
+          "time": "94일 전",
           "sha": "d0f9b99",
           "url": "https://github.com/surren01522-tech/gameproject_1A/commit/d0f9b99dc11338b950fd5aac22e5f9b5710e9de6"
         },
         {
           "message": "[Fix] 불필요 백업 파일 제거",
-          "time": "93일 전",
+          "time": "94일 전",
           "sha": "b9dd51a",
           "url": "https://github.com/surren01522-tech/gameproject_1A/commit/b9dd51a59d2b035790d479df9eb80588ea67da8d"
         },
         {
           "message": "[Feat] 목표 돌 판정",
-          "time": "93일 전",
+          "time": "94일 전",
           "sha": "62567c0",
           "url": "https://github.com/surren01522-tech/gameproject_1A/commit/62567c0a771b7ab3f33f7bd718fd11991e7dfeae"
         }
