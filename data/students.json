@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 09. 19:23",
+  "updatedAt": "2026. 09. 09. 23:42",
   "students": [
     {
       "name": "Graduation-project",
@@ -9,8 +9,8 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 3,
-      "activeDays": 2,
+      "commits": 1,
+      "activeDays": 1,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -19,8 +19,8 @@
         0,
         0,
         0,
-        0,
-        3
+        2,
+        1
       ],
       "recent": [
         {
@@ -31,25 +31,25 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋2",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "9746b2b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/9746b2bac893c1d6d2b0711a109026e7a4eed1b6"
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋1",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "3ba83bb",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/3ba83bb4430f8734f5a80ef68d9588283a3b5646"
         },
         {
           "message": "[Pro Feat] 기말 발표용 맵 데이터 생성 및 적용",
-          "time": "78일 전",
+          "time": "79일 전",
           "sha": "0b9dead",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/0b9dead1f48900dfe4ea90d63475ea8f39acbfa0"
         },
         {
           "message": "[Pro FIx] 사운드 설정 안됨 오류 수정",
-          "time": "78일 전",
+          "time": "79일 전",
           "sha": "ffaf3f9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ffaf3f9f87226f92c3ca8dc248deaae15d68a3a6"
         }
@@ -69,15 +69,21 @@
         0,
         0,
         2,
-        4,
+        6,
         7,
-        9,
+        8,
         6
       ],
       "recent": [
         {
-          "message": "[Feat] NPC 래그돌 적용",
+          "message": "[Feat] AudioManager를 통한 사운드 추가 시스템 오브젝트 구축",
           "time": "오늘",
+          "sha": "6e72b0b",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/6e72b0b060f05a68c00c9497ba18d9cc3bebba1e"
+        },
+        {
+          "message": "[Feat] NPC 래그돌 적용",
+          "time": "어제",
           "sha": "a395a51",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/a395a518a71ec935fbb95e4682b4072e5e3ea621"
         },
@@ -95,15 +101,9 @@
         },
         {
           "message": "[Feat] Time 관련 스크립트 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "e913c61",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/e913c6171d9af4240fce010b459f0c501eeefbd2"
-        },
-        {
-          "message": "[Feat] 자동차 구현",
-          "time": "5일 전",
-          "sha": "0d6029e",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/0d6029e07b9382bc43526809be3eea0c1dff016e"
         }
       ]
     }
