@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 09. 14:33",
+  "updatedAt": "2026. 09. 09. 19:23",
   "students": [
     {
       "name": "Graduation-project",
@@ -9,10 +9,10 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 2,
-      "activeDays": 1,
-      "lastCommit": "6일 전",
-      "status": "watch",
+      "commits": 3,
+      "activeDays": 2,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -20,9 +20,15 @@
         0,
         0,
         0,
-        2
+        3
       ],
       "recent": [
+        {
+          "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋3",
+          "time": "오늘",
+          "sha": "6660be7",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/6660be7d7da2f62571fdb7a0579fbbbbe9dab843"
+        },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋2",
           "time": "6일 전",
@@ -46,12 +52,6 @@
           "time": "78일 전",
           "sha": "ffaf3f9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ffaf3f9f87226f92c3ca8dc248deaae15d68a3a6"
-        },
-        {
-          "message": "[Pro Feat] 검수용 빌드 맵 데이터 추가",
-          "time": "81일 전",
-          "sha": "c5c2602",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/c5c2602143858c56c6a37a5b4b4f29374ec3b306"
         }
       ]
     },
