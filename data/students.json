@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 09. 23:42",
+  "updatedAt": "2026. 09. 10. 03:10",
   "students": [
     {
       "name": "Graduation-project",
@@ -9,7 +9,7 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 1,
+      "commits": 2,
       "activeDays": 1,
       "lastCommit": "오늘",
       "status": "active",
@@ -20,9 +20,15 @@
         0,
         0,
         2,
-        1
+        2
       ],
       "recent": [
+        {
+          "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
+          "time": "오늘",
+          "sha": "ca336c3",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca336c3d67d877f64912f399b3c13b14228f71e1"
+        },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋3",
           "time": "오늘",
@@ -46,12 +52,6 @@
           "time": "79일 전",
           "sha": "0b9dead",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/0b9dead1f48900dfe4ea90d63475ea8f39acbfa0"
-        },
-        {
-          "message": "[Pro FIx] 사운드 설정 안됨 오류 수정",
-          "time": "79일 전",
-          "sha": "ffaf3f9",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/ffaf3f9f87226f92c3ca8dc248deaae15d68a3a6"
         }
       ]
     },
@@ -69,8 +69,8 @@
         0,
         0,
         2,
-        6,
-        7,
+        8,
+        5,
         8,
         6
       ],
@@ -89,13 +89,13 @@
         },
         {
           "message": "[Feat] 배달 지점 배치 (DeliveryPoint43까지)",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "454b3f7",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/454b3f731a5249c4dd7fcb77f6b6e6e44342e09e"
         },
         {
           "message": "[Feat] 시간 적용 (시간 UI 및 스카이박스 해결 안됨 )",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "1aa171e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/1aa171ee7f6f9ae2cf96ec924e5dbd8056929127"
         },
