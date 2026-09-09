@@ -1,18 +1,18 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 09. 07:53",
+  "updatedAt": "2026. 09. 09. 09:54",
   "students": [
     {
-      "name": "gameproject_1A",
-      "id": "shingugitvr000",
-      "team": "surren01522-tech",
-      "github": "shingugitvr000",
-      "repo": "surren01522-tech/gameproject_1A",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "92일 전",
-      "status": "inactive",
+      "name": "Graduation-project",
+      "id": "Taehyeon88",
+      "team": "Taehyeon88",
+      "github": "Taehyeon88",
+      "repo": "Taehyeon88/Graduation-project",
+      "commits": 2,
+      "activeDays": 1,
+      "lastCommit": "6일 전",
+      "status": "watch",
       "weekly": [
         0,
         0,
@@ -20,72 +20,90 @@
         0,
         0,
         0,
-        0
+        2
       ],
       "recent": [
         {
-          "message": "[Update] 플레이 씬 체력 시스템 적용",
-          "time": "92일 전",
-          "sha": "d54e987",
-          "url": "https://github.com/surren01522-tech/gameproject_1A/commit/d54e98721fd52241e325cee844381341e1836b4f"
+          "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋2",
+          "time": "6일 전",
+          "sha": "9746b2b",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/9746b2bac893c1d6d2b0711a109026e7a4eed1b6"
         },
         {
-          "message": "[Implement] 플레이어 및 적 체력 충돌 처리",
-          "time": "92일 전",
-          "sha": "717f084",
-          "url": "https://github.com/surren01522-tech/gameproject_1A/commit/717f0846ffd90ff1fa7d298a136fb6574469b86e"
+          "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋1",
+          "time": "6일 전",
+          "sha": "3ba83bb",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/3ba83bb4430f8734f5a80ef68d9588283a3b5646"
         },
         {
-          "message": "[Fix] 리소스 파일 정리",
-          "time": "98일 전",
-          "sha": "d0f9b99",
-          "url": "https://github.com/surren01522-tech/gameproject_1A/commit/d0f9b99dc11338b950fd5aac22e5f9b5710e9de6"
+          "message": "[Pro Feat] 기말 발표용 맵 데이터 생성 및 적용",
+          "time": "78일 전",
+          "sha": "0b9dead",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/0b9dead1f48900dfe4ea90d63475ea8f39acbfa0"
         },
         {
-          "message": "[Fix] 불필요 백업 파일 제거",
-          "time": "98일 전",
-          "sha": "b9dd51a",
-          "url": "https://github.com/surren01522-tech/gameproject_1A/commit/b9dd51a59d2b035790d479df9eb80588ea67da8d"
+          "message": "[Pro FIx] 사운드 설정 안됨 오류 수정",
+          "time": "78일 전",
+          "sha": "ffaf3f9",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/ffaf3f9f87226f92c3ca8dc248deaae15d68a3a6"
         },
         {
-          "message": "[Feat] 목표 돌 판정",
-          "time": "98일 전",
-          "sha": "62567c0",
-          "url": "https://github.com/surren01522-tech/gameproject_1A/commit/62567c0a771b7ab3f33f7bd718fd11991e7dfeae"
+          "message": "[Pro Feat] 검수용 빌드 맵 데이터 추가",
+          "time": "81일 전",
+          "sha": "c5c2602",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/c5c2602143858c56c6a37a5b4b4f29374ec3b306"
         }
       ]
     },
     {
-      "name": "GameJam2026",
-      "id": "shingugitvr000",
-      "team": "shingugitvr000",
-      "github": "shingugitvr000",
-      "repo": "shingugitvr000/GameJam2026",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "34일 전",
-      "status": "inactive",
+      "name": "Delivery-service",
+      "id": "yuseongmok",
+      "team": "yuseongmok",
+      "github": "yuseongmok",
+      "repo": "yuseongmok/Delivery-service",
+      "commits": 6,
+      "activeDays": 5,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
-        1,
-        1,
         0,
-        0,
-        0,
-        0
+        2,
+        4,
+        7,
+        9,
+        6
       ],
       "recent": [
         {
-          "message": "[Feat] 시스템 기초까지",
-          "time": "34일 전",
-          "sha": "3c1abcf",
-          "url": "https://github.com/shingugitvr000/GameJam2026/commit/3c1abcf94750685d97907b97fa893848a3543fc6"
+          "message": "[Feat] NPC 래그돌 적용",
+          "time": "오늘",
+          "sha": "a395a51",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/a395a518a71ec935fbb95e4682b4072e5e3ea621"
         },
         {
-          "message": "Initial commit",
-          "time": "35일 전",
-          "sha": "62012fa",
-          "url": "https://github.com/shingugitvr000/GameJam2026/commit/62012faa6970db873b491b0585345aaa6aa70e07"
+          "message": "[Feat] 배달 지점 배치 (DeliveryPoint43까지)",
+          "time": "어제",
+          "sha": "454b3f7",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/454b3f731a5249c4dd7fcb77f6b6e6e44342e09e"
+        },
+        {
+          "message": "[Feat] 시간 적용 (시간 UI 및 스카이박스 해결 안됨 )",
+          "time": "2일 전",
+          "sha": "1aa171e",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/1aa171ee7f6f9ae2cf96ec924e5dbd8056929127"
+        },
+        {
+          "message": "[Feat] Time 관련 스크립트 추가",
+          "time": "2일 전",
+          "sha": "e913c61",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/e913c6171d9af4240fce010b459f0c501eeefbd2"
+        },
+        {
+          "message": "[Feat] 자동차 구현",
+          "time": "5일 전",
+          "sha": "0d6029e",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/0d6029e07b9382bc43526809be3eea0c1dff016e"
         }
       ]
     }
