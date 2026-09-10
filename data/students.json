@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 11. 00:29",
+  "updatedAt": "2026. 09. 11. 03:37",
   "students": [
     {
       "name": "Graduation-project",
@@ -61,8 +61,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 7,
-      "activeDays": 6,
+      "commits": 8,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -71,10 +71,22 @@
         3,
         8,
         5,
-        7,
-        7
+        8,
+        8
       ],
       "recent": [
+        {
+          "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
+          "time": "오늘",
+          "sha": "8e2fa80",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/8e2fa801a02811333bbb59938224bdb4b5addba3"
+        },
+        {
+          "message": "[Fix] 오토바이 떨림방지 완료",
+          "time": "오늘",
+          "sha": "5c2d711",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/5c2d711f3d7787b50bdd13dac4b5e388b45bd5ab"
+        },
         {
           "message": "[Feat] 교통사고 합의금 구현",
           "time": "오늘",
@@ -92,18 +104,6 @@
           "time": "2일 전",
           "sha": "a395a51",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/a395a518a71ec935fbb95e4682b4072e5e3ea621"
-        },
-        {
-          "message": "[Feat] 배달 지점 배치 (DeliveryPoint43까지)",
-          "time": "3일 전",
-          "sha": "454b3f7",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/454b3f731a5249c4dd7fcb77f6b6e6e44342e09e"
-        },
-        {
-          "message": "[Feat] 시간 적용 (시간 UI 및 스카이박스 해결 안됨 )",
-          "time": "3일 전",
-          "sha": "1aa171e",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/1aa171ee7f6f9ae2cf96ec924e5dbd8056929127"
         }
       ]
     }
