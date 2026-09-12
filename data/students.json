@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 12. 22:55",
+  "updatedAt": "2026. 09. 13. 01:38",
   "students": [
     {
       "name": "Graduation-project",
@@ -11,7 +11,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 2,
       "activeDays": 1,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -25,7 +25,7 @@
       "recent": [
         {
           "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "ca336c3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca336c3d67d877f64912f399b3c13b14228f71e1"
         },
@@ -37,13 +37,13 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋2",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "9746b2b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/9746b2bac893c1d6d2b0711a109026e7a4eed1b6"
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋1",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "3ba83bb",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/3ba83bb4430f8734f5a80ef68d9588283a3b5646"
         },
@@ -63,7 +63,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 8,
       "activeDays": 5,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -77,19 +77,19 @@
       "recent": [
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "8e2fa80",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/8e2fa801a02811333bbb59938224bdb4b5addba3"
         },
         {
           "message": "[Fix] 오토바이 떨림방지 완료",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "5c2d711",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5c2d711f3d7787b50bdd13dac4b5e388b45bd5ab"
         },
         {
           "message": "[Feat] 교통사고 합의금 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "44eb59c",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/44eb59c5484c7dabab511d0f82f6932e9f9dec18"
         },
