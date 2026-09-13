@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 13. 15:25",
+  "updatedAt": "2026. 09. 13. 21:10",
   "students": [
     {
       "name": "Graduation-project",
@@ -49,7 +49,7 @@
         },
         {
           "message": "[Pro Feat] 기말 발표용 맵 데이터 생성 및 적용",
-          "time": "82일 전",
+          "time": "83일 전",
           "sha": "0b9dead",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/0b9dead1f48900dfe4ea90d63475ea8f39acbfa0"
         }
