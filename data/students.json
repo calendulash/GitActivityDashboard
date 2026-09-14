@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 14. 17:00",
+  "updatedAt": "2026. 09. 14. 23:50",
   "students": [
     {
       "name": "Graduation-project",
@@ -37,19 +37,19 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋2",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "9746b2b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/9746b2bac893c1d6d2b0711a109026e7a4eed1b6"
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋1",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "3ba83bb",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/3ba83bb4430f8734f5a80ef68d9588283a3b5646"
         },
         {
           "message": "[Pro Feat] 기말 발표용 맵 데이터 생성 및 적용",
-          "time": "83일 전",
+          "time": "84일 전",
           "sha": "0b9dead",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/0b9dead1f48900dfe4ea90d63475ea8f39acbfa0"
         }
@@ -67,11 +67,11 @@
       "status": "active",
       "weekly": [
         0,
-        0,
-        4,
+        2,
+        2,
         8,
-        6,
-        8,
+        7,
+        7,
         9
       ],
       "recent": [
