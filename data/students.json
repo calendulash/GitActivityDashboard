@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 14. 23:50",
+  "updatedAt": "2026. 09. 15. 04:41",
   "students": [
     {
       "name": "Graduation-project",
@@ -11,7 +11,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 2,
       "activeDays": 1,
-      "lastCommit": "4일 전",
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -25,7 +25,7 @@
       "recent": [
         {
           "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "ca336c3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca336c3d67d877f64912f399b3c13b14228f71e1"
         },
@@ -61,9 +61,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 9,
-      "activeDays": 5,
-      "lastCommit": "오늘",
+      "commits": 8,
+      "activeDays": 4,
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -71,37 +71,37 @@
         2,
         8,
         7,
-        7,
-        9
+        8,
+        8
       ],
       "recent": [
         {
           "message": "[Feat] SkyDom 색 변하게끔 변경",
-          "time": "오늘",
+          "time": "어제",
           "sha": "edcd5ef",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/edcd5ef12e67a37d5f73764711ff0198134bbf8f"
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "오늘",
+          "time": "어제",
           "sha": "6e68eae",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6e68eae73ac1c614ecad5823c70e7f456fb67ed5"
         },
         {
           "message": "[Feat] 발표용 UI 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "8ed51e8",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/8ed51e8f6ede64a449d1774b224ac6d5624cd2cb"
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "8e2fa80",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/8e2fa801a02811333bbb59938224bdb4b5addba3"
         },
         {
           "message": "[Fix] 오토바이 떨림방지 완료",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "5c2d711",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5c2d711f3d7787b50bdd13dac4b5e388b45bd5ab"
         }
