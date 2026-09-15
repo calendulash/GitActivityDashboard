@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 16. 00:57",
+  "updatedAt": "2026. 09. 16. 04:26",
   "students": [
     {
       "name": "Graduation-project",
@@ -63,7 +63,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 7,
       "activeDays": 3,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -77,31 +77,31 @@
       "recent": [
         {
           "message": "[Feat] SkyDom 색 변하게끔 변경",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "edcd5ef",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/edcd5ef12e67a37d5f73764711ff0198134bbf8f"
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "6e68eae",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6e68eae73ac1c614ecad5823c70e7f456fb67ed5"
         },
         {
           "message": "[Feat] 발표용 UI 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "8ed51e8",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/8ed51e8f6ede64a449d1774b224ac6d5624cd2cb"
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "8e2fa80",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/8e2fa801a02811333bbb59938224bdb4b5addba3"
         },
         {
           "message": "[Fix] 오토바이 떨림방지 완료",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "5c2d711",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5c2d711f3d7787b50bdd13dac4b5e388b45bd5ab"
         }
