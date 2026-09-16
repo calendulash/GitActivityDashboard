@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 17. 03:58",
+  "updatedAt": "2026. 09. 17. 06:53",
   "students": [
     {
       "name": "Graduation-project",
@@ -67,10 +67,10 @@
       "status": "active",
       "weekly": [
         0,
-        2,
-        8,
-        5,
-        8,
+        3,
+        7,
+        6,
+        7,
         6,
         6
       ],
