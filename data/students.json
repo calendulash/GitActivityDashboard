@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 18. 02:53",
+  "updatedAt": "2026. 09. 18. 05:45",
   "students": [
     {
       "name": "Graduation-project",
@@ -70,8 +70,8 @@
         3,
         8,
         5,
-        7,
-        9,
+        8,
+        8,
         4
       ],
       "recent": [
@@ -83,7 +83,7 @@
         },
         {
           "message": "[Feat] SkyDom 색 변하게끔 변경",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "edcd5ef",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/edcd5ef12e67a37d5f73764711ff0198134bbf8f"
         },
