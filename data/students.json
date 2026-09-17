@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 17. 12:24",
+  "updatedAt": "2026. 09. 17. 17:48",
   "students": [
     {
       "name": "Graduation-project",
@@ -31,7 +31,7 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋3",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "6660be7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6660be7d7da2f62571fdb7a0579fbbbbe9dab843"
         },
@@ -68,8 +68,8 @@
       "weekly": [
         0,
         3,
-        7,
-        6,
+        8,
+        5,
         7,
         6,
         6
