@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 19. 23:34",
+  "updatedAt": "2026. 09. 20. 02:36",
   "students": [
     {
       "name": "Graduation-project",
@@ -11,7 +11,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "9일 전",
+      "lastCommit": "10일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -25,7 +25,7 @@
       "recent": [
         {
           "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "ca336c3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca336c3d67d877f64912f399b3c13b14228f71e1"
         },
@@ -37,13 +37,13 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋2",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "9746b2b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/9746b2bac893c1d6d2b0711a109026e7a4eed1b6"
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋1",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "3ba83bb",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/3ba83bb4430f8734f5a80ef68d9588283a3b5646"
         },
@@ -101,7 +101,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "6e68eae",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6e68eae73ac1c614ecad5823c70e7f456fb67ed5"
         }
