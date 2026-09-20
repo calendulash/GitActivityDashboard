@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 20. 11:21",
+  "updatedAt": "2026. 09. 20. 16:51",
   "students": [
     {
       "name": "Graduation-project",
@@ -31,7 +31,7 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋3",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "6660be7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6660be7d7da2f62571fdb7a0579fbbbbe9dab843"
         },
@@ -63,7 +63,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 6,
       "activeDays": 3,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "오늘",
+          "time": "어제",
           "sha": "bf75dba",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         },
         {
           "message": "[Feat] SFX 추가 1차",
-          "time": "오늘",
+          "time": "어제",
           "sha": "d08d400",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d08d400c88e4333f598c38466e6834201f81f693"
         },
