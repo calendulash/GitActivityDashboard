@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 21. 11:20",
+  "updatedAt": "2026. 09. 21. 17:05",
   "students": [
     {
       "name": "Graduation-project",
@@ -31,7 +31,7 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋3",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "6660be7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6660be7d7da2f62571fdb7a0579fbbbbe9dab843"
         },
@@ -61,20 +61,26 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 5,
-      "activeDays": 3,
+      "commits": 6,
+      "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         4,
-        7,
-        7,
+        8,
+        6,
         8,
         9,
-        5
+        6
       ],
       "recent": [
+        {
+          "message": "[Feat] 피자 적재 완료 (흔들림 게이지 및 충돌 레그돌 수정 필요)",
+          "time": "오늘",
+          "sha": "2e819dd",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/2e819dd8103cadeeb4a883c31bb7b6c3b514b898"
+        },
         {
           "message": "[Feat] 마감 후 지출내역 확인 가능",
           "time": "오늘",
@@ -89,21 +95,15 @@
         },
         {
           "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "bf75dba",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         },
         {
           "message": "[Feat] SFX 추가 1차",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d08d400",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d08d400c88e4333f598c38466e6834201f81f693"
-        },
-        {
-          "message": "[Feat] 재료 잠금 & 강도 시스템 구현",
-          "time": "3일 전",
-          "sha": "08e1493",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/08e14935b98322e38431b84de81e13fb59b2b641"
         }
       ]
     }
