@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 23. 02:26",
+  "updatedAt": "2026. 09. 23. 05:19",
   "students": [
     {
       "name": "Graduation-project",
@@ -89,7 +89,7 @@
         },
         {
           "message": "[Feat] 마감 후 지출내역 확인 가능",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "c5686f4",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/c5686f481eca5d07948e6700dd799d2357586c43"
         },
