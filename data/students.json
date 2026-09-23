@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 23. 10:35",
+  "updatedAt": "2026. 09. 23. 15:58",
   "students": [
     {
       "name": "Graduation-project",
@@ -18,8 +18,8 @@
         0,
         0,
         0,
-        2,
-        2,
+        3,
+        1,
         0
       ],
       "recent": [
@@ -31,7 +31,7 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋3",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "6660be7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6660be7d7da2f62571fdb7a0579fbbbbe9dab843"
         },
@@ -83,7 +83,7 @@
         },
         {
           "message": "[Feat] 피자 적재 완료 (흔들림 게이지 및 충돌 레그돌 수정 필요)",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "2e819dd",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/2e819dd8103cadeeb4a883c31bb7b6c3b514b898"
         },
@@ -101,7 +101,7 @@
         },
         {
           "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "bf75dba",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         }
