@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 24. 02:35",
+  "updatedAt": "2026. 09. 24. 05:51",
   "students": [
     {
       "name": "Graduation-project",
@@ -61,20 +61,32 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 7,
-      "activeDays": 4,
-      "lastCommit": "2일 전",
+      "commits": 9,
+      "activeDays": 5,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        2,
+        3,
+        7,
         6,
         7,
-        8,
         6,
         6,
-        7
+        9
       ],
       "recent": [
+        {
+          "message": "[Feat] 상호작용 가능한 오브젝트 아웃라인",
+          "time": "오늘",
+          "sha": "6dec65c",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/6dec65c2371c1d60c6394f8ffff4083cbb3daf45"
+        },
+        {
+          "message": "[Fix] 오토바이 게이지 및 PC UI Open 방식 수정",
+          "time": "오늘",
+          "sha": "4a4d92e",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/4a4d92e1285fb5b670c0cc92883bc047c56a8801"
+        },
         {
           "message": "[Feat] 장애물 충돌시 플레이어 레그돌 상태",
           "time": "2일 전",
@@ -92,18 +104,6 @@
           "time": "3일 전",
           "sha": "c5686f4",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/c5686f481eca5d07948e6700dd799d2357586c43"
-        },
-        {
-          "message": "[Feat] 정산 마감 기능추가",
-          "time": "3일 전",
-          "sha": "5ffbbcc",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/5ffbbccffc06125722b0d53f0141f22cb4361a34"
-        },
-        {
-          "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "4일 전",
-          "sha": "bf75dba",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         }
       ]
     }
