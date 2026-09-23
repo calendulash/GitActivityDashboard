@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 23. 21:33",
+  "updatedAt": "2026. 09. 24. 02:35",
   "students": [
     {
       "name": "Graduation-project",
@@ -11,21 +11,21 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "13일 전",
+      "lastCommit": "14일 전",
       "status": "inactive",
       "weekly": [
         0,
         0,
         0,
+        2,
+        2,
         0,
-        3,
-        1,
         0
       ],
       "recent": [
         {
           "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "ca336c3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca336c3d67d877f64912f399b3c13b14228f71e1"
         },
@@ -37,13 +37,13 @@
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋2",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "9746b2b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/9746b2bac893c1d6d2b0711a109026e7a4eed1b6"
         },
         {
           "message": "[Pro Feat] 신 프로토타입 개발 중간 커밋1",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "3ba83bb",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/3ba83bb4430f8734f5a80ef68d9588283a3b5646"
         },
@@ -63,21 +63,21 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 7,
       "activeDays": 4,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         2,
-        5,
+        6,
         7,
         8,
         6,
-        7,
+        6,
         7
       ],
       "recent": [
         {
           "message": "[Feat] 장애물 충돌시 플레이어 레그돌 상태",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "7ce44ee",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7ce44ee284f13e97e04393a3811a2092acbbd9bf"
         },
@@ -89,13 +89,13 @@
         },
         {
           "message": "[Feat] 마감 후 지출내역 확인 가능",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "c5686f4",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/c5686f481eca5d07948e6700dd799d2357586c43"
         },
         {
           "message": "[Feat] 정산 마감 기능추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "5ffbbcc",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5ffbbccffc06125722b0d53f0141f22cb4361a34"
         },
