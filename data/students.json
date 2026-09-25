@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 26. 03:15",
+  "updatedAt": "2026. 09. 26. 06:43",
   "students": [
     {
       "name": "Graduation-project",
@@ -63,13 +63,13 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 8,
       "activeDays": 4,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         3,
         8,
-        5,
-        8,
+        6,
+        7,
         8,
         4,
         8
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[Feat] 상호작용 가능한 오브젝트 아웃라인",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "6dec65c",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6dec65c2371c1d60c6394f8ffff4083cbb3daf45"
         },
         {
           "message": "[Fix] 오토바이 게이지 및 PC UI Open 방식 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "4a4d92e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/4a4d92e1285fb5b670c0cc92883bc047c56a8801"
         },
