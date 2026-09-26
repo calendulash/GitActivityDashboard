@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 27. 05:22",
+  "updatedAt": "2026. 09. 27. 08:02",
   "students": [
     {
       "name": "Graduation-project",
@@ -61,7 +61,7 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 7,
+      "commits": 8,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -72,9 +72,15 @@
         7,
         8,
         6,
-        7
+        8
       ],
       "recent": [
+        {
+          "message": "[Feat] 상호작용 가능한 옵젝 설명 텍스트 UI",
+          "time": "오늘",
+          "sha": "4014939",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/40149393d6a2c07fb3114583bcc3af09918d3a45"
+        },
         {
           "message": "[Feat] 강도 강탈",
           "time": "오늘",
@@ -98,12 +104,6 @@
           "time": "5일 전",
           "sha": "7ce44ee",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7ce44ee284f13e97e04393a3811a2092acbbd9bf"
-        },
-        {
-          "message": "[Feat] 피자 적재 완료 (흔들림 게이지 및 충돌 레그돌 수정 필요)",
-          "time": "5일 전",
-          "sha": "2e819dd",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/2e819dd8103cadeeb4a883c31bb7b6c3b514b898"
         }
       ]
     }
