@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 26. 09:16",
+  "updatedAt": "2026. 09. 26. 14:13",
   "students": [
     {
       "name": "Graduation-project",
@@ -9,10 +9,10 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "16일 전",
-      "status": "inactive",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -20,9 +20,15 @@
         2,
         2,
         0,
-        0
+        1
       ],
       "recent": [
+        {
+          "message": "[Pro Feat] 간단 테스트용 시스템들 변경 및 구현",
+          "time": "오늘",
+          "sha": "ae04cf8",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/ae04cf8176800fa753b8296d863a839a6ed380ee"
+        },
         {
           "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
           "time": "16일 전",
@@ -46,12 +52,6 @@
           "time": "23일 전",
           "sha": "3ba83bb",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/3ba83bb4430f8734f5a80ef68d9588283a3b5646"
-        },
-        {
-          "message": "[Pro Feat] 기말 발표용 맵 데이터 생성 및 적용",
-          "time": "95일 전",
-          "sha": "0b9dead",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/0b9dead1f48900dfe4ea90d63475ea8f39acbfa0"
         }
       ]
     },
@@ -61,8 +61,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 8,
-      "activeDays": 4,
+      "commits": 6,
+      "activeDays": 3,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
@@ -71,8 +71,8 @@
         6,
         7,
         8,
-        4,
-        8
+        6,
+        6
       ],
       "recent": [
         {
@@ -95,7 +95,7 @@
         },
         {
           "message": "[Feat] 피자 적재 완료 (흔들림 게이지 및 충돌 레그돌 수정 필요)",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "2e819dd",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/2e819dd8103cadeeb4a883c31bb7b6c3b514b898"
         },
