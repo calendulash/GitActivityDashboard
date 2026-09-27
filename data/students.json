@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 27. 16:21",
+  "updatedAt": "2026. 09. 27. 22:11",
   "students": [
     {
       "name": "2학년 6팀",
@@ -31,25 +31,25 @@
         },
         {
           "message": "[Fix] BattleSceneUI 스크립트 인코딩 깨짐 문제 해결",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "f2755bf",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/f2755bf7ed0fb2eccb0f17a6a1a12f168e5fe691"
         },
         {
           "message": "[Feat] Battle Scene 기초 제작 완료",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "347b5fd",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/347b5fda9374ab20ac6f7e2f1966702e1c379b8f"
         },
         {
           "message": "[Feat] 3차 배틀 검증",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "75a9424",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/75a94241860c850a1a3fa3657da28d0f7142a3aa"
         },
         {
           "message": "[Fix] UTF-8-bom 변환 안된 스크립트들 주석 깨짐 해결",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "ae094fb",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ae094fb0981e91e88702017750883aa66118fc7c"
         }
@@ -61,8 +61,8 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 5,
-      "activeDays": 2,
+      "commits": 4,
+      "activeDays": 1,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -71,8 +71,8 @@
         0,
         0,
         3,
-        1,
-        5
+        2,
+        4
       ],
       "recent": [
         {
@@ -89,19 +89,19 @@
         },
         {
           "message": "[Feat] 설정창 cs만 작성",
-          "time": "오늘",
+          "time": "어제",
           "sha": "c97db61",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c97db61673cbf2c1f77a659758e50e65fed4c762"
         },
         {
           "message": "[Chore] DOTween 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "5cea897",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/5cea89754bdbf749281caeb446dc08bb04ad4209"
         },
         {
           "message": "[Chore] 2D PackgeManager 추가",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "ca729a0",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/ca729a0b9ab8ac2ad981dbb06176e7b6afa2392c"
         }
@@ -165,9 +165,9 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 16,
-      "activeDays": 6,
-      "lastCommit": "어제",
+      "commits": 19,
+      "activeDays": 7,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -176,9 +176,27 @@
         8,
         4,
         31,
-        16
+        19
       ],
       "recent": [
+        {
+          "message": "[Build] 웹 빌드 0.1.0",
+          "time": "오늘",
+          "sha": "ec24cce",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/ec24ccea431a0b6658b046a190ca8fc22221e398"
+        },
+        {
+          "message": "[Fix] 패널 On일 때 카드 조작 방지, Destory > 풀링 방식 변경",
+          "time": "오늘",
+          "sha": "15bfa30",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/15bfa3046e3af04503445b84be9fcb2cf9b5ebd2"
+        },
+        {
+          "message": "[Feat] 드로우/버린 더미 카드 목록 확인 기능",
+          "time": "오늘",
+          "sha": "8ebd9aa",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/8ebd9aaec78786c728e5f5a36af2ba179e1a0ca0"
+        },
         {
           "message": "[Fix] 순서 보장을 위해 초기화 로직 BattleManager에서 모아서 호출",
           "time": "어제",
@@ -190,24 +208,6 @@
           "time": "어제",
           "sha": "dcae729",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/dcae7299912175199b3a33d65da2ded7c36c3b0b"
-        },
-        {
-          "message": "[Fix] 돌아가는 중 Hover 방지 등 Hover 예외처리 추가",
-          "time": "어제",
-          "sha": "458edd6",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/458edd661de6e5202f747fc46e8d597e781f67ee"
-        },
-        {
-          "message": "[Feat] 핸드 덱 카드 순서 변경 기능",
-          "time": "어제",
-          "sha": "d5c7c73",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/d5c7c735bcdb87edbe9cc1de9364cf7cd88122fc"
-        },
-        {
-          "message": "[Fix] 사용된 카드 Discard 될때 핸드덱 정렬 흔들림 수정",
-          "time": "어제",
-          "sha": "5c17e27",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/5c17e275fdc80c496bbc2793f0115298e53579f7"
         }
       ]
     },
@@ -217,7 +217,7 @@
       "team": "tjd6356-afk",
       "github": "choyeonjung134",
       "repo": "tjd6356-afk/2-_-",
-      "commits": 6,
+      "commits": 11,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -228,38 +228,38 @@
         3,
         13,
         12,
-        6
+        11
       ],
       "recent": [
         {
-          "message": "UI 이미지 삽입",
+          "message": "버그 방지 커밋",
           "time": "오늘",
-          "sha": "9c3bb44",
-          "url": "https://github.com/tjd6356-afk/2-_-/commit/9c3bb44d77214474f9e839b15ae4c3565712cc54"
+          "sha": "8de6377",
+          "url": "https://github.com/tjd6356-afk/2-_-/commit/8de63773d0266512c7949ac725b5cd598ba75682"
         },
         {
-          "message": "로비에서 게임 씬으로 전환시 로비에서 선택한 무기가 저장 되지 않고 초기화 된 시스템 수정",
+          "message": "와이어 일부 개선",
           "time": "오늘",
-          "sha": "cdb7c71",
-          "url": "https://github.com/tjd6356-afk/2-_-/commit/cdb7c71335fd921daddb51e1a4e69d007f30b849"
+          "sha": "349e4f9",
+          "url": "https://github.com/tjd6356-afk/2-_-/commit/349e4f9d1ba7c528de099e6807c8e9ffd29c3107"
         },
         {
-          "message": "UI가 특정 무기에 고정 되어 나타나는 현상 해결 및 원거리 무기 시스템 버그 수정",
+          "message": "와이어 건 방식 개편",
           "time": "오늘",
-          "sha": "f94c589",
-          "url": "https://github.com/tjd6356-afk/2-_-/commit/f94c589ad3ca2acd182bedaf7f5f1368bebee105"
+          "sha": "98b7a88",
+          "url": "https://github.com/tjd6356-afk/2-_-/commit/98b7a880011c224308bb0d4257d0cc3f20913646"
         },
         {
-          "message": "무기 교체 시스템 베치 완료",
-          "time": "어제",
-          "sha": "f141b0b",
-          "url": "https://github.com/tjd6356-afk/2-_-/commit/f141b0b541857822b206af72ee5673f930d2ecfa"
+          "message": "테스트를 위한 씬 생성",
+          "time": "오늘",
+          "sha": "d05df74",
+          "url": "https://github.com/tjd6356-afk/2-_-/commit/d05df74a373985be101b961ae1f43e4d0e2390e6"
         },
         {
-          "message": "스크립트 베치",
-          "time": "3일 전",
-          "sha": "48051a9",
-          "url": "https://github.com/tjd6356-afk/2-_-/commit/48051a9a37a93d4ce7d28a8d5147710af08999c3"
+          "message": "[FIX] 카메라 시점 한계치 수정",
+          "time": "오늘",
+          "sha": "55d6aa7",
+          "url": "https://github.com/tjd6356-afk/2-_-/commit/55d6aa780811b7e6c67d9fe938e25d7939231e70"
         }
       ]
     },
@@ -278,8 +278,8 @@
         0,
         0,
         0,
-        0,
         2,
+        0,
         1
       ],
       "recent": [
@@ -291,13 +291,13 @@
         },
         {
           "message": "[feat]: 초기 프로젝트 생성",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "2c3fc54",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/2c3fc543ec68897da00aba118211fb5b2bdf49dd"
         },
         {
           "message": "Initial commit",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "8b60636",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/8b6063612ed60b6c9409de59bfb030894f0cbbf1"
         }
@@ -311,8 +311,8 @@
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
         0,
@@ -325,7 +325,7 @@
       "recent": [
         {
           "message": "[Feat] 기초 유니티 세팅",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "2837208",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd"
         },
@@ -343,7 +343,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "343a6a3",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/343a6a31cb72fadfa41e3625d8988d3fcc159b23"
         }
@@ -355,7 +355,7 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 13,
+      "commits": 17,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -366,38 +366,38 @@
         0,
         0,
         0,
-        13
+        17
       ],
       "recent": [
+        {
+          "message": "[Fix] 프레임워크 잔재 제거, 카메라 동적 찾기",
+          "time": "오늘",
+          "sha": "6b3df33",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6b3df33d998e1d263124dfb863564dfc19080dc6"
+        },
+        {
+          "message": "[Refactor] GameStateManager 경로 정리 (Manager/) 및 씬 갱신",
+          "time": "오늘",
+          "sha": "ab65c27",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/ab65c27ae194cc7b6258717c257551522bbb9074"
+        },
+        {
+          "message": "[Refactor] 프레임워크 제거, 플레이어 조작/카메라 구조 분리 및 씬 동기화",
+          "time": "오늘",
+          "sha": "3377398",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/3377398dc3e5b84a56057f94375b9171c28f79a2"
+        },
+        {
+          "message": "[Feat] 돌 프롭 추가",
+          "time": "오늘",
+          "sha": "23d9568",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/23d95687f619050ffbb941310ac65d10c4d488c4"
+        },
         {
           "message": "[Fix] Grass_test 씬에 플레이어 추가, 기본 빌드 설정",
           "time": "오늘",
           "sha": "1cf30a5",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1cf30a52cf3765fdfb15406c6cb3fb442f6242ca"
-        },
-        {
-          "message": "[Update] 들판 쉐이딩 물결효과 추가",
-          "time": "오늘",
-          "sha": "388088d",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/388088d1b0ea4b30db8b2cc9640a376c8f2b7b68"
-        },
-        {
-          "message": "[Feat] 카메라 줌 인 아웃, 카메라 충돌",
-          "time": "오늘",
-          "sha": "90a9e4f",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/90a9e4f970ecfd993c1ff5920535b41639642600"
-        },
-        {
-          "message": "[Feat] 플레이어 조작 개편, 카메라 마이그레이션",
-          "time": "어제",
-          "sha": "29a0647",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/29a0647bfec744bb6bd12e4fbf77cdc7284f7b7d"
-        },
-        {
-          "message": "[Fix] 프레임워크 경고, 코드 경고, 인코딩 오류",
-          "time": "어제",
-          "sha": "d276387",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/d276387b9cfa8d2d615d85c360a60656dc7de4a2"
         }
       ]
     },
@@ -407,7 +407,7 @@
       "team": "hoshinouhee123",
       "github": "hoshinouhee123",
       "repo": "hoshinouhee123/gacha-game-teamplay",
-      "commits": 2,
+      "commits": 3,
       "activeDays": 1,
       "lastCommit": "오늘",
       "status": "active",
@@ -418,9 +418,15 @@
         0,
         2,
         5,
-        2
+        3
       ],
       "recent": [
+        {
+          "message": "버그난 자료 제거,가챠 시스템 1차 완료",
+          "time": "오늘",
+          "sha": "264ed67",
+          "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/264ed6741c251db092b5d83e0b571f4e04171ec6"
+        },
         {
           "message": "플러그인 완전 제거",
           "time": "오늘",
@@ -444,12 +450,6 @@
           "time": "10일 전",
           "sha": "e64d552",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/e64d552611225be2c94197067f915e16a3922a2b"
-        },
-        {
-          "message": "[Fix] 다른 버튼을 눌러도 설정 패널이 뜨는 오류 수정",
-          "time": "10일 전",
-          "sha": "3ba405b",
-          "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/3ba405bbfe231ca3a3b521306633f98b10545d97"
         }
       ]
     },
@@ -459,8 +459,8 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 2,
-      "activeDays": 2,
+      "commits": 1,
+      "activeDays": 1,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -469,39 +469,21 @@
         1,
         0,
         0,
-        4,
-        2
+        0,
+        1
       ],
       "recent": [
         {
-          "message": "[Feat] NPC 상호작용 및 월드 스페이스 말풍선 대화 기능 추가 예시",
+          "message": "이동 물건 상호작용",
           "time": "오늘",
-          "sha": "9573bb0",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9573bb0c21a977d147e3a6d5d5c5a94e41c28239"
+          "sha": "95fda05",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/95fda0521a6bf7306ea89121f2198425b65898b1"
         },
         {
-          "message": "일단 아트 올려두기",
-          "time": "어제",
-          "sha": "fb3981a",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/fb3981ab4e14aab6922bb2777e034b5aef54390a"
-        },
-        {
-          "message": "검격 및 몹/보스 사운드 일부 추가",
-          "time": "10일 전",
-          "sha": "0f423ab",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0f423ab4f8593da781153770db677b3185c1ead1"
-        },
-        {
-          "message": "Revert \"적 오브젝트 생성 및 기초 세팅\"",
-          "time": "10일 전",
-          "sha": "16d9ff8",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/16d9ff83752d453119b41220b1a07b6348d98b2b"
-        },
-        {
-          "message": "적 오브젝트 생성 및 기초 세팅",
-          "time": "10일 전",
-          "sha": "db55786",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/db55786406a2422e26e55e6983bec5670f811a77"
+          "message": "Initial commit",
+          "time": "30일 전",
+          "sha": "5f9449b",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/5f9449b62b7d696b51f1043ebca65882a4a23f95"
         }
       ]
     },
