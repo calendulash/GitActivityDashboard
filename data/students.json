@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 28. 05:36",
+  "updatedAt": "2026. 09. 28. 08:30",
   "students": [
     {
       "name": "2학년 6팀",
@@ -61,9 +61,9 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 4,
-      "activeDays": 1,
-      "lastCommit": "어제",
+      "commits": 7,
+      "activeDays": 2,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -72,9 +72,27 @@
         0,
         3,
         2,
-        4
+        7
       ],
       "recent": [
+        {
+          "message": "[Build] 26.09.28 Build",
+          "time": "오늘",
+          "sha": "d4529e0",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/d4529e0441b2bb7ad3ec9a341aebc20ac62a8b60"
+        },
+        {
+          "message": "[chore] 누락 추가",
+          "time": "오늘",
+          "sha": "46c82f2",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/46c82f2a4db97c3a2b4762d6b46fc3b032de9057"
+        },
+        {
+          "message": "[Feat] Player & Enemy 속성 적용",
+          "time": "오늘",
+          "sha": "1d735a5",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1d735a51612bdb1fd4e0efd30bfc05ba3fac616a"
+        },
         {
           "message": "[chore] 플레이어 이동",
           "time": "어제",
@@ -86,24 +104,6 @@
           "time": "어제",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
-        },
-        {
-          "message": "[Feat] 설정창 cs만 작성",
-          "time": "어제",
-          "sha": "c97db61",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c97db61673cbf2c1f77a659758e50e65fed4c762"
-        },
-        {
-          "message": "[Chore] DOTween 추가",
-          "time": "어제",
-          "sha": "5cea897",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/5cea89754bdbf749281caeb446dc08bb04ad4209"
-        },
-        {
-          "message": "[Chore] 2D PackgeManager 추가",
-          "time": "7일 전",
-          "sha": "ca729a0",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/ca729a0b9ab8ac2ad981dbb06176e7b6afa2392c"
         }
       ]
     },
@@ -225,8 +225,8 @@
         0,
         0,
         0,
-        3,
-        13,
+        4,
+        12,
         12,
         11
       ],
@@ -553,7 +553,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 6,
       "activeDays": 3,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         4,
@@ -567,7 +567,7 @@
       "recent": [
         {
           "message": "[Feat] 상호작용 가능한 옵젝 설명 텍스트 UI",
-          "time": "오늘",
+          "time": "어제",
           "sha": "4014939",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/40149393d6a2c07fb3114583bcc3af09918d3a45"
         },
