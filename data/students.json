@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 27. 08:02",
+  "updatedAt": "2026. 09. 27. 10:37",
   "students": [
     {
       "name": "Graduation-project",
@@ -37,7 +37,7 @@
         },
         {
           "message": "[Pro Feat] 간단 테스트용 시스템들 변경 및 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "ae04cf8",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ae04cf8176800fa753b8296d863a839a6ed380ee"
         },
