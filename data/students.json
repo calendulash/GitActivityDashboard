@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 28. 02:52",
+  "updatedAt": "2026. 09. 28. 05:36",
   "students": [
     {
       "name": "2학년 6팀",
@@ -9,7 +9,7 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 16,
+      "commits": 17,
       "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
@@ -20,9 +20,15 @@
         0,
         9,
         14,
-        16
+        17
       ],
       "recent": [
+        {
+          "message": "[Fix] 플레이어 콜라이더, 씬 이동 방식 수정",
+          "time": "오늘",
+          "sha": "2b668a4",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/2b668a437cf5d1c0fb17902d53eedac173b0183c"
+        },
         {
           "message": "[Feat] NPC 대화 후 Battle Scene으로 연결",
           "time": "오늘",
@@ -46,12 +52,6 @@
           "time": "3일 전",
           "sha": "f2755bf",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/f2755bf7ed0fb2eccb0f17a6a1a12f168e5fe691"
-        },
-        {
-          "message": "[Feat] Battle Scene 기초 제작 완료",
-          "time": "4일 전",
-          "sha": "347b5fd",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/347b5fda9374ab20ac6f7e2f1966702e1c379b8f"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 4,
       "activeDays": 1,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[chore] 플레이어 이동",
-          "time": "오늘",
+          "time": "어제",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         },
@@ -560,8 +560,8 @@
         7,
         7,
         8,
-        8,
-        6,
+        9,
+        5,
         6
       ],
       "recent": [
@@ -573,19 +573,19 @@
         },
         {
           "message": "[Feat] 강도 강탈",
-          "time": "오늘",
+          "time": "어제",
           "sha": "1f3574a",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/1f3574a305c429216b4e0bce4fb7853f88861308"
         },
         {
           "message": "[Feat] 상호작용 가능한 오브젝트 아웃라인",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "6dec65c",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6dec65c2371c1d60c6394f8ffff4083cbb3daf45"
         },
         {
           "message": "[Fix] 오토바이 게이지 및 PC UI Open 방식 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "4a4d92e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/4a4d92e1285fb5b670c0cc92883bc047c56a8801"
         },
