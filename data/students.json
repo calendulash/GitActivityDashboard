@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 28. 08:30",
+  "updatedAt": "2026. 09. 28. 10:56",
   "students": [
     {
       "name": "2학년 6팀",
@@ -165,8 +165,8 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 19,
-      "activeDays": 7,
+      "commits": 20,
+      "activeDays": 8,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -176,9 +176,15 @@
         8,
         4,
         31,
-        19
+        20
       ],
       "recent": [
+        {
+          "message": "[Chore] 폰트 다이나믹 > 스태틱 변경",
+          "time": "오늘",
+          "sha": "2071796",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/207179642be6e58c116f91036b1d93ca49554d9a"
+        },
         {
           "message": "[Build] 웹 빌드 0.1.0",
           "time": "오늘",
@@ -202,12 +208,6 @@
           "time": "어제",
           "sha": "53b5a8a",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/53b5a8a5d6700313b6b1e807f7028779539ee1d2"
-        },
-        {
-          "message": "[Refactor] CardSO 직접 참조를 런타임 CardInstance 구조로 전환",
-          "time": "어제",
-          "sha": "dcae729",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/dcae7299912175199b3a33d65da2ded7c36c3b0b"
         }
       ]
     },
@@ -225,9 +225,9 @@
         0,
         0,
         0,
-        4,
-        12,
-        12,
+        6,
+        11,
+        11,
         11
       ],
       "recent": [
@@ -533,7 +533,7 @@
         },
         {
           "message": "[Pro Feat] 간단 테스트용 시스템들 변경 및 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "ae04cf8",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ae04cf8176800fa753b8296d863a839a6ed380ee"
         },
@@ -551,9 +551,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 7,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         4,
@@ -562,9 +562,15 @@
         8,
         9,
         5,
-        6
+        7
       ],
       "recent": [
+        {
+          "message": "[Feat] 날씨 시스템 우천 완성",
+          "time": "오늘",
+          "sha": "bfcdf0f",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/bfcdf0fa35fce02ade9e32b6492c4c8cb00a2bc0"
+        },
         {
           "message": "[Feat] 상호작용 가능한 옵젝 설명 텍스트 UI",
           "time": "어제",
@@ -588,12 +594,6 @@
           "time": "4일 전",
           "sha": "4a4d92e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/4a4d92e1285fb5b670c0cc92883bc047c56a8801"
-        },
-        {
-          "message": "[Feat] 장애물 충돌시 플레이어 레그돌 상태",
-          "time": "6일 전",
-          "sha": "7ce44ee",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/7ce44ee284f13e97e04393a3811a2092acbbd9bf"
         }
       ]
     }
