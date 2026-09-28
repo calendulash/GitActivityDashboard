@@ -1,0 +1,9 @@
+{
+  "updatedAt": null,
+  "verificationLabels": {
+    "verified": "등록된 GitHub ID와 일치",
+    "mismatch": "다른 GitHub 계정의 커밋",
+    "unlinked": "GitHub 계정 연결을 확인할 수 없음"
+  },
+  "commits": []
+}

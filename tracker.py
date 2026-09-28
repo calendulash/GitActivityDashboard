@@ -431,45 +431,63 @@ def process_repository(project):
 
     commits = get_commits(repo_path, branch)
 
-    for item in reversed(commits):
+    audit_entries = []
+    expected_github = project["github_id"].casefold()
+
+    for item in commits:
         sha = item.get("sha", "")
 
         commit = item.get("commit", {})
         message = commit.get("message", "").splitlines()[0]
 
         author = commit.get("author") or {}
-        commit_date = author.get("date", "")
-
+        github_author = item.get("author") or {}
+        github_author_login = github_author.get("login", "")
         commit_url = item.get("html_url", "")
-
-        if notion_has_sha(sha):
-            print("SKIP:", sha[:7], message)
-            continue
 
         detail = get_commit_detail(repo_path, sha)
         analysis = analyze_commit(detail, message)
 
-        add_commit_to_notion(
-            project_name=project["project_name"],
-            github_id=project["github_id"],
-            repo_path=repo_path,
-            branch=branch,
-            sha=sha,
-            message=message,
-            commit_url=commit_url,
-            commit_date=commit_date,
-            analysis=analysis,
-        )
+        if github_author_login:
+            verification = "verified" if github_author_login.casefold() == expected_github else "mismatch"
+        else:
+            # The commit email is not linked to a visible GitHub account.
+            verification = "unlinked"
 
-        print(
-            "ADD:",
-            sha[:7],
-            message,
-            "/",
-            analysis["judgment"],
-            "/ 점수:",
-            analysis["suspicious_score"]
-        )
+        audit_entries.append({
+            "projectName": project["project_name"] or project["github_id"],
+            "repo": repo_path,
+            "branch": branch,
+            "sha": sha,
+            "message": message,
+            "url": commit_url,
+            "date": author.get("date", ""),
+            "expectedGithub": project["github_id"],
+            "actualGithub": github_author_login or None,
+            "gitAuthorName": author.get("name", ""),
+            "gitAuthorEmail": author.get("email", ""),
+            "verification": verification,
+            "analysis": analysis,
+        })
+
+        print("AUDIT:", sha[:7], verification, github_author_login or "unlinked")
+
+    return audit_entries
+
+
+def write_commit_audit(entries):
+    payload = {
+        "updatedAt": datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=9))).strftime("%Y. %m. %d. %H:%M"),
+        "verificationLabels": {
+            "verified": "등록된 GitHub ID와 일치",
+            "mismatch": "다른 GitHub 계정의 커밋",
+            "unlinked": "GitHub 계정 연결을 확인할 수 없음",
+        },
+        "commits": entries,
+    }
+    with open("data/commit-audit.json", "w", encoding="utf-8") as file:
+        json.dump(payload, file, ensure_ascii=False, indent=2)
+        file.write("\n")
 
 
 def parse_github_date(value):
@@ -503,16 +521,23 @@ def build_dashboard_data(projects):
             branch = repo_info.get("default_branch", "main")
             items = get_commits(repo_path, branch)
             commits = []
+            expected_github = project["github_id"].casefold()
             for item in items:
                 commit = item.get("commit", {})
                 author = commit.get("author") or commit.get("committer") or {}
+                github_author = item.get("author") or {}
+                github_author_login = github_author.get("login", "")
                 commits.append({
                     "date": author.get("date", ""),
                     "message": commit.get("message", "").splitlines()[0],
                     "sha": item.get("sha", "")[:7],
                     "url": item.get("html_url", ""),
+                    "actualGithub": github_author_login,
+                    "verified": github_author_login.casefold() == expected_github if github_author_login else False,
                 })
 
+            # Do not attribute collaborators' commits to the registered student.
+            commits = [row for row in commits if row["verified"]]
             week_ago = now - timedelta(days=7)
             recent_week = [row for row in commits if parse_github_date(row["date"]) and parse_github_date(row["date"]) >= week_ago]
             active_days = len({row["date"][:10] for row in recent_week if row["date"]})
@@ -555,12 +580,13 @@ def build_dashboard_data(projects):
 
 def main():
     projects = get_project_repositories()
+    audit_entries = []
 
     print("활성 프로젝트 수:", len(projects))
 
     for project in projects:
         try:
-            process_repository(project)
+            audit_entries.extend(process_repository(project))
 
         except Exception as e:
             print(
@@ -569,6 +595,7 @@ def main():
                 str(e)
             )
 
+    write_commit_audit(audit_entries)
     build_dashboard_data(projects)
 
 
