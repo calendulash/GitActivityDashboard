@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 29. 01:25",
+  "updatedAt": "2026. 09. 29. 07:14",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -9,10 +9,10 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "4일 전",
-      "status": "watch",
+      "commits": 2,
+      "activeDays": 2,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -20,9 +20,15 @@
         0,
         2,
         0,
-        1
+        2
       ],
       "recent": [
+        {
+          "message": "[chore]: 로비 씬, 스크립트 수정 및 게임 씬 수정",
+          "time": "오늘",
+          "sha": "a30e89a",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a30e89aeeedc4b30b6768dc758229b0877f5f9b9"
+        },
         {
           "message": "[feat]: 프로젝트 파일 정리 및 각종 에셋 추가",
           "time": "4일 전",
@@ -125,7 +131,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 5,
       "activeDays": 2,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -139,31 +145,31 @@
       "recent": [
         {
           "message": "[Build] 26.09.28 Build",
-          "time": "오늘",
+          "time": "어제",
           "sha": "d4529e0",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/d4529e0441b2bb7ad3ec9a341aebc20ac62a8b60"
         },
         {
           "message": "[chore] 누락 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "46c82f2",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/46c82f2a4db97c3a2b4762d6b46fc3b032de9057"
         },
         {
           "message": "[Feat] Player & Enemy 속성 적용",
-          "time": "오늘",
+          "time": "어제",
           "sha": "1d735a5",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1d735a51612bdb1fd4e0efd30bfc05ba3fac616a"
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         }
@@ -180,7 +186,7 @@
       "lastCommit": "8일 전",
       "status": "inactive",
       "weekly": [
-        2,
+        0,
         1,
         1,
         0,
@@ -227,8 +233,8 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 21,
-      "activeDays": 8,
+      "commits": 20,
+      "activeDays": 7,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -237,8 +243,8 @@
         0,
         8,
         6,
-        30,
-        21
+        31,
+        20
       ],
       "recent": [
         {

@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 09. 29. 01:25",
+  "updatedAt": "2026. 09. 29. 07:14",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "a30e89aeeedc4b30b6768dc758229b0877f5f9b9",
+      "message": "[chore]: 로비 씬, 스크립트 수정 및 게임 씬 수정",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a30e89aeeedc4b30b6768dc758229b0877f5f9b9",
+      "date": "2026-09-28T17:22:04Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "simo07d7PG",
+      "gitAuthorName": "simo07d7PG",
+      "gitAuthorEmail": "simo07d7.pg@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 76,
+        "additions": 6672,
+        "deletions": 2592,
+        "meaningful_change": 7265,
+        "meaningful_file_count": 39,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -280,6 +303,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "3a8584a18e2c01b1cb4b958d747953aff84d77aa",
+      "message": "[Feat] 프레임 제한 추가",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/3a8584a18e2c01b1cb4b958d747953aff84d77aa",
+      "date": "2026-09-28T17:07:39Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "NunSaraam",
+      "gitAuthorName": "NunSaraam",
+      "gitAuthorEmail": "yjc22950037@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 1373,
+        "deletions": 101,
+        "meaningful_change": 1474,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "7cd072f474c7a9891cb79683503b2992534f26d4",
+      "message": "[Feat] 설정창 임시 UI 제작",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/7cd072f474c7a9891cb79683503b2992534f26d4",
+      "date": "2026-09-28T16:25:58Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "NunSaraam",
+      "gitAuthorName": "NunSaraam",
+      "gitAuthorEmail": "yjc22950037@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 5684,
+        "deletions": 212,
+        "meaningful_change": 5744,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
