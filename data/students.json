@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 30. 05:08",
+  "updatedAt": "2026. 09. 30. 08:52",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -77,7 +77,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "14일 전",
+          "time": "15일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -131,7 +131,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 5,
       "activeDays": 2,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -145,19 +145,19 @@
       "recent": [
         {
           "message": "[Build] 26.09.28 Build",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d4529e0",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/d4529e0441b2bb7ad3ec9a341aebc20ac62a8b60"
         },
         {
           "message": "[chore] 누락 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "46c82f2",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/46c82f2a4db97c3a2b4762d6b46fc3b032de9057"
         },
         {
           "message": "[Feat] Player & Enemy 속성 적용",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "1d735a5",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1d735a51612bdb1fd4e0efd30bfc05ba3fac616a"
         },
@@ -373,7 +373,7 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 12,
+      "commits": 13,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -384,9 +384,15 @@
         0,
         0,
         0,
-        12
+        13
       ],
       "recent": [
+        {
+          "message": "[Feat] 인벤토리 시스템 베이스",
+          "time": "오늘",
+          "sha": "a5e13f9",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/a5e13f944c2c62e925e29377c2b5f9043d055cb7"
+        },
         {
           "message": "[Feat] ESC,Alt 입력 모드에 따른 HUD, 설정 UI 제어",
           "time": "오늘",
@@ -410,12 +416,6 @@
           "time": "2일 전",
           "sha": "5afeb61",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5afeb618b31587341b7a5a4cf1510bcc02a8e5d9"
-        },
-        {
-          "message": "[Fix] 프레임워크 잔재 제거, 카메라 동적 찾기",
-          "time": "2일 전",
-          "sha": "6b3df33",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6b3df33d998e1d263124dfb863564dfc19080dc6"
         }
       ]
     },

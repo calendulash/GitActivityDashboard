@@ -1,11 +1,57 @@
 {
-  "updatedAt": "2026. 09. 30. 05:08",
+  "updatedAt": "2026. 09. 30. 08:52",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "4f96d73abfbfb817c6a13ada812681f1e6d55625",
+      "message": "[feat]: 도트 글꼴 추가",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/4f96d73abfbfb817c6a13ada812681f1e6d55625",
+      "date": "2026-09-29T21:13:23Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "bposion0918",
+      "gitAuthorName": "bposion0918",
+      "gitAuthorEmail": "b.posion.0918@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 20,
+        "additions": 13501,
+        "deletions": 0,
+        "meaningful_change": 13356,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "ae917ec88a430d1f3ec4b657af243f1b7b8220d3",
+      "message": "[feat]: 오브젝트 모델링 제작",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/ae917ec88a430d1f3ec4b657af243f1b7b8220d3",
+      "date": "2026-09-29T20:59:37Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cho70806-lab",
+      "gitAuthorName": "cho70806",
+      "gitAuthorEmail": "cho70806@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 16,
+        "additions": 4827,
+        "deletions": 0,
+        "meaningful_change": 3939,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -5938,6 +5984,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "a5e13f944c2c62e925e29377c2b5f9043d055cb7",
+      "message": "[Feat] 인벤토리 시스템 베이스",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/a5e13f944c2c62e925e29377c2b5f9043d055cb7",
+      "date": "2026-09-29T20:21:43Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 209,
+        "deletions": 1,
+        "meaningful_change": 178,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
