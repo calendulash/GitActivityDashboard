@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 09. 29. 07:14",
+  "updatedAt": "2026. 09. 29. 11:10",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -4495,6 +4495,75 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "4092c67f6af41ec04efe8b56493e08fa1ec22c3e",
+      "message": "다이얼로그 npc 대화 시작을 클릭 했을 때에도 대화가 시작 하도록 조정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/4092c67f6af41ec04efe8b56493e08fa1ec22c3e",
+      "date": "2026-09-28T23:49:24Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 187,
+        "deletions": 19,
+        "meaningful_change": 206,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "89b02dc464c1039481796b0d93be56981302b8e3",
+      "message": "NPC 트리거 범위 조정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/89b02dc464c1039481796b0d93be56981302b8e3",
+      "date": "2026-09-28T23:41:33Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 9,
+        "deletions": 1,
+        "meaningful_change": 10,
+        "meaningful_file_count": 2,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "9fa46f259a4bbbae78b3c7a3293e378a8e9f2bb1",
+      "message": "다이얼로그 시스템",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/9fa46f259a4bbbae78b3c7a3293e378a8e9f2bb1",
+      "date": "2026-09-28T23:05:38Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 27578,
+        "deletions": 1814,
+        "meaningful_change": 29363,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "ebb679ed7144206deb94f1e3e1b274ab1ef7696f",
       "message": "HP 시스템",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/ebb679ed7144206deb94f1e3e1b274ab1ef7696f",
@@ -6145,6 +6214,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "f5a66635617366f11e6b232f51d5f932e0eabba7",
+      "message": "[Feat] 스킬 SO 추가 및 턴 중에 스킬 고르는 UI 추가",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/f5a66635617366f11e6b232f51d5f932e0eabba7",
+      "date": "2026-09-29T01:01:41Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 16,
+        "additions": 1493,
+        "deletions": 89,
+        "meaningful_change": 1556,
+        "meaningful_file_count": 12,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
