@@ -1,11 +1,57 @@
 {
-  "updatedAt": "2026. 09. 30. 00:17",
+  "updatedAt": "2026. 09. 30. 05:08",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "7d8776583d73728bb09e59f5eddb74f6de78584f",
+      "message": "[chore]: 메뉴, 업적 페널 수정 및 인트로 화면 추가",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/7d8776583d73728bb09e59f5eddb74f6de78584f",
+      "date": "2026-09-29T18:48:50Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "bposion0918",
+      "gitAuthorName": "bposion0918",
+      "gitAuthorEmail": "b.posion.0918@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 144,
+        "deletions": 2,
+        "meaningful_change": 4,
+        "meaningful_file_count": 4,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "a2e8ce1eb5d2118da704ce5e1224b50d0907ae54",
+      "message": "[feat]: 메뉴,잠금,어둠 아이콘,메뉴와 업적 버튼 제작",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a2e8ce1eb5d2118da704ce5e1224b50d0907ae54",
+      "date": "2026-09-29T17:00:58Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "bposion0918",
+      "gitAuthorName": "bposion0918",
+      "gitAuthorEmail": "b.posion.0918@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 21,
+        "additions": 1425,
+        "deletions": 3,
+        "meaningful_change": 6,
+        "meaningful_file_count": 11,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -5892,6 +5938,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "87fbad7c0ac146a9f23e8e1fc3b84f292e12a877",
+      "message": "[Feat] ESC,Alt 입력 모드에 따른 HUD, 설정 UI 제어",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/87fbad7c0ac146a9f23e8e1fc3b84f292e12a877",
+      "date": "2026-09-29T18:59:59Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 9,
+        "additions": 467,
+        "deletions": 160,
+        "meaningful_change": 625,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "41bd8c7c89394f283d3b0e4c757e7c1088442bdc",
+      "message": "[Chore] SampleScene 이름 변경 -> Play_test",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/41bd8c7c89394f283d3b0e4c757e7c1088442bdc",
+      "date": "2026-09-29T18:56:10Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 1170,
+        "deletions": 353,
+        "meaningful_change": 1523,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "fb0c0970fffae3e786be6c04c195a35368bebe09",
+      "message": "[Chore] Manager 폴더명 변경 -> Core",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/fb0c0970fffae3e786be6c04c195a35368bebe09",
+      "date": "2026-09-29T15:56:02Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 1,
+        "deletions": 1,
+        "meaningful_change": 2,
+        "meaningful_file_count": 2,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {

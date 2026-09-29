@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 30. 00:17",
+  "updatedAt": "2026. 09. 30. 05:08",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -11,7 +11,7 @@
       "repo": "simo07d7PG/Team_JJAMBBAP",
       "commits": 2,
       "activeDays": 2,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -25,7 +25,7 @@
       "recent": [
         {
           "message": "[chore]: 로비 씬, 스크립트 수정 및 게임 씬 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "a30e89a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a30e89aeeedc4b30b6768dc758229b0877f5f9b9"
         },
@@ -163,13 +163,13 @@
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         }
@@ -373,9 +373,9 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 9,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 12,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -384,12 +384,30 @@
         0,
         0,
         0,
-        9
+        12
       ],
       "recent": [
         {
+          "message": "[Feat] ESC,Alt 입력 모드에 따른 HUD, 설정 UI 제어",
+          "time": "오늘",
+          "sha": "87fbad7",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/87fbad7c0ac146a9f23e8e1fc3b84f292e12a877"
+        },
+        {
+          "message": "[Chore] SampleScene 이름 변경 -> Play_test",
+          "time": "오늘",
+          "sha": "41bd8c7",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/41bd8c7c89394f283d3b0e4c757e7c1088442bdc"
+        },
+        {
+          "message": "[Chore] Manager 폴더명 변경 -> Core",
+          "time": "오늘",
+          "sha": "fb0c097",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/fb0c0970fffae3e786be6c04c195a35368bebe09"
+        },
+        {
           "message": "[Feat] 설정 UI 레이아웃",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "5afeb61",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5afeb618b31587341b7a5a4cf1510bcc02a8e5d9"
         },
@@ -398,24 +416,6 @@
           "time": "2일 전",
           "sha": "6b3df33",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6b3df33d998e1d263124dfb863564dfc19080dc6"
-        },
-        {
-          "message": "[Refactor] GameStateManager 경로 정리 (Manager/) 및 씬 갱신",
-          "time": "2일 전",
-          "sha": "ab65c27",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/ab65c27ae194cc7b6258717c257551522bbb9074"
-        },
-        {
-          "message": "[Refactor] 프레임워크 제거, 플레이어 조작/카메라 구조 분리 및 씬 동기화",
-          "time": "2일 전",
-          "sha": "3377398",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/3377398dc3e5b84a56057f94375b9171c28f79a2"
-        },
-        {
-          "message": "[Fix] Grass_test 씬에 플레이어 추가, 기본 빌드 설정",
-          "time": "2일 전",
-          "sha": "1cf30a5",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1cf30a52cf3765fdfb15406c6cb3fb442f6242ca"
         }
       ]
     },
@@ -569,7 +569,7 @@
         },
         {
           "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "ca336c3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca336c3d67d877f64912f399b3c13b14228f71e1"
         }
