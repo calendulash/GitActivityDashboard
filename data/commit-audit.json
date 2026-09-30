@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 09. 30. 08:52",
+  "updatedAt": "2026. 09. 30. 12:03",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -4610,6 +4610,121 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "dd742722bb3eb170521fb96447340ef3884ec72b",
+      "message": "원거리 무기 프리팹으로 꺼내서 장착 시 발사가 안되는 버그",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/dd742722bb3eb170521fb96447340ef3884ec72b",
+      "date": "2026-09-30T01:51:22Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 18,
+        "deletions": 1877,
+        "meaningful_change": 1895,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "3bc12e7745cda5bed5f30818515a8e429acc86b5",
+      "message": "프리팹 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/3bc12e7745cda5bed5f30818515a8e429acc86b5",
+      "date": "2026-09-30T00:59:39Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 1673,
+        "deletions": 826,
+        "meaningful_change": 2499,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "4ca3ace6dcc69ee76f655f72de89e60778a658ef",
+      "message": "무기 종류 변경전 다른 무기 프리팹으로 변경",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/4ca3ace6dcc69ee76f655f72de89e60778a658ef",
+      "date": "2026-09-30T00:44:18Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 625,
+        "deletions": 822,
+        "meaningful_change": 1425,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "8c4e9467e4edda44740cdf1a3c37fcd60fbec574",
+      "message": "무기 배치",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/8c4e9467e4edda44740cdf1a3c37fcd60fbec574",
+      "date": "2026-09-30T00:41:15Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 465,
+        "deletions": 17,
+        "meaningful_change": 482,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "fe42bfaa0fb85de4c5cd960629378327626e74da",
+      "message": "무기 전환 시스템 수정본",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/fe42bfaa0fb85de4c5cd960629378327626e74da",
+      "date": "2026-09-30T00:04:14Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 334,
+        "deletions": 2648,
+        "meaningful_change": 2980,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "4092c67f6af41ec04efe8b56493e08fa1ec22c3e",
       "message": "다이얼로그 npc 대화 시작을 클릭 했을 때에도 대화가 시작 하도록 조정",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/4092c67f6af41ec04efe8b56493e08fa1ec22c3e",
@@ -5662,6 +5777,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "3b0b0cf3a8af582be6eac5307212157df721cce1",
+      "message": "[feat] 플레이어 아이템 줍기 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/3b0b0cf3a8af582be6eac5307212157df721cce1",
+      "date": "2026-09-30T02:16:17Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "Tiphe0821",
+      "gitAuthorName": "Tiphe0821",
+      "gitAuthorEmail": "namucho24@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 148,
+        "deletions": 1,
+        "meaningful_change": 145,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -6858,6 +6996,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "5ed0c6dc265452a91fee497b3f93a300fbb6fcbd",
+      "message": "2d 셋팅",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/5ed0c6dc265452a91fee497b3f93a300fbb6fcbd",
+      "date": "2026-09-30T01:18:13Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 472,
+        "deletions": 121,
+        "meaningful_change": 563,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

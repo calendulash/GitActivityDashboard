@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 09. 30. 08:52",
+  "updatedAt": "2026. 09. 30. 12:03",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -235,33 +235,33 @@
       "repo": "jinjooyoung/DUAL-DUEL",
       "commits": 17,
       "activeDays": 6,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
         0,
         2,
         9,
-        7,
-        30,
+        13,
+        24,
         17
       ],
       "recent": [
         {
           "message": "[Build] 웹 빌드 0.1.1",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "e49015b",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/e49015b4452a9ff76b20055578cf4930d4b07f4c"
         },
         {
           "message": "[Chore] 폰트 인스펙터 할당",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "c6ef975",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/c6ef975b4464b6950ff9d40fed77acbb2b31bc2a"
         },
         {
           "message": "[Chore] 폰트 다이나믹 > 스태틱 변경",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "2071796",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/207179642be6e58c116f91036b1d93ca49554d9a"
         },
@@ -427,21 +427,21 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 7,
       "activeDays": 3,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
         0,
         0,
-        1,
-        1,
+        2,
+        0,
         5,
         7
       ],
       "recent": [
         {
           "message": "[Feat] 스킬 SO 추가 및 턴 중에 스킬 고르는 UI 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "f5a6663",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/f5a66635617366f11e6b232f51d5f932e0eabba7"
         },
@@ -477,8 +477,8 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 4,
-      "activeDays": 2,
+      "commits": 5,
+      "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -488,9 +488,15 @@
         0,
         0,
         0,
-        4
+        5
       ],
       "recent": [
+        {
+          "message": "2d 셋팅",
+          "time": "오늘",
+          "sha": "5ed0c6d",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/5ed0c6dc265452a91fee497b3f93a300fbb6fcbd"
+        },
         {
           "message": "기존 플레이러 컨트롤러 삭제",
           "time": "오늘",
@@ -514,12 +520,6 @@
           "time": "3일 전",
           "sha": "fb3981a",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/fb3981ab4e14aab6922bb2777e034b5aef54390a"
-        },
-        {
-          "message": "Initial commit",
-          "time": "32일 전",
-          "sha": "5f9449b",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/5f9449b62b7d696b51f1043ebca65882a4a23f95"
         }
       ]
     },
@@ -563,7 +563,7 @@
         },
         {
           "message": "[Pro Feat] 간단 테스트용 시스템들 변경 및 구현",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "ae04cf8",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ae04cf8176800fa753b8296d863a839a6ed380ee"
         },
