@@ -1,11 +1,103 @@
 {
-  "updatedAt": "2026. 09. 30. 12:03",
+  "updatedAt": "2026. 09. 30. 18:24",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "6be2ee8df39226067e9dd6ddb15f49461c87e388",
+      "message": "[Feat] 인게임 화면 Esc 설정, 메인화면 이동",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/6be2ee8df39226067e9dd6ddb15f49461c87e388",
+      "date": "2026-09-30T06:17:22Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 832,
+        "deletions": 0,
+        "meaningful_change": 830,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "6914a00b3a3291aa247de5ee104686861874159f",
+      "message": "[Feat] 도감, 업적 확인 기능 추가",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/6914a00b3a3291aa247de5ee104686861874159f",
+      "date": "2026-09-30T05:52:06Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 1049,
+        "deletions": 29,
+        "meaningful_change": 1076,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "ab33493fd270a85401c0837e11e9a4fcd8d58750",
+      "message": "[Feat] UI 버튼 선택 색상 변경 기능 구현",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/ab33493fd270a85401c0837e11e9a4fcd8d58750",
+      "date": "2026-09-30T05:11:58Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 30,
+        "deletions": 1,
+        "meaningful_change": 31,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "0ccec14dc5f34cbe1d9da4a7e87a15b7fabcfaa9",
+      "message": "[Feat] 도감(메뉴, 업적) 밑작업",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/0ccec14dc5f34cbe1d9da4a7e87a15b7fabcfaa9",
+      "date": "2026-09-30T04:55:29Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 2207,
+        "deletions": 471,
+        "meaningful_change": 2678,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
