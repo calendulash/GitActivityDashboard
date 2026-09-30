@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 01. 01:04",
+  "updatedAt": "2026. 10. 01. 05:57",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -11,7 +11,7 @@
       "repo": "simo07d7PG/Team_JJAMBBAP",
       "commits": 2,
       "activeDays": 2,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -25,7 +25,7 @@
       "recent": [
         {
           "message": "[chore]: 로비 씬, 스크립트 수정 및 게임 씬 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "a30e89a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a30e89aeeedc4b30b6768dc758229b0877f5f9b9"
         },
@@ -163,13 +163,13 @@
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         }
@@ -375,7 +375,7 @@
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "commits": 13,
       "activeDays": 4,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -389,19 +389,19 @@
       "recent": [
         {
           "message": "[Feat] 인벤토리 시스템 베이스",
-          "time": "오늘",
+          "time": "어제",
           "sha": "a5e13f9",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/a5e13f944c2c62e925e29377c2b5f9043d055cb7"
         },
         {
           "message": "[Feat] ESC,Alt 입력 모드에 따른 HUD, 설정 UI 제어",
-          "time": "오늘",
+          "time": "어제",
           "sha": "87fbad7",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/87fbad7c0ac146a9f23e8e1fc3b84f292e12a877"
         },
         {
           "message": "[Chore] SampleScene 이름 변경 -> Play_test",
-          "time": "오늘",
+          "time": "어제",
           "sha": "41bd8c7",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/41bd8c7c89394f283d3b0e4c757e7c1088442bdc"
         },
@@ -434,8 +434,8 @@
         0,
         0,
         2,
-        3,
-        2,
+        5,
+        0,
         8
       ],
       "recent": [

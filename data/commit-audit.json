@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 01. 01:04",
+  "updatedAt": "2026. 10. 01. 05:57",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -5984,6 +5984,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "84dd2cd48bf824ccc5b2ec5f91bcceb4387d472e",
+      "message": "[feat] 플레이어 아이템 줍기 기능 업데이트 (아이템 줍기 -> 모든 상호작용에 적용되도록 수정)",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/84dd2cd48bf824ccc5b2ec5f91bcceb4387d472e",
+      "date": "2026-09-30T17:47:39Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "Tiphe0821",
+      "gitAuthorName": "Tiphe0821",
+      "gitAuthorEmail": "namucho24@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 214,
+        "deletions": 27,
+        "meaningful_change": 231,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
