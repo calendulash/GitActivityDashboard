@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 09. 30. 18:24",
+  "updatedAt": "2026. 10. 01. 01:04",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "62e45d1b51c3f87c7eacc12a5753f0ffeb0b983a",
+      "message": "[chore]: ui 이미지 적용 및 수정",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/62e45d1b51c3f87c7eacc12a5753f0ffeb0b983a",
+      "date": "2026-09-30T13:49:24Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "bposion0918",
+      "gitAuthorName": "bposion0918",
+      "gitAuthorEmail": "b.posion.0918@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 45,
+        "additions": 114,
+        "deletions": 754,
+        "meaningful_change": 852,
+        "meaningful_file_count": 22,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -3138,6 +3161,98 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "06e619b2c6e0c231e57253ac769bef0120cf2348",
+      "message": "[Feat] 시전 시 데미지 UI 삭제",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/06e619b2c6e0c231e57253ac769bef0120cf2348",
+      "date": "2026-09-30T15:43:11Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 16,
+        "deletions": 2,
+        "meaningful_change": 18,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "81780974857c41df8bc4a1de68aeed184a3311ac",
+      "message": "[Feat] 슬롯 데미지 UI 추가, 슬롯 프리팹화",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/81780974857c41df8bc4a1de68aeed184a3311ac",
+      "date": "2026-09-30T14:59:22Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 764,
+        "deletions": 809,
+        "meaningful_change": 1566,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "1f742c922cb4a0fae2aab6ab66df63a5838d540b",
+      "message": "[Feat] 슬롯 공격력 시전",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/1f742c922cb4a0fae2aab6ab66df63a5838d540b",
+      "date": "2026-09-30T14:40:19Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 36,
+        "deletions": 37,
+        "meaningful_change": 73,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "9e330fb5a024c3ebf67221d259d7b88d864f7815",
+      "message": "[Feat] 슬롯에 기본 공격력 추가",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9e330fb5a024c3ebf67221d259d7b88d864f7815",
+      "date": "2026-09-30T14:34:15Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 13,
+        "deletions": 2,
+        "meaningful_change": 15,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "e49015b4452a9ff76b20055578cf4930d4b07f4c",
       "message": "[Build] 웹 빌드 0.1.1",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/e49015b4452a9ff76b20055578cf4930d4b07f4c",
@@ -5875,6 +5990,52 @@
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
+      "sha": "10a4e54754ce3ac80dbe3323c6ae7da9a253eb3c",
+      "message": "[Feat] 수경재배 포드 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/10a4e54754ce3ac80dbe3323c6ae7da9a253eb3c",
+      "date": "2026-09-30T14:58:43Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "ih551311",
+      "gitAuthorName": "ih551311",
+      "gitAuthorEmail": "ih551311@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 3459,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "07f88873da7dbc49d5fc4ea568e5f1a367854354",
+      "message": "[Feat] 방사선 차폐막 발생기 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/07f88873da7dbc49d5fc4ea568e5f1a367854354",
+      "date": "2026-09-30T14:34:44Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "ih551311",
+      "gitAuthorName": "ih551311",
+      "gitAuthorEmail": "ih551311@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 2503,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
       "sha": "3b0b0cf3a8af582be6eac5307212157df721cce1",
       "message": "[feat] 플레이어 아이템 줍기 추가",
       "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/3b0b0cf3a8af582be6eac5307212157df721cce1",
@@ -6720,6 +6881,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "9829517eed6eafe9f7dc12ca0ebfccc74d6fde44",
+      "message": "[Feat] 적이 스킬 3개중 랜덤한 스킬 사용하도록 구현",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9829517eed6eafe9f7dc12ca0ebfccc74d6fde44",
+      "date": "2026-09-30T12:40:07Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 30,
+        "deletions": 62,
+        "meaningful_change": 92,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
