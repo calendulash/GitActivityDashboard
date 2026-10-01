@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 01. 22:42",
+  "updatedAt": "2026. 10. 02. 04:12",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6082,6 +6082,29 @@
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
+      "sha": "591afefc46f2b95b8e7ec415769e47a3cfd10bf8",
+      "message": "[Feat] 정수 시스템 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/591afefc46f2b95b8e7ec415769e47a3cfd10bf8",
+      "date": "2026-10-01T15:35:01Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "ih551311",
+      "gitAuthorName": "ih551311",
+      "gitAuthorEmail": "ih551311@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 2024,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
       "sha": "84dd2cd48bf824ccc5b2ec5f91bcceb4387d472e",
       "message": "[feat] 플레이어 아이템 줍기 기능 업데이트 (아이템 줍기 -> 모든 상호작용에 적용되도록 수정)",
       "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/84dd2cd48bf824ccc5b2ec5f91bcceb4387d472e",
@@ -6490,6 +6513,144 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "6cfaa9a38680f9ea8fb9e6fc6980784280d766d6",
+      "message": "[Fix] 물 쉐이터 테스트 맵 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6cfaa9a38680f9ea8fb9e6fc6980784280d766d6",
+      "date": "2026-10-01T17:49:20Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 45,
+        "deletions": 45,
+        "meaningful_change": 90,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "d35a3afb8ae7fb83aeb5ffce8e1d1c0ba57bd6f0",
+      "message": "[Chore] URP 버전 호환성 패키지 및 쉐이더 경고 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/d35a3afb8ae7fb83aeb5ffce8e1d1c0ba57bd6f0",
+      "date": "2026-10-01T16:54:46Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 48,
+        "additions": 2307,
+        "deletions": 6,
+        "meaningful_change": 1395,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "275c7d0dd0a99407a4ee539278db1983c5a0b976",
+      "message": "[Feat] 물 쉐이더 거품효과 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/275c7d0dd0a99407a4ee539278db1983c5a0b976",
+      "date": "2026-10-01T17:32:52Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 3203,
+        "deletions": 260,
+        "meaningful_change": 19,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "eb9f3094bbe5c4c11d3b7d116b8ad05463cfeb1f",
+      "message": "[Fix] 쉐이더 페키지 문제 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eb9f3094bbe5c4c11d3b7d116b8ad05463cfeb1f",
+      "date": "2026-10-01T16:40:08Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 30,
+        "additions": 3512,
+        "deletions": 92,
+        "meaningful_change": 684,
+        "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "e4f1fed7d20bcaf0fd83054ce849b0d506f9a179",
+      "message": "[Fix] 물 쉐이더 버그 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/e4f1fed7d20bcaf0fd83054ce849b0d506f9a179",
+      "date": "2026-10-01T16:08:33Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 7028,
+        "deletions": 926,
+        "meaningful_change": 6449,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "fda0e8450a60da221875712e3fdbabddbd05ee21",
+      "message": "[Feat] 물 쉐이더 추가 구연",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/fda0e8450a60da221875712e3fdbabddbd05ee21",
+      "date": "2026-10-01T15:35:48Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 89,
+        "additions": 9438,
+        "deletions": 3907,
+        "meaningful_change": 1360,
+        "meaningful_file_count": 42,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
