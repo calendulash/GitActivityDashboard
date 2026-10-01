@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 10. 01. 15:18",
+  "updatedAt": "2026. 10. 01. 22:42",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "6016bd7de458396b300e31c558baae24750e341f",
+      "message": "[Feat] 메인 카페 맵 완성",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/6016bd7de458396b300e31c558baae24750e341f",
+      "date": "2026-10-01T08:24:29Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "simo07d7PG",
+      "gitAuthorName": "simo07d7PG",
+      "gitAuthorEmail": "simo07d7.pg@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 85,
+        "additions": 143645,
+        "deletions": 730,
+        "meaningful_change": 144033,
+        "meaningful_file_count": 42,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -3155,6 +3178,29 @@
         "meaningful_file_count": 2,
         "suspicious_score": 15,
         "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "a34b240c991da3b9472cae120ce4e3071670f877",
+      "message": "[Chore] 카드 데이터 시트 구조 변경",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/a34b240c991da3b9472cae120ce4e3071670f877",
+      "date": "2026-10-01T13:13:49Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 95,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -6450,6 +6496,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "3d52c37b57303d70cd438754309bddedca3bb06f",
+      "message": "[Feat] 물 쉐이더 구연",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/3d52c37b57303d70cd438754309bddedca3bb06f",
+      "date": "2026-10-01T11:06:40Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 43,
+        "additions": 9160,
+        "deletions": 6,
+        "meaningful_change": 1741,
+        "meaningful_file_count": 17,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "16ecfe712cbb735967a0e3bbe62db3b241208e47",
       "message": "[Chore] 테스트 씬 변경, FPS Display, 기타 에셋 설정",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/16ecfe712cbb735967a0e3bbe62db3b241208e47",
@@ -7456,6 +7525,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "d826e865034754a72bb57ce9cdc475374356f2b4",
+      "message": "[Refactor] 플레이어 닷지 코딩 시작",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/d826e865034754a72bb57ce9cdc475374356f2b4",
+      "date": "2026-10-01T06:32:02Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 198,
+        "deletions": 0,
+        "meaningful_change": 194,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "cc9a5f31bca02dc3cf28e2fc4450d255903d1fad",
+      "message": "[Refactor] 벽타기 개선",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/cc9a5f31bca02dc3cf28e2fc4450d255903d1fad",
+      "date": "2026-10-01T06:17:01Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 517,
+        "deletions": 28,
+        "meaningful_change": 545,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

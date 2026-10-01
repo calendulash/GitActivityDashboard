@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 01. 15:18",
+  "updatedAt": "2026. 10. 01. 22:42",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -9,9 +9,9 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "2일 전",
+      "commits": 2,
+      "activeDays": 2,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -20,9 +20,15 @@
         0,
         2,
         1,
-        1
+        2
       ],
       "recent": [
+        {
+          "message": "[Feat] 메인 카페 맵 완성",
+          "time": "오늘",
+          "sha": "6016bd7",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/6016bd7de458396b300e31c558baae24750e341f"
+        },
         {
           "message": "[chore]: 로비 씬, 스크립트 수정 및 게임 씬 수정",
           "time": "2일 전",
@@ -37,13 +43,13 @@
         },
         {
           "message": "[feat]: 초기 프로젝트 생성",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "2c3fc54",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/2c3fc543ec68897da00aba118211fb5b2bdf49dd"
         },
         {
           "message": "Initial commit",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "8b60636",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/8b6063612ed60b6c9409de59bfb030894f0cbbf1"
         }
@@ -57,21 +63,21 @@
       "repo": "jeolje934-dot/Placeholder_2026_1A_team-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "13일 전",
+      "lastCommit": "14일 전",
       "status": "inactive",
       "weekly": [
         0,
         0,
         0,
         0,
-        1,
-        1,
+        2,
+        0,
         0
       ],
       "recent": [
         {
           "message": "[Feat] test 씬 입니다",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "ffde155",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/ffde1558b9f9d992394bd8810e756666f709a986"
         },
@@ -91,7 +97,7 @@
       "repo": "whxogud9090/4team_project_02",
       "commits": 3,
       "activeDays": 1,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -105,19 +111,19 @@
       "recent": [
         {
           "message": "픽셀 호수 낚시 테스트 환경 구성",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "b3c8cce",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/b3c8cce2bedfdf67e3ec1ec530944eb9f5e6f12b"
         },
         {
           "message": "Build playable pixel fishing prototype",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "a45af3a",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/a45af3a086543b76698ddb191258f51b971030d8"
         },
         {
           "message": "Create Unity 6000.3.23f1 2D project",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "c7bd862",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/c7bd8628cd550f91b47ea11500f1c1d6173b4f93"
         }
@@ -187,8 +193,8 @@
       "status": "inactive",
       "weekly": [
         0,
-        1,
-        1,
+        2,
+        0,
         2,
         0,
         1,
@@ -215,7 +221,7 @@
         },
         {
           "message": "asset_ Fire Icon Anim",
-          "time": "34일 전",
+          "time": "35일 전",
           "sha": "cd47d9a",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cd47d9ad607dafcc73755a3bfdd5915a5bdac593"
         },
@@ -242,11 +248,17 @@
         0,
         2,
         9,
-        18,
         23,
+        19,
         17
       ],
       "recent": [
+        {
+          "message": "[Chore] 카드 데이터 시트 구조 변경",
+          "time": "오늘",
+          "sha": "a34b240",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/a34b240c991da3b9472cae120ce4e3071670f877"
+        },
         {
           "message": "[Feat] 시전 시 데미지 UI 삭제",
           "time": "오늘",
@@ -270,12 +282,6 @@
           "time": "오늘",
           "sha": "9e330fb",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9e330fb5a024c3ebf67221d259d7b88d864f7815"
-        },
-        {
-          "message": "[Build] 웹 빌드 0.1.1",
-          "time": "3일 전",
-          "sha": "e49015b",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/e49015b4452a9ff76b20055578cf4930d4b07f4c"
         }
       ]
     },
@@ -329,8 +335,8 @@
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "7일 전",
-      "status": "watch",
+      "lastCommit": "8일 전",
+      "status": "inactive",
       "weekly": [
         0,
         0,
@@ -343,7 +349,7 @@
       "recent": [
         {
           "message": "[Feat] 기초 유니티 세팅",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "2837208",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd"
         },
@@ -361,7 +367,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "21일 전",
+          "time": "22일 전",
           "sha": "343a6a3",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/343a6a31cb72fadfa41e3625d8988d3fcc159b23"
         }
@@ -427,7 +433,7 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 8,
       "activeDays": 4,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -441,7 +447,7 @@
       "recent": [
         {
           "message": "[Feat] 적이 스킬 3개중 랜덤한 스킬 사용하도록 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "9829517",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9829517eed6eafe9f7dc12ca0ebfccc74d6fde44"
         },
@@ -477,7 +483,7 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 8,
+      "commits": 9,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -488,9 +494,15 @@
         0,
         0,
         0,
-        8
+        9
       ],
       "recent": [
+        {
+          "message": "[Refactor] 플레이어 닷지 코딩 시작",
+          "time": "오늘",
+          "sha": "d826e86",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/d826e865034754a72bb57ce9cdc475374356f2b4"
+        },
         {
           "message": "[Refactor] 벽타기 개선",
           "time": "오늘",
@@ -514,12 +526,6 @@
           "time": "어제",
           "sha": "5ed0c6d",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/5ed0c6dc265452a91fee497b3f93a300fbb6fcbd"
-        },
-        {
-          "message": "기존 플레이러 컨트롤러 삭제",
-          "time": "어제",
-          "sha": "edd4307",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/edd430718d61b24b94c040c1e3090f5e246bdaf7"
         }
       ]
     },
@@ -586,8 +592,8 @@
       "lastCommit": "12일 전",
       "status": "inactive",
       "weekly": [
-        1,
         2,
+        1,
         4,
         1,
         0,
@@ -621,7 +627,7 @@
         },
         {
           "message": "[Feat] 도시 에셋 추가 테스트",
-          "time": "29일 전",
+          "time": "30일 전",
           "sha": "ed66062",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/ed66062450cd8102915e92e680945144b102d4f8"
         }
