@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 01. 05:57",
+  "updatedAt": "2026. 10. 01. 09:19",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -77,7 +77,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -131,7 +131,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 5,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -145,19 +145,19 @@
       "recent": [
         {
           "message": "[Build] 26.09.28 Build",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "d4529e0",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/d4529e0441b2bb7ad3ec9a341aebc20ac62a8b60"
         },
         {
           "message": "[chore] 누락 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "46c82f2",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/46c82f2a4db97c3a2b4762d6b46fc3b032de9057"
         },
         {
           "message": "[Feat] Player & Enemy 속성 적용",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "1d735a5",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1d735a51612bdb1fd4e0efd30bfc05ba3fac616a"
         },
