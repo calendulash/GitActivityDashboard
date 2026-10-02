@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 03. 00:14",
+  "updatedAt": "2026. 10. 03. 05:03",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6559,6 +6559,144 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "750d7f0c1d27722a3f0061fd9367f02f104d6cd8",
+      "message": "[Chore] 프리팹 생성, 씬 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/750d7f0c1d27722a3f0061fd9367f02f104d6cd8",
+      "date": "2026-10-02T15:35:06Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 15,
+        "additions": 28132,
+        "deletions": 13787,
+        "meaningful_change": 41874,
+        "meaningful_file_count": 10,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "6508caa719fc61f7749e14ab4915cbb67391b680",
+      "message": "[Fix] 경고 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6508caa719fc61f7749e14ab4915cbb67391b680",
+      "date": "2026-10-02T15:34:05Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 10,
+        "deletions": 2,
+        "meaningful_change": 12,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "9ccac7c625b3d44fc78e436d678e97929444cce6",
+      "message": "[Fix] 순간적으로 맵이 보이는 현상 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9ccac7c625b3d44fc78e436d678e97929444cce6",
+      "date": "2026-10-02T15:32:34Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 152,
+        "deletions": 35,
+        "meaningful_change": 187,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "c635183376518c10aa3b0027a20bd9fcc9661bd4",
+      "message": "[Feat] 설정 기능 구현",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/c635183376518c10aa3b0027a20bd9fcc9661bd4",
+      "date": "2026-10-02T15:31:21Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 19,
+        "additions": 1647,
+        "deletions": 622,
+        "meaningful_change": 2251,
+        "meaningful_file_count": 12,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "4a0a77880c95ff905348c72e298a1c65186ed578",
+      "message": "[Feat] 데이터 세이브, 로드 매니저",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4a0a77880c95ff905348c72e298a1c65186ed578",
+      "date": "2026-10-02T15:27:45Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 428,
+        "deletions": 15,
+        "meaningful_change": 429,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "98577efea2bcf8c953f7926fbd1b578308f0c78a",
+      "message": "[Feat] 오디오 매니저 구현",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/98577efea2bcf8c953f7926fbd1b578308f0c78a",
+      "date": "2026-10-02T15:17:09Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 460,
+        "deletions": 0,
+        "meaningful_change": 223,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 03. 00:14",
+  "updatedAt": "2026. 10. 03. 05:03",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -31,7 +31,7 @@
         },
         {
           "message": "[chore]: 로비 씬, 스크립트 수정 및 게임 씬 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "a30e89a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a30e89aeeedc4b30b6768dc758229b0877f5f9b9"
         },
@@ -175,13 +175,13 @@
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         }
@@ -273,7 +273,7 @@
         },
         {
           "message": "[Feat] 시전 시 데미지 UI 삭제",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "06e619b",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/06e619b2c6e0c231e57253ac769bef0120cf2348"
         },
@@ -385,8 +385,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 19,
-      "activeDays": 5,
+      "commits": 23,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -395,39 +395,39 @@
         0,
         0,
         0,
-        0,
-        19
+        2,
+        23
       ],
       "recent": [
         {
-          "message": "[Chore] URP 버전 호환성 패키지 및 쉐이더 경고 수정",
+          "message": "[Chore] 프리팹 생성, 씬 수정",
           "time": "오늘",
-          "sha": "d35a3af",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/d35a3afb8ae7fb83aeb5ffce8e1d1c0ba57bd6f0"
+          "sha": "750d7f0",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/750d7f0c1d27722a3f0061fd9367f02f104d6cd8"
         },
         {
-          "message": "[Chore] 테스트 씬 변경, FPS Display, 기타 에셋 설정",
-          "time": "어제",
-          "sha": "16ecfe7",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/16ecfe712cbb735967a0e3bbe62db3b241208e47"
+          "message": "[Fix] 경고 수정",
+          "time": "오늘",
+          "sha": "6508caa",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6508caa719fc61f7749e14ab4915cbb67391b680"
         },
         {
-          "message": "[Feat] 인벤토리 UI 구현",
-          "time": "어제",
-          "sha": "20ba008",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/20ba0089a512b75763949b35ce8220f50840666e"
+          "message": "[Fix] 순간적으로 맵이 보이는 현상 수정",
+          "time": "오늘",
+          "sha": "9ccac7c",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9ccac7c625b3d44fc78e436d678e97929444cce6"
         },
         {
-          "message": "[Feat] 미니맵 구현",
-          "time": "어제",
-          "sha": "5dda4f4",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5dda4f4f463f500595ba490cf196bda8c9391dd2"
+          "message": "[Feat] 설정 기능 구현",
+          "time": "오늘",
+          "sha": "c635183",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/c635183376518c10aa3b0027a20bd9fcc9661bd4"
         },
         {
-          "message": "[Feat] 패널 열기, 닫기 애니메이션",
-          "time": "어제",
-          "sha": "8f42a53",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/8f42a5376e5fa398834645d2fb4223d8e633cbb4"
+          "message": "[Feat] 데이터 세이브, 로드 매니저",
+          "time": "오늘",
+          "sha": "4a0a778",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4a0a77880c95ff905348c72e298a1c65186ed578"
         }
       ]
     },
@@ -581,7 +581,7 @@
         },
         {
           "message": "[Pro Feat] 프로토타입 연출 3개 구현 (피격 이전 커밋에 포함됨)",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "ca336c3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca336c3d67d877f64912f399b3c13b14228f71e1"
         }
