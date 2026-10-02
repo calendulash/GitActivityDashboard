@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 02. 17:47",
+  "updatedAt": "2026. 10. 03. 00:14",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -464,6 +464,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 4팀",
+      "repo": "whxogud9090/4team_project_02",
+      "branch": "main",
+      "sha": "cb16f2049903e40e3ed5efb6acf8c373e25d1c8d",
+      "message": "주인공 걷기 모션 및 낚시 테스트 씬 개선",
+      "url": "https://github.com/whxogud9090/4team_project_02/commit/cb16f2049903e40e3ed5efb6acf8c373e25d1c8d",
+      "date": "2026-10-02T10:58:38Z",
+      "expectedGithub": "whxogud9090",
+      "actualGithub": "whxogud9090",
+      "gitAuthorName": "태형",
+      "gitAuthorEmail": "th870707@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 25,
+        "additions": 4156,
+        "deletions": 7301,
+        "meaningful_change": 10287,
+        "meaningful_file_count": 13,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -3177,6 +3200,29 @@
         "meaningful_change": 9,
         "meaningful_file_count": 2,
         "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "e07927df98d28c3d66588eb80513685f8d8846aa",
+      "message": "[Feat] 카드 기믹 추가 위해 구조 수정, SO 재생성",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/e07927df98d28c3d66588eb80513685f8d8846aa",
+      "date": "2026-10-02T14:45:54Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 22,
+        "additions": 132,
+        "deletions": 223,
+        "meaningful_change": 315,
+        "meaningful_file_count": 17,
+        "suspicious_score": 0,
         "judgment": "정상"
       }
     },
@@ -6513,6 +6559,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "02b9ebea733e6d1155bff6be34b4568e07456554",
+      "message": "[Feat] 쉐이더 프리펩 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/02b9ebea733e6d1155bff6be34b4568e07456554",
+      "date": "2026-10-02T14:13:01Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 5394,
+        "deletions": 5306,
+        "meaningful_change": 10685,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "5df6a2c0003d831b823809d888ff1dd229fada80",
+      "message": "[Fix] 물 쉐이더 파티클 시스템 버그 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5df6a2c0003d831b823809d888ff1dd229fada80",
+      "date": "2026-10-02T13:59:29Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 72,
+        "deletions": 74,
+        "meaningful_change": 106,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "f8c4e470c88562595e4fa26b569e3031c74c0ca5",
+      "message": "[Feat] 물 쉐이더 파티클 시스템 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f8c4e470c88562595e4fa26b569e3031c74c0ca5",
+      "date": "2026-10-02T13:25:30Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 7987,
+        "deletions": 279,
+        "meaningful_change": 5425,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
