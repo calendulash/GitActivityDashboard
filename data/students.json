@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 03. 08:58",
+  "updatedAt": "2026. 10. 03. 11:58",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -459,7 +459,7 @@
         },
         {
           "message": "[Feat] 스킬 SO 추가 및 턴 중에 스킬 고르는 UI 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "f5a6663",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/f5a66635617366f11e6b232f51d5f932e0eabba7"
         },
@@ -523,13 +523,13 @@
         },
         {
           "message": "공격시스템",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "664dab9",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/664dab971ac12447f8474e2211b2fe1fd9bee7b0"
         },
         {
           "message": "2d 셋팅",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "5ed0c6d",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/5ed0c6dc265452a91fee497b3f93a300fbb6fcbd"
         }
@@ -541,7 +541,7 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 4,
+      "commits": 3,
       "activeDays": 2,
       "lastCommit": "5일 전",
       "status": "watch",
@@ -551,8 +551,8 @@
         2,
         2,
         0,
-        0,
-        4
+        1,
+        3
       ],
       "recent": [
         {
@@ -575,7 +575,7 @@
         },
         {
           "message": "[Pro Feat] 간단 테스트용 시스템들 변경 및 구현",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "ae04cf8",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ae04cf8176800fa753b8296d863a839a6ed380ee"
         },
