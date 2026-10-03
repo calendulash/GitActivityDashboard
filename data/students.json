@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 04. 03:09",
+  "updatedAt": "2026. 10. 04. 06:38",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -141,8 +141,8 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 5,
-      "activeDays": 2,
+      "commits": 3,
+      "activeDays": 1,
       "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
@@ -151,8 +151,8 @@
         0,
         3,
         0,
-        1,
-        5
+        3,
+        3
       ],
       "recent": [
         {
@@ -175,13 +175,13 @@
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         }
@@ -385,7 +385,7 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 22,
+      "commits": 23,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -396,9 +396,15 @@
         0,
         0,
         4,
-        22
+        23
       ],
       "recent": [
+        {
+          "message": "[Refactor] 설정 각 카테고리 분화, 구조 개선, 미니맵 시스템 모듈화, 기타 잠재적 오류 해결",
+          "time": "오늘",
+          "sha": "5fcadc8",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5fcadc8ee49745fa2c6af845ade3d863c5816159"
+        },
         {
           "message": "[Fix] 빌드 환경에서 맵이 순간적으로 보이는 현상 수정",
           "time": "오늘",
@@ -422,12 +428,6 @@
           "time": "어제",
           "sha": "9ccac7c",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9ccac7c625b3d44fc78e436d678e97929444cce6"
-        },
-        {
-          "message": "[Feat] 설정 기능 구현",
-          "time": "어제",
-          "sha": "c635183",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/c635183376518c10aa3b0027a20bd9fcc9661bd4"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 04. 03:09",
+  "updatedAt": "2026. 10. 04. 06:38",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6605,6 +6605,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "5fcadc8ee49745fa2c6af845ade3d863c5816159",
+      "message": "[Refactor] 설정 각 카테고리 분화, 구조 개선, 미니맵 시스템 모듈화, 기타 잠재적 오류 해결",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5fcadc8ee49745fa2c6af845ade3d863c5816159",
+      "date": "2026-10-03T18:55:54Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 32,
+        "additions": 1870,
+        "deletions": 1613,
+        "meaningful_change": 3462,
+        "meaningful_file_count": 21,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "a05ce3a180c12df35db2a10ee30c83c7369812ed",
+      "message": "[Feat] 에셋추가 및 풀 쉐이더 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/a05ce3a180c12df35db2a10ee30c83c7369812ed",
+      "date": "2026-10-03T18:28:53Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 300,
+        "additions": 1596965,
+        "deletions": 29586,
+        "meaningful_change": 4069,
+        "meaningful_file_count": 53,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
