@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 03. 11:58",
+  "updatedAt": "2026. 10. 03. 17:46",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6565,6 +6565,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "a15ebd977e51b1712e970df93df31cf1f297300f",
+      "message": "[Fix] 빌드 환경에서 맵이 순간적으로 보이는 현상 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/a15ebd977e51b1712e970df93df31cf1f297300f",
+      "date": "2026-10-03T04:00:01Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 19,
+        "deletions": 98,
+        "meaningful_change": 117,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "750d7f0c1d27722a3f0061fd9367f02f104d6cd8",
       "message": "[Chore] 프리팹 생성, 씬 수정",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/750d7f0c1d27722a3f0061fd9367f02f104d6cd8",
@@ -7939,6 +7962,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "cddad66676f96939ee6cf68ce531d0525e1e445a",
+      "message": "[Feat] 플레이어 닷지 추가(개선 필요)",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/cddad66676f96939ee6cf68ce531d0525e1e445a",
+      "date": "2026-10-03T04:34:21Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 221,
+        "deletions": 25,
+        "meaningful_change": 230,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -10583,6 +10629,29 @@
         "meaningful_change": 6,
         "meaningful_file_count": 1,
         "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "82745bebdd4aefa835deb7a885a6420e54ec0433",
+      "message": "[Feat] 네비게이션 경로 계산",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/82745bebdd4aefa835deb7a885a6420e54ec0433",
+      "date": "2026-10-03T03:22:27Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 363,
+        "deletions": 0,
+        "meaningful_change": 345,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
         "judgment": "정상"
       }
     },
