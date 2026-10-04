@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 05. 02:16",
+  "updatedAt": "2026. 10. 05. 05:20",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6956,6 +6956,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072",
+      "message": "[Chore] 빌드 씬 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072",
+      "date": "2026-10-04T18:06:43Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 3,
+        "deletions": 0,
+        "meaningful_change": 3,
+        "meaningful_file_count": 1,
+        "suspicious_score": 30,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "4441235c6af59e6043df0bf33af539e88e1665e5",
       "message": "[Chore] 씬 및 프리팹 수정",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4441235c6af59e6043df0bf33af539e88e1665e5",
@@ -11525,6 +11548,52 @@
         "deletions": 179,
         "meaningful_change": 279,
         "meaningful_file_count": 29,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "c9d44b5c897d5ce64436ef82102625ef5e5dc24b",
+      "message": "[fix] ui 오류수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/c9d44b5c897d5ce64436ef82102625ef5e5dc24b",
+      "date": "2026-10-04T19:53:44Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 370,
+        "deletions": 64,
+        "meaningful_change": 416,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "ccc35ff10e68251ecae542657319bd73a440982b",
+      "message": "[Feat] 가지고 있는 모든 피자 뺏김",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/ccc35ff10e68251ecae542657319bd73a440982b",
+      "date": "2026-10-04T18:30:23Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 175,
+        "deletions": 63,
+        "meaningful_change": 238,
+        "meaningful_file_count": 6,
         "suspicious_score": 0,
         "judgment": "정상"
       }

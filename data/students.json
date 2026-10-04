@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 05. 02:16",
+  "updatedAt": "2026. 10. 05. 05:20",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -175,13 +175,13 @@
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         }
@@ -385,7 +385,7 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 25,
+      "commits": 26,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -396,9 +396,15 @@
         0,
         0,
         9,
-        25
+        26
       ],
       "recent": [
+        {
+          "message": "[Chore] 빌드 씬 추가",
+          "time": "오늘",
+          "sha": "75fa7b7",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072"
+        },
         {
           "message": "[Chore] 씬 및 프리팹 수정",
           "time": "오늘",
@@ -422,12 +428,6 @@
           "time": "오늘",
           "sha": "b006587",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/b006587029a199f8afbed2013c469a6ebfcade33"
-        },
-        {
-          "message": "[Feat] 인스펙터에서의 폴더 기능",
-          "time": "오늘",
-          "sha": "2c612f1",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/2c612f1b529ce7c86289428646621b4524d7529a"
         }
       ]
     },
