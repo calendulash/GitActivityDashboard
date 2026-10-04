@@ -1,11 +1,103 @@
 {
-  "updatedAt": "2026. 10. 04. 09:17",
+  "updatedAt": "2026. 10. 04. 15:11",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "00924bcbcdfeb594544d728dc974cec6c0b61bd1",
+      "message": "[Feat] 우유 붓기·얼음 스쿱 기울이기를 우클릭 누르기 방식으로 변경",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/00924bcbcdfeb594544d728dc974cec6c0b61bd1",
+      "date": "2026-10-04T04:17:17Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "simo07d7PG",
+      "gitAuthorName": "simo07d7PG",
+      "gitAuthorEmail": "simo07d7.pg@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 57,
+        "deletions": 15,
+        "meaningful_change": 66,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "e2c24a545e3b6b2ef4116d6245fd4366f8d43c51",
+      "message": "[Feat] 미니게임 샌드박스 씬과 팀원용 문서 추가",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/e2c24a545e3b6b2ef4116d6245fd4366f8d43c51",
+      "date": "2026-10-04T04:03:29Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "simo07d7PG",
+      "gitAuthorName": "simo07d7PG",
+      "gitAuthorEmail": "simo07d7.pg@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 52,
+        "additions": 14769,
+        "deletions": 0,
+        "meaningful_change": 14531,
+        "meaningful_file_count": 24,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "06894ac3b2e6fdda5d33f1c1396654d753ac256d",
+      "message": "[Feat] 미니게임 3종(에스프레소 샷, 얼음 퍼기, 우유 붓기) 구현",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/06894ac3b2e6fdda5d33f1c1396654d753ac256d",
+      "date": "2026-10-04T04:03:29Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "simo07d7PG",
+      "gitAuthorName": "simo07d7PG",
+      "gitAuthorEmail": "simo07d7.pg@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 1012,
+        "deletions": 0,
+        "meaningful_change": 978,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "d3282ca0658cf173d76349b8ecd0f5be8fc63047",
+      "message": "[Feat] 미니게임 공통 틀과 판정 로직, EditMode 테스트 추가",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/d3282ca0658cf173d76349b8ecd0f5be8fc63047",
+      "date": "2026-10-04T04:03:29Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "simo07d7PG",
+      "gitAuthorName": "simo07d7PG",
+      "gitAuthorEmail": "simo07d7.pg@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 57,
+        "additions": 1864,
+        "deletions": 0,
+        "meaningful_change": 1752,
+        "meaningful_file_count": 26,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -4932,6 +5024,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "b813bc86c9b28efcfe82b621a919abe1890ed1a6",
+      "message": "맵 베치 시스템을 위한 임시 오브젝트",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/b813bc86c9b28efcfe82b621a919abe1890ed1a6",
+      "date": "2026-10-04T05:09:19Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 35,
+        "additions": 1126,
+        "deletions": 1989,
+        "meaningful_change": 1997,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "5edcf9c9c22a3541a4f39415ae7baa211e1a9949",
       "message": "로비에서 게임 씬 이동시 씬 전환이 되지만 게임 씬에서 로비 씬으로 이동 되지 않는 버그 수정",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/5edcf9c9c22a3541a4f39415ae7baa211e1a9949",
@@ -8129,6 +8244,29 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "8294d5f31b51d4abe33926d71999cb492946e0db",
+      "message": "[Feat] 플레이어 기본 셋팅(개선필요)",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/8294d5f31b51d4abe33926d71999cb492946e0db",
+      "date": "2026-10-04T04:36:50Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 683,
+        "deletions": 142,
+        "meaningful_change": 341,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "4cf53459b3f8a16a22c4f3defd85526ba7e869ad",
       "message": "[Feat]플레이어 공격 및 허수아비 추가(추가만 함 배치 안함)",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/4cf53459b3f8a16a22c4f3defd85526ba7e869ad",
@@ -8535,6 +8673,29 @@
         "deletions": 0,
         "meaningful_change": 8363,
         "meaningful_file_count": 74,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 2팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
+      "sha": "2162742e7d5433d9475915b687d312f2504a4f37",
+      "message": "[Feat] MPSystem 및 하위 시스템 제거",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/2162742e7d5433d9475915b687d312f2504a4f37",
+      "date": "2026-10-04T05:21:24Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 17,
+        "additions": 97,
+        "deletions": 170,
+        "meaningful_change": 149,
+        "meaningful_file_count": 11,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -10814,29 +10975,6 @@
         "meaningful_file_count": 35,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 2팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "0e2d1ce4a2e124112aca793d3bede1535cb66b99",
-      "message": "[Pro Fix] 몬스터 상태UI 종료와 선택된 대상이 없는 UI 관련 오류 수정",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/0e2d1ce4a2e124112aca793d3bede1535cb66b99",
-      "date": "2026-04-22T02:18:31Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 4,
-        "deletions": 2,
-        "meaningful_change": 6,
-        "meaningful_file_count": 1,
-        "suspicious_score": 15,
-        "judgment": "정상"
       }
     },
     {
