@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 04. 21:42",
+  "updatedAt": "2026. 10. 05. 02:16",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -195,33 +195,33 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "13일 전",
+      "lastCommit": "14일 전",
       "status": "inactive",
       "weekly": [
         1,
         1,
         0,
         2,
-        0,
         1,
+        0,
         0
       ],
       "recent": [
         {
           "message": "Revise README with new project and team details",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "8be9a52",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/8be9a5205f7c904a91c505d1eb00f430cbb583c6"
         },
         {
           "message": "Merge pull request #1 from JungYS24/feat/main-ui",
-          "time": "25일 전",
+          "time": "26일 전",
           "sha": "be2510e",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/be2510e8038b48d7c935dbc07f6691e435b0f380"
         },
         {
           "message": "feat(ui): 도감 UI 1차 레이아웃 수정 및 신규 스탬프 에셋 추가",
-          "time": "25일 전",
+          "time": "26일 전",
           "sha": "cce6a50",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cce6a506d61398c633afd8968679b7633896dfd3"
         },
@@ -233,7 +233,7 @@
         },
         {
           "message": "feat(asset): 화염 주사위 및 UI 아이콘 리소스 추가",
-          "time": "44일 전",
+          "time": "45일 전",
           "sha": "bef2511",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/bef25118b933bd6b8c934aa05e9b31ff286d1d37"
         }
@@ -245,8 +245,8 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 18,
-      "activeDays": 7,
+      "commits": 17,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -255,8 +255,8 @@
         8,
         4,
         31,
-        18,
-        18
+        19,
+        17
       ],
       "recent": [
         {
@@ -341,7 +341,7 @@
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "10일 전",
+      "lastCommit": "11일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -355,13 +355,13 @@
       "recent": [
         {
           "message": "[Feat] 기초 유니티 세팅",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "2837208",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd"
         },
         {
           "message": "Update README.md",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "c24111e",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/c24111e35fc3a14a37627d46a46edbf2c16df3af"
         },
@@ -385,8 +385,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 21,
-      "activeDays": 6,
+      "commits": 25,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -395,39 +395,39 @@
         0,
         0,
         0,
-        8,
-        21
+        9,
+        25
       ],
       "recent": [
         {
-          "message": "[Feat] 퍼즐 진입, 퇴장 플로우 구현",
+          "message": "[Chore] 씬 및 프리팹 수정",
           "time": "오늘",
-          "sha": "1d9ccf9",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1d9ccf92f0116442eff99730661e2484d16b96f6"
+          "sha": "4441235",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4441235c6af59e6043df0bf33af539e88e1665e5"
         },
         {
-          "message": "[Feat] 상호작용 시스템, UI",
+          "message": "[Feat] 회전 퍼즐 시스템",
           "time": "오늘",
-          "sha": "6be3796",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6be379628cd3c8a70859edb71e036b78c6731509"
+          "sha": "4d87d55",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4d87d557124291706db92bcea59ffc56b893d7ed"
         },
         {
-          "message": "[Refactor] 설정 각 카테고리 분화, 구조 개선, 미니맵 시스템 모듈화, 기타 잠재적 오류 해결",
+          "message": "[Feat] 아이템 설치 시스템 및 상호작용 피드백 UI",
           "time": "오늘",
-          "sha": "5fcadc8",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5fcadc8ee49745fa2c6af845ade3d863c5816159"
+          "sha": "ae0cc0f",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/ae0cc0f189248f74d0db8aad74d9feb0210f052e"
         },
         {
-          "message": "[Fix] 빌드 환경에서 맵이 순간적으로 보이는 현상 수정",
-          "time": "어제",
-          "sha": "a15ebd9",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/a15ebd977e51b1712e970df93df31cf1f297300f"
+          "message": "[Fix] UI내 충돌 버그 수정",
+          "time": "오늘",
+          "sha": "b006587",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/b006587029a199f8afbed2013c469a6ebfcade33"
         },
         {
-          "message": "[Chore] 프리팹 생성, 씬 수정",
-          "time": "어제",
-          "sha": "750d7f0",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/750d7f0c1d27722a3f0061fd9367f02f104d6cd8"
+          "message": "[Feat] 인스펙터에서의 폴더 기능",
+          "time": "오늘",
+          "sha": "2c612f1",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/2c612f1b529ce7c86289428646621b4524d7529a"
         }
       ]
     },
@@ -437,8 +437,8 @@
       "team": "hoshinouhee123",
       "github": "hoshinouhee123",
       "repo": "hoshinouhee123/gacha-game-teamplay",
-      "commits": 6,
-      "activeDays": 4,
+      "commits": 4,
+      "activeDays": 3,
       "lastCommit": "4일 전",
       "status": "watch",
       "weekly": [
@@ -447,8 +447,8 @@
         0,
         2,
         5,
-        2,
-        6
+        4,
+        4
       ],
       "recent": [
         {
@@ -477,7 +477,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/hoshinouhee123/gacha-game-teamplay",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "042fd15",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/042fd15e816c6f4a69c576e6c43c24159521e590"
         }
@@ -541,8 +541,8 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 4,
-      "activeDays": 2,
+      "commits": 3,
+      "activeDays": 1,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -551,8 +551,8 @@
         2,
         2,
         0,
-        3,
-        4
+        4,
+        3
       ],
       "recent": [
         {
@@ -575,13 +575,13 @@
         },
         {
           "message": "[Pro Feat] 웨이브 생성 기능 구현",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "9f1b7ad",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/9f1b7ad243f9e2553e5171cb0ac7bb1b5e3df596"
         },
         {
           "message": "[Pro Feat] 애벌레, 아처 스켈레톤 구현 및 EnemyAction, Enemy 구현 프로세스 적립",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "e0cb77f",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/e0cb77fc82d5ff3999095206ad599c7ea4297aff"
         }
@@ -621,19 +621,19 @@
         },
         {
           "message": "[Feat] 배달 지점 배치 (DeliveryPoint43까지)",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "454b3f7",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/454b3f731a5249c4dd7fcb77f6b6e6e44342e09e"
         },
         {
           "message": "[Fix] 건물 내부 NavMesh Block 추가 & 주유소 모델링 적용",
-          "time": "31일 전",
+          "time": "32일 전",
           "sha": "b3c20cd",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/b3c20cd4dfada8db6cff682664972d068bf60ee2"
         },
         {
           "message": "[Feat] 도시맵 교체 & 시스템 배치",
-          "time": "32일 전",
+          "time": "33일 전",
           "sha": "a9ffc9e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/a9ffc9ed15ae2a7c53fb3f0cfd49fa120572ac0e"
         }
