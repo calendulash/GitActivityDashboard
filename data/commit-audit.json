@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 05. 08:24",
+  "updatedAt": "2026. 10. 05. 11:15",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -5225,6 +5225,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "be61bb7b7964424dd6592c76bd8b0385426364a5",
+      "message": "Room 오브젝트 프리팹화",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/be61bb7b7964424dd6592c76bd8b0385426364a5",
+      "date": "2026-10-05T02:03:15Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 21,
+        "additions": 1466,
+        "deletions": 11,
+        "meaningful_change": 1430,
+        "meaningful_file_count": 13,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

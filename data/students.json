@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 05. 08:24",
+  "updatedAt": "2026. 10. 05. 11:15",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -245,7 +245,7 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 17,
+      "commits": 16,
       "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
@@ -255,8 +255,8 @@
         8,
         4,
         31,
-        19,
-        17
+        20,
+        16
       ],
       "recent": [
         {
@@ -459,7 +459,7 @@
         },
         {
           "message": "[Feat] 스킬 SO 추가 및 턴 중에 스킬 고르는 UI 추가",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "f5a6663",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/f5a66635617366f11e6b232f51d5f932e0eabba7"
         },
