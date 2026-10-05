@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 05. 18:23",
+  "updatedAt": "2026. 10. 06. 03:44",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7094,6 +7094,144 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "4592452fb6ed3ffe88992e1de0b9ae85664f9cb5",
+      "message": "[Chore] Seamless 테스트 씬 추가 및 프로젝트 설정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4592452fb6ed3ffe88992e1de0b9ae85664f9cb5",
+      "date": "2026-10-05T13:48:43Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "parksh070126@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 9060,
+        "deletions": 6936,
+        "meaningful_change": 15974,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "7a6118cbde8b45ca8c553acb1a270d9cd724f3e5",
+      "message": "[Refactor] 씬별 오브젝트 세이브 분리",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7a6118cbde8b45ca8c553acb1a270d9cd724f3e5",
+      "date": "2026-10-05T13:48:24Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "parksh070126@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 9,
+        "deletions": 9,
+        "meaningful_change": 18,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "19dad3f19d161347db273746c6d7a94294081de9",
+      "message": "[Feat] 미니맵 다중 씬 지원, 베이킹 시스템",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/19dad3f19d161347db273746c6d7a94294081de9",
+      "date": "2026-10-05T13:48:06Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "parksh070126@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 397,
+        "deletions": 2,
+        "meaningful_change": 246,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "1872991acde657289b8425624eca394701e7da83",
+      "message": "[Feat] Seamless, 비동기 로드 시스템",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1872991acde657289b8425624eca394701e7da83",
+      "date": "2026-10-05T13:47:51Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "parksh070126@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 1111,
+        "deletions": 15,
+        "meaningful_change": 1105,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "3f7219368df63e71005ef861d2b487455b8a9fff",
+      "message": "[Feat] 갓레이 테스트씬 야간버전 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/3f7219368df63e71005ef861d2b487455b8a9fff",
+      "date": "2026-10-05T11:23:08Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 16341,
+        "deletions": 38,
+        "meaningful_change": 16247,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "7d76f6580c1a0fc7e9415137fc5e9d3f9c42c92c",
+      "message": "[Feat] 플레이 데이터 세이브, 로드",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7d76f6580c1a0fc7e9415137fc5e9d3f9c42c92c",
+      "date": "2026-10-05T10:54:31Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 866,
+        "deletions": 15,
+        "meaningful_change": 881,
+        "meaningful_file_count": 12,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072",
       "message": "[Chore] 빌드 씬 추가",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072",
@@ -8537,6 +8675,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "9c299ec321e24c6c7e84ee89b625b9b9222458a9",
+      "message": "스토리씬",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c299ec321e24c6c7e84ee89b625b9b9222458a9",
+      "date": "2026-10-05T14:29:04Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "yubi369-bit",
+      "gitAuthorName": "Ducci",
+      "gitAuthorEmail": "Yubi369@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 35,
+        "additions": 10024,
+        "deletions": 77,
+        "meaningful_change": 9527,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -11711,6 +11872,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "7ebd0330e4c29d04c001840923b230fd145491ef",
+      "message": "[Feat] Player 태그를 가진 오브젝트를 차량이 부딪치면 날아가게끔 기능 추가",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/7ebd0330e4c29d04c001840923b230fd145491ef",
+      "date": "2026-10-05T16:09:49Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 101,
+        "deletions": 22,
+        "meaningful_change": 123,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "32912f47f5f9310ed935faf1d27c66000707ff45",
+      "message": "[Feat] 오토바이 라이트 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/32912f47f5f9310ed935faf1d27c66000707ff45",
+      "date": "2026-10-05T13:34:43Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 773,
+        "deletions": 9,
+        "meaningful_change": 754,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "3bc1e33c9c145b0b7147b43056444cb2cb66aaa3",
+      "message": "[Feat] 개인 테스트씬 생성 및 가로등 불빛 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/3bc1e33c9c145b0b7147b43056444cb2cb66aaa3",
+      "date": "2026-10-05T12:54:15Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 16,
+        "additions": 737269,
+        "deletions": 0,
+        "meaningful_change": 737188,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

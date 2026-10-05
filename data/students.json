@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 05. 18:23",
+  "updatedAt": "2026. 10. 06. 03:44",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -9,8 +9,8 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 6,
-      "activeDays": 3,
+      "commits": 5,
+      "activeDays": 2,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -19,8 +19,8 @@
         0,
         2,
         0,
-        1,
-        6
+        2,
+        5
       ],
       "recent": [
         {
@@ -63,7 +63,7 @@
       "repo": "jeolje934-dot/Placeholder_2026_1A_team-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "17일 전",
+      "lastCommit": "18일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -77,7 +77,7 @@
       "recent": [
         {
           "message": "[Feat] test 씬 입니다",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "ffde155",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/ffde1558b9f9d992394bd8810e756666f709a986"
         },
@@ -95,9 +95,9 @@
       "team": "whxogud9090",
       "github": "whxogud9090",
       "repo": "whxogud9090/4team_project_02",
-      "commits": 3,
-      "activeDays": 2,
-      "lastCommit": "2일 전",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -105,25 +105,25 @@
         0,
         0,
         0,
-        1,
-        3
+        3,
+        1
       ],
       "recent": [
         {
           "message": "주인공 걷기 모션 및 낚시 테스트 씬 개선",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "cb16f20",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/cb16f2049903e40e3ed5efb6acf8c373e25d1c8d"
         },
         {
           "message": "픽셀 호수 낚시 테스트 환경 구성",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "b3c8cce",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/b3c8cce2bedfdf67e3ec1ec530944eb9f5e6f12b"
         },
         {
           "message": "Build playable pixel fishing prototype",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "a45af3a",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/a45af3a086543b76698ddb191258f51b971030d8"
         },
@@ -175,13 +175,13 @@
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         },
         {
           "message": "[Feat] 카메라 이동 구현",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "2d8e53b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2d8e53b8529c19b84bb8b94ce982531087f30028"
         }
@@ -195,7 +195,7 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "14일 전",
+      "lastCommit": "15일 전",
       "status": "inactive",
       "weekly": [
         1,
@@ -209,31 +209,31 @@
       "recent": [
         {
           "message": "Revise README with new project and team details",
-          "time": "14일 전",
+          "time": "15일 전",
           "sha": "8be9a52",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/8be9a5205f7c904a91c505d1eb00f430cbb583c6"
         },
         {
           "message": "Merge pull request #1 from JungYS24/feat/main-ui",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "be2510e",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/be2510e8038b48d7c935dbc07f6691e435b0f380"
         },
         {
           "message": "feat(ui): 도감 UI 1차 레이아웃 수정 및 신규 스탬프 에셋 추가",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "cce6a50",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cce6a506d61398c633afd8968679b7633896dfd3"
         },
         {
           "message": "asset_ Fire Icon Anim",
-          "time": "38일 전",
+          "time": "39일 전",
           "sha": "cd47d9a",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cd47d9ad607dafcc73755a3bfdd5915a5bdac593"
         },
         {
           "message": "feat(asset): 화염 주사위 및 UI 아이콘 리소스 추가",
-          "time": "45일 전",
+          "time": "46일 전",
           "sha": "bef2511",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/bef25118b933bd6b8c934aa05e9b31ff286d1d37"
         }
@@ -247,45 +247,45 @@
       "repo": "jinjooyoung/DUAL-DUEL",
       "commits": 14,
       "activeDays": 5,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
         0,
         8,
         6,
-        29,
-        22,
+        31,
+        20,
         14
       ],
       "recent": [
         {
           "message": "[Build] 웹 빌드 0.2.0",
-          "time": "오늘",
+          "time": "어제",
           "sha": "b8f979c",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b8f979cf72b40df2e4af68f1c5dcb76dd9d19656"
         },
         {
           "message": "[Feat] 플로팅 텍스트 효과, 카드 시전 속도 조절 기능 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "b73282a",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b73282a2852901e3dc70280b6ac1df7f3002d1dc"
         },
         {
           "message": "[Chore] 직관적인 효과들만 사용",
-          "time": "오늘",
+          "time": "어제",
           "sha": "487cf9c",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/487cf9c7951f9b6b94e440a5b8a596c0a0037da2"
         },
         {
           "message": "[Fix] 드로우 증가 효과 적용 안 되던 문제 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "ca2d072",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/ca2d072ab521c36acd0ea6c02cd4da17b3badfe5"
         },
         {
           "message": "[Fix] 마지막 슬롯까지 모두 시전 후 필드 카드 discard",
-          "time": "오늘",
+          "time": "어제",
           "sha": "f3940ba",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/f3940bac077256206759d29cdbb217279c588ee9"
         }
@@ -341,7 +341,7 @@
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "11일 전",
+      "lastCommit": "12일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -355,13 +355,13 @@
       "recent": [
         {
           "message": "[Feat] 기초 유니티 세팅",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "2837208",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd"
         },
         {
           "message": "Update README.md",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "c24111e",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/c24111e35fc3a14a37627d46a46edbf2c16df3af"
         },
@@ -373,7 +373,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "25일 전",
+          "time": "26일 전",
           "sha": "343a6a3",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/343a6a31cb72fadfa41e3625d8988d3fcc159b23"
         }
@@ -385,8 +385,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 26,
-      "activeDays": 5,
+      "commits": 31,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -396,38 +396,38 @@
         0,
         0,
         9,
-        26
+        31
       ],
       "recent": [
         {
-          "message": "[Chore] 빌드 씬 추가",
+          "message": "[Chore] Seamless 테스트 씬 추가 및 프로젝트 설정",
           "time": "오늘",
-          "sha": "75fa7b7",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072"
+          "sha": "4592452",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4592452fb6ed3ffe88992e1de0b9ae85664f9cb5"
         },
         {
-          "message": "[Chore] 씬 및 프리팹 수정",
+          "message": "[Refactor] 씬별 오브젝트 세이브 분리",
           "time": "오늘",
-          "sha": "4441235",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4441235c6af59e6043df0bf33af539e88e1665e5"
+          "sha": "7a6118c",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7a6118cbde8b45ca8c553acb1a270d9cd724f3e5"
         },
         {
-          "message": "[Feat] 회전 퍼즐 시스템",
+          "message": "[Feat] 미니맵 다중 씬 지원, 베이킹 시스템",
           "time": "오늘",
-          "sha": "4d87d55",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4d87d557124291706db92bcea59ffc56b893d7ed"
+          "sha": "19dad3f",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/19dad3f19d161347db273746c6d7a94294081de9"
         },
         {
-          "message": "[Feat] 아이템 설치 시스템 및 상호작용 피드백 UI",
+          "message": "[Feat] Seamless, 비동기 로드 시스템",
           "time": "오늘",
-          "sha": "ae0cc0f",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/ae0cc0f189248f74d0db8aad74d9feb0210f052e"
+          "sha": "1872991",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1872991acde657289b8425624eca394701e7da83"
         },
         {
-          "message": "[Fix] UI내 충돌 버그 수정",
+          "message": "[Feat] 플레이 데이터 세이브, 로드",
           "time": "오늘",
-          "sha": "b006587",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/b006587029a199f8afbed2013c469a6ebfcade33"
+          "sha": "7d76f65",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7d76f6580c1a0fc7e9415137fc5e9d3f9c42c92c"
         }
       ]
     },
@@ -439,7 +439,7 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 2,
       "activeDays": 2,
-      "lastCommit": "4일 전",
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -453,7 +453,7 @@
       "recent": [
         {
           "message": "[Feat] 적이 스킬 3개중 랜덤한 스킬 사용하도록 구현",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "9829517",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9829517eed6eafe9f7dc12ca0ebfccc74d6fde44"
         },
@@ -477,7 +477,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/hoshinouhee123/gacha-game-teamplay",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "042fd15",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/042fd15e816c6f4a69c576e6c43c24159521e590"
         }
@@ -517,13 +517,13 @@
         },
         {
           "message": "[Feat]플레이어 공격 및 허수아비 추가(추가만 함 배치 안함)",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "4cf5345",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/4cf53459b3f8a16a22c4f3defd85526ba7e869ad"
         },
         {
           "message": "[Chore]타일맵 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d7c6a1d",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/d7c6a1dd2f49c0ce564157c1729daf5a88dc5f1a"
         },
@@ -600,8 +600,8 @@
       "weekly": [
         2,
         2,
-        3,
-        1,
+        4,
+        0,
         1,
         0,
         1
@@ -621,19 +621,19 @@
         },
         {
           "message": "[Feat] 배달 지점 배치 (DeliveryPoint43까지)",
-          "time": "27일 전",
+          "time": "28일 전",
           "sha": "454b3f7",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/454b3f731a5249c4dd7fcb77f6b6e6e44342e09e"
         },
         {
           "message": "[Fix] 건물 내부 NavMesh Block 추가 & 주유소 모델링 적용",
-          "time": "32일 전",
+          "time": "33일 전",
           "sha": "b3c20cd",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/b3c20cd4dfada8db6cff682664972d068bf60ee2"
         },
         {
           "message": "[Feat] 도시맵 교체 & 시스템 배치",
-          "time": "33일 전",
+          "time": "34일 전",
           "sha": "a9ffc9e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/a9ffc9ed15ae2a7c53fb3f0cfd49fa120572ac0e"
         }
