@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 06. 09:33",
+  "updatedAt": "2026. 10. 06. 15:46",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -3391,6 +3391,52 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "06c29162ed38586fd9aaa62a8c7e891b8ca8c8e0",
+      "message": "[Chore] 누락된 내용 추가 커밋",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/06c29162ed38586fd9aaa62a8c7e891b8ca8c8e0",
+      "date": "2026-10-06T06:07:35Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 76,
+        "deletions": 43,
+        "meaningful_change": 119,
+        "meaningful_file_count": 14,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "1551ec0aa03e4fbe02aeb49b68d6b09d13851a7e",
+      "message": "[Chore] 유니티 로컬라이제이션 패키지 세팅",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/1551ec0aa03e4fbe02aeb49b68d6b09d13851a7e",
+      "date": "2026-10-06T06:04:18Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 74,
+        "additions": 1548,
+        "deletions": 0,
+        "meaningful_change": 1244,
+        "meaningful_file_count": 36,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "b8f979cf72b40df2e4af68f1c5dcb76dd9d19656",
       "message": "[Build] 웹 빌드 0.2.0",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b8f979cf72b40df2e4af68f1c5dcb76dd9d19656",
@@ -5271,6 +5317,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "b13b237f778b7432fc3b4163ae7060c233d16d2a",
+      "message": "룸 프리팹 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/b13b237f778b7432fc3b4163ae7060c233d16d2a",
+      "date": "2026-10-06T01:40:43Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 1348,
+        "deletions": 0,
+        "meaningful_change": 1327,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "0a9fb55495018a0b17d511de770e69fbd3a21464",
+      "message": "방 오브젝트 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/0a9fb55495018a0b17d511de770e69fbd3a21464",
+      "date": "2026-10-06T01:10:08Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 777,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 7,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "ee8a839247697e75ae52d938c936cca6ee1ac06f",
+      "message": "던전 생성 코드 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/ee8a839247697e75ae52d938c936cca6ee1ac06f",
+      "date": "2026-10-06T00:39:53Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 82,
+        "deletions": 14,
+        "meaningful_change": 96,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
