@@ -1,11 +1,80 @@
 {
-  "updatedAt": "2026. 10. 06. 22:51",
+  "updatedAt": "2026. 10. 07. 04:18",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "c95905d49d3fd5a1f54c0bd2e587801c2c2dd781",
+      "message": "[feat]오브젝트 모델링 제작3",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/c95905d49d3fd5a1f54c0bd2e587801c2c2dd781",
+      "date": "2026-10-06T16:21:15Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cho70806-lab",
+      "gitAuthorName": "cho70806",
+      "gitAuthorEmail": "cho70806@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 1425,
+        "deletions": 0,
+        "meaningful_change": 1092,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "d18fc3fa548d2e9012a59339ff2e65cf86cec5cd",
+      "message": "[feat] 샷잔 그림 추가",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/d18fc3fa548d2e9012a59339ff2e65cf86cec5cd",
+      "date": "2026-10-06T14:32:49Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "jag123414",
+      "gitAuthorName": "jag123414",
+      "gitAuthorEmail": "a01040264560@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 117,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "1303a792a0d656e452ba2c6dba3eaddc05682a50",
+      "message": "[feat]: 스크롤 ui 제작",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/1303a792a0d656e452ba2c6dba3eaddc05682a50",
+      "date": "2026-10-06T13:48:12Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "bposion0918",
+      "gitAuthorName": "bposion0918",
+      "gitAuthorEmail": "b.posion.0918@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 284,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 2,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -809,6 +878,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "74fad637033561df477b3fb5d32999294cf7402d",
+      "message": "[Feat] 비동기 로딩 & 임시 로딩 씬 추가",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/74fad637033561df477b3fb5d32999294cf7402d",
+      "date": "2026-10-06T15:39:55Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "NunSaraam",
+      "gitAuthorName": "NunSaraam",
+      "gitAuthorEmail": "yjc22950037@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 20,
+        "additions": 1991,
+        "deletions": 40,
+        "meaningful_change": 1961,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -7416,6 +7508,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "65395bb17b0a4b606c961d867e2a2f0835499e11",
+      "message": "[Feat] Addressable Import, 씬 로드 적용",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/65395bb17b0a4b606c961d867e2a2f0835499e11",
+      "date": "2026-10-06T16:04:28Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 43,
+        "additions": 3492,
+        "deletions": 98,
+        "meaningful_change": 3447,
+        "meaningful_file_count": 22,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "4592452fb6ed3ffe88992e1de0b9ae85664f9cb5",
       "message": "[Chore] Seamless 테스트 씬 추가 및 프로젝트 설정",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4592452fb6ed3ffe88992e1de0b9ae85664f9cb5",
@@ -12194,6 +12309,144 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "dc49dd07c92b5b9a4b4b87ba8d8c18851595b0b6",
+      "message": "[Feat] 주문 목록",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/dc49dd07c92b5b9a4b4b87ba8d8c18851595b0b6",
+      "date": "2026-10-06T18:56:43Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 21,
+        "additions": 1777,
+        "deletions": 193,
+        "meaningful_change": 1961,
+        "meaningful_file_count": 19,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "8dae09775a6993c62ca0e6e89e0e4eb41bb31ae4",
+      "message": "[Fix] 시간표기 방식을 24시가 되면 24시 01분이 되는 방식을 00:00로 고정되게끔 수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/8dae09775a6993c62ca0e6e89e0e4eb41bb31ae4",
+      "date": "2026-10-06T18:16:05Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 12,
+        "deletions": 3,
+        "meaningful_change": 15,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "c5e35764a9da92031ba663cd31ed631d7b386186",
+      "message": "[Feat] 오토바이 탑승시에도 24시가 지난경우 다음날로 변경",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/c5e35764a9da92031ba663cd31ed631d7b386186",
+      "date": "2026-10-06T18:06:43Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 90,
+        "deletions": 5,
+        "meaningful_change": 95,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "178dbc1fd17f818308604b02f48613b4017ec7a0",
+      "message": "[Fix] 토핑 Mat->Lit -> UnLit",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/178dbc1fd17f818308604b02f48613b4017ec7a0",
+      "date": "2026-10-06T17:48:24Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 344,
+        "deletions": 12,
+        "meaningful_change": 356,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "d2dba693ba1f928c98de610933f67ec2fc51fad8",
+      "message": "[Feat] 매장 PC UI 코드생성 -> 프리팹화",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/d2dba693ba1f928c98de610933f67ec2fc51fad8",
+      "date": "2026-10-06T17:33:07Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 18,
+        "additions": 7930,
+        "deletions": 1091,
+        "meaningful_change": 8973,
+        "meaningful_file_count": 13,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "5781e38ca33961ee921ac74717c502e494b7fca7",
+      "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7",
+      "date": "2026-10-06T16:37:30Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 300,
+        "additions": 126201,
+        "deletions": 651,
+        "meaningful_change": 60900,
+        "meaningful_file_count": 127,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

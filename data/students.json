@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 06. 22:51",
+  "updatedAt": "2026. 10. 07. 04:18",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -187,7 +187,7 @@
         },
         {
           "message": "[chore] 플레이어 이동",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "2e0ec63",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/2e0ec63bbabd59613e871fb6a352367c428f16d8"
         }
@@ -201,13 +201,13 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "15일 전",
+      "lastCommit": "16일 전",
       "status": "inactive",
       "weekly": [
         1,
         1,
-        0,
         2,
+        0,
         1,
         0,
         0
@@ -215,19 +215,19 @@
       "recent": [
         {
           "message": "Revise README with new project and team details",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "8be9a52",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/8be9a5205f7c904a91c505d1eb00f430cbb583c6"
         },
         {
           "message": "Merge pull request #1 from JungYS24/feat/main-ui",
-          "time": "27일 전",
+          "time": "28일 전",
           "sha": "be2510e",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/be2510e8038b48d7c935dbc07f6691e435b0f380"
         },
         {
           "message": "feat(ui): 도감 UI 1차 레이아웃 수정 및 신규 스탬프 에셋 추가",
-          "time": "27일 전",
+          "time": "28일 전",
           "sha": "cce6a50",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cce6a506d61398c633afd8968679b7633896dfd3"
         },
@@ -239,7 +239,7 @@
         },
         {
           "message": "feat(asset): 화염 주사위 및 UI 아이콘 리소스 추가",
-          "time": "46일 전",
+          "time": "47일 전",
           "sha": "bef2511",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/bef25118b933bd6b8c934aa05e9b31ff286d1d37"
         }
@@ -259,8 +259,8 @@
         0,
         2,
         9,
-        5,
-        32,
+        7,
+        30,
         17,
         17
       ],
@@ -391,9 +391,9 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 31,
-      "activeDays": 6,
-      "lastCommit": "어제",
+      "commits": 29,
+      "activeDays": 7,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -401,10 +401,16 @@
         0,
         0,
         0,
-        9,
-        31
+        12,
+        29
       ],
       "recent": [
+        {
+          "message": "[Feat] Addressable Import, 씬 로드 적용",
+          "time": "오늘",
+          "sha": "65395bb",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/65395bb17b0a4b606c961d867e2a2f0835499e11"
+        },
         {
           "message": "[Chore] Seamless 테스트 씬 추가 및 프로젝트 설정",
           "time": "어제",
@@ -428,12 +434,6 @@
           "time": "어제",
           "sha": "1872991",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1872991acde657289b8425624eca394701e7da83"
-        },
-        {
-          "message": "[Feat] 플레이 데이터 세이브, 로드",
-          "time": "어제",
-          "sha": "7d76f65",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7d76f6580c1a0fc7e9415137fc5e9d3f9c42c92c"
         }
       ]
     },
@@ -483,7 +483,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/hoshinouhee123/gacha-game-teamplay",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "042fd15",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/042fd15e816c6f4a69c576e6c43c24159521e590"
         }
@@ -599,20 +599,26 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "3일 전",
+      "commits": 2,
+      "activeDays": 2,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
+        1,
+        4,
         2,
-        3,
-        3,
         0,
         1,
         0,
-        1
+        2
       ],
       "recent": [
+        {
+          "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
+          "time": "오늘",
+          "sha": "5781e38",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7"
+        },
         {
           "message": "[Feat] 네비게이션 경로 계산",
           "time": "3일 전",
@@ -627,21 +633,15 @@
         },
         {
           "message": "[Feat] 배달 지점 배치 (DeliveryPoint43까지)",
-          "time": "28일 전",
+          "time": "29일 전",
           "sha": "454b3f7",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/454b3f731a5249c4dd7fcb77f6b6e6e44342e09e"
         },
         {
           "message": "[Fix] 건물 내부 NavMesh Block 추가 & 주유소 모델링 적용",
-          "time": "33일 전",
+          "time": "34일 전",
           "sha": "b3c20cd",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/b3c20cd4dfada8db6cff682664972d068bf60ee2"
-        },
-        {
-          "message": "[Feat] 도시맵 교체 & 시스템 배치",
-          "time": "34일 전",
-          "sha": "a9ffc9e",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/a9ffc9ed15ae2a7c53fb3f0cfd49fa120572ac0e"
         }
       ]
     }
