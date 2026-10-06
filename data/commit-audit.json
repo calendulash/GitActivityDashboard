@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 06. 03:44",
+  "updatedAt": "2026. 10. 06. 09:33",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -740,6 +740,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "cfa9b1979ce1635039e19d04382f95543d12742d",
+      "message": "[Feat] Sequence 기믹 제작",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cfa9b1979ce1635039e19d04382f95543d12742d",
+      "date": "2026-10-05T19:49:33Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "qkrgml59",
+      "gitAuthorName": "qkrgml59",
+      "gitAuthorEmail": "qkrgml59@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 19,
+        "additions": 1684,
+        "deletions": 3354,
+        "meaningful_change": 5005,
+        "meaningful_file_count": 10,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -5248,6 +5271,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "722d3fb0a948eb62ce281fe6f73db38ca213d2fc",
+      "message": "던전 생성 형식에 조건 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/722d3fb0a948eb62ce281fe6f73db38ca213d2fc",
+      "date": "2026-10-05T23:33:55Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 642,
+        "deletions": 68,
+        "meaningful_change": 708,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
