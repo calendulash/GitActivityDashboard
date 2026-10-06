@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 06. 15:46",
+  "updatedAt": "2026. 10. 06. 22:51",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -625,6 +625,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 4팀",
+      "repo": "whxogud9090/4team_project_02",
+      "branch": "main",
+      "sha": "5506b0deff61c8855a27a70cfe6b3fe459c79513",
+      "message": "물고기 등급 및 판매 상점 시스템 추가",
+      "url": "https://github.com/whxogud9090/4team_project_02/commit/5506b0deff61c8855a27a70cfe6b3fe459c79513",
+      "date": "2026-10-06T10:57:46Z",
+      "expectedGithub": "whxogud9090",
+      "actualGithub": "whxogud9090",
+      "gitAuthorName": "태형",
+      "gitAuthorEmail": "th870707@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 460,
+        "deletions": 21,
+        "meaningful_change": 475,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 4팀",
+      "repo": "whxogud9090/4team_project_02",
+      "branch": "main",
+      "sha": "2a187985d6f7fcadea37b1e2d8ca685a6225f80d",
+      "message": "낚시 상점 구매 시스템 및 재낚시 오류 수정",
+      "url": "https://github.com/whxogud9090/4team_project_02/commit/2a187985d6f7fcadea37b1e2d8ca685a6225f80d",
+      "date": "2026-10-06T10:25:28Z",
+      "expectedGithub": "whxogud9090",
+      "actualGithub": "whxogud9090",
+      "gitAuthorName": "태형",
+      "gitAuthorEmail": "th870707@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 329,
+        "deletions": 4,
+        "meaningful_change": 327,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 4팀",
+      "repo": "whxogud9090/4team_project_02",
+      "branch": "main",
+      "sha": "94e9c702eca7aad62677ade9173c555f38cf1939",
+      "message": "낚시 상점 오브젝트 추가",
+      "url": "https://github.com/whxogud9090/4team_project_02/commit/94e9c702eca7aad62677ade9173c555f38cf1939",
+      "date": "2026-10-06T09:47:03Z",
+      "expectedGithub": "whxogud9090",
+      "actualGithub": "whxogud9090",
+      "gitAuthorName": "태형",
+      "gitAuthorEmail": "th870707@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 550,
+        "deletions": 29,
+        "meaningful_change": 436,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -3391,6 +3460,29 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "821e025e16bd41fd94a9bd96f1e9d666ec7b9bc4",
+      "message": "[Feat] 스테이지 생성 시스템",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/821e025e16bd41fd94a9bd96f1e9d666ec7b9bc4",
+      "date": "2026-10-06T13:45:02Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 23,
+        "additions": 1674,
+        "deletions": 1,
+        "meaningful_change": 1626,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "06c29162ed38586fd9aaa62a8c7e891b8ca8c8e0",
       "message": "[Chore] 누락된 내용 추가 커밋",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/06c29162ed38586fd9aaa62a8c7e891b8ca8c8e0",
@@ -5317,6 +5409,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "db19fed386cc96b865e31c3ee7720663a89896f6",
+      "message": "맵생성 조건 추가및 보완 다만 더 추가해야함",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/db19fed386cc96b865e31c3ee7720663a89896f6",
+      "date": "2026-10-06T12:45:27Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 1421,
+        "deletions": 666,
+        "meaningful_change": 2059,
+        "meaningful_file_count": 10,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "6d7312a558d58c20a1f66c57c5bd8f21f42cd1bf",
+      "message": "던전 생성 조건 생성 전 커및",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/6d7312a558d58c20a1f66c57c5bd8f21f42cd1bf",
+      "date": "2026-10-06T10:56:16Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 70,
+        "deletions": 16,
+        "meaningful_change": 86,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "d07367c1dab65973e4550e5f98a4831032f7c8fd",
+      "message": "인벤 시스템 ui 셋팅",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/d07367c1dab65973e4550e5f98a4831032f7c8fd",
+      "date": "2026-10-06T10:50:08Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 1382,
+        "deletions": 3892,
+        "meaningful_change": 5274,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -12033,6 +12194,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "ff0588f63c020aac43c5a26dfeaddfd0cb522345",
+      "message": "[Feat] Yuncity 기능 찐시티로 옮기기(발주기능, 라이트) & 발주 ui 오류수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/ff0588f63c020aac43c5a26dfeaddfd0cb522345",
+      "date": "2026-10-06T07:28:06Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 22470,
+        "deletions": 3478,
+        "meaningful_change": 25918,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
