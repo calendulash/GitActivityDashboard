@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 07. 04:18",
+  "updatedAt": "2026. 10. 07. 08:15",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -83,7 +83,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "21일 전",
+          "time": "22일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -149,7 +149,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -163,25 +163,25 @@
       "recent": [
         {
           "message": "[Feat] Sequence 기믹 제작",
-          "time": "오늘",
+          "time": "어제",
           "sha": "cfa9b19",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cfa9b1979ce1635039e19d04382f95543d12742d"
         },
         {
           "message": "[Build] 26.09.28 Build",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "d4529e0",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/d4529e0441b2bb7ad3ec9a341aebc20ac62a8b60"
         },
         {
           "message": "[chore] 누락 추가",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "46c82f2",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/46c82f2a4db97c3a2b4762d6b46fc3b032de9057"
         },
         {
           "message": "[Feat] Player & Enemy 속성 적용",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "1d735a5",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1d735a51612bdb1fd4e0efd30bfc05ba3fac616a"
         },
@@ -391,8 +391,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 29,
-      "activeDays": 7,
+      "commits": 28,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -401,8 +401,8 @@
         0,
         0,
         0,
-        12,
-        29
+        13,
+        28
       ],
       "recent": [
         {

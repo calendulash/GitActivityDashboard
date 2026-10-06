@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 07. 04:18",
+  "updatedAt": "2026. 10. 07. 08:15",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -12308,6 +12308,75 @@
         "meaningful_change": 0,
         "meaningful_file_count": 0,
         "suspicious_score": 95,
+        "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "1238a0501d3258dda005221f5eae9b014e2fa0cb",
+      "message": "[Fix] 주문 안받아지는 버그 수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/1238a0501d3258dda005221f5eae9b014e2fa0cb",
+      "date": "2026-10-06T22:50:41Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 650,
+        "deletions": 493,
+        "meaningful_change": 1143,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "0d1e5feb5af2a0b4ccc8ab024a3604be2dc270d7",
+      "message": "[Feat] 오토바이 운전도중 하차시 레그돌 상태 + Next day -> 오토바이 가게앞 스폰되게끔",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/0d1e5feb5af2a0b4ccc8ab024a3604be2dc270d7",
+      "date": "2026-10-06T22:02:42Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 1764,
+        "deletions": 2159,
+        "meaningful_change": 3923,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "0ff6c259e5f27e33e1dfba47fcb0105d6d429386",
+      "message": "[Fix] 토핑 Read/write 옵션 활성화",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/0ff6c259e5f27e33e1dfba47fcb0105d6d429386",
+      "date": "2026-10-06T21:59:20Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 3,
+        "deletions": 3,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
         "judgment": "뻥의심"
       }
     },
