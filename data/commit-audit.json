@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 07. 11:36",
+  "updatedAt": "2026. 10. 07. 18:36",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7554,6 +7554,52 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "214be604643a1b34cf7db32b0128e8b62c8f35f2",
+      "message": "[feat] 씬 재 생성",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/214be604643a1b34cf7db32b0128e8b62c8f35f2",
+      "date": "2026-10-07T09:12:08Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "surren01522-tech",
+      "gitAuthorName": "surren01522-tech",
+      "gitAuthorEmail": "surren01522@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 318,
+        "deletions": 338,
+        "meaningful_change": 630,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "c8565e708a3047879926e719ae50476726685324",
+      "message": "[feat] Chapter_01_level 씬 생성",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/c8565e708a3047879926e719ae50476726685324",
+      "date": "2026-10-07T08:49:50Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "surren01522-tech",
+      "gitAuthorName": "surren01522-tech",
+      "gitAuthorEmail": "surren01522@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 641,
+        "deletions": 0,
+        "meaningful_change": 634,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "65395bb17b0a4b606c961d867e2a2f0835499e11",
       "message": "[Feat] Addressable Import, 씬 로드 적용",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/65395bb17b0a4b606c961d867e2a2f0835499e11",
@@ -12355,6 +12401,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "862129b725b0864c8e50ecae35d2bd4a82a9de27",
+      "message": "[Feat] 발주 메뉴 재료 최대 보유갯수 제한 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/862129b725b0864c8e50ecae35d2bd4a82a9de27",
+      "date": "2026-10-07T04:08:47Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 76,
+        "deletions": 8,
+        "meaningful_change": 80,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "46cb397f7efff3af3d749e33724bf8d5eac327c2",
+      "message": "[Feat] 오전 가로등 추가",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/46cb397f7efff3af3d749e33724bf8d5eac327c2",
+      "date": "2026-10-07T03:56:26Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 26,
+        "deletions": 311,
+        "meaningful_change": 331,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
