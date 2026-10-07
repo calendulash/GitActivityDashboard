@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 08. 02:12",
+  "updatedAt": "2026. 10. 08. 07:11",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -169,7 +169,7 @@
         },
         {
           "message": "[Feat] Sequence 기믹 제작",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "cfa9b19",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cfa9b1979ce1635039e19d04382f95543d12742d"
         },
@@ -451,8 +451,8 @@
         0,
         0,
         2,
-        3,
-        2,
+        5,
+        0,
         8,
         0
       ],

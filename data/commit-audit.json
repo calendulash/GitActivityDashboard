@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 08. 02:12",
+  "updatedAt": "2026. 10. 08. 07:11",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7180,6 +7180,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "6c9529793ec85c0f13d434eb770b10c43d30e607",
+      "message": "[feat] 테스트 프로젝트에 게임 프레임워크 임포트",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/6c9529793ec85c0f13d434eb770b10c43d30e607",
+      "date": "2026-10-07T19:55:42Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "Tiphe0821",
+      "gitAuthorName": "Tiphe0821",
+      "gitAuthorEmail": "namucho24@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 110,
+        "additions": 7475,
+        "deletions": 0,
+        "meaningful_change": 7143,
+        "meaningful_file_count": 43,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
