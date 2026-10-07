@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 07. 08:15",
+  "updatedAt": "2026. 10. 07. 11:36",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -259,8 +259,8 @@
         0,
         2,
         9,
-        7,
-        30,
+        12,
+        25,
         17,
         17
       ],
@@ -450,8 +450,8 @@
       "weekly": [
         0,
         0,
-        1,
-        1,
+        2,
+        0,
         5,
         7,
         1
@@ -465,7 +465,7 @@
         },
         {
           "message": "[Feat] 스킬 SO 추가 및 턴 중에 스킬 고르는 UI 추가",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "f5a6663",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/f5a66635617366f11e6b232f51d5f932e0eabba7"
         },
@@ -495,8 +495,8 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 10,
-      "activeDays": 4,
+      "commits": 9,
+      "activeDays": 3,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
@@ -505,8 +505,8 @@
         0,
         0,
         0,
-        4,
-        10
+        5,
+        9
       ],
       "recent": [
         {
@@ -547,9 +547,9 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 6,
-      "activeDays": 2,
-      "lastCommit": "어제",
+      "commits": 7,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -558,9 +558,15 @@
         2,
         0,
         4,
-        6
+        7
       ],
       "recent": [
+        {
+          "message": "Update game genre and team member details in README",
+          "time": "오늘",
+          "sha": "08265a0",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/08265a0a39049ea5b3fb1a7ce686db98715c8a5b"
+        },
         {
           "message": "[Feat] 자동 전투 시스템 구현",
           "time": "어제",
@@ -584,12 +590,6 @@
           "time": "2일 전",
           "sha": "ca0b07d",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca0b07d5ce4e502569975732a6d608005be20914"
-        },
-        {
-          "message": "[Feat] 카드 시스템 복구",
-          "time": "2일 전",
-          "sha": "5491739",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/5491739b442b460b33818aad733d64be29d77a85"
         }
       ]
     },
