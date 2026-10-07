@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 10. 07. 18:36",
+  "updatedAt": "2026. 10. 08. 02:12",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "9e45c3eb20d82604c7c2fe4416c97682697753f7",
+      "message": "[feat] Q,W,E,R 버튼 이미지 추가",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/9e45c3eb20d82604c7c2fe4416c97682697753f7",
+      "date": "2026-10-07T09:58:09Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "jag123414",
+      "gitAuthorName": "jag123414",
+      "gitAuthorEmail": "a01040264560@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 468,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 4,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
     {
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
@@ -878,6 +901,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "1db2daa3b3dc78add34032f0cdb1509c988755fe",
+      "message": "[Feat] Rotation 기믹 구현",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1db2daa3b3dc78add34032f0cdb1509c988755fe",
+      "date": "2026-10-07T12:31:12Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "qkrgml59",
+      "gitAuthorName": "qkrgml59",
+      "gitAuthorEmail": "qkrgml59@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 9920,
+        "deletions": 144,
+        "meaningful_change": 10052,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -3552,6 +3598,29 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "989534b6cdb16a4733f0dcf5633302c454d23bd4",
+      "message": "[Feat] 노드3D로 변경, 스테이지 생성 및 진입까지 테스트 완료",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/989534b6cdb16a4733f0dcf5633302c454d23bd4",
+      "date": "2026-10-07T13:49:58Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 1199,
+        "deletions": 144,
+        "meaningful_change": 1329,
+        "meaningful_file_count": 10,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "821e025e16bd41fd94a9bd96f1e9d666ec7b9bc4",
       "message": "[Feat] 스테이지 생성 시스템",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/821e025e16bd41fd94a9bd96f1e9d666ec7b9bc4",
@@ -5507,6 +5576,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "1d8bf70e303a92efee5a9f18fe6b14a53fe9b783",
+      "message": "던전 랜덤 생성후 플레이어 이탈을 막기 위한 후처리 방 생성 시스템",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/1d8bf70e303a92efee5a9f18fe6b14a53fe9b783",
+      "date": "2026-10-07T10:14:13Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 1166,
+        "deletions": 0,
+        "meaningful_change": 1152,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "daed80f4222a73de789722cc2baa0e6567ff79a7",
       "message": "가는 길이 막혀 있는 방 프리팹 추가",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/daed80f4222a73de789722cc2baa0e6567ff79a7",
@@ -7088,6 +7180,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "c8746990aca663bb0e8096676dfa3a8527daa666",
+      "message": "모듈형 3D 프린터 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/c8746990aca663bb0e8096676dfa3a8527daa666",
+      "date": "2026-10-07T16:47:00Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "ih551311",
+      "gitAuthorName": "ih551311",
+      "gitAuthorEmail": "ih551311@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 1720,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
@@ -9210,6 +9325,29 @@
       "projectName": "1학년 A반 2팀",
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "branch": "main",
+      "sha": "879474584532d7b9cabbc0f8c64727ef58cfb906",
+      "message": "스토리 씬 수정",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/879474584532d7b9cabbc0f8c64727ef58cfb906",
+      "date": "2026-10-07T15:39:50Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "yubi369-bit",
+      "gitAuthorName": "Ducci",
+      "gitAuthorEmail": "Yubi369@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 31,
+        "additions": 718,
+        "deletions": 4191,
+        "meaningful_change": 4806,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
       "sha": "9c299ec321e24c6c7e84ee89b625b9b9222458a9",
       "message": "스토리씬",
       "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c299ec321e24c6c7e84ee89b625b9b9222458a9",
@@ -9618,6 +9756,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "615a0f06b7c83de775612485f7f6df7445986084",
+      "message": "다이얼로그 시스템 옮겼음",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/615a0f06b7c83de775612485f7f6df7445986084",
+      "date": "2026-10-07T13:26:31Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": null,
+      "gitAuthorName": "buff-nuff",
+      "gitAuthorEmail": "xogkswjd@g.shingu.ac.kr",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 305,
+        "deletions": 0,
+        "meaningful_change": 291,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "82c06472326387eeab69d1f6f5d4aa732c05ecac",
+      "message": "튜토 보스 돌진 패턴 및 2페이즈 패턴 세팅",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/82c06472326387eeab69d1f6f5d4aa732c05ecac",
+      "date": "2026-10-07T10:02:43Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": null,
+      "gitAuthorName": "buff-nuff",
+      "gitAuthorEmail": "xogkswjd@g.shingu.ac.kr",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 1073,
+        "deletions": 8,
+        "meaningful_change": 553,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
