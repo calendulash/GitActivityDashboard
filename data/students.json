@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 09. 01:45",
+  "updatedAt": "2026. 10. 09. 06:43",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -169,7 +169,7 @@
         },
         {
           "message": "[Feat] Sequence 기믹 제작",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "cfa9b19",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cfa9b1979ce1635039e19d04382f95543d12742d"
         },
@@ -391,8 +391,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 23,
-      "activeDays": 6,
+      "commits": 22,
+      "activeDays": 5,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
@@ -401,8 +401,8 @@
         0,
         0,
         0,
-        18,
-        23
+        19,
+        22
       ],
       "recent": [
         {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 09. 01:45",
+  "updatedAt": "2026. 10. 09. 06:43",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7623,6 +7623,29 @@
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
+      "sha": "3e722e2160af8d507f4578a00832ae5bfb1a433a",
+      "message": "[Feat] 함선 외형",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/3e722e2160af8d507f4578a00832ae5bfb1a433a",
+      "date": "2026-10-08T19:44:39Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "miwk26",
+      "gitAuthorName": "miwk26",
+      "gitAuthorEmail": "yshdjwue@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 11902,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
       "sha": "fae6a2628af14d8e737aa86065a671c077393836",
       "message": "[fix] 본 프로젝트 플레이어 컨트롤러 수정 & 카메라 무브먼트 수정",
       "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/fae6a2628af14d8e737aa86065a671c077393836",
@@ -8146,6 +8169,98 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "6c86ab3258ba57aa52280d0e3d4ff19722b071fd",
+      "message": "[Fix] 쉐이더 변수 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6c86ab3258ba57aa52280d0e3d4ff19722b071fd",
+      "date": "2026-10-08T20:26:40Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 8,
+        "deletions": 804,
+        "meaningful_change": 1,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "58cc62c7e6f64fbe6239670cc16af365541f4784",
+      "message": "[Feat] 쉐이더 최적화",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/58cc62c7e6f64fbe6239670cc16af365541f4784",
+      "date": "2026-10-08T20:22:47Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 3025,
+        "deletions": 14898,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 95,
+        "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "c1f2e1b13e4deb4d3776730f9c07e2f67bfd4757",
+      "message": "[Fix] 라이팅 조금더 자연스럽게 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/c1f2e1b13e4deb4d3776730f9c07e2f67bfd4757",
+      "date": "2026-10-08T20:15:59Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 46,
+        "deletions": 46,
+        "meaningful_change": 92,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "99c8677991c6fdd91ed20b5ba01423e7256aa265",
+      "message": "[Feat] 노이즈 라이팅 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/99c8677991c6fdd91ed20b5ba01423e7256aa265",
+      "date": "2026-10-08T20:08:13Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 19,
+        "additions": 24458,
+        "deletions": 857,
+        "meaningful_change": 3167,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
