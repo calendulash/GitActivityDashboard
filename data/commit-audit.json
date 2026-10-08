@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 08. 18:16",
+  "updatedAt": "2026. 10. 09. 01:45",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -5921,6 +5921,75 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "8bd64c2aede79db26d975eb8094a0c9e45662252",
+      "message": "패널,인벤토리 이미지 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/8bd64c2aede79db26d975eb8094a0c9e45662252",
+      "date": "2026-10-08T12:02:28Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": null,
+      "gitAuthorName": "choyeonjung134",
+      "gitAuthorEmail": "choyeonjung134@gamil.com",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 3,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "2317aa621f35ee85485092f80c4370d949fedf28",
+      "message": "던전 생성 버그 발생 수정 해야함",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/2317aa621f35ee85485092f80c4370d949fedf28",
+      "date": "2026-10-08T11:18:51Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 251,
+        "deletions": 4,
+        "meaningful_change": 248,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "e1e3fb5dc6ba897a3578478bcdcbc60195561731",
+      "message": "던전 플레이어 생성 밑 스테이지 이동 오브젝트 생성 시스템",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/e1e3fb5dc6ba897a3578478bcdcbc60195561731",
+      "date": "2026-10-08T10:34:26Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 19,
+        "additions": 1042,
+        "deletions": 1,
+        "meaningful_change": 1043,
+        "meaningful_file_count": 19,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "add8b84d1927a755ad040b944615020894faa774",
       "message": "던전 시스템 버그 수정",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/add8b84d1927a755ad040b944615020894faa774",
@@ -9733,6 +9802,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "582f80cb86ecd23534d01cc9a1f8fccff28e6e40",
+      "message": "[Feat] 전투 상황에 따라 점수가 증가하는 스타성 시스템 계산 및 구현",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/582f80cb86ecd23534d01cc9a1f8fccff28e6e40",
+      "date": "2026-10-08T11:56:45Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 317,
+        "deletions": 5,
+        "meaningful_change": 322,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "93b623bfadc88f5dc929cb0b5f66e8dbfe821bd9",
+      "message": "[Feat] 3스킬 사용을 통한 캐릭터 교대 기능 구현",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/93b623bfadc88f5dc929cb0b5f66e8dbfe821bd9",
+      "date": "2026-10-08T11:13:58Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 19,
+        "additions": 1497,
+        "deletions": 179,
+        "meaningful_change": 1372,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
