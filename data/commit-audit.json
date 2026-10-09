@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 09. 06:43",
+  "updatedAt": "2026. 10. 09. 10:38",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -5915,6 +5915,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "0c1937afb73d185fb5173f3334b2d907ac7ce436",
+      "message": "던전 생성 코드에 불필요한 코드 삭제",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/0c1937afb73d185fb5173f3334b2d907ac7ce436",
+      "date": "2026-10-08T23:12:38Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 629,
+        "deletions": 237,
+        "meaningful_change": 866,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "add97d5fd03744d3d108e103d9bcf921e9473def",
+      "message": "던전 생성 코드 플레이어 생성 버그 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/add97d5fd03744d3d108e103d9bcf921e9473def",
+      "date": "2026-10-08T22:46:41Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 651,
+        "deletions": 338,
+        "meaningful_change": 630,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
