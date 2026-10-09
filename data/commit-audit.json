@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 10. 00:29",
+  "updatedAt": "2026. 10. 10. 05:13",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7715,6 +7715,29 @@
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
+      "sha": "d835a3b12d97bb37d26b4c13b5a3c702d0758bbd",
+      "message": "[feat] 테스트 프로젝트 인벤토리 상호작용 구현",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/d835a3b12d97bb37d26b4c13b5a3c702d0758bbd",
+      "date": "2026-10-09T19:16:34Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "Tiphe0821",
+      "gitAuthorName": "Tiphe0821",
+      "gitAuthorEmail": "namucho24@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 73,
+        "deletions": 10,
+        "meaningful_change": 67,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
       "sha": "3e722e2160af8d507f4578a00832ae5bfb1a433a",
       "message": "[Feat] 함선 외형",
       "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/3e722e2160af8d507f4578a00832ae5bfb1a433a",
@@ -13321,6 +13344,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "0d821bdfa01b38aabaa0f93bd95d1bf50a8622de",
+      "message": "[Fix] 버그들 수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/0d821bdfa01b38aabaa0f93bd95d1bf50a8622de",
+      "date": "2026-10-09T19:55:01Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 1284,
+        "deletions": 196,
+        "meaningful_change": 1472,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
