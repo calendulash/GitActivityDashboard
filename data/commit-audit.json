@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 09. 17:14",
+  "updatedAt": "2026. 10. 10. 00:29",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -5915,6 +5915,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "9f7d898676f5c38e5fe113583d1bb3bcf4708407",
+      "message": "로켓 런처 이펙트 임시 구현",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/9f7d898676f5c38e5fe113583d1bb3bcf4708407",
+      "date": "2026-10-09T10:04:56Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "rlfahtwkqdl",
+      "gitAuthorName": "rlfahtwkqdl",
+      "gitAuthorEmail": "hongjunsu87@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 494,
+        "deletions": 2,
+        "meaningful_change": 455,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "3df7b0dec64692bc38adc079f53fd7dcbc827c64",
+      "message": "로켓런처 구현",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/3df7b0dec64692bc38adc079f53fd7dcbc827c64",
+      "date": "2026-10-09T09:44:38Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "rlfahtwkqdl",
+      "gitAuthorName": "rlfahtwkqdl",
+      "gitAuthorEmail": "hongjunsu87@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 921,
+        "deletions": 6,
+        "meaningful_change": 893,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
