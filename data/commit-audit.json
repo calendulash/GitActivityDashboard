@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 10. 05:13",
+  "updatedAt": "2026. 10. 10. 09:11",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -5915,6 +5915,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "10a8dba90a12b92a2144974b495bf64942e99867",
+      "message": "업적 ui 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/10a8dba90a12b92a2144974b495bf64942e99867",
+      "date": "2026-10-09T21:51:53Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "imnakyung",
+      "gitAuthorName": "imnakyung",
+      "gitAuthorEmail": "imnakyung1005@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 151,
+        "deletions": 420,
+        "meaningful_change": 428,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "0aeff1fcd0251d47756431f8377b13465cde3981",
+      "message": "타이틀 화면 버튼 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/0aeff1fcd0251d47756431f8377b13465cde3981",
+      "date": "2026-10-09T20:55:47Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "imnakyung",
+      "gitAuthorName": "imnakyung",
+      "gitAuthorEmail": "imnakyung1005@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 429,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 3,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
