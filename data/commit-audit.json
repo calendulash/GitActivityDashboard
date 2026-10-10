@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 10. 15:10",
+  "updatedAt": "2026. 10. 10. 21:52",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -1177,6 +1177,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "b501ee1928ab378d65082f3c048fee04db1a2604",
+      "message": "[Feat] 일시정지 메뉴 및 설정 자동 저장 방식으로 변경",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/b501ee1928ab378d65082f3c048fee04db1a2604",
+      "date": "2026-10-10T07:59:03Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "NunSaraam",
+      "gitAuthorName": "NunSaraam",
+      "gitAuthorEmail": "yjc22950037@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 29,
+        "additions": 8622,
+        "deletions": 6404,
+        "meaningful_change": 14979,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "cab85ae86c7b9fc4d281d383e64b2d1fb5b4c906",
+      "message": "[Feat] UI버튼 마우스 호버 이벤트 & UIPanel Base 제작",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cab85ae86c7b9fc4d281d383e64b2d1fb5b4c906",
+      "date": "2026-10-10T07:57:01Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "NunSaraam",
+      "gitAuthorName": "NunSaraam",
+      "gitAuthorEmail": "yjc22950037@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 235,
+        "deletions": 61,
+        "meaningful_change": 292,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "35febf48ef3b65acaf8ad6e3519da80a1fd473f9",
+      "message": "[Feat] GameManager 제작",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/35febf48ef3b65acaf8ad6e3519da80a1fd473f9",
+      "date": "2026-10-10T07:55:57Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "NunSaraam",
+      "gitAuthorName": "NunSaraam",
+      "gitAuthorEmail": "yjc22950037@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 183,
+        "deletions": 16,
+        "meaningful_change": 197,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -5921,6 +5990,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "0ec4011b02c83b8388c1bc094262d1515b9e88ae",
+      "message": "던전 적 생성 맵 클리어  시스템 버그 많음",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/0ec4011b02c83b8388c1bc094262d1515b9e88ae",
+      "date": "2026-10-10T08:48:26Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 21,
+        "additions": 2991,
+        "deletions": 2,
+        "meaningful_change": 2984,
+        "meaningful_file_count": 19,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "10a8dba90a12b92a2144974b495bf64942e99867",
       "message": "업적 ui 추가",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/10a8dba90a12b92a2144974b495bf64942e99867",
@@ -7755,6 +7847,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "a7d38ed2a8f4c2b593c18bc0e18d5cc05425298a",
+      "message": "[Feat] 폐기물 압축기 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/a7d38ed2a8f4c2b593c18bc0e18d5cc05425298a",
+      "date": "2026-10-10T08:04:48Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "ih551311",
+      "gitAuthorName": "ih551311",
+      "gitAuthorEmail": "ih551311@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 1406,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {

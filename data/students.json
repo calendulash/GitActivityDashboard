@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 10. 15:10",
+  "updatedAt": "2026. 10. 10. 21:52",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -63,7 +63,7 @@
       "repo": "jeolje934-dot/Placeholder_2026_1A_team-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "22일 전",
+      "lastCommit": "23일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -77,7 +77,7 @@
       "recent": [
         {
           "message": "[Feat] test 씬 입니다",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "ffde155",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/ffde1558b9f9d992394bd8810e756666f709a986"
         },
@@ -97,8 +97,8 @@
       "repo": "whxogud9090/4team_project_02",
       "commits": 3,
       "activeDays": 1,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
         0,
@@ -111,31 +111,31 @@
       "recent": [
         {
           "message": "물고기 등급 및 판매 상점 시스템 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "5506b0d",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/5506b0deff61c8855a27a70cfe6b3fe459c79513"
         },
         {
           "message": "낚시 상점 구매 시스템 및 재낚시 오류 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "2a18798",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/2a187985d6f7fcadea37b1e2d8ca685a6225f80d"
         },
         {
           "message": "낚시 상점 오브젝트 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "94e9c70",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/94e9c702eca7aad62677ade9173c555f38cf1939"
         },
         {
           "message": "주인공 걷기 모션 및 낚시 테스트 씬 개선",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "cb16f20",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/cb16f2049903e40e3ed5efb6acf8c373e25d1c8d"
         },
         {
           "message": "픽셀 호수 낚시 테스트 환경 구성",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "b3c8cce",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/b3c8cce2bedfdf67e3ec1ec530944eb9f5e6f12b"
         }
@@ -149,7 +149,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 2,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -163,7 +163,7 @@
       "recent": [
         {
           "message": "[Feat] Rotation 기믹 구현",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "1db2daa",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1db2daa3b3dc78add34032f0cdb1509c988755fe"
         },
@@ -233,7 +233,7 @@
         },
         {
           "message": "asset_ Fire Icon Anim",
-          "time": "43일 전",
+          "time": "44일 전",
           "sha": "cd47d9a",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cd47d9ad607dafcc73755a3bfdd5915a5bdac593"
         },
@@ -251,29 +251,29 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 15,
+      "commits": 14,
       "activeDays": 5,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
-        5,
-        6,
+        8,
+        3,
         32,
-        14,
-        14,
-        15
+        16,
+        13,
+        14
       ],
       "recent": [
         {
           "message": "[Feat] 스테이지 스크롤, 드래그 기능 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "47f12d0",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/47f12d05c67962b5ebce71aed541b159011bf26d"
         },
         {
           "message": "[Chore] 시작 스테이지 삭제, 스테이지 설명 패널 추가(연결)",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "3b7cd5c",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3b7cd5cb377e27165a125cfe918f070c608c494a"
         },
@@ -379,7 +379,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "30일 전",
+          "time": "31일 전",
           "sha": "343a6a3",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/343a6a31cb72fadfa41e3625d8988d3fcc159b23"
         }
@@ -445,7 +445,7 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 2,
       "activeDays": 1,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -459,19 +459,19 @@
       "recent": [
         {
           "message": "[Feat] 전투 상황에 따라 점수가 증가하는 스타성 시스템 계산 및 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "582f80c",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/582f80cb86ecd23534d01cc9a1f8fccff28e6e40"
         },
         {
           "message": "[Feat] 3스킬 사용을 통한 캐릭터 교대 기능 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "93b623b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/93b623bfadc88f5dc929cb0b5f66e8dbfe821bd9"
         },
         {
           "message": "[Feat] 적이 스킬 3개중 랜덤한 스킬 사용하도록 구현",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "9829517",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9829517eed6eafe9f7dc12ca0ebfccc74d6fde44"
         },
@@ -495,9 +495,9 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 4,
-      "activeDays": 2,
-      "lastCommit": "5일 전",
+      "commits": 2,
+      "activeDays": 1,
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         1,
@@ -505,13 +505,13 @@
         0,
         0,
         1,
-        9,
-        4
+        11,
+        2
       ],
       "recent": [
         {
           "message": "[Update] 플레이어 공격 히트박스 조정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "bcb8c90",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/bcb8c90fa5263d0cc44276257707f0b119260993"
         },
@@ -523,13 +523,13 @@
         },
         {
           "message": "[Feat]플레이어 공격 및 허수아비 추가(추가만 함 배치 안함)",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "4cf5345",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/4cf53459b3f8a16a22c4f3defd85526ba7e869ad"
         },
         {
           "message": "[Chore]타일맵 추가",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "d7c6a1d",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/d7c6a1dd2f49c0ce564157c1729daf5a88dc5f1a"
         },
@@ -569,7 +569,7 @@
         },
         {
           "message": "[Feat] 자동 전투 시스템 구현",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "b421c68",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/b421c68f08610e72c7c3e7f11105c8a89d02f7a6"
         },
@@ -587,7 +587,7 @@
         },
         {
           "message": "[Feat] 스킬 시스템 제거",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "ca0b07d",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca0b07d5ce4e502569975732a6d608005be20914"
         }
