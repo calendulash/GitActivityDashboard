@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 12. 01:33",
+  "updatedAt": "2026. 10. 12. 05:38",
   "students": [
     {
       "name": "2학년 1팀",
@@ -113,10 +113,10 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "5일 전",
-      "status": "watch",
+      "commits": 2,
+      "activeDays": 2,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -124,9 +124,15 @@
         0,
         0,
         1,
-        1
+        2
       ],
       "recent": [
+        {
+          "message": "[Feat] UI 에셋 추가",
+          "time": "오늘",
+          "sha": "bc78c25",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/bc78c2567e566e4a5e0ad4fddc926dd10d749bf4"
+        },
         {
           "message": "[Feat] 설정창 기획서 추가 & 초대, 방 시스템 수정",
           "time": "5일 전",
@@ -149,7 +155,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "4일 전",
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         1,
@@ -163,7 +169,7 @@
       "recent": [
         {
           "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "5781e38",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7"
         },
@@ -199,7 +205,7 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 10,
+      "commits": 12,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -210,9 +216,21 @@
         0,
         0,
         4,
-        10
+        12
       ],
       "recent": [
+        {
+          "message": "[Feat] 빌드 파일",
+          "time": "오늘",
+          "sha": "2b642b8",
+          "url": "https://github.com/23jihwan/7_tim/commit/2b642b8e83f97e8a0705832f6de02d156fdcef6e"
+        },
+        {
+          "message": "[Feat] 보스 이미지 생성",
+          "time": "오늘",
+          "sha": "a809423",
+          "url": "https://github.com/23jihwan/7_tim/commit/a8094238492b9892649e876d90d825b2bbb20740"
+        },
         {
           "message": "[Feat] 3단 조합 구현",
           "time": "오늘",
@@ -230,18 +248,6 @@
           "time": "오늘",
           "sha": "359986e",
           "url": "https://github.com/23jihwan/7_tim/commit/359986e7b6f9b3ced34ae44e86da4b49e81a761f"
-        },
-        {
-          "message": "[Feat]조합 시스템 구현",
-          "time": "2일 전",
-          "sha": "25bd5cc",
-          "url": "https://github.com/23jihwan/7_tim/commit/25bd5ccb9e602739570a621b94dc6fa70a28e6b4"
-        },
-        {
-          "message": "[Fix] 오류 수정",
-          "time": "3일 전",
-          "sha": "1a18a14",
-          "url": "https://github.com/23jihwan/7_tim/commit/1a18a14608e95a910f12bc772ad88dc3a7401599"
         }
       ]
     },
@@ -490,8 +496,8 @@
         0,
         4,
         3,
-        2,
-        1,
+        3,
+        0,
         4
       ],
       "recent": [
@@ -521,7 +527,7 @@
         },
         {
           "message": "[Fix] 플레이어 콜라이더, 씬 이동 방식 수정",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "2b668a4",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/2b668a437cf5d1c0fb17902d53eedac173b0183c"
         }
@@ -533,8 +539,8 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 4,
-      "activeDays": 3,
+      "commits": 9,
+      "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -544,38 +550,38 @@
         1,
         2,
         3,
-        4
+        9
       ],
       "recent": [
         {
-          "message": "[Feat] SafePuzzle 구현",
+          "message": "[chore] 타이틀 로고",
           "time": "오늘",
-          "sha": "3767731",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/3767731f1e9f40dc1c081ee1f91ed5b4d3b6ec16"
+          "sha": "c7d8d8a",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c7d8d8a7164a321370c10372f0699d667b504a1b"
         },
         {
-          "message": "[Feat] MagePuzzle 구현",
-          "time": "어제",
-          "sha": "6fa6cfe",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/6fa6cfe7d3a51ff4275c20211e1b55bd6772b8e5"
+          "message": "[chore] 폰트 추가",
+          "time": "오늘",
+          "sha": "56a589a",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/56a589a9421f0d3a0da0be2b1223cd868bd31c65"
         },
         {
-          "message": "[Feat] Rotation 기믹 구현",
-          "time": "4일 전",
-          "sha": "1db2daa",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/1db2daa3b3dc78add34032f0cdb1509c988755fe"
+          "message": "[Fix] 기믹 오류 수정",
+          "time": "오늘",
+          "sha": "7b70a12",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/7b70a121c207beafd62f644ccbd4bf0b6b19b9a5"
         },
         {
-          "message": "[Feat] Sequence 기믹 제작",
-          "time": "5일 전",
-          "sha": "cfa9b19",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cfa9b1979ce1635039e19d04382f95543d12742d"
+          "message": "[chore] 프로토타입 용 아트",
+          "time": "오늘",
+          "sha": "cb6b39f",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cb6b39f5893626b0576911921c26efc5b1b4d7f1"
         },
         {
-          "message": "[Build] 26.09.28 Build",
-          "time": "13일 전",
-          "sha": "d4529e0",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/d4529e0441b2bb7ad3ec9a341aebc20ac62a8b60"
+          "message": "[chore] 애니메이션 적용",
+          "time": "오늘",
+          "sha": "a239f2b",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/a239f2b3082b62b1ec4341b9b57bbf29dde7e859"
         }
       ]
     },
@@ -777,8 +783,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 12,
-      "activeDays": 3,
+      "commits": 6,
+      "activeDays": 2,
       "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
@@ -787,8 +793,8 @@
         0,
         0,
         9,
-        20,
-        12
+        26,
+        6
       ],
       "recent": [
         {
@@ -987,7 +993,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "4일 전",
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         1,
@@ -1001,7 +1007,7 @@
       "recent": [
         {
           "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "5781e38",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7"
         },
