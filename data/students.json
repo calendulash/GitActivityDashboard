@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 11. 05:57",
+  "updatedAt": "2026. 10. 11. 09:03",
   "students": [
     {
       "name": "1학년 B반 1팀",
@@ -83,7 +83,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "25일 전",
+          "time": "26일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -187,7 +187,7 @@
         },
         {
           "message": "[Build] 26.09.28 Build",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "d4529e0",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/d4529e0441b2bb7ad3ec9a341aebc20ac62a8b60"
         }
