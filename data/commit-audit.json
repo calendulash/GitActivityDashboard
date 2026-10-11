@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 11. 13:02",
+  "updatedAt": "2026. 10. 11. 19:40",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -3982,6 +3982,29 @@
         "meaningful_change": 9,
         "meaningful_file_count": 2,
         "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "b32cb98b0447b8b03e16a9bf5e70972d6fc14a94",
+      "message": "[Feat] 방문 노드 체크 표시",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b32cb98b0447b8b03e16a9bf5e70972d6fc14a94",
+      "date": "2026-10-11T08:57:57Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 298,
+        "deletions": 1,
+        "meaningful_change": 144,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
         "judgment": "정상"
       }
     },
@@ -10245,6 +10268,75 @@
       "projectName": "1학년 A반 2팀",
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "branch": "main",
+      "sha": "02ad14d807e66ae82d4ad2aaee7fb8c275e3d069",
+      "message": "[Fix] 해상도 조절 시 UI 위치가 이상해지는 오류 수정",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/02ad14d807e66ae82d4ad2aaee7fb8c275e3d069",
+      "date": "2026-10-11T10:30:52Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 89,
+        "deletions": 30,
+        "meaningful_change": 119,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "16207405258012abb671043d4ed66b43609c905f",
+      "message": "[Feat] 설정한 해상도 세팅을 PlayerPrefs로 저장하는 코드 추가",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/16207405258012abb671043d4ed66b43609c905f",
+      "date": "2026-10-11T10:17:37Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 55,
+        "deletions": 29,
+        "meaningful_change": 84,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "c77f4981c767643d519a8f4dcac962d37e2602d0",
+      "message": "[Feat] 메인 메뉴 해상도 조절 기능 추가",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/c77f4981c767643d519a8f4dcac962d37e2602d0",
+      "date": "2026-10-11T10:14:48Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 2130,
+        "deletions": 100,
+        "meaningful_change": 2220,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
       "sha": "582f80cb86ecd23534d01cc9a1f8fccff28e6e40",
       "message": "[Feat] 전투 상황에 따라 점수가 증가하는 스타성 시스템 계산 및 구현",
       "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/582f80cb86ecd23534d01cc9a1f8fccff28e6e40",
@@ -13551,6 +13643,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "b34e4b57b12917cadb5c238b5fc04f6ed1e3339c",
+      "message": "[Feat] 경찰 스폰 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/b34e4b57b12917cadb5c238b5fc04f6ed1e3339c",
+      "date": "2026-10-11T09:59:43Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 33,
+        "additions": 3654,
+        "deletions": 84,
+        "meaningful_change": 3703,
+        "meaningful_file_count": 27,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
