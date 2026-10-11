@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 12. 05:38",
+  "updatedAt": "2026. 10. 12. 08:57",
   "students": [
     {
       "name": "2학년 1팀",
@@ -113,7 +113,7 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 2,
+      "commits": 5,
       "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
@@ -124,9 +124,27 @@
         0,
         0,
         1,
-        2
+        5
       ],
       "recent": [
+        {
+          "message": "[Fix] 미션 오브젝트 수정, 게임 시간 수정",
+          "time": "오늘",
+          "sha": "7e1c3ad",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/7e1c3ad737cfc52fc409dc6706cd5bc3187c28a8"
+        },
+        {
+          "message": "[Fix] UI 수정",
+          "time": "오늘",
+          "sha": "e567b99",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/e567b9965ef2860c8250c583861b47c4ec4b83cf"
+        },
+        {
+          "message": "[Feat] UI 적용",
+          "time": "오늘",
+          "sha": "e7db311",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
+        },
         {
           "message": "[Feat] UI 에셋 추가",
           "time": "오늘",
@@ -135,15 +153,9 @@
         },
         {
           "message": "[Feat] 설정창 기획서 추가 & 초대, 방 시스템 수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "9b3cba1",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/9b3cba1e15266c3747bee3656684c1a9cb0e8e68"
-        },
-        {
-          "message": "[Feat] 이동, 체력, 스태미너, 게임 진행, 로비 시스템 기획서",
-          "time": "7일 전",
-          "sha": "143bf8a",
-          "url": "https://github.com/ahyun04/26TeamProject_2/commit/143bf8afc728615547320f6e457d6417d3b97e5d"
         }
       ]
     },
@@ -423,7 +435,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -548,8 +560,8 @@
         0,
         3,
         1,
-        2,
-        3,
+        5,
+        0,
         9
       ],
       "recent": [
