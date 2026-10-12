@@ -1,11 +1,57 @@
 {
-  "updatedAt": "2026. 10. 12. 08:57",
+  "updatedAt": "2026. 10. 12. 12:24",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "bb24ad29105e2e5445b2d980e97e4409959b1ba9",
+      "message": "[Feat] 해금 시 카메라가 열린 방 비추기 + P2 안내 문구 옆으로 이동",
+      "url": "https://github.com/suyan05/PharaohCube/commit/bb24ad29105e2e5445b2d980e97e4409959b1ba9",
+      "date": "2026-10-12T03:15:13Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 452,
+        "deletions": 48,
+        "meaningful_change": 500,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "c90a45dfa3132db12c0983e9b7c87d92bc09b6b9",
+      "message": "[Feat] 구역 해금 연출 추가 + P2 조각 삽입 오류 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/c90a45dfa3132db12c0983e9b7c87d92bc09b6b9",
+      "date": "2026-10-12T03:03:20Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 16,
+        "additions": 6043,
+        "deletions": 2915,
+        "meaningful_change": 8956,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2256,52 +2302,6 @@
         "deletions": 0,
         "meaningful_change": 723,
         "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "93b7d5e3710e4ba8cf5517bbbff9aa74b7543a70",
-      "message": "[feat] 아누비스 메인 퍼즐 레버 및 암무트 리셋 로직 구현",
-      "url": "https://github.com/suyan05/PharaohCube/commit/93b7d5e3710e4ba8cf5517bbbff9aa74b7543a70",
-      "date": "2026-09-25T12:05:46Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 10,
-        "additions": 4108,
-        "deletions": 2365,
-        "meaningful_change": 6469,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "157c77aca7a5b2490f8db7b360d317e096f8a5f7",
-      "message": "[Fix] P2 단계별 필요 조각 판정 추가 (초기 거울로 서브 퍼즐 우회 방지)",
-      "url": "https://github.com/suyan05/PharaohCube/commit/157c77aca7a5b2490f8db7b360d317e096f8a5f7",
-      "date": "2026-09-25T10:22:49Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 40,
-        "deletions": 12,
-        "meaningful_change": 52,
-        "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -17375,6 +17375,29 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "95ec1734240627e36e5c56e5b9541ece39b748b4",
+      "message": "[Chore] 빌드, 스테이지 층수 9>17로 변경",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/95ec1734240627e36e5c56e5b9541ece39b748b4",
+      "date": "2026-10-12T01:12:17Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 6,
+        "deletions": 4,
+        "meaningful_change": 4,
+        "meaningful_file_count": 2,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "00f60f119c3df017abeb341a2cf045fca6490deb",
       "message": "[Chore] 메인시작씬 생성",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/00f60f119c3df017abeb341a2cf045fca6490deb",
@@ -19577,6 +19600,144 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "dc3874cf593960274383df62edd435ceaa6cde3b",
+      "message": "리소스 리부트",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/dc3874cf593960274383df62edd435ceaa6cde3b",
+      "date": "2026-10-12T02:17:17Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 242,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "ad6598852eb9e84cfb591f4cc83a925df87fa511",
+      "message": "Reapply \"던전 생성 버그 수정\"",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/ad6598852eb9e84cfb591f4cc83a925df87fa511",
+      "date": "2026-10-12T01:49:26Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 246,
+        "deletions": 85,
+        "meaningful_change": 331,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "4b5298bd0c05e0f8ddef4e0c856189d22a9a55c1",
+      "message": "Merge branch 'main' of https://github.com/tjd6356-afk/2-_-",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/4b5298bd0c05e0f8ddef4e0c856189d22a9a55c1",
+      "date": "2026-10-12T00:57:32Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 2,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "25e0823d15d43103eb56b43be82d49b04ae29028",
+      "message": "Revert \"던전 생성 버그 수정\"",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/25e0823d15d43103eb56b43be82d49b04ae29028",
+      "date": "2026-10-12T00:56:31Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 85,
+        "deletions": 246,
+        "meaningful_change": 331,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "68aa5e51374ad16dd845aaa4e5c3732c0caffde5",
+      "message": "던전 생성 버그 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/68aa5e51374ad16dd845aaa4e5c3732c0caffde5",
+      "date": "2026-10-12T00:55:50Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 246,
+        "deletions": 85,
+        "meaningful_change": 331,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "adf0dc690dcfa226f65ff66b9ac4f72ce9c13ada",
+      "message": "장수풍뎅이 NPC 이미지 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/adf0dc690dcfa226f65ff66b9ac4f72ce9c13ada",
+      "date": "2026-10-12T00:55:02Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "ksmxxx-glitch",
+      "gitAuthorName": "ksmxxx-glitch",
+      "gitAuthorEmail": "ksm071010@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 2,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
