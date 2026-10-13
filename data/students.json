@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 14. 02:25",
+  "updatedAt": "2026. 10. 14. 07:04",
   "students": [
     {
       "name": "2학년 1팀",
@@ -9,8 +9,8 @@
       "team": "suyan05",
       "github": "suyan05",
       "repo": "suyan05/PharaohCube",
-      "commits": 8,
-      "activeDays": 2,
+      "commits": 6,
+      "activeDays": 1,
       "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
@@ -19,8 +19,8 @@
         0,
         0,
         0,
-        0,
-        8
+        2,
+        6
       ],
       "recent": [
         {
@@ -147,13 +147,13 @@
         },
         {
           "message": "[Feat] UI 적용",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "e7db311",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
         },
         {
           "message": "[Feat] UI 에셋 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "bc78c25",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/bc78c2567e566e4a5e0ad4fddc926dd10d749bf4"
         }
@@ -239,13 +239,13 @@
         },
         {
           "message": "[Feat] 빌드 파일",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "2b642b8",
           "url": "https://github.com/23jihwan/7_tim/commit/2b642b8e83f97e8a0705832f6de02d156fdcef6e"
         },
         {
           "message": "[Feat] 보스 이미지 생성",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "a809423",
           "url": "https://github.com/23jihwan/7_tim/commit/a8094238492b9892649e876d90d825b2bbb20740"
         },
@@ -506,8 +506,8 @@
       "weekly": [
         0,
         3,
-        1,
-        3,
+        2,
+        2,
         3,
         0,
         4
@@ -539,7 +539,7 @@
         },
         {
           "message": "[Fix] 플레이어 콜라이더, 씬 이동 방식 수정",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "2b668a4",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/2b668a437cf5d1c0fb17902d53eedac173b0183c"
         }
@@ -553,7 +553,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 8,
       "activeDays": 3,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -567,31 +567,31 @@
       "recent": [
         {
           "message": "[chore] 타이틀 로고",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "c7d8d8a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c7d8d8a7164a321370c10372f0699d667b504a1b"
         },
         {
           "message": "[chore] 폰트 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "56a589a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/56a589a9421f0d3a0da0be2b1223cd868bd31c65"
         },
         {
           "message": "[Fix] 기믹 오류 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "7b70a12",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/7b70a121c207beafd62f644ccbd4bf0b6b19b9a5"
         },
         {
           "message": "[chore] 프로토타입 용 아트",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "cb6b39f",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cb6b39f5893626b0576911921c26efc5b1b4d7f1"
         },
         {
           "message": "[chore] 애니메이션 적용",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "a239f2b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/a239f2b3082b62b1ec4341b9b57bbf29dde7e859"
         }
@@ -804,8 +804,8 @@
         0,
         0,
         0,
-        10,
-        31,
+        13,
+        28,
         0
       ],
       "recent": [
