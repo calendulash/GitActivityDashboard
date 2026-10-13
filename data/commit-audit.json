@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 13. 05:31",
+  "updatedAt": "2026. 10. 13. 11:21",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -13051,6 +13051,29 @@
       "projectName": "2학년 6팀",
       "repo": "jeonghyerin002/2026_2TeamProject",
       "branch": "main",
+      "sha": "4e19bdcd710e003db6c7c83fbfa926c91b8a1a01",
+      "message": "[Refactor] AGENTS.md 한글로 변경",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/4e19bdcd710e003db6c7c83fbfa926c91b8a1a01",
+      "date": "2026-10-13T00:55:59Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "blocks2094",
+      "gitAuthorName": "HyunWoo",
+      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 3,
+        "deletions": 400,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
       "sha": "ee00e63d3712f8c684ae1ac3bc9eb48987f481e4",
       "message": "[Fix] 플레이어 이미지 오류 수정",
       "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ee00e63d3712f8c684ae1ac3bc9eb48987f481e4",
@@ -19761,6 +19784,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "702c127976ecebd47990a09f5b89c33f36655fa7",
+      "message": "던전 이동 시스템 씬 리로드 버그 있음",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/702c127976ecebd47990a09f5b89c33f36655fa7",
+      "date": "2026-10-13T01:49:46Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 9,
+        "additions": 1195,
+        "deletions": 20,
+        "meaningful_change": 1209,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "8697269b3c66f19c60602b722b22d5ac9c6c7675",
+      "message": "던전 이동 시스템 만들기 전 커및",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/8697269b3c66f19c60602b722b22d5ac9c6c7675",
+      "date": "2026-10-13T01:07:49Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 235,
+        "deletions": 218,
+        "meaningful_change": 453,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "7aa87ff350b4ad3dfb8ecd4858729bef06806d33",
+      "message": "스테이지 이동 시스템 UI 배치",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/7aa87ff350b4ad3dfb8ecd4858729bef06806d33",
+      "date": "2026-10-13T00:27:05Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 1712,
+        "deletions": 1140,
+        "meaningful_change": 2852,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
