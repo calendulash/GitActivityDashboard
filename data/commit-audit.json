@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 15. 05:04",
+  "updatedAt": "2026. 10. 15. 07:58",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -23119,6 +23119,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "eacffc9d968b6d6119a72891e2658bd14e9fdd22",
+      "message": "[Feat] 장착된 아이템 회수 및 완료 판단 조건 변경",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eacffc9d968b6d6119a72891e2658bd14e9fdd22",
+      "date": "2026-10-14T21:25:38Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 112,
+        "deletions": 88,
+        "meaningful_change": 200,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

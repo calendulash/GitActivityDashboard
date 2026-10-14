@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 15. 05:04",
+  "updatedAt": "2026. 10. 15. 07:58",
   "students": [
     {
       "name": "2학년 1팀",
@@ -135,19 +135,19 @@
         },
         {
           "message": "[Fix] 미션 오브젝트 수정, 게임 시간 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "7e1c3ad",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/7e1c3ad737cfc52fc409dc6706cd5bc3187c28a8"
         },
         {
           "message": "[Fix] UI 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "e567b99",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e567b9965ef2860c8250c583861b47c4ec4b83cf"
         },
         {
           "message": "[Feat] UI 적용",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "e7db311",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
         },
@@ -435,7 +435,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "29일 전",
+          "time": "30일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -795,10 +795,10 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "8일 전",
-      "status": "inactive",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -806,9 +806,15 @@
         0,
         13,
         28,
-        0
+        1
       ],
       "recent": [
+        {
+          "message": "[Feat] 장착된 아이템 회수 및 완료 판단 조건 변경",
+          "time": "오늘",
+          "sha": "eacffc9",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eacffc9d968b6d6119a72891e2658bd14e9fdd22"
+        },
         {
           "message": "[Feat] Addressable Import, 씬 로드 적용",
           "time": "8일 전",
@@ -832,12 +838,6 @@
           "time": "9일 전",
           "sha": "19dad3f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/19dad3f19d161347db273746c6d7a94294081de9"
-        },
-        {
-          "message": "[Feat] Seamless, 비동기 로드 시스템",
-          "time": "9일 전",
-          "sha": "1872991",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1872991acde657289b8425624eca394701e7da83"
         }
       ]
     },
