@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 14. 14:50",
+  "updatedAt": "2026. 10. 14. 19:59",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -25350,6 +25350,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "9f9c9a8a1e78dd1bcc012a73bcb4018d0c97d76d",
+      "message": "[Feat] 플레이어 어택 방식 수정",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9f9c9a8a1e78dd1bcc012a73bcb4018d0c97d76d",
+      "date": "2026-10-14T10:34:35Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 46,
+        "additions": 78361,
+        "deletions": 565,
+        "meaningful_change": 78857,
+        "meaningful_file_count": 20,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

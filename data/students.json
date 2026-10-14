@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 14. 14:50",
+  "updatedAt": "2026. 10. 14. 19:59",
   "students": [
     {
       "name": "2학년 1팀",
@@ -67,8 +67,8 @@
       "status": "watch",
       "weekly": [
         0,
-        2,
-        2,
+        3,
+        1,
         0,
         4,
         7,
@@ -83,7 +83,7 @@
         },
         {
           "message": "[Feat] 자동 전투 시스템 구현",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "b421c68",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/b421c68f08610e72c7c3e7f11105c8a89d02f7a6"
         },
@@ -101,7 +101,7 @@
         },
         {
           "message": "[Feat] 스킬 시스템 제거",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "ca0b07d",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca0b07d5ce4e502569975732a6d608005be20914"
         }
@@ -115,7 +115,7 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 5,
       "activeDays": 2,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -129,7 +129,7 @@
       "recent": [
         {
           "message": "[Fix] 발전기 미션 오류 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "684c5ec",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/684c5ec469ee147c0e925c676fbd22fb67b0c26d"
         },
@@ -269,18 +269,18 @@
       "team": "esuvean",
       "github": "esuvean",
       "repo": "esuvean/PRESS-START_",
-      "commits": 4,
-      "activeDays": 2,
+      "commits": 1,
+      "activeDays": 1,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
-        1,
+        0,
         3,
         1,
         6,
         2,
-        2,
-        4
+        5,
+        1
       ],
       "recent": [
         {
@@ -291,19 +291,19 @@
         },
         {
           "message": "[Feat] 글자, 배경, 난이도 조절",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "ca2ccb3",
           "url": "https://github.com/esuvean/PRESS-START_/commit/ca2ccb30bd8dffa7eae6e8d03759339d3d16189e"
         },
         {
           "message": "[Fix] 노이즈 추가 완료",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "e1a6f0b",
           "url": "https://github.com/esuvean/PRESS-START_/commit/e1a6f0bddb77474f75085dfd34cdb31f10b61c76"
         },
         {
           "message": "[Fix] 노이즈 수정중",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "9234ce5",
           "url": "https://github.com/esuvean/PRESS-START_/commit/9234ce54bbb3c3e66231f45407e5f8a225aeb877"
         },
@@ -330,8 +330,8 @@
         0,
         0,
         0,
-        0,
-        3,
+        2,
+        1,
         0
       ],
       "recent": [
@@ -343,13 +343,13 @@
         },
         {
           "message": "1",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "7526ba2",
           "url": "https://github.com/Sine-aw/nohesitate/commit/7526ba2201fb5cf494a83144bdf5fa775783ba67"
         },
         {
           "message": "Initial commit",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "961d453",
           "url": "https://github.com/Sine-aw/nohesitate/commit/961d4534e191a30bd657036794b3c9f9745507f6"
         }
@@ -363,7 +363,7 @@
       "repo": "simo07d7PG/Team_JJAMBBAP",
       "commits": 6,
       "activeDays": 2,
-      "lastCommit": "5일 전",
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -377,13 +377,13 @@
       "recent": [
         {
           "message": "refactor: 카페 맵 오브젝트를 프리팹으로 정리",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "a7847f2",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a7847f2e2042793df0f53c070522f77a4ae872e9"
         },
         {
           "message": "Add CODEOWNERS",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "b645314",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b645314d0cd9e08f7baeb806929a91e5d4a942ba"
         },
@@ -415,7 +415,7 @@
       "repo": "jeolje934-dot/Placeholder_2026_1A_team-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "26일 전",
+      "lastCommit": "27일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -429,7 +429,7 @@
       "recent": [
         {
           "message": "[Feat] test 씬 입니다",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "ffde155",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/ffde1558b9f9d992394bd8810e756666f709a986"
         },
@@ -449,8 +449,8 @@
       "repo": "whxogud9090/4team_project_02",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "7일 전",
-      "status": "watch",
+      "lastCommit": "8일 전",
+      "status": "inactive",
       "weekly": [
         0,
         0,
@@ -463,25 +463,25 @@
       "recent": [
         {
           "message": "물고기 등급 및 판매 상점 시스템 추가",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "5506b0d",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/5506b0deff61c8855a27a70cfe6b3fe459c79513"
         },
         {
           "message": "낚시 상점 구매 시스템 및 재낚시 오류 수정",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "2a18798",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/2a187985d6f7fcadea37b1e2d8ca685a6225f80d"
         },
         {
           "message": "낚시 상점 오브젝트 추가",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "94e9c70",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/94e9c702eca7aad62677ade9173c555f38cf1939"
         },
         {
           "message": "주인공 걷기 모션 및 낚시 테스트 씬 개선",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "cb16f20",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/cb16f2049903e40e3ed5efb6acf8c373e25d1c8d"
         },
@@ -527,13 +527,13 @@
         },
         {
           "message": "[Fix]이미지 화질 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "13bb0d2",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/13bb0d2a96f2f085fbca5b63f002e17713bc80d6"
         },
         {
           "message": "[Feat] 리소스 업로드",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "7e8111e",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/7e8111e93c9bff580d23f03dbcbd778048a388c1"
         },
@@ -662,8 +662,8 @@
       "weekly": [
         2,
         9,
-        15,
-        22,
+        17,
+        20,
         17,
         17,
         15
@@ -755,8 +755,8 @@
       "status": "inactive",
       "weekly": [
         0,
-        0,
-        2,
+        1,
+        1,
         1,
         1,
         0,
@@ -783,7 +783,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "34일 전",
+          "time": "35일 전",
           "sha": "343a6a3",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/343a6a31cb72fadfa41e3625d8988d3fcc159b23"
         }
@@ -849,7 +849,7 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 10,
       "activeDays": 3,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -863,31 +863,31 @@
       "recent": [
         {
           "message": "[Fix] 명성은 최대 300까지만 얻을 수 있도록 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "6f25a69",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/6f25a69dce867bfa66454e1507cd6dd0eeb5947a"
         },
         {
           "message": "[Fix] 스킬 3 사용 후 적이 전부 죽었음에도 교대 팝업이 뜨는 오류 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "baea266",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/baea266e3b4e9879cf16ae2064e2c22b9fa20fbd"
         },
         {
           "message": "[Feat] 전투 클리어 후 통계표가 나오는 애니메이션 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "2155967",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/2155967ff8df01f6f93a54050c5498cf6d20192e"
         },
         {
           "message": "[Feat] 전투 클리어 후 통계표 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "df2f190",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/df2f1901e9aaa31d84372e372a8e6741a6705989"
         },
         {
           "message": "[Feat] 스테이지 클리어시 스타성 획득량에 따른 명성(재화) 지급",
-          "time": "오늘",
+          "time": "어제",
           "sha": "25b9dd2",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/25b9dd24b94d710b10bd12e663d8a11568c90008"
         }
@@ -899,8 +899,8 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 4,
-      "activeDays": 2,
+      "commits": 5,
+      "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -910,38 +910,38 @@
         0,
         5,
         9,
-        4
+        5
       ],
       "recent": [
         {
-          "message": "[Feat]플레이어 어택 모션 추가(임시)",
+          "message": "[Feat] 플레이어 어택 방식 수정",
           "time": "오늘",
+          "sha": "9f9c9a8",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9f9c9a8a1e78dd1bcc012a73bcb4018d0c97d76d"
+        },
+        {
+          "message": "[Feat]플레이어 어택 모션 추가(임시)",
+          "time": "어제",
           "sha": "0ab8d2e",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0ab8d2e004d0f8a2b400edd71228a5e38d89b879"
         },
         {
           "message": "폴더 정리",
-          "time": "오늘",
+          "time": "어제",
           "sha": "8ed2fcb",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/8ed2fcb6c282cb4f4817b9186ac4586d3305d1a5"
         },
         {
           "message": "[Feat] 인벤토리 및 아이템 셋팅",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "89cb3b0",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89cb3b0143cbbc47abe09b6fc121d5a2821df265"
         },
         {
           "message": "으아악 일단 커밋",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "540384a",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/540384a9daeee9fe61091b9efa03d0271577be8e"
-        },
-        {
-          "message": "[Update] 플레이어 공격 히트박스 조정",
-          "time": "9일 전",
-          "sha": "bcb8c90",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/bcb8c90fa5263d0cc44276257707f0b119260993"
         }
       ]
     },
@@ -957,8 +957,8 @@
       "status": "watch",
       "weekly": [
         0,
-        2,
-        2,
+        3,
+        1,
         0,
         4,
         7,
@@ -973,7 +973,7 @@
         },
         {
           "message": "[Feat] 자동 전투 시스템 구현",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "b421c68",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/b421c68f08610e72c7c3e7f11105c8a89d02f7a6"
         },
@@ -991,7 +991,7 @@
         },
         {
           "message": "[Feat] 스킬 시스템 제거",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "ca0b07d",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca0b07d5ce4e502569975732a6d608005be20914"
         }
