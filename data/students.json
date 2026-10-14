@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 14. 09:56",
+  "updatedAt": "2026. 10. 14. 14:50",
   "students": [
     {
       "name": "2학년 1팀",
@@ -89,13 +89,13 @@
         },
         {
           "message": "[Feat] 뽑을 카드/버린 카드 더미 임시 UI 구현",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "59e230c",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/59e230c3754ed72edb9e07efe27a6bcfefa60414"
         },
         {
           "message": "[Feat] 몬스터 시스템 제거",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "d27e4f3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d27e4f3d4cab0fecd36dd7177ec5c65f2527b13d"
         },
@@ -187,13 +187,13 @@
         },
         {
           "message": "[Feat] 네비게이션 경로 계산",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "82745be",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/82745bebdd4aefa835deb7a885a6420e54ec0433"
         },
         {
           "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "24일 전",
+          "time": "25일 전",
           "sha": "bf75dba",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         },
@@ -269,18 +269,18 @@
       "team": "esuvean",
       "github": "esuvean",
       "repo": "esuvean/PRESS-START_",
-      "commits": 5,
+      "commits": 4,
       "activeDays": 2,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         1,
         3,
-        0,
-        7,
-        2,
         1,
-        5
+        6,
+        2,
+        2,
+        4
       ],
       "recent": [
         {
@@ -309,7 +309,7 @@
         },
         {
           "message": "[Feat] 챕터2 중간에 노이즈 현상 추가중",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "102870c",
           "url": "https://github.com/esuvean/PRESS-START_/commit/102870cfc763c46f60480602cff8b362b0934d81"
         }
@@ -323,8 +323,8 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "7일 전",
-      "status": "watch",
+      "lastCommit": "8일 전",
+      "status": "inactive",
       "weekly": [
         0,
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "2",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         },
@@ -389,7 +389,7 @@
         },
         {
           "message": "chore: .vscode 폴더를 추적에서 제외",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "b86172e",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b86172e50421c162e21452976e82f68d1853b9ec"
         },
@@ -655,23 +655,41 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 12,
-      "activeDays": 4,
-      "lastCommit": "어제",
+      "commits": 15,
+      "activeDays": 5,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
         9,
-        9,
-        28,
+        15,
+        22,
         17,
         17,
-        12
+        15
       ],
       "recent": [
         {
+          "message": "[Feat] 소프트 보정 클래스 추가",
+          "time": "오늘",
+          "sha": "30bdd9a",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/30bdd9abcdfae63e37c989bdb65ca527add9e9f0"
+        },
+        {
+          "message": "[Feat] 랭크데이터 중간다리 랭크DBSO 작성, 카드DBSO 수정",
+          "time": "오늘",
+          "sha": "b3489cf",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b3489cf09e34b86fcb641f95c94cac8d8edbfcd7"
+        },
+        {
+          "message": "[Feat] 등급별 데이터 리스트 저장. 데이터베이스 구조 수정",
+          "time": "오늘",
+          "sha": "f6bda10",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/f6bda1046c22353d79a979e96a71d7d26012c537"
+        },
+        {
           "message": "[Chore] 빌드, 스테이지 층수 9>17로 변경",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "95ec173",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/95ec1734240627e36e5c56e5b9541ece39b748b4"
         },
@@ -680,24 +698,6 @@
           "time": "2일 전",
           "sha": "00f60f1",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/00f60f119c3df017abeb341a2cf045fca6490deb"
-        },
-        {
-          "message": "[Feat] 로컬라이제이션 패키지 통해 언어 갱신",
-          "time": "2일 전",
-          "sha": "fd72be0",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/fd72be062b98b0582cc113b38105afc5131a32b3"
-        },
-        {
-          "message": "[Chore] 프리팹 폴더 정리",
-          "time": "2일 전",
-          "sha": "6e4530c",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/6e4530c7ca8f1c7f9e6dfec67b320568c5fc11e8"
-        },
-        {
-          "message": "[Fix] 상점씬 이벤트 시스템 추가",
-          "time": "2일 전",
-          "sha": "197bcde",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/197bcdec6551adaf9f987e8e235b6d0bf630c183"
         }
       ]
     },
@@ -777,7 +777,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "33일 전",
+          "time": "34일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -853,8 +853,8 @@
       "status": "active",
       "weekly": [
         0,
-        1,
-        1,
+        2,
+        0,
         5,
         7,
         1,
@@ -908,8 +908,8 @@
         0,
         0,
         0,
-        4,
-        10,
+        5,
+        9,
         4
       ],
       "recent": [
@@ -979,13 +979,13 @@
         },
         {
           "message": "[Feat] 뽑을 카드/버린 카드 더미 임시 UI 구현",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "59e230c",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/59e230c3754ed72edb9e07efe27a6bcfefa60414"
         },
         {
           "message": "[Feat] 몬스터 시스템 제거",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "d27e4f3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d27e4f3d4cab0fecd36dd7177ec5c65f2527b13d"
         },
@@ -1025,13 +1025,13 @@
         },
         {
           "message": "[Feat] 네비게이션 경로 계산",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "82745be",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/82745bebdd4aefa835deb7a885a6420e54ec0433"
         },
         {
           "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "24일 전",
+          "time": "25일 전",
           "sha": "bf75dba",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         },
