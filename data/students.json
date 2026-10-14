@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 15. 00:47",
+  "updatedAt": "2026. 10. 15. 05:04",
   "students": [
     {
       "name": "2학년 1팀",
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Feat] UI 에셋 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "bc78c25",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/bc78c2567e566e4a5e0ad4fddc926dd10d749bf4"
         }
@@ -193,7 +193,7 @@
         },
         {
           "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "5781e38",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7"
         },
@@ -239,25 +239,25 @@
         },
         {
           "message": "[Feat] 빌드 파일",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "2b642b8",
           "url": "https://github.com/23jihwan/7_tim/commit/2b642b8e83f97e8a0705832f6de02d156fdcef6e"
         },
         {
           "message": "[Feat] 보스 이미지 생성",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "a809423",
           "url": "https://github.com/23jihwan/7_tim/commit/a8094238492b9892649e876d90d825b2bbb20740"
         },
         {
           "message": "[Feat] 3단 조합 구현",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "c525bd9",
           "url": "https://github.com/23jihwan/7_tim/commit/c525bd9e7fbbb321c3f28fc9562306dd098d59ce"
         },
         {
           "message": "[Feat] 엘리트 몬스터 이미지 및 보스 몬스터 스크립트 생성",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "8607ed5",
           "url": "https://github.com/23jihwan/7_tim/commit/8607ed58ac4c3a2e27456ed14108dabb95539682"
         }
@@ -361,8 +361,8 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 6,
-      "activeDays": 2,
+      "commits": 3,
+      "activeDays": 1,
       "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
@@ -371,8 +371,8 @@
         2,
         0,
         2,
-        9,
-        6
+        12,
+        3
       ],
       "recent": [
         {
@@ -395,13 +395,13 @@
         },
         {
           "message": "feat: 얼음 담기 연출 보완",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "7182082",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718208293bf3f8a1358b3e1d241cbd9020433933"
         },
         {
           "message": "fix: 얼음 스쿱 이동 제한",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "718435a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718435a8d82ee06c8b80277cc5b302fe76e95fa4"
         }
@@ -539,7 +539,7 @@
         },
         {
           "message": "[Fix] 플레이어 콜라이더, 씬 이동 방식 수정",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "2b668a4",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/2b668a437cf5d1c0fb17902d53eedac173b0183c"
         }
@@ -553,7 +553,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 7,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -567,31 +567,31 @@
       "recent": [
         {
           "message": "[chore] 타이틀 로고",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "c7d8d8a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c7d8d8a7164a321370c10372f0699d667b504a1b"
         },
         {
           "message": "[chore] 폰트 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "56a589a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/56a589a9421f0d3a0da0be2b1223cd868bd31c65"
         },
         {
           "message": "[Fix] 기믹 오류 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "7b70a12",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/7b70a121c207beafd62f644ccbd4bf0b6b19b9a5"
         },
         {
           "message": "[chore] 프로토타입 용 아트",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "cb6b39f",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cb6b39f5893626b0576911921c26efc5b1b4d7f1"
         },
         {
           "message": "[chore] 애니메이션 적용",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "a239f2b",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/a239f2b3082b62b1ec4341b9b57bbf29dde7e859"
         }
@@ -797,8 +797,8 @@
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "7일 전",
-      "status": "watch",
+      "lastCommit": "8일 전",
+      "status": "inactive",
       "weekly": [
         0,
         0,
@@ -811,7 +811,7 @@
       "recent": [
         {
           "message": "[Feat] Addressable Import, 씬 로드 적용",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "65395bb",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/65395bb17b0a4b606c961d867e2a2f0835499e11"
         },
@@ -854,8 +854,8 @@
       "weekly": [
         0,
         2,
-        3,
-        2,
+        5,
+        0,
         8,
         0,
         10
@@ -1031,7 +1031,7 @@
         },
         {
           "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "5781e38",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7"
         },
