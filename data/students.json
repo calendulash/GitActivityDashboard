@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 15. 10:13",
+  "updatedAt": "2026. 10. 15. 15:13",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,10 +61,10 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "8일 전",
-      "status": "inactive",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         2,
         2,
@@ -72,9 +72,15 @@
         0,
         4,
         7,
-        0
+        1
       ],
       "recent": [
+        {
+          "message": "[Feat] 웨이브 코어 시스템 삭제",
+          "time": "오늘",
+          "sha": "68037ac",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/68037ac6ab5e8194c21cb3bf4ff2b9ff51f78b90"
+        },
         {
           "message": "Update game genre and team member details in README",
           "time": "8일 전",
@@ -89,21 +95,15 @@
         },
         {
           "message": "[Feat] 뽑을 카드/버린 카드 더미 임시 UI 구현",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "59e230c",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/59e230c3754ed72edb9e07efe27a6bcfefa60414"
         },
         {
           "message": "[Feat] 몬스터 시스템 제거",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "d27e4f3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d27e4f3d4cab0fecd36dd7177ec5c65f2527b13d"
-        },
-        {
-          "message": "[Feat] 스킬 시스템 제거",
-          "time": "10일 전",
-          "sha": "ca0b07d",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca0b07d5ce4e502569975732a6d608005be20914"
         }
       ]
     },
@@ -199,13 +199,13 @@
         },
         {
           "message": "[Feat] 네비게이션 경로 계산",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "82745be",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/82745bebdd4aefa835deb7a885a6420e54ec0433"
         },
         {
           "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "25일 전",
+          "time": "26일 전",
           "sha": "bf75dba",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         }
@@ -217,7 +217,7 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 9,
+      "commits": 7,
       "activeDays": 3,
       "lastCommit": "어제",
       "status": "active",
@@ -227,8 +227,8 @@
         1,
         0,
         4,
-        4,
-        9
+        6,
+        7
       ],
       "recent": [
         {
@@ -274,8 +274,8 @@
       "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
-        0,
-        3,
+        1,
+        2,
         1,
         6,
         2,
@@ -309,7 +309,7 @@
         },
         {
           "message": "[Feat] 챕터2 중간에 노이즈 현상 추가중",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "102870c",
           "url": "https://github.com/esuvean/PRESS-START_/commit/102870cfc763c46f60480602cff8b362b0934d81"
         }
@@ -323,7 +323,7 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "8일 전",
+      "lastCommit": "9일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "2",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         },
@@ -361,7 +361,7 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 3,
+      "commits": 1,
       "activeDays": 1,
       "lastCommit": "6일 전",
       "status": "watch",
@@ -369,10 +369,10 @@
         0,
         0,
         2,
-        0,
-        2,
-        12,
-        3
+        1,
+        1,
+        14,
+        1
       ],
       "recent": [
         {
@@ -383,13 +383,13 @@
         },
         {
           "message": "Add CODEOWNERS",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "b645314",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b645314d0cd9e08f7baeb806929a91e5d4a942ba"
         },
         {
           "message": "chore: .vscode 폴더를 추적에서 제외",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "b86172e",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b86172e50421c162e21452976e82f68d1853b9ec"
         },
@@ -655,35 +655,35 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 14,
+      "commits": 13,
       "activeDays": 4,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         2,
         9,
         18,
-        20,
-        20,
-        14,
-        14
+        23,
+        17,
+        15,
+        13
       ],
       "recent": [
         {
           "message": "[Feat] 소프트 보정 클래스 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "30bdd9a",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/30bdd9abcdfae63e37c989bdb65ca527add9e9f0"
         },
         {
           "message": "[Feat] 랭크데이터 중간다리 랭크DBSO 작성, 카드DBSO 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "b3489cf",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b3489cf09e34b86fcb641f95c94cac8d8edbfcd7"
         },
         {
           "message": "[Feat] 등급별 데이터 리스트 저장. 데이터베이스 구조 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "f6bda10",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/f6bda1046c22353d79a979e96a71d7d26012c537"
         },
@@ -755,8 +755,8 @@
       "status": "inactive",
       "weekly": [
         0,
-        1,
         2,
+        1,
         1,
         0,
         0,
@@ -777,7 +777,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "34일 전",
+          "time": "35일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -804,8 +804,8 @@
         0,
         0,
         0,
-        13,
-        28,
+        18,
+        23,
         1
       ],
       "recent": [
@@ -899,8 +899,8 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 5,
-      "activeDays": 3,
+      "commits": 6,
+      "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -908,11 +908,17 @@
         0,
         0,
         0,
-        5,
-        9,
-        5
+        7,
+        7,
+        6
       ],
       "recent": [
+        {
+          "message": "[Feat] 공격 시스템 UI 스크립트 추가",
+          "time": "오늘",
+          "sha": "9564f59",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9564f59359552cb0e809bb77312185e5308dc527"
+        },
         {
           "message": "[Feat] 플레이어 어택 방식 수정",
           "time": "오늘",
@@ -927,7 +933,7 @@
         },
         {
           "message": "폴더 정리",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "8ed2fcb",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/8ed2fcb6c282cb4f4817b9186ac4586d3305d1a5"
         },
@@ -936,12 +942,6 @@
           "time": "2일 전",
           "sha": "89cb3b0",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89cb3b0143cbbc47abe09b6fc121d5a2821df265"
-        },
-        {
-          "message": "으아악 일단 커밋",
-          "time": "2일 전",
-          "sha": "540384a",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/540384a9daeee9fe61091b9efa03d0271577be8e"
         }
       ]
     },
@@ -951,10 +951,10 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "8일 전",
-      "status": "inactive",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         2,
         2,
@@ -962,9 +962,15 @@
         0,
         4,
         7,
-        0
+        1
       ],
       "recent": [
+        {
+          "message": "[Feat] 웨이브 코어 시스템 삭제",
+          "time": "오늘",
+          "sha": "68037ac",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/68037ac6ab5e8194c21cb3bf4ff2b9ff51f78b90"
+        },
         {
           "message": "Update game genre and team member details in README",
           "time": "8일 전",
@@ -979,21 +985,15 @@
         },
         {
           "message": "[Feat] 뽑을 카드/버린 카드 더미 임시 UI 구현",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "59e230c",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/59e230c3754ed72edb9e07efe27a6bcfefa60414"
         },
         {
           "message": "[Feat] 몬스터 시스템 제거",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "d27e4f3",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d27e4f3d4cab0fecd36dd7177ec5c65f2527b13d"
-        },
-        {
-          "message": "[Feat] 스킬 시스템 제거",
-          "time": "10일 전",
-          "sha": "ca0b07d",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/ca0b07d5ce4e502569975732a6d608005be20914"
         }
       ]
     },
@@ -1037,13 +1037,13 @@
         },
         {
           "message": "[Feat] 네비게이션 경로 계산",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "82745be",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/82745bebdd4aefa835deb7a885a6420e54ec0433"
         },
         {
           "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-          "time": "25일 전",
+          "time": "26일 전",
           "sha": "bf75dba",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a"
         }

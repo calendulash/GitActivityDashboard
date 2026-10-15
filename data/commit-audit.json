@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 15. 10:13",
+  "updatedAt": "2026. 10. 15. 15:13",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -2310,6 +2310,29 @@
       "projectName": "3학년 3팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "68037ac6ab5e8194c21cb3bf4ff2b9ff51f78b90",
+      "message": "[Feat] 웨이브 코어 시스템 삭제",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/68037ac6ab5e8194c21cb3bf4ff2b9ff51f78b90",
+      "date": "2026-10-15T05:14:11Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 45,
+        "additions": 975,
+        "deletions": 1412,
+        "meaningful_change": 1984,
+        "meaningful_file_count": 26,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "08265a0a39049ea5b3fb1a7ce686db98715c8a5b",
       "message": "Update game genre and team member details in README",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/08265a0a39049ea5b3fb1a7ce686db98715c8a5b",
@@ -4581,29 +4604,6 @@
         "meaningful_file_count": 3,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "4ea72500d8314ef89a85208f13f39d53c07f0262",
-      "message": "[PN Upd] 손패 카드 연출 업데이트 : 턴 시작 시 카드 잠금 연출 제거",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/4ea72500d8314ef89a85208f13f39d53c07f0262",
-      "date": "2026-04-25T07:41:01Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "DeokDragon",
-      "gitAuthorName": "Deokdragon",
-      "gitAuthorEmail": "ejrdyd3899@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 20,
-        "deletions": 37,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 95,
-        "judgment": "뻥의심"
       }
     },
     {
@@ -23033,6 +23033,29 @@
       "projectName": "1학년 B반 2팀",
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "branch": "main",
+      "sha": "e6fa9328ec3b9c56bc803bf60ac6e2ba40b338d6",
+      "message": "영롱이 표정 / 약 봉투 심장 약",
+      "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/e6fa9328ec3b9c56bc803bf60ac6e2ba40b338d6",
+      "date": "2026-10-15T04:51:33Z",
+      "expectedGithub": "hawengtiger",
+      "actualGithub": "rol19-lab",
+      "gitAuthorName": "rol19-lab",
+      "gitAuthorEmail": "rorolri1119@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 34,
+        "additions": 3029,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 17,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 2팀",
+      "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
+      "branch": "main",
       "sha": "28372088587f8e48707cbe93ba9bd03e7d2f93dd",
       "message": "[Feat] 기초 유니티 세팅",
       "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd",
@@ -25586,6 +25609,29 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "9564f59359552cb0e809bb77312185e5308dc527",
+      "message": "[Feat] 공격 시스템 UI 스크립트 추가",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9564f59359552cb0e809bb77312185e5308dc527",
+      "date": "2026-10-15T02:23:06Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 10,
+        "additions": 721,
+        "deletions": 18,
+        "meaningful_change": 733,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "9f9c9a8a1e78dd1bcc012a73bcb4018d0c97d76d",
       "message": "[Feat] 플레이어 어택 방식 수정",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9f9c9a8a1e78dd1bcc012a73bcb4018d0c97d76d",
@@ -25711,13 +25757,13 @@
       "gitAuthorEmail": "a20535495@g.shingu.ac.kr",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 1,
+        "changed_files": 0,
         "additions": 0,
         "deletions": 0,
         "meaningful_change": 0,
-        "meaningful_file_count": 1,
-        "suspicious_score": 50,
-        "judgment": "확인필요"
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -25895,13 +25941,13 @@
       "gitAuthorEmail": "chimchimjam377@gmail.com",
       "verification": "verified",
       "analysis": {
-        "changed_files": 5,
-        "additions": 683,
-        "deletions": 142,
-        "meaningful_change": 341,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -25941,13 +25987,13 @@
       "gitAuthorEmail": "chimchimjam377@gmail.com",
       "verification": "verified",
       "analysis": {
-        "changed_files": 99,
-        "additions": 22537,
-        "deletions": 1061,
-        "meaningful_change": 22082,
-        "meaningful_file_count": 50,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -26010,13 +26056,13 @@
       "gitAuthorEmail": "chimchimjam377@gmail.com",
       "verification": "verified",
       "analysis": {
-        "changed_files": 5,
-        "additions": 517,
-        "deletions": 28,
-        "meaningful_change": 545,
-        "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -26148,13 +26194,13 @@
       "gitAuthorEmail": "chimchimjam377@gmail.com",
       "verification": "verified",
       "analysis": {
-        "changed_files": 18,
-        "additions": 2005,
-        "deletions": 48,
-        "meaningful_change": 2034,
-        "meaningful_file_count": 11,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -26314,6 +26360,29 @@
         "deletions": 0,
         "meaningful_change": 8363,
         "meaningful_file_count": 74,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 2팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
+      "sha": "68037ac6ab5e8194c21cb3bf4ff2b9ff51f78b90",
+      "message": "[Feat] 웨이브 코어 시스템 삭제",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/68037ac6ab5e8194c21cb3bf4ff2b9ff51f78b90",
+      "date": "2026-10-15T05:14:11Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 45,
+        "additions": 975,
+        "deletions": 1412,
+        "meaningful_change": 1984,
+        "meaningful_file_count": 26,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -28593,29 +28662,6 @@
         "meaningful_file_count": 3,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 2팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "4ea72500d8314ef89a85208f13f39d53c07f0262",
-      "message": "[PN Upd] 손패 카드 연출 업데이트 : 턴 시작 시 카드 잠금 연출 제거",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/4ea72500d8314ef89a85208f13f39d53c07f0262",
-      "date": "2026-04-25T07:41:01Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "DeokDragon",
-      "gitAuthorName": "Deokdragon",
-      "gitAuthorEmail": "ejrdyd3899@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 20,
-        "deletions": 37,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 95,
-        "judgment": "뻥의심"
       }
     },
     {
