@@ -1,11 +1,57 @@
 {
-  "updatedAt": "2026. 10. 16. 01:09",
+  "updatedAt": "2026. 10. 16. 04:49",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "89eb4c3786a9276359bc8b837236ef7d88409997",
+      "message": "[Fix] 유물,형판,아이콘 이미지 크기 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/89eb4c3786a9276359bc8b837236ef7d88409997",
+      "date": "2026-10-15T16:35:33Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "khy1004",
+      "gitAuthorName": "khy1004",
+      "gitAuthorEmail": "khyseog08@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 20,
+        "additions": 78,
+        "deletions": 78,
+        "meaningful_change": 0,
+        "meaningful_file_count": 11,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "99a994f22bbe1575607e514ed90be4d0224f23ee",
+      "message": "[Fix] a4 타일 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/99a994f22bbe1575607e514ed90be4d0224f23ee",
+      "date": "2026-10-15T16:32:10Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "khy1004",
+      "gitAuthorName": "khy1004",
+      "gitAuthorEmail": "khyseog08@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 77,
+        "additions": 7054,
+        "deletions": 611,
+        "meaningful_change": 0,
+        "meaningful_file_count": 18,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2255,52 +2301,6 @@
         "additions": 4282,
         "deletions": 2219,
         "meaningful_change": 6501,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "e926378c3d3e122e8f475be56bc8d35c4ed66437",
-      "message": "[feat] 서브 퍼즐 1 모래 분배기 UI 그래픽화 및 비주얼 연출 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/e926378c3d3e122e8f475be56bc8d35c4ed66437",
-      "date": "2026-09-27T06:21:58Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 1415,
-        "deletions": 620,
-        "meaningful_change": 2035,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "d14f7ce096f25cc3173322114822ae6ca3edbde2",
-      "message": "[feat]아누비스 서브 퍼즐 3 구현 및 UI 레이아웃 정돈",
-      "url": "https://github.com/suyan05/PharaohCube/commit/d14f7ce096f25cc3173322114822ae6ca3edbde2",
-      "date": "2026-09-26T19:05:17Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 10937,
-        "deletions": 7015,
-        "meaningful_change": 17950,
         "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
@@ -9693,6 +9693,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "404b9d40859c497d0996617784cc618758efea5c",
+      "message": "[feat] 미니게임 17구현",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/404b9d40859c497d0996617784cc618758efea5c",
+      "date": "2026-10-15T17:50:27Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "flexinja99",
+      "gitAuthorName": "flexinja",
+      "gitAuthorEmail": "hjgo927@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 1835,
+        "deletions": 72,
+        "meaningful_change": 1905,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "441f4f1d747a58631c3ad651249ca28277c29bde",
       "message": "[feat] 미니게임 16구현",
       "url": "https://github.com/esuvean/PRESS-START_/commit/441f4f1d747a58631c3ad651249ca28277c29bde",
@@ -11967,29 +11990,6 @@
       }
     },
     {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "2dea1488119c594531c913dfb645ce563dcd703d",
-      "message": "[Feat] 파일정리 깃연동",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/2dea1488119c594531c913dfb645ce563dcd703d",
-      "date": "2026-07-13T12:53:03Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "esuvean",
-      "gitAuthorName": "esuvean",
-      "gitAuthorEmail": "esuvean@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 58,
-        "deletions": 9,
-        "meaningful_change": 35,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "1학년 B반 4팀",
       "repo": "Sine-aw/nohesitate",
       "branch": "main",
@@ -13459,6 +13459,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
+      "sha": "861aecbfb57ea7f5afc6579f82d1cda69347afa3",
+      "message": "[Feat] 캐릭터 애니메이션 폴더 추가 및 삽입",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/861aecbfb57ea7f5afc6579f82d1cda69347afa3",
+      "date": "2026-10-15T16:48:05Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "chanzk1",
+      "gitAuthorName": "chanzk1",
+      "gitAuthorEmail": "ktop9224@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 541,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
