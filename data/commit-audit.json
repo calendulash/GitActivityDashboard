@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 15. 20:57",
+  "updatedAt": "2026. 10. 16. 01:09",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -2310,6 +2310,29 @@
       "projectName": "3학년 3팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "6eb322bfeb429f0cc4326d37fee64895e564b518",
+      "message": "[Feat] 테스트 영웅 구현 1",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518",
+      "date": "2026-10-15T14:36:53Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 80,
+        "additions": 2070,
+        "deletions": 1171,
+        "meaningful_change": 1582,
+        "meaningful_file_count": 47,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "2ce2285692676f2c99776d0c01d65d62a56c3868",
       "message": "[Feat] 유물 시스템 -> 특성 시스템",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/2ce2285692676f2c99776d0c01d65d62a56c3868",
@@ -4581,29 +4604,6 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "28556162b2288a7cc200de7037e774fc3ebf1192",
-      "message": "[PN] 7,8주차 일정 + 9주차 초반",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/28556162b2288a7cc200de7037e774fc3ebf1192",
-      "date": "2026-05-05T05:19:44Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "DeokDragon",
-      "gitAuthorName": "Deokdragon",
-      "gitAuthorEmail": "ejrdyd3899@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 3,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
       }
     },
     {
@@ -6902,6 +6902,29 @@
         "deletions": 109,
         "meaningful_change": 1209,
         "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "50ffc2f756c805a2d7c418d9dd0a1ac670605dcf",
+      "message": "[Feat] 피자 토핑 수 에 따른 게이지 상승",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/50ffc2f756c805a2d7c418d9dd0a1ac670605dcf",
+      "date": "2026-10-15T14:53:17Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 735,
+        "deletions": 56,
+        "meaningful_change": 791,
+        "meaningful_file_count": 7,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -9670,6 +9693,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "441f4f1d747a58631c3ad651249ca28277c29bde",
+      "message": "[feat] 미니게임 16구현",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/441f4f1d747a58631c3ad651249ca28277c29bde",
+      "date": "2026-10-15T13:18:35Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "flexinja99",
+      "gitAuthorName": "flexinja",
+      "gitAuthorEmail": "hjgo927@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 10,
+        "additions": 2090,
+        "deletions": 152,
+        "meaningful_change": 2218,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "39f089b0bd691af84259d5e4b7fe0740f9543c0a",
       "message": "[Feat] 아트 교체",
       "url": "https://github.com/esuvean/PRESS-START_/commit/39f089b0bd691af84259d5e4b7fe0740f9543c0a",
@@ -11939,29 +11985,6 @@
         "deletions": 9,
         "meaningful_change": 35,
         "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "a75942f432425236081a65f9db57da14c7149641",
-      "message": "[Feat] 초기셋팅",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/a75942f432425236081a65f9db57da14c7149641",
-      "date": "2026-07-08T13:41:20Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "esuvean",
-      "gitAuthorName": "esuvean",
-      "gitAuthorEmail": "esuvean@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 62,
-        "additions": 7480,
-        "deletions": 0,
-        "meaningful_change": 5459,
-        "meaningful_file_count": 38,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -23056,29 +23079,6 @@
       "projectName": "1학년 B반 2팀",
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "branch": "main",
-      "sha": "e6fa9328ec3b9c56bc803bf60ac6e2ba40b338d6",
-      "message": "영롱이 표정 / 약 봉투 심장 약",
-      "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/e6fa9328ec3b9c56bc803bf60ac6e2ba40b338d6",
-      "date": "2026-10-15T04:51:33Z",
-      "expectedGithub": "hawengtiger",
-      "actualGithub": "rol19-lab",
-      "gitAuthorName": "rol19-lab",
-      "gitAuthorEmail": "rorolri1119@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 34,
-        "additions": 3029,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 17,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "1학년 B반 2팀",
-      "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
-      "branch": "main",
       "sha": "28372088587f8e48707cbe93ba9bd03e7d2f93dd",
       "message": "[Feat] 기초 유니티 세팅",
       "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd",
@@ -26391,6 +26391,29 @@
       "projectName": "3학년 2팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "6eb322bfeb429f0cc4326d37fee64895e564b518",
+      "message": "[Feat] 테스트 영웅 구현 1",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518",
+      "date": "2026-10-15T14:36:53Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 80,
+        "additions": 2070,
+        "deletions": 1171,
+        "meaningful_change": 1582,
+        "meaningful_file_count": 47,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 2팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "2ce2285692676f2c99776d0c01d65d62a56c3868",
       "message": "[Feat] 유물 시스템 -> 특성 시스템",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/2ce2285692676f2c99776d0c01d65d62a56c3868",
@@ -28665,26 +28688,26 @@
       }
     },
     {
-      "projectName": "3학년 2팀",
-      "repo": "Taehyeon88/Graduation-project",
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
       "branch": "main",
-      "sha": "28556162b2288a7cc200de7037e774fc3ebf1192",
-      "message": "[PN] 7,8주차 일정 + 9주차 초반",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/28556162b2288a7cc200de7037e774fc3ebf1192",
-      "date": "2026-05-05T05:19:44Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "DeokDragon",
-      "gitAuthorName": "Deokdragon",
-      "gitAuthorEmail": "ejrdyd3899@gmail.com",
+      "sha": "50ffc2f756c805a2d7c418d9dd0a1ac670605dcf",
+      "message": "[Feat] 피자 토핑 수 에 따른 게이지 상승",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/50ffc2f756c805a2d7c418d9dd0a1ac670605dcf",
+      "date": "2026-10-15T14:53:17Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 4,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 3,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
+        "changed_files": 7,
+        "additions": 735,
+        "deletions": 56,
+        "meaningful_change": 791,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
