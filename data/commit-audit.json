@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 17. 03:45",
+  "updatedAt": "2026. 10. 17. 06:58",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -22843,6 +22843,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "813b4f1dfe68d2af8d0cb5fcbc8348f844ad7c5a",
+      "message": "[Feat] 중앙코어",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/813b4f1dfe68d2af8d0cb5fcbc8348f844ad7c5a",
+      "date": "2026-10-16T19:41:10Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "miwk26",
+      "gitAuthorName": "miwk26",
+      "gitAuthorEmail": "yshdjwue@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 37566,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
