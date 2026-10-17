@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 18. 01:09",
+  "updatedAt": "2026. 10. 18. 03:46",
   "students": [
     {
       "name": "2학년 1팀",
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Feat] UI 에셋 추가",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "bc78c25",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/bc78c2567e566e4a5e0ad4fddc926dd10d749bf4"
         }
@@ -165,7 +165,7 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 5,
+      "commits": 6,
       "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
@@ -176,9 +176,15 @@
         0,
         1,
         1,
-        5
+        6
       ],
       "recent": [
+        {
+          "message": "[Feat] 로비 제작 (임시)",
+          "time": "오늘",
+          "sha": "5427517",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/5427517f0a725254a644fa90709cd5aac2f90ca8"
+        },
         {
           "message": "[Feat] 주식 시스템 제작",
           "time": "오늘",
@@ -193,7 +199,7 @@
         },
         {
           "message": "[Feat] 네비게이션 버그 해결, 피자 재료 리모델링, 아이템 손에 들기, 포장 애니메이션, 등등",
-          "time": "오늘",
+          "time": "어제",
           "sha": "da51cb3",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/da51cb3ac0ea2673a79531f90eca8c0b4a814b39"
         },
@@ -202,12 +208,6 @@
           "time": "3일 전",
           "sha": "eb550f5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
-        },
-        {
-          "message": "[Feat] 가게 리모델링, 마감창 통계 구현, 시간, 피자 가격 밸런스 패치",
-          "time": "3일 전",
-          "sha": "7ff46f6",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/7ff46f6d51d69bf06981c80f1bda3bf786146678"
         }
       ]
     },
@@ -239,19 +239,19 @@
         },
         {
           "message": "[Feat] 빌드 파일",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "2b642b8",
           "url": "https://github.com/23jihwan/7_tim/commit/2b642b8e83f97e8a0705832f6de02d156fdcef6e"
         },
         {
           "message": "[Feat] 보스 이미지 생성",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "a809423",
           "url": "https://github.com/23jihwan/7_tim/commit/a8094238492b9892649e876d90d825b2bbb20740"
         },
         {
           "message": "[Feat] 3단 조합 구현",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "c525bd9",
           "url": "https://github.com/23jihwan/7_tim/commit/c525bd9e7fbbb321c3f28fc9562306dd098d59ce"
         },
@@ -505,20 +505,26 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 2,
-      "activeDays": 1,
-      "lastCommit": "6일 전",
-      "status": "watch",
+      "commits": 3,
+      "activeDays": 2,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         4,
-        1,
         3,
+        1,
         2,
         2,
-        2
+        3
       ],
       "recent": [
+        {
+          "message": "[Feat] PalletTownTilemap 배치",
+          "time": "오늘",
+          "sha": "ca10db3",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ca10db30d4efa50d9dd01de55120eb203d440c6b"
+        },
         {
           "message": "[Fix] 플레이어 이미지 오류 수정",
           "time": "6일 전",
@@ -542,12 +548,6 @@
           "time": "7일 전",
           "sha": "7e8111e",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/7e8111e93c9bff580d23f03dbcbd778048a388c1"
-        },
-        {
-          "message": "[Fix] 플레이어 콜라이더, 씬 이동 방식 수정",
-          "time": "19일 전",
-          "sha": "2b668a4",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/2b668a437cf5d1c0fb17902d53eedac173b0183c"
         }
       ]
     },
@@ -557,18 +557,18 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 8,
-      "activeDays": 3,
+      "commits": 6,
+      "activeDays": 2,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
         3,
         0,
-        1,
-        5,
-        2,
-        8
+        3,
+        3,
+        4,
+        6
       ],
       "recent": [
         {
@@ -591,13 +591,13 @@
         },
         {
           "message": "[Fix] 기믹 오류 수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "7b70a12",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/7b70a121c207beafd62f644ccbd4bf0b6b19b9a5"
         },
         {
           "message": "[chore] 프로토타입 용 아트",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "cb6b39f",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/cb6b39f5893626b0576911921c26efc5b1b4d7f1"
         }
@@ -1009,7 +1009,7 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 5,
+      "commits": 6,
       "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
@@ -1020,9 +1020,15 @@
         0,
         1,
         1,
-        5
+        6
       ],
       "recent": [
+        {
+          "message": "[Feat] 로비 제작 (임시)",
+          "time": "오늘",
+          "sha": "5427517",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/5427517f0a725254a644fa90709cd5aac2f90ca8"
+        },
         {
           "message": "[Feat] 주식 시스템 제작",
           "time": "오늘",
@@ -1037,7 +1043,7 @@
         },
         {
           "message": "[Feat] 네비게이션 버그 해결, 피자 재료 리모델링, 아이템 손에 들기, 포장 애니메이션, 등등",
-          "time": "오늘",
+          "time": "어제",
           "sha": "da51cb3",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/da51cb3ac0ea2673a79531f90eca8c0b4a814b39"
         },
@@ -1046,12 +1052,6 @@
           "time": "3일 전",
           "sha": "eb550f5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
-        },
-        {
-          "message": "[Feat] 가게 리모델링, 마감창 통계 구현, 시간, 피자 가격 밸런스 패치",
-          "time": "3일 전",
-          "sha": "7ff46f6",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/7ff46f6d51d69bf06981c80f1bda3bf786146678"
         }
       ]
     }
