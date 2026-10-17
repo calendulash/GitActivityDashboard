@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 17. 21:45",
+  "updatedAt": "2026. 10. 18. 01:09",
   "students": [
     {
       "name": "2학년 1팀",
@@ -63,21 +63,21 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 6,
       "activeDays": 1,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         2,
         2,
         0,
-        1,
         3,
+        1,
         7,
         6
       ],
       "recent": [
         {
           "message": "[Feat] 테스트 영웅 구현 1",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "6eb322b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518"
         },
@@ -199,13 +199,13 @@
         },
         {
           "message": "[Feat] 수리점 모델 추가, 핸드폰, 지도 조작 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "eb550f5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
         },
         {
           "message": "[Feat] 가게 리모델링, 마감창 통계 구현, 시간, 피자 가격 밸런스 패치",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "7ff46f6",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7ff46f6d51d69bf06981c80f1bda3bf786146678"
         }
@@ -219,8 +219,8 @@
       "repo": "23jihwan/7_tim",
       "commits": 6,
       "activeDays": 2,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
         0,
@@ -233,7 +233,7 @@
       "recent": [
         {
           "message": "[Fix]안올라간거 다시 올림",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "6ee8129",
           "url": "https://github.com/23jihwan/7_tim/commit/6ee812991d05b0a5c1d9ac5043352182122b3467"
         },
@@ -257,7 +257,7 @@
         },
         {
           "message": "[Feat] 엘리트 몬스터 이미지 및 보스 몬스터 스크립트 생성",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "8607ed5",
           "url": "https://github.com/23jihwan/7_tim/commit/8607ed58ac4c3a2e27456ed14108dabb95539682"
         }
@@ -401,13 +401,13 @@
         },
         {
           "message": "feat: 얼음 담기 연출 보완",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "7182082",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718208293bf3f8a1358b3e1d241cbd9020433933"
         },
         {
           "message": "fix: 얼음 스쿱 이동 제한",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "718435a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718435a8d82ee06c8b80277cc5b302fe76e95fa4"
         }
@@ -507,7 +507,7 @@
       "repo": "jeonghyerin002/2026_2TeamProject",
       "commits": 2,
       "activeDays": 1,
-      "lastCommit": "5일 전",
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -521,13 +521,13 @@
       "recent": [
         {
           "message": "[Fix] 플레이어 이미지 오류 수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "ee00e63",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ee00e63d3712f8c684ae1ac3bc9eb48987f481e4"
         },
         {
           "message": "[Feat] 맵 아트 적용",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "179b6da",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/179b6da1f1b3102902e109cc3c1076726bb94abf"
         },
@@ -611,7 +611,7 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "26일 전",
+      "lastCommit": "27일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -625,19 +625,19 @@
       "recent": [
         {
           "message": "Revise README with new project and team details",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "8be9a52",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/8be9a5205f7c904a91c505d1eb00f430cbb583c6"
         },
         {
           "message": "Merge pull request #1 from JungYS24/feat/main-ui",
-          "time": "38일 전",
+          "time": "39일 전",
           "sha": "be2510e",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/be2510e8038b48d7c935dbc07f6691e435b0f380"
         },
         {
           "message": "feat(ui): 도감 UI 1차 레이아웃 수정 및 신규 스탬프 에셋 추가",
-          "time": "38일 전",
+          "time": "39일 전",
           "sha": "cce6a50",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cce6a506d61398c633afd8968679b7633896dfd3"
         },
@@ -649,7 +649,7 @@
         },
         {
           "message": "feat(asset): 화염 주사위 및 UI 아이콘 리소스 추가",
-          "time": "57일 전",
+          "time": "58일 전",
           "sha": "bef2511",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/bef25118b933bd6b8c934aa05e9b31ff286d1d37"
         }
@@ -667,11 +667,11 @@
       "status": "active",
       "weekly": [
         7,
-        3,
-        32,
+        4,
+        31,
         16,
-        12,
         15,
+        12,
         15
       ],
       "recent": [
@@ -757,7 +757,7 @@
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "23일 전",
+      "lastCommit": "24일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -771,13 +771,13 @@
       "recent": [
         {
           "message": "[Feat] 기초 유니티 세팅",
-          "time": "23일 전",
+          "time": "24일 전",
           "sha": "2837208",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd"
         },
         {
           "message": "Update README.md",
-          "time": "30일 전",
+          "time": "31일 전",
           "sha": "c24111e",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/c24111e35fc3a14a37627d46a46edbf2c16df3af"
         },
@@ -809,8 +809,8 @@
         0,
         0,
         0,
-        3,
-        23,
+        4,
+        22,
         15,
         1
       ],
@@ -823,25 +823,25 @@
         },
         {
           "message": "[Feat] Addressable Import, 씬 로드 적용",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "65395bb",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/65395bb17b0a4b606c961d867e2a2f0835499e11"
         },
         {
           "message": "[Chore] Seamless 테스트 씬 추가 및 프로젝트 설정",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "4592452",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4592452fb6ed3ffe88992e1de0b9ae85664f9cb5"
         },
         {
           "message": "[Refactor] 씬별 오브젝트 세이브 분리",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "7a6118c",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7a6118cbde8b45ca8c553acb1a270d9cd724f3e5"
         },
         {
           "message": "[Feat] 미니맵 다중 씬 지원, 베이킹 시스템",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "19dad3f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/19dad3f19d161347db273746c6d7a94294081de9"
         }
@@ -959,21 +959,21 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 6,
       "activeDays": 1,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         2,
         2,
         0,
-        1,
         3,
+        1,
         7,
         6
       ],
       "recent": [
         {
           "message": "[Feat] 테스트 영웅 구현 1",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "6eb322b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518"
         },
@@ -1043,13 +1043,13 @@
         },
         {
           "message": "[Feat] 수리점 모델 추가, 핸드폰, 지도 조작 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "eb550f5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
         },
         {
           "message": "[Feat] 가게 리모델링, 마감창 통계 구현, 시간, 피자 가격 밸런스 패치",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "7ff46f6",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7ff46f6d51d69bf06981c80f1bda3bf786146678"
         }

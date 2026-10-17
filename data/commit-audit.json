@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 10. 17. 21:45",
+  "updatedAt": "2026. 10. 18. 01:09",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "76df9772b87e538a4ddc824bfa4f59edf55d51e8",
+      "message": "[Fix] 비석 \"!\" 순서 표시, 처벌 후 양피지 조각과 비석 다시 진행",
+      "url": "https://github.com/suyan05/PharaohCube/commit/76df9772b87e538a4ddc824bfa4f59edf55d51e8",
+      "date": "2026-10-17T14:51:08Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 10,
+        "additions": 387,
+        "deletions": 335,
+        "meaningful_change": 720,
+        "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2281,29 +2304,6 @@
         "meaningful_file_count": 13,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "6df7d3ccae5fea92bb921ce611ae18e3d7991081",
-      "message": "[Feat] 라의 방 엔딩 후 아누비스 씬으로 이동",
-      "url": "https://github.com/suyan05/PharaohCube/commit/6df7d3ccae5fea92bb921ce611ae18e3d7991081",
-      "date": "2026-09-27T18:16:28Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 16,
-        "additions": 1490,
-        "deletions": 6625,
-        "meaningful_change": 8097,
-        "meaningful_file_count": 13,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
@@ -4610,6 +4610,29 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "61fb143801adfce89b208e3edf5cb1dc65914819",
+      "message": "[Feat] 플레이어 시점과 도구 표시 개선",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/61fb143801adfce89b208e3edf5cb1dc65914819",
+      "date": "2026-10-17T13:10:47Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "Im-Dinosaur",
+      "gitAuthorName": "Im-Dinosaur",
+      "gitAuthorEmail": "wnsdl80100@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 77,
+        "additions": 15487,
+        "deletions": 77,
+        "meaningful_change": 15382,
+        "meaningful_file_count": 65,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "c21bafe11f86dd035df55b257ebf2469479110bf",
       "message": "Merge branch 'DH'",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/c21bafe11f86dd035df55b257ebf2469479110bf",
@@ -6881,29 +6904,6 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "569de8cb854ed11844add1fcccc19273bbf6abdd",
-      "message": "[Feat] 필터 청소하기 미션 완료 판정 추가 및 인게임 적용",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/569de8cb854ed11844add1fcccc19273bbf6abdd",
-      "date": "2026-09-01T04:36:29Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "blocks2094",
-      "gitAuthorName": "HyunWoo",
-      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 11,
-        "additions": 2012,
-        "deletions": 71,
-        "meaningful_change": 2055,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
