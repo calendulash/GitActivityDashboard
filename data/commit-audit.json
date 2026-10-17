@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 18. 03:46",
+  "updatedAt": "2026. 10. 18. 06:19",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -20779,6 +20779,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "a757e1430785bcd970965046471aa3bb63343fab",
+      "message": "종료창 배경 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/a757e1430785bcd970965046471aa3bb63343fab",
+      "date": "2026-10-17T20:10:51Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "imnakyung",
+      "gitAuthorName": "imnakyung",
+      "gitAuthorEmail": "imnakyung1005@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 117,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "e7adcfffe57290d70d747c835431c75ba6eb6444",
       "message": "[Feat] 활공 구현",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/e7adcfffe57290d70d747c835431c75ba6eb6444",
@@ -23050,29 +23073,6 @@
         "meaningful_file_count": 37,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "cd68eb4cdcbf876874755f2399da821757d7d320",
-      "message": "Initial commit",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/cd68eb4cdcbf876874755f2399da821757d7d320",
-      "date": "2026-09-05T07:04:30Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 106,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 95,
-        "judgment": "뻥의심"
       }
     },
     {
