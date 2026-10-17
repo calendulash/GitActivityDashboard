@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 17. 09:10",
+  "updatedAt": "2026. 10. 17. 13:57",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6902,6 +6902,52 @@
         "deletions": 109,
         "meaningful_change": 1209,
         "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "3af5dc9e652b7a97a71b790cadf8d9cfa09f8949",
+      "message": "[Feat] 주식 시스템 제작",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949",
+      "date": "2026-10-17T03:41:07Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 24,
+        "additions": 1814,
+        "deletions": 125,
+        "meaningful_change": 1921,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "c015ef9e6182fa07e79e274562e9650dc8a5b62e",
+      "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e",
+      "date": "2026-10-17T02:54:46Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 104,
+        "additions": 3821,
+        "deletions": 1710,
+        "meaningful_change": 5427,
+        "meaningful_file_count": 82,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -29214,6 +29260,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "3af5dc9e652b7a97a71b790cadf8d9cfa09f8949",
+      "message": "[Feat] 주식 시스템 제작",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949",
+      "date": "2026-10-17T03:41:07Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 24,
+        "additions": 1814,
+        "deletions": 125,
+        "meaningful_change": 1921,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "c015ef9e6182fa07e79e274562e9650dc8a5b62e",
+      "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e",
+      "date": "2026-10-17T02:54:46Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 104,
+        "additions": 3821,
+        "deletions": 1710,
+        "meaningful_change": 5427,
+        "meaningful_file_count": 82,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

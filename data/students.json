@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 17. 09:10",
+  "updatedAt": "2026. 10. 17. 13:57",
   "students": [
     {
       "name": "2학년 1팀",
@@ -69,8 +69,8 @@
         2,
         2,
         0,
-        0,
-        4,
+        1,
+        3,
         7,
         6
       ],
@@ -165,20 +165,32 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 3,
-      "activeDays": 2,
+      "commits": 5,
+      "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         4,
         1,
-        0,
         1,
         0,
-        2,
-        3
+        1,
+        1,
+        5
       ],
       "recent": [
+        {
+          "message": "[Feat] 주식 시스템 제작",
+          "time": "오늘",
+          "sha": "3af5dc9",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949"
+        },
+        {
+          "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
+          "time": "오늘",
+          "sha": "c015ef9",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e"
+        },
         {
           "message": "[Feat] 네비게이션 버그 해결, 피자 재료 리모델링, 아이템 손에 들기, 포장 애니메이션, 등등",
           "time": "오늘",
@@ -196,18 +208,6 @@
           "time": "2일 전",
           "sha": "7ff46f6",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7ff46f6d51d69bf06981c80f1bda3bf786146678"
-        },
-        {
-          "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
-          "time": "10일 전",
-          "sha": "5781e38",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7"
-        },
-        {
-          "message": "[Feat] 네비게이션 경로 계산",
-          "time": "13일 전",
-          "sha": "82745be",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/82745bebdd4aefa835deb7a885a6420e54ec0433"
         }
       ]
     },
@@ -343,7 +343,7 @@
         },
         {
           "message": "2",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         },
@@ -395,7 +395,7 @@
         },
         {
           "message": "chore: .vscode 폴더를 추적에서 제외",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "b86172e",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b86172e50421c162e21452976e82f68d1853b9ec"
         },
@@ -669,8 +669,8 @@
         3,
         8,
         32,
-        13,
-        15,
+        14,
+        14,
         15,
         14
       ],
@@ -701,7 +701,7 @@
         },
         {
           "message": "[Feat] 랭크데이터 중간다리 랭크DBSO 작성, 카드DBSO 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "b3489cf",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b3489cf09e34b86fcb641f95c94cac8d8edbfcd7"
         }
@@ -783,7 +783,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "36일 전",
+          "time": "37일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -810,8 +810,8 @@
         0,
         0,
         3,
-        22,
-        16,
+        23,
+        15,
         1
       ],
       "recent": [
@@ -907,21 +907,21 @@
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "commits": 6,
       "activeDays": 4,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
         0,
         0,
         0,
-        9,
-        5,
+        10,
+        4,
         6
       ],
       "recent": [
         {
           "message": "[Feat] 공격 시스템 UI 스크립트 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "9564f59",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9564f59359552cb0e809bb77312185e5308dc527"
         },
@@ -965,8 +965,8 @@
         2,
         2,
         0,
-        0,
-        4,
+        1,
+        3,
         7,
         6
       ],
@@ -1009,20 +1009,32 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 3,
-      "activeDays": 2,
+      "commits": 5,
+      "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         4,
         1,
-        0,
         1,
         0,
-        2,
-        3
+        1,
+        1,
+        5
       ],
       "recent": [
+        {
+          "message": "[Feat] 주식 시스템 제작",
+          "time": "오늘",
+          "sha": "3af5dc9",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949"
+        },
+        {
+          "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
+          "time": "오늘",
+          "sha": "c015ef9",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e"
+        },
         {
           "message": "[Feat] 네비게이션 버그 해결, 피자 재료 리모델링, 아이템 손에 들기, 포장 애니메이션, 등등",
           "time": "오늘",
@@ -1040,18 +1052,6 @@
           "time": "2일 전",
           "sha": "7ff46f6",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7ff46f6d51d69bf06981c80f1bda3bf786146678"
-        },
-        {
-          "message": "[Feat] NavigationManager 제작 네비게이션 시스템 구현",
-          "time": "10일 전",
-          "sha": "5781e38",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/5781e38ca33961ee921ac74717c502e494b7fca7"
-        },
-        {
-          "message": "[Feat] 네비게이션 경로 계산",
-          "time": "13일 전",
-          "sha": "82745be",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/82745bebdd4aefa835deb7a885a6420e54ec0433"
         }
       ]
     }
