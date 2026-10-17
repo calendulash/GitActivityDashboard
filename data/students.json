@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 17. 13:57",
+  "updatedAt": "2026. 10. 17. 18:08",
   "students": [
     {
       "name": "2학년 1팀",
@@ -89,19 +89,19 @@
         },
         {
           "message": "[Clean] 모든 Debug.Log() 함수 제거",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "55cac4a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/55cac4a5f617c53ff4f2806ad27db39b1711596a"
         },
         {
           "message": "[Feat] 카드 시스템 구체화/시스템 정리",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d3b48c6",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d3b48c6fa8efa44ce1e31e6f2adac726bfcdf484"
         },
         {
           "message": "[Feat] 코어 시스템 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "4cdb63f",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/4cdb63f57282c1c9a739a2c075fa926141d3419e"
         }
@@ -115,7 +115,7 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 5,
       "activeDays": 2,
-      "lastCommit": "4일 전",
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -129,7 +129,7 @@
       "recent": [
         {
           "message": "[Fix] 발전기 미션 오류 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "684c5ec",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/684c5ec469ee147c0e925c676fbd22fb67b0c26d"
         },
@@ -276,8 +276,8 @@
       "weekly": [
         2,
         1,
-        3,
         4,
+        3,
         3,
         4,
         5
@@ -291,19 +291,19 @@
         },
         {
           "message": "[Feat] 샷건애나메이션 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "b85bfd9",
           "url": "https://github.com/esuvean/PRESS-START_/commit/b85bfd9740dab3fe1e5f855bf92f573901cdae40"
         },
         {
           "message": "[Feat] 초반 모니터화면 연출 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "9c59d15",
           "url": "https://github.com/esuvean/PRESS-START_/commit/9c59d15672898cfc3355edf8b46cbf19924807fa"
         },
         {
           "message": "[Feat] 아트 교체",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "39f089b",
           "url": "https://github.com/esuvean/PRESS-START_/commit/39f089b0bd691af84259d5e4b7fe0740f9543c0a"
         },
@@ -323,7 +323,7 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "Boss 1 Phase",
-          "time": "오늘",
+          "time": "어제",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
         },
@@ -369,7 +369,7 @@
       "repo": "simo07d7PG/Team_JJAMBBAP",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "8일 전",
+      "lastCommit": "9일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -383,13 +383,13 @@
       "recent": [
         {
           "message": "refactor: 카페 맵 오브젝트를 프리팹으로 정리",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "a7847f2",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a7847f2e2042793df0f53c070522f77a4ae872e9"
         },
         {
           "message": "Add CODEOWNERS",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "b645314",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b645314d0cd9e08f7baeb806929a91e5d4a942ba"
         },
@@ -661,20 +661,26 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 14,
-      "activeDays": 5,
+      "commits": 15,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
+        7,
         3,
-        8,
         32,
-        14,
-        14,
+        16,
+        12,
         15,
-        14
+        15
       ],
       "recent": [
+        {
+          "message": "README.md 업데이트",
+          "time": "오늘",
+          "sha": "3a52b83",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3a52b83dcac147092c8ab5d16c456057a7450d87"
+        },
         {
           "message": "[Chore] 폴더정리(안 쓰는 스크립트 삭제)",
           "time": "오늘",
@@ -695,15 +701,9 @@
         },
         {
           "message": "[Feat] 소프트 보정 클래스 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "30bdd9a",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/30bdd9abcdfae63e37c989bdb65ca527add9e9f0"
-        },
-        {
-          "message": "[Feat] 랭크데이터 중간다리 랭크DBSO 작성, 카드DBSO 수정",
-          "time": "3일 전",
-          "sha": "b3489cf",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b3489cf09e34b86fcb641f95c94cac8d8edbfcd7"
         }
       ]
     },
@@ -905,20 +905,32 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 6,
-      "activeDays": 4,
-      "lastCommit": "2일 전",
+      "commits": 8,
+      "activeDays": 5,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         0,
         0,
-        0,
-        10,
+        1,
+        9,
         4,
-        6
+        8
       ],
       "recent": [
+        {
+          "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
+          "time": "오늘",
+          "sha": "11cebdc",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/11cebdc3765d9ff16d2ad677f74616b53eafcd66"
+        },
+        {
+          "message": "[Feat]공격순환 시스템 완성",
+          "time": "오늘",
+          "sha": "a1c59e6",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a1c59e6de02ca2b0e36fe31c9d8784c0d1322eda"
+        },
         {
           "message": "[Feat] 공격 시스템 UI 스크립트 추가",
           "time": "2일 전",
@@ -933,21 +945,9 @@
         },
         {
           "message": "[Feat]플레이어 어택 모션 추가(임시)",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "0ab8d2e",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0ab8d2e004d0f8a2b400edd71228a5e38d89b879"
-        },
-        {
-          "message": "폴더 정리",
-          "time": "3일 전",
-          "sha": "8ed2fcb",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/8ed2fcb6c282cb4f4817b9186ac4586d3305d1a5"
-        },
-        {
-          "message": "[Feat] 인벤토리 및 아이템 셋팅",
-          "time": "4일 전",
-          "sha": "89cb3b0",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89cb3b0143cbbc47abe09b6fc121d5a2821df265"
         }
       ]
     },
@@ -985,19 +985,19 @@
         },
         {
           "message": "[Clean] 모든 Debug.Log() 함수 제거",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "55cac4a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/55cac4a5f617c53ff4f2806ad27db39b1711596a"
         },
         {
           "message": "[Feat] 카드 시스템 구체화/시스템 정리",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d3b48c6",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d3b48c6fa8efa44ce1e31e6f2adac726bfcdf484"
         },
         {
           "message": "[Feat] 코어 시스템 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "4cdb63f",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/4cdb63f57282c1c9a739a2c075fa926141d3419e"
         }
