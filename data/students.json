@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 18. 10:25",
+  "updatedAt": "2026. 10. 18. 15:22",
   "students": [
     {
       "name": "2학년 1팀",
@@ -70,8 +70,8 @@
         2,
         0,
         3,
-        1,
-        7,
+        4,
+        4,
         6
       ],
       "recent": [
@@ -187,13 +187,13 @@
         },
         {
           "message": "[Feat] 주식 시스템 제작",
-          "time": "오늘",
+          "time": "어제",
           "sha": "3af5dc9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949"
         },
         {
           "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
-          "time": "오늘",
+          "time": "어제",
           "sha": "c015ef9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e"
         },
@@ -276,8 +276,8 @@
       "weekly": [
         2,
         1,
-        4,
-        3,
+        6,
+        1,
         3,
         4,
         5
@@ -376,8 +376,8 @@
         0,
         2,
         1,
-        2,
-        14,
+        6,
+        10,
         0
       ],
       "recent": [
@@ -389,13 +389,13 @@
         },
         {
           "message": "Add CODEOWNERS",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "b645314",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b645314d0cd9e08f7baeb806929a91e5d4a942ba"
         },
         {
           "message": "chore: .vscode 폴더를 추적에서 제외",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "b86172e",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b86172e50421c162e21452976e82f68d1853b9ec"
         },
@@ -701,7 +701,7 @@
         },
         {
           "message": "[Feat] 소프트 보정 클래스 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "30bdd9a",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/30bdd9abcdfae63e37c989bdb65ca527add9e9f0"
         }
@@ -783,7 +783,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "37일 전",
+          "time": "38일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -809,8 +809,8 @@
         0,
         0,
         0,
-        4,
-        23,
+        5,
+        22,
         14,
         1
       ],
@@ -914,8 +914,8 @@
         0,
         0,
         1,
-        11,
-        2,
+        12,
+        1,
         8
       ],
       "recent": [
@@ -933,7 +933,7 @@
         },
         {
           "message": "[Feat] 공격 시스템 UI 스크립트 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "9564f59",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9564f59359552cb0e809bb77312185e5308dc527"
         },
@@ -966,8 +966,8 @@
         2,
         0,
         3,
-        1,
-        7,
+        4,
+        4,
         6
       ],
       "recent": [
@@ -1031,13 +1031,13 @@
         },
         {
           "message": "[Feat] 주식 시스템 제작",
-          "time": "오늘",
+          "time": "어제",
           "sha": "3af5dc9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949"
         },
         {
           "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
-          "time": "오늘",
+          "time": "어제",
           "sha": "c015ef9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e"
         },
