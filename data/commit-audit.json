@@ -1,11 +1,57 @@
 {
-  "updatedAt": "2026. 10. 19. 04:58",
+  "updatedAt": "2026. 10. 19. 07:10",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "f0182d0784274524570b8d900027830afcd9646f",
+      "message": "[feat] 바스테트 튜토리얼 임시 맵 추가 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/f0182d0784274524570b8d900027830afcd9646f",
+      "date": "2026-10-18T20:19:16Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 229,
+        "deletions": 47,
+        "meaningful_change": 276,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "f21da2c8776acb0bf147c56ecde2a916e1c623eb",
+      "message": "[Chore] 바스테트 튜토리얼 임시 맵 씬 세팅",
+      "url": "https://github.com/suyan05/PharaohCube/commit/f21da2c8776acb0bf147c56ecde2a916e1c623eb",
+      "date": "2026-10-18T20:04:29Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 31,
+        "additions": 43473,
+        "deletions": 27601,
+        "meaningful_change": 70993,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2256,52 +2302,6 @@
         "deletions": 4321,
         "meaningful_change": 15643,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "d15670a0bcec0fdfb24816b4a3ca064c7e363155",
-      "message": "[feat] 아누비스 수정 & 서브 퍼즐 3 목걸이 회전(Popup_Bastet3_Necklace) UI 및 연동 시스템 구현",
-      "url": "https://github.com/suyan05/PharaohCube/commit/d15670a0bcec0fdfb24816b4a3ca064c7e363155",
-      "date": "2026-10-04T17:34:40Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 5122,
-        "deletions": 4290,
-        "meaningful_change": 9402,
-        "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "293d33d7164af3722058e051b051c2fd17e015c5",
-      "message": "[feat] 바스테트의 방 임시 맵 구성",
-      "url": "https://github.com/suyan05/PharaohCube/commit/293d33d7164af3722058e051b051c2fd17e015c5",
-      "date": "2026-10-03T21:41:01Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 947,
-        "deletions": 194,
-        "meaningful_change": 1134,
-        "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"
       }

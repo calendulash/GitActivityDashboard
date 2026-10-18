@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 19. 04:58",
+  "updatedAt": "2026. 10. 19. 07:10",
   "students": [
     {
       "name": "2학년 1팀",
@@ -113,7 +113,7 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 4,
+      "commits": 2,
       "activeDays": 2,
       "lastCommit": "6일 전",
       "status": "watch",
@@ -123,8 +123,8 @@
         0,
         0,
         1,
-        2,
-        4
+        4,
+        2
       ],
       "recent": [
         {
@@ -141,13 +141,13 @@
         },
         {
           "message": "[Fix] UI 수정",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "e567b99",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e567b9965ef2860c8250c583861b47c4ec4b83cf"
         },
         {
           "message": "[Feat] UI 적용",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "e7db311",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
         },
@@ -829,7 +829,7 @@
         },
         {
           "message": "[Feat] 장착된 아이템 회수 및 완료 판단 조건 변경",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "eacffc9",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eacffc9d968b6d6119a72891e2658bd14e9fdd22"
         },
