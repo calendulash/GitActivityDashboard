@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 10. 18. 15:22",
+  "updatedAt": "2026. 10. 18. 20:37",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "3a9e1712716163ab7948e6dff1fe36346008faa8",
+      "message": "[Feat] 아누비스 튜토리얼 양피지, 화면 전환 연출, 기둥 뒤로 지나가기",
+      "url": "https://github.com/suyan05/PharaohCube/commit/3a9e1712716163ab7948e6dff1fe36346008faa8",
+      "date": "2026-10-18T11:02:32Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 17,
+        "additions": 8196,
+        "deletions": 1050,
+        "meaningful_change": 9202,
+        "meaningful_file_count": 10,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2281,29 +2304,6 @@
         "meaningful_file_count": 9,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "9680265cf23e1d23b93c981635496c5d9c9e98bd",
-      "message": "[feat] 각방의 기둥& 타일 이미지 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/9680265cf23e1d23b93c981635496c5d9c9e98bd",
-      "date": "2026-09-29T11:00:30Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "Kangyelim1",
-      "gitAuthorName": "Kangyelim1",
-      "gitAuthorEmail": "gyelim887@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 13,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 13,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
       }
     },
     {
@@ -4610,6 +4610,52 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "f6583faf1dce00010d75609e54b7cffe8828a444",
+      "message": "Merge branch 'main' of https://github.com/ahyun04/26TeamProject_2",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/f6583faf1dce00010d75609e54b7cffe8828a444",
+      "date": "2026-10-18T09:55:22Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 44,
+        "additions": 6096,
+        "deletions": 46,
+        "meaningful_change": 6026,
+        "meaningful_file_count": 34,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "e7d0e3e6de407ac0958d2ded183daa3d9986adc5",
+      "message": "[Fix] 상대방 시점에도 먼지 빨아들이기 보이게 수정",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7d0e3e6de407ac0958d2ded183daa3d9986adc5",
+      "date": "2026-10-18T09:55:15Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 22,
+        "deletions": 4,
+        "meaningful_change": 26,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "1818cbb253b72147b72ed6634f0fd80d19a5d58f",
       "message": "[Feat] 플레이어 피드백 및 방 규칙 개선",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/1818cbb253b72147b72ed6634f0fd80d19a5d58f",
@@ -6861,47 +6907,24 @@
       }
     },
     {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
       "branch": "main",
-      "sha": "76b6ffc6ae207ddeb3d48a586ee9ca4a598a1880",
-      "message": "[Feat] 타이머 및 게임 종료 결과 UI 추가",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/76b6ffc6ae207ddeb3d48a586ee9ca4a598a1880",
-      "date": "2026-09-04T20:58:43Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "blocks2094",
-      "gitAuthorName": "HyunWoo",
-      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
+      "sha": "1b61dc2ac407170085f16445a01043345cdfdb3d",
+      "message": "[Feat] 쓰레기통 안에 숨으면 수배 시간 x3배, 이미 들켰는데 숨으면 바로 체포",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/1b61dc2ac407170085f16445a01043345cdfdb3d",
+      "date": "2026-10-18T08:37:09Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 15,
-        "additions": 1163,
-        "deletions": 82,
-        "meaningful_change": 1198,
-        "meaningful_file_count": 10,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "48bacc928caadc45515074a23ad65c3a07cce4eb",
-      "message": "[Feat] 게임 종료 시스템 제작",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/48bacc928caadc45515074a23ad65c3a07cce4eb",
-      "date": "2026-09-04T20:12:46Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "blocks2094",
-      "gitAuthorName": "HyunWoo",
-      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 10,
-        "additions": 432,
-        "deletions": 25,
-        "meaningful_change": 424,
-        "meaningful_file_count": 7,
+        "changed_files": 4,
+        "additions": 240,
+        "deletions": 751,
+        "meaningful_change": 991,
+        "meaningful_file_count": 4,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -9877,6 +9900,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "7289c0c42e86bd2547eda8c9511b5177bc92c0f4",
+      "message": "[feat] mg 12 ui 제작 완료",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/7289c0c42e86bd2547eda8c9511b5177bc92c0f4",
+      "date": "2026-10-18T09:39:49Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "ywkang0404",
+      "gitAuthorName": "ywkang0404",
+      "gitAuthorEmail": "ywkang0404@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 710,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 6,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "52dd6358430dd4417d86e45acb4f02208da093ca",
       "message": "[feat] 챕터 4완료",
       "url": "https://github.com/esuvean/PRESS-START_/commit/52dd6358430dd4417d86e45acb4f02208da093ca",
@@ -12151,29 +12197,6 @@
       }
     },
     {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "bf8b22ffdd25ffe844cde1a8d8bdeacbd528cee9",
-      "message": "[Feat] 미니게임1 UI 적용",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/bf8b22ffdd25ffe844cde1a8d8bdeacbd528cee9",
-      "date": "2026-08-03T06:07:20Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "esuvean",
-      "gitAuthorName": "esuvean",
-      "gitAuthorEmail": "esuvean@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 12797,
-        "deletions": 6033,
-        "meaningful_change": 18589,
-        "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "1학년 B반 4팀",
       "repo": "Sine-aw/nohesitate",
       "branch": "main",
@@ -12424,6 +12447,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "da8654bc2769a7347cf0c14a3ec4b9ae83418c82",
+      "message": "[chore]: UI이미지 크기수정 및 적용",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/da8654bc2769a7347cf0c14a3ec4b9ae83418c82",
+      "date": "2026-10-18T08:27:10Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "bposion0918",
+      "gitAuthorName": "bposion0918",
+      "gitAuthorEmail": "b.posion.0918@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 561,
+        "deletions": 879,
+        "meaningful_change": 1440,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -18479,6 +18525,98 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "c9c9586534a56d4d732e947c9c6d7428300e7503",
+      "message": "[Chore] SO리소스 할당, PPU 변경",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/c9c9586534a56d4d732e947c9c6d7428300e7503",
+      "date": "2026-10-18T10:33:41Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 60,
+        "additions": 121,
+        "deletions": 61,
+        "meaningful_change": 82,
+        "meaningful_file_count": 10,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "71999324623253c0ce3bbd7c189ce74406e16c66",
+      "message": "[Chore] 임시 리소스 임포트",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/71999324623253c0ce3bbd7c189ce74406e16c66",
+      "date": "2026-10-18T10:14:49Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 162,
+        "additions": 13030,
+        "deletions": 0,
+        "meaningful_change": 4256,
+        "meaningful_file_count": 63,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "7379077c09b553535f9c319c7e85b07a0a52c856",
+      "message": "[Chore] 사운드 에셋 임포트",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/7379077c09b553535f9c319c7e85b07a0a52c856",
+      "date": "2026-10-18T08:32:43Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 60,
+        "additions": 895,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 27,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "94759361dcbec781c266d1e091956d50f9c603cf",
+      "message": "[Feat] 툴팁 ui 기능 추가",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/94759361dcbec781c266d1e091956d50f9c603cf",
+      "date": "2026-10-18T08:08:24Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 10,
+        "additions": 895,
+        "deletions": 15,
+        "meaningful_change": 899,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "3a52b83dcac147092c8ab5d16c456057a7450d87",
       "message": "README.md 업데이트",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3a52b83dcac147092c8ab5d16c456057a7450d87",
@@ -20680,98 +20818,6 @@
         "meaningful_change": 8,
         "meaningful_file_count": 4,
         "suspicious_score": 15,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "c6446e68ac6364a2e6a9bc6e58887a551cb53d8e",
-      "message": "[Feat] 카드 데이터베이스 SO 작성",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/c6446e68ac6364a2e6a9bc6e58887a551cb53d8e",
-      "date": "2026-09-05T05:28:27Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 37,
-        "deletions": 0,
-        "meaningful_change": 35,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "9ac5f9d8493758d08479d24ba32381ad7b181417",
-      "message": "[Feat] 씬 임시 배치",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9ac5f9d8493758d08479d24ba32381ad7b181417",
-      "date": "2026-09-05T04:57:53Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 1156,
-        "deletions": 17,
-        "meaningful_change": 1040,
-        "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "0b51a01758ebe357ac2ac490ff40e9bf4af5c159",
-      "message": "[Feat] 카드 데이터 파싱용,SO 생성용 스크립트 작성",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/0b51a01758ebe357ac2ac490ff40e9bf4af5c159",
-      "date": "2026-09-04T12:55:45Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 81,
-        "deletions": 0,
-        "meaningful_change": 53,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "8d5938a41ff85ccad55ea934ab4ee7625f4343d0",
-      "message": "[Feat] 프로젝트 생성",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/8d5938a41ff85ccad55ea934ab4ee7625f4343d0",
-      "date": "2026-09-01T10:25:09Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 61,
-        "additions": 7454,
-        "deletions": 0,
-        "meaningful_change": 5433,
-        "meaningful_file_count": 37,
-        "suspicious_score": 0,
         "judgment": "정상"
       }
     },
@@ -23855,6 +23901,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "6c0baaab92a44359536b0ea441a8e73298a2fdb2",
+      "message": "[Chore] 폴더 구조, 파일명 변경",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6c0baaab92a44359536b0ea441a8e73298a2fdb2",
+      "date": "2026-10-18T10:47:42Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 38,
+        "additions": 743,
+        "deletions": 56,
+        "meaningful_change": 799,
+        "meaningful_file_count": 18,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "90c0309cbd7f86dc038e76d9995b0b30d6eab337",
+      "message": "[Feat] 트리거 텍스트 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/90c0309cbd7f86dc038e76d9995b0b30d6eab337",
+      "date": "2026-10-18T10:47:25Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 260,
+        "deletions": 0,
+        "meaningful_change": 256,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -29651,6 +29743,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "1b61dc2ac407170085f16445a01043345cdfdb3d",
+      "message": "[Feat] 쓰레기통 안에 숨으면 수배 시간 x3배, 이미 들켰는데 숨으면 바로 체포",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/1b61dc2ac407170085f16445a01043345cdfdb3d",
+      "date": "2026-10-18T08:37:09Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 240,
+        "deletions": 751,
+        "meaningful_change": 991,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
