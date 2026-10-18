@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 18. 23:51",
+  "updatedAt": "2026. 10. 19. 02:47",
   "students": [
     {
       "name": "2학년 1팀",
@@ -69,8 +69,8 @@
         2,
         2,
         0,
-        3,
         4,
+        3,
         4,
         6
       ],
@@ -122,8 +122,8 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         5
       ],
       "recent": [
@@ -167,7 +167,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 6,
       "activeDays": 3,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         4,
@@ -181,7 +181,7 @@
       "recent": [
         {
           "message": "[Feat] 로비 제작 (임시)",
-          "time": "오늘",
+          "time": "어제",
           "sha": "5427517",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5427517f0a725254a644fa90709cd5aac2f90ca8"
         },
@@ -199,7 +199,7 @@
         },
         {
           "message": "[Feat] 네비게이션 버그 해결, 피자 재료 리모델링, 아이템 손에 들기, 포장 애니메이션, 등등",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "da51cb3",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/da51cb3ac0ea2673a79531f90eca8c0b4a814b39"
         },
@@ -217,8 +217,8 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 6,
-      "activeDays": 2,
+      "commits": 1,
+      "activeDays": 1,
       "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
@@ -227,8 +227,8 @@
         0,
         0,
         4,
-        7,
-        6
+        12,
+        1
       ],
       "recent": [
         {
@@ -239,25 +239,25 @@
         },
         {
           "message": "[Feat] 빌드 파일",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "2b642b8",
           "url": "https://github.com/23jihwan/7_tim/commit/2b642b8e83f97e8a0705832f6de02d156fdcef6e"
         },
         {
           "message": "[Feat] 보스 이미지 생성",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "a809423",
           "url": "https://github.com/23jihwan/7_tim/commit/a8094238492b9892649e876d90d825b2bbb20740"
         },
         {
           "message": "[Feat] 3단 조합 구현",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "c525bd9",
           "url": "https://github.com/23jihwan/7_tim/commit/c525bd9e7fbbb321c3f28fc9562306dd098d59ce"
         },
         {
           "message": "[Feat] 엘리트 몬스터 이미지 및 보스 몬스터 스크립트 생성",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "8607ed5",
           "url": "https://github.com/23jihwan/7_tim/commit/8607ed58ac4c3a2e27456ed14108dabb95539682"
         }
@@ -277,8 +277,8 @@
         2,
         1,
         6,
-        1,
         3,
+        1,
         5,
         4
       ],
@@ -401,13 +401,13 @@
         },
         {
           "message": "feat: 얼음 담기 연출 보완",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "7182082",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718208293bf3f8a1358b3e1d241cbd9020433933"
         },
         {
           "message": "fix: 얼음 스쿱 이동 제한",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "718435a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718435a8d82ee06c8b80277cc5b302fe76e95fa4"
         }
@@ -505,7 +505,7 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 2,
+      "commits": 3,
       "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
@@ -515,19 +515,31 @@
         3,
         2,
         1,
-        3,
-        2
+        4,
+        3
       ],
       "recent": [
         {
-          "message": "[Feat] PalletTownTilemap 배치",
+          "message": "[Feat] 갈색시티씬 생성 및 세팅",
           "time": "오늘",
+          "sha": "0175377",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/0175377dce8a497ca776927e3aabd964e232e19c"
+        },
+        {
+          "message": "[Feat] 1번도로 배치",
+          "time": "오늘",
+          "sha": "1b06e6b",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/1b06e6bf87a58c38ba7b072177a3147f63b465b8"
+        },
+        {
+          "message": "[Feat] PalletTownTilemap 배치",
+          "time": "어제",
           "sha": "ca10db3",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ca10db30d4efa50d9dd01de55120eb203d440c6b"
         },
         {
           "message": "[Fix] 플레이어 이미지 오류 수정",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "ee00e63",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ee00e63d3712f8c684ae1ac3bc9eb48987f481e4"
         },
@@ -536,18 +548,6 @@
           "time": "7일 전",
           "sha": "179b6da",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/179b6da1f1b3102902e109cc3c1076726bb94abf"
-        },
-        {
-          "message": "[Fix]이미지 화질 수정",
-          "time": "8일 전",
-          "sha": "13bb0d2",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/13bb0d2a96f2f085fbca5b63f002e17713bc80d6"
-        },
-        {
-          "message": "[Feat] 리소스 업로드",
-          "time": "8일 전",
-          "sha": "7e8111e",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/7e8111e93c9bff580d23f03dbcbd778048a388c1"
         }
       ]
     },
@@ -611,13 +611,13 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "27일 전",
+      "lastCommit": "28일 전",
       "status": "inactive",
       "weekly": [
         0,
         2,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -625,7 +625,7 @@
       "recent": [
         {
           "message": "Revise README with new project and team details",
-          "time": "27일 전",
+          "time": "28일 전",
           "sha": "8be9a52",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/8be9a5205f7c904a91c505d1eb00f430cbb583c6"
         },
@@ -661,20 +661,26 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 14,
-      "activeDays": 7,
+      "commits": 13,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        3,
+        2,
         4,
         31,
         19,
         17,
-        12,
-        14
+        14,
+        13
       ],
       "recent": [
+        {
+          "message": "[Feat] 사운드 시스템 추가, BGM 재생까지",
+          "time": "오늘",
+          "sha": "7ad9ea5",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/7ad9ea5c0dde08eb06372398c43a79216327e7d0"
+        },
         {
           "message": "[Chore] SO리소스 할당, PPU 변경",
           "time": "오늘",
@@ -698,12 +704,6 @@
           "time": "오늘",
           "sha": "9475936",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/94759361dcbec781c266d1e091956d50f9c603cf"
-        },
-        {
-          "message": "README.md 업데이트",
-          "time": "어제",
-          "sha": "3a52b83",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3a52b83dcac147092c8ab5d16c456057a7450d87"
         }
       ]
     },
@@ -809,9 +809,9 @@
         0,
         0,
         0,
-        8,
-        21,
-        12,
+        9,
+        25,
+        7,
         3
       ],
       "recent": [
@@ -835,7 +835,7 @@
         },
         {
           "message": "[Feat] Addressable Import, 씬 로드 적용",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "65395bb",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/65395bb17b0a4b606c961d867e2a2f0835499e11"
         },
@@ -965,8 +965,8 @@
         2,
         2,
         0,
-        3,
         4,
+        3,
         4,
         6
       ],
@@ -1011,7 +1011,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 6,
       "activeDays": 3,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         4,
@@ -1025,7 +1025,7 @@
       "recent": [
         {
           "message": "[Feat] 로비 제작 (임시)",
-          "time": "오늘",
+          "time": "어제",
           "sha": "5427517",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5427517f0a725254a644fa90709cd5aac2f90ca8"
         },
@@ -1043,7 +1043,7 @@
         },
         {
           "message": "[Feat] 네비게이션 버그 해결, 피자 재료 리모델링, 아이템 손에 들기, 포장 애니메이션, 등등",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "da51cb3",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/da51cb3ac0ea2673a79531f90eca8c0b4a814b39"
         },
