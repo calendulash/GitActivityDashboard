@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 18. 20:37",
+  "updatedAt": "2026. 10. 18. 23:51",
   "students": [
     {
       "name": "2학년 1팀",
@@ -11,8 +11,8 @@
       "repo": "suyan05/PharaohCube",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "7일 전",
-      "status": "watch",
+      "lastCommit": "8일 전",
+      "status": "inactive",
       "weekly": [
         0,
         0,
@@ -25,13 +25,13 @@
       "recent": [
         {
           "message": "[docs]몇몇 이미지 수정",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "db9b32e",
           "url": "https://github.com/suyan05/PharaohCube/commit/db9b32e6a5868301a4dcf5c000e83462fc0fdcc4"
         },
         {
           "message": "[Fead]아누비스 오브제 배치",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "89e7e79",
           "url": "https://github.com/suyan05/PharaohCube/commit/89e7e799f23619f31660a7afc3c01d13a7836057"
         },
@@ -63,7 +63,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 6,
       "activeDays": 1,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         2,
@@ -77,7 +77,7 @@
       "recent": [
         {
           "message": "[Feat] 테스트 영웅 구현 1",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "6eb322b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518"
         },
@@ -205,7 +205,7 @@
         },
         {
           "message": "[Feat] 수리점 모델 추가, 핸드폰, 지도 조작 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "eb550f5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
         }
@@ -219,12 +219,12 @@
       "repo": "23jihwan/7_tim",
       "commits": 6,
       "activeDays": 2,
-      "lastCommit": "4일 전",
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         0,
-        0,
         1,
+        0,
         0,
         4,
         7,
@@ -233,7 +233,7 @@
       "recent": [
         {
           "message": "[Fix]안올라간거 다시 올림",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "6ee8129",
           "url": "https://github.com/23jihwan/7_tim/commit/6ee812991d05b0a5c1d9ac5043352182122b3467"
         },
@@ -373,11 +373,11 @@
       "status": "inactive",
       "weekly": [
         0,
-        0,
         2,
+        0,
         1,
-        9,
-        7,
+        10,
+        6,
         0
       ],
       "recent": [
@@ -505,7 +505,7 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 3,
+      "commits": 2,
       "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
@@ -513,10 +513,10 @@
         0,
         4,
         3,
+        2,
         1,
-        2,
-        2,
-        3
+        3,
+        2
       ],
       "recent": [
         {
@@ -533,7 +533,7 @@
         },
         {
           "message": "[Feat] 맵 아트 적용",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "179b6da",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/179b6da1f1b3102902e109cc3c1076726bb94abf"
         },
@@ -631,25 +631,25 @@
         },
         {
           "message": "Merge pull request #1 from JungYS24/feat/main-ui",
-          "time": "39일 전",
+          "time": "40일 전",
           "sha": "be2510e",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/be2510e8038b48d7c935dbc07f6691e435b0f380"
         },
         {
           "message": "feat(ui): 도감 UI 1차 레이아웃 수정 및 신규 스탬프 에셋 추가",
-          "time": "39일 전",
+          "time": "40일 전",
           "sha": "cce6a50",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cce6a506d61398c633afd8968679b7633896dfd3"
         },
         {
           "message": "asset_ Fire Icon Anim",
-          "time": "51일 전",
+          "time": "52일 전",
           "sha": "cd47d9a",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cd47d9ad607dafcc73755a3bfdd5915a5bdac593"
         },
         {
           "message": "feat(asset): 화염 주사위 및 UI 아이콘 리소스 추가",
-          "time": "58일 전",
+          "time": "59일 전",
           "sha": "bef2511",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/bef25118b933bd6b8c934aa05e9b31ff286d1d37"
         }
@@ -661,7 +661,7 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 18,
+      "commits": 14,
       "activeDays": 7,
       "lastCommit": "오늘",
       "status": "active",
@@ -669,10 +669,10 @@
         3,
         4,
         31,
-        16,
+        19,
         17,
-        11,
-        18
+        12,
+        14
       ],
       "recent": [
         {
@@ -757,7 +757,7 @@
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "24일 전",
+      "lastCommit": "25일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -771,13 +771,13 @@
       "recent": [
         {
           "message": "[Feat] 기초 유니티 세팅",
-          "time": "24일 전",
+          "time": "25일 전",
           "sha": "2837208",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd"
         },
         {
           "message": "Update README.md",
-          "time": "31일 전",
+          "time": "32일 전",
           "sha": "c24111e",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/c24111e35fc3a14a37627d46a46edbf2c16df3af"
         },
@@ -809,8 +809,8 @@
         0,
         0,
         0,
-        7,
-        22,
+        8,
+        21,
         12,
         3
       ],
@@ -841,7 +841,7 @@
         },
         {
           "message": "[Chore] Seamless 테스트 씬 추가 및 프로젝트 설정",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "4592452",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4592452fb6ed3ffe88992e1de0b9ae85664f9cb5"
         }
@@ -861,8 +861,8 @@
         0,
         2,
         5,
-        2,
-        6,
+        4,
+        4,
         5,
         5
       ],
@@ -959,7 +959,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 6,
       "activeDays": 1,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         2,
@@ -973,7 +973,7 @@
       "recent": [
         {
           "message": "[Feat] 테스트 영웅 구현 1",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "6eb322b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518"
         },
@@ -1049,7 +1049,7 @@
         },
         {
           "message": "[Feat] 수리점 모델 추가, 핸드폰, 지도 조작 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "eb550f5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
         }
