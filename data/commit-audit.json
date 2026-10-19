@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 19. 07:10",
+  "updatedAt": "2026. 10. 19. 09:25",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -9946,6 +9946,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "bca2fe825074f1b5926ff5cdd61d3c08b7c63dce",
+      "message": "[FEAT] 챕터 4연결 수정",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/bca2fe825074f1b5926ff5cdd61d3c08b7c63dce",
+      "date": "2026-10-18T22:40:58Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "flexinja99",
+      "gitAuthorName": "flexinja",
+      "gitAuthorEmail": "hjgo927@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 234,
+        "deletions": 5,
+        "meaningful_change": 239,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "8299dc9bff6ad0fe684c6b1498847430765a12e9",
       "message": "[feat] 미니게임08테두리추가",
       "url": "https://github.com/esuvean/PRESS-START_/commit/8299dc9bff6ad0fe684c6b1498847430765a12e9",
@@ -12215,29 +12238,6 @@
         "deletions": 3053,
         "meaningful_change": 12361,
         "meaningful_file_count": 6,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "3e3c1817b971e1cee820f684507006b03ab7eee6",
-      "message": "[fix] 수정중 ㅜㅜ 튕겼다",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/3e3c1817b971e1cee820f684507006b03ab7eee6",
-      "date": "2026-08-12T01:56:45Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "esuvean",
-      "gitAuthorName": "esuvean",
-      "gitAuthorEmail": "esuvean@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 77,
-        "deletions": 39,
-        "meaningful_change": 116,
-        "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"
       }
