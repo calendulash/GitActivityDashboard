@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 20. 02:25",
+  "updatedAt": "2026. 10. 20. 06:49",
   "students": [
     {
       "name": "2학년 1팀",
@@ -122,8 +122,8 @@
         0,
         0,
         0,
-        1,
-        6,
+        2,
+        5,
         1
       ],
       "recent": [
@@ -165,7 +165,7 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 11,
+      "commits": 13,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -176,9 +176,21 @@
         0,
         1,
         1,
-        11
+        13
       ],
       "recent": [
+        {
+          "message": "[Feat] 물에 빠지면 견인비용 내기 & 원거리 공격 강도, 경찰 추가, 인게임 시간흐름 현실 10분",
+          "time": "오늘",
+          "sha": "fe65c13",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/fe65c1322fbac806bd69002751b490a2e050d3a3"
+        },
+        {
+          "message": "[Feat] 대출앱, 도박앱 추가 & 일일임대료 추가",
+          "time": "오늘",
+          "sha": "dcbbbcf",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/dcbbbcfbb7f0d29518f5be3f2f987fd239e88cb1"
+        },
         {
           "message": "[Feat] 무기점 추가, 배달 시간 조정",
           "time": "오늘",
@@ -196,18 +208,6 @@
           "time": "오늘",
           "sha": "f4bae0b",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/f4bae0b2e23ad9d59598107ea385a3238e2e9262"
-        },
-        {
-          "message": "[Fix] UI 임시 적용 & 플레이어 모델 제작",
-          "time": "오늘",
-          "sha": "f677716",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/f6777165520b8264079bcf64bb3c7cef96869ead"
-        },
-        {
-          "message": "[Feat] 로비 로고 교체",
-          "time": "오늘",
-          "sha": "68764b8",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/68764b83dd8fe1405734ac1e9e1605fb755a795a"
         }
       ]
     },
@@ -217,7 +217,7 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 3,
+      "commits": 4,
       "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
@@ -228,9 +228,15 @@
         0,
         4,
         12,
-        3
+        4
       ],
       "recent": [
+        {
+          "message": "[Feat]조합 추가 및 속성 공격 추가 완성",
+          "time": "오늘",
+          "sha": "f0ae725",
+          "url": "https://github.com/23jihwan/7_tim/commit/f0ae7257113df041aec099ee2c2c462aba42d92e"
+        },
         {
           "message": "[Feat]에셋 추가 및 속성,조합식 추가",
           "time": "오늘",
@@ -251,15 +257,9 @@
         },
         {
           "message": "[Feat] 빌드 파일",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "2b642b8",
           "url": "https://github.com/23jihwan/7_tim/commit/2b642b8e83f97e8a0705832f6de02d156fdcef6e"
-        },
-        {
-          "message": "[Feat] 보스 이미지 생성",
-          "time": "7일 전",
-          "sha": "a809423",
-          "url": "https://github.com/23jihwan/7_tim/commit/a8094238492b9892649e876d90d825b2bbb20740"
         }
       ]
     },
@@ -505,8 +505,8 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 3,
-      "activeDays": 2,
+      "commits": 4,
+      "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -516,18 +516,24 @@
         3,
         0,
         4,
-        3
+        4
       ],
       "recent": [
         {
-          "message": "[Feat] 갈색시티씬 생성 및 세팅",
+          "message": "[Feat] 진무가문 내부",
           "time": "오늘",
+          "sha": "3f78935",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/3f78935a4b85987769fe9e2bd83a71874f827331"
+        },
+        {
+          "message": "[Feat] 갈색시티씬 생성 및 세팅",
+          "time": "어제",
           "sha": "0175377",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/0175377dce8a497ca776927e3aabd964e232e19c"
         },
         {
           "message": "[Feat] 1번도로 배치",
-          "time": "오늘",
+          "time": "어제",
           "sha": "1b06e6b",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/1b06e6bf87a58c38ba7b072177a3147f63b465b8"
         },
@@ -542,12 +548,6 @@
           "time": "8일 전",
           "sha": "ee00e63",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ee00e63d3712f8c684ae1ac3bc9eb48987f481e4"
-        },
-        {
-          "message": "[Feat] 맵 아트 적용",
-          "time": "8일 전",
-          "sha": "179b6da",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/179b6da1f1b3102902e109cc3c1076726bb94abf"
         }
       ]
     },
@@ -559,39 +559,39 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 5,
       "activeDays": 2,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
         3,
         1,
         5,
-        0,
-        9,
+        1,
+        8,
         5
       ],
       "recent": [
         {
           "message": "[chore] Prefabs 폴더 롤백",
-          "time": "오늘",
+          "time": "어제",
           "sha": "5eb60fa",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/5eb60faa7566714a19e248d719d339d7e545baf3"
         },
         {
           "message": "[chore] MangerPrefabs 폴더 위치 롤백",
-          "time": "오늘",
+          "time": "어제",
           "sha": "8264b3a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/8264b3ae9368fd9753d4ebc8adb99b9d842e404a"
         },
         {
           "message": "[chore] Boss 카메라 세팅",
-          "time": "오늘",
+          "time": "어제",
           "sha": "43aee9e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/43aee9edaed7a5a0115f991b2e46b5f4ba967aa5"
         },
         {
           "message": "[Feat] Boss 1페이즈 2페이즈 패턴 임시구현 완료",
-          "time": "오늘",
+          "time": "어제",
           "sha": "ce8af56",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/ce8af564550286d817e9d6bd3ce968ce15eecc43"
         },
@@ -609,49 +609,49 @@
       "team": "JungYS24",
       "github": "JungYS24",
       "repo": "JungYS24/Tricky-Yacht",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "29일 전",
-      "status": "inactive",
+      "commits": 28,
+      "activeDays": 5,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
-        2,
+        0,
+        0,
+        11,
         1,
-        0,
-        0,
-        0,
-        0
+        4,
+        28
       ],
       "recent": [
         {
-          "message": "Revise README with new project and team details",
-          "time": "29일 전",
-          "sha": "8be9a52",
-          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/8be9a5205f7c904a91c505d1eb00f430cbb583c6"
+          "message": "[Chore] 리딤 복구",
+          "time": "오늘",
+          "sha": "0e3bed2",
+          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/0e3bed230c4eb5973ffc1a0d3bd9121076375442"
         },
         {
-          "message": "Merge pull request #1 from JungYS24/feat/main-ui",
-          "time": "41일 전",
-          "sha": "be2510e",
-          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/be2510e8038b48d7c935dbc07f6691e435b0f380"
+          "message": "Merge pull request #80 from JungYS24/develop",
+          "time": "오늘",
+          "sha": "4a97a97",
+          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/4a97a979b522ae1aca444df9d6d9d379c1f9fdbe"
         },
         {
-          "message": "feat(ui): 도감 UI 1차 레이아웃 수정 및 신규 스탬프 에셋 추가",
-          "time": "41일 전",
-          "sha": "cce6a50",
-          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cce6a506d61398c633afd8968679b7633896dfd3"
+          "message": "Merge develop into main (develop 기준) (#79)",
+          "time": "오늘",
+          "sha": "32f4986",
+          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/32f4986cae20ce3931526e2d0136e8b0d07147d5"
         },
         {
-          "message": "asset_ Fire Icon Anim",
-          "time": "53일 전",
-          "sha": "cd47d9a",
-          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/cd47d9ad607dafcc73755a3bfdd5915a5bdac593"
+          "message": "Merge remote-tracking branch 'origin/main' into merge/main-into-develop",
+          "time": "오늘",
+          "sha": "5168ad2",
+          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/5168ad2888cfa76fe1b4beaec97034e1177b6c0e"
         },
         {
-          "message": "feat(asset): 화염 주사위 및 UI 아이콘 리소스 추가",
-          "time": "60일 전",
-          "sha": "bef2511",
-          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/bef25118b933bd6b8c934aa05e9b31ff286d1d37"
+          "message": "[Fix] 맵·튜토리얼 씬의 미싱 MonsterDataManager 제거",
+          "time": "오늘",
+          "sha": "e035b86",
+          "url": "https://github.com/JungYS24/Tricky-Yacht/commit/e035b86b75cf50a8bf8ad13ab656cecf07e40343"
         }
       ]
     },
@@ -829,7 +829,7 @@
         },
         {
           "message": "[Feat] 장착된 아이템 회수 및 완료 판단 조건 변경",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "eacffc9",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eacffc9d968b6d6119a72891e2658bd14e9fdd22"
         },
@@ -1009,7 +1009,7 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 11,
+      "commits": 13,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -1020,9 +1020,21 @@
         0,
         1,
         1,
-        11
+        13
       ],
       "recent": [
+        {
+          "message": "[Feat] 물에 빠지면 견인비용 내기 & 원거리 공격 강도, 경찰 추가, 인게임 시간흐름 현실 10분",
+          "time": "오늘",
+          "sha": "fe65c13",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/fe65c1322fbac806bd69002751b490a2e050d3a3"
+        },
+        {
+          "message": "[Feat] 대출앱, 도박앱 추가 & 일일임대료 추가",
+          "time": "오늘",
+          "sha": "dcbbbcf",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/dcbbbcfbb7f0d29518f5be3f2f987fd239e88cb1"
+        },
         {
           "message": "[Feat] 무기점 추가, 배달 시간 조정",
           "time": "오늘",
@@ -1040,18 +1052,6 @@
           "time": "오늘",
           "sha": "f4bae0b",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/f4bae0b2e23ad9d59598107ea385a3238e2e9262"
-        },
-        {
-          "message": "[Fix] UI 임시 적용 & 플레이어 모델 제작",
-          "time": "오늘",
-          "sha": "f677716",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/f6777165520b8264079bcf64bb3c7cef96869ead"
-        },
-        {
-          "message": "[Feat] 로비 로고 교체",
-          "time": "오늘",
-          "sha": "68764b8",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/68764b83dd8fe1405734ac1e9e1605fb755a795a"
         }
       ]
     }
