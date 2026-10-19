@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 19. 09:25",
+  "updatedAt": "2026. 10. 19. 14:09",
   "students": [
     {
       "name": "2학년 1팀",
@@ -70,8 +70,8 @@
         2,
         0,
         4,
-        3,
-        4,
+        5,
+        2,
         6
       ],
       "recent": [
@@ -113,10 +113,10 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "6일 전",
-      "status": "watch",
+      "commits": 2,
+      "activeDays": 2,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -124,9 +124,15 @@
         0,
         1,
         5,
-        1
+        2
       ],
       "recent": [
+        {
+          "message": "[Fix]캔버스 스케일 수정",
+          "time": "오늘",
+          "sha": "12fc72f",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/12fc72f21427e08b2f575a415595f14af53d144c"
+        },
         {
           "message": "[Fix] 발전기 미션 오류 수정",
           "time": "6일 전",
@@ -150,12 +156,6 @@
           "time": "7일 전",
           "sha": "e7db311",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
-        },
-        {
-          "message": "[Feat] UI 에셋 추가",
-          "time": "7일 전",
-          "sha": "bc78c25",
-          "url": "https://github.com/ahyun04/26TeamProject_2/commit/bc78c2567e566e4a5e0ad4fddc926dd10d749bf4"
         }
       ]
     },
@@ -165,9 +165,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 7,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         4,
@@ -176,9 +176,15 @@
         0,
         1,
         1,
-        6
+        7
       ],
       "recent": [
+        {
+          "message": "[Feat] 로비 로고 교체",
+          "time": "오늘",
+          "sha": "68764b8",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/68764b83dd8fe1405734ac1e9e1605fb755a795a"
+        },
         {
           "message": "[Feat] 로비 제작 (임시)",
           "time": "어제",
@@ -187,13 +193,13 @@
         },
         {
           "message": "[Feat] 주식 시스템 제작",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "3af5dc9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949"
         },
         {
           "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "c015ef9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e"
         },
@@ -202,12 +208,6 @@
           "time": "2일 전",
           "sha": "da51cb3",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/da51cb3ac0ea2673a79531f90eca8c0b4a814b39"
-        },
-        {
-          "message": "[Feat] 수리점 모델 추가, 핸드폰, 지도 조작 추가",
-          "time": "4일 전",
-          "sha": "eb550f5",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
         }
       ]
     },
@@ -217,10 +217,10 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "5일 전",
-      "status": "watch",
+      "commits": 2,
+      "activeDays": 2,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         1,
@@ -228,9 +228,15 @@
         0,
         4,
         12,
-        1
+        2
       ],
       "recent": [
+        {
+          "message": "[Feat]빌드 파일",
+          "time": "오늘",
+          "sha": "29ba2a3",
+          "url": "https://github.com/23jihwan/7_tim/commit/29ba2a3d52947d55f57b500e304b7d6492390c0e"
+        },
         {
           "message": "[Fix]안올라간거 다시 올림",
           "time": "5일 전",
@@ -254,12 +260,6 @@
           "time": "7일 전",
           "sha": "c525bd9",
           "url": "https://github.com/23jihwan/7_tim/commit/c525bd9e7fbbb321c3f28fc9562306dd098d59ce"
-        },
-        {
-          "message": "[Feat] 엘리트 몬스터 이미지 및 보스 몬스터 스크립트 생성",
-          "time": "7일 전",
-          "sha": "8607ed5",
-          "url": "https://github.com/23jihwan/7_tim/commit/8607ed58ac4c3a2e27456ed14108dabb95539682"
         }
       ]
     },
@@ -269,20 +269,26 @@
       "team": "esuvean",
       "github": "esuvean",
       "repo": "esuvean/PRESS-START_",
-      "commits": 4,
-      "activeDays": 2,
-      "lastCommit": "2일 전",
+      "commits": 5,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
         1,
-        6,
-        3,
+        7,
+        2,
         1,
         5,
-        4
+        5
       ],
       "recent": [
+        {
+          "message": "[feat] 메인 빌드 수정",
+          "time": "오늘",
+          "sha": "5d6e328",
+          "url": "https://github.com/esuvean/PRESS-START_/commit/5d6e3286715ce21293b7acde3a42ebbce4d5438d"
+        },
         {
           "message": "[Update] 로딩화면 UI변경",
           "time": "2일 전",
@@ -306,12 +312,6 @@
           "time": "3일 전",
           "sha": "39f089b",
           "url": "https://github.com/esuvean/PRESS-START_/commit/39f089b0bd691af84259d5e4b7fe0740f9543c0a"
-        },
-        {
-          "message": "[Feat] 배경 제작 , UI 바꿈 , 챕터3 노이즈 추가",
-          "time": "7일 전",
-          "sha": "bc47019",
-          "url": "https://github.com/esuvean/PRESS-START_/commit/bc470199e89c5f5d017e3bf01407d1650e9bee52"
         }
       ]
     },
@@ -343,7 +343,7 @@
         },
         {
           "message": "2",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         },
@@ -395,7 +395,7 @@
         },
         {
           "message": "chore: .vscode 폴더를 추적에서 제외",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "b86172e",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b86172e50421c162e21452976e82f68d1853b9ec"
         },
@@ -661,49 +661,49 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 13,
+      "commits": 17,
       "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        2,
-        4,
-        31,
-        19,
-        17,
+        0,
+        3,
+        29,
+        22,
         14,
-        13
+        15,
+        17
       ],
       "recent": [
         {
-          "message": "[Feat] 사운드 시스템 추가, BGM 재생까지",
+          "message": "[Chore] 슬라이더 연결",
           "time": "오늘",
-          "sha": "7ad9ea5",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/7ad9ea5c0dde08eb06372398c43a79216327e7d0"
+          "sha": "5f28b5e",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/5f28b5ee39d9090a1afc06f883121405352e284c"
         },
         {
-          "message": "[Chore] SO리소스 할당, PPU 변경",
+          "message": "[Chore] 웹빌드 0.4.0",
           "time": "오늘",
-          "sha": "c9c9586",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/c9c9586534a56d4d732e947c9c6d7428300e7503"
+          "sha": "2e4a7ab",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/2e4a7ab13bf0df843b0135883f32349fa1dfb993"
         },
         {
-          "message": "[Chore] 임시 리소스 임포트",
+          "message": "[Chore] 전투 속도 슬라이더 세팅 팝업으로 이동",
           "time": "오늘",
-          "sha": "7199932",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/71999324623253c0ce3bbd7c189ce74406e16c66"
+          "sha": "a084df7",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/a084df7202eb90390ecd0bf988146b8f1c822dac"
         },
         {
-          "message": "[Chore] 사운드 에셋 임포트",
+          "message": "[Chore] 초기 덱 조합 설정",
           "time": "오늘",
-          "sha": "7379077",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/7379077c09b553535f9c319c7e85b07a0a52c856"
+          "sha": "9eef7ea",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9eef7ea5e33a4af38c10f04e30622f472de71a78"
         },
         {
-          "message": "[Feat] 툴팁 ui 기능 추가",
+          "message": "[Fix] 보상 카드 생성 시 SmartFormat 파싱 에러(value selector) 해결",
           "time": "오늘",
-          "sha": "9475936",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/94759361dcbec781c266d1e091956d50f9c603cf"
+          "sha": "dd7a412",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/dd7a4121252beeae5eb5f0aa5297566fceef647f"
         }
       ]
     },
@@ -783,7 +783,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "38일 전",
+          "time": "39일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -933,7 +933,7 @@
         },
         {
           "message": "[Feat] 공격 시스템 UI 스크립트 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "9564f59",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9564f59359552cb0e809bb77312185e5308dc527"
         },
@@ -966,8 +966,8 @@
         2,
         0,
         4,
-        3,
-        4,
+        5,
+        2,
         6
       ],
       "recent": [
@@ -1009,9 +1009,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 7,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         4,
@@ -1020,9 +1020,15 @@
         0,
         1,
         1,
-        6
+        7
       ],
       "recent": [
+        {
+          "message": "[Feat] 로비 로고 교체",
+          "time": "오늘",
+          "sha": "68764b8",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/68764b83dd8fe1405734ac1e9e1605fb755a795a"
+        },
         {
           "message": "[Feat] 로비 제작 (임시)",
           "time": "어제",
@@ -1031,13 +1037,13 @@
         },
         {
           "message": "[Feat] 주식 시스템 제작",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "3af5dc9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/3af5dc9e652b7a97a71b790cadf8d9cfa09f8949"
         },
         {
           "message": "[Feat] 강도 애니메이션, 매커니즘 변경",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "c015ef9",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/c015ef9e6182fa07e79e274562e9650dc8a5b62e"
         },
@@ -1046,12 +1052,6 @@
           "time": "2일 전",
           "sha": "da51cb3",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/da51cb3ac0ea2673a79531f90eca8c0b4a814b39"
-        },
-        {
-          "message": "[Feat] 수리점 모델 추가, 핸드폰, 지도 조작 추가",
-          "time": "4일 전",
-          "sha": "eb550f5",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/eb550f50ca92eb7c2370d7ed17e1f7909803d484"
         }
       ]
     }
