@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 20. 14:44",
+  "updatedAt": "2026. 10. 20. 19:47",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -10061,6 +10061,75 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "2153b07e53c4a3417f7b8f0729875f769a2bea63",
+      "message": "[Feat] UI적용",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/2153b07e53c4a3417f7b8f0729875f769a2bea63",
+      "date": "2026-10-20T10:39:07Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "esuvean",
+      "gitAuthorName": "esuvean",
+      "gitAuthorEmail": "esuvean@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 28,
+        "additions": 290,
+        "deletions": 254,
+        "meaningful_change": 192,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "0698dda8aac2d40529a1aba6c383fa211b2e72ec",
+      "message": "[Feat] 사운드 작업",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/0698dda8aac2d40529a1aba6c383fa211b2e72ec",
+      "date": "2026-10-20T10:03:22Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "esuvean",
+      "gitAuthorName": "esuvean",
+      "gitAuthorEmail": "esuvean@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 50,
+        "additions": 1138,
+        "deletions": 4,
+        "meaningful_change": 705,
+        "meaningful_file_count": 25,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "86395c7add2f1ded83754208c1c2b8e5fb1becd0",
+      "message": "[Feat] 버튼 누르는 사운드 이펙트 넣기, 타이머10초전 연출 넣기",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/86395c7add2f1ded83754208c1c2b8e5fb1becd0",
+      "date": "2026-10-20T08:48:22Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "esuvean",
+      "gitAuthorName": "esuvean",
+      "gitAuthorEmail": "esuvean@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 1123,
+        "deletions": 101,
+        "meaningful_change": 1208,
+        "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "cfff74020d4c5485596b57c6a483acf2d6356db8",
       "message": "[feat]미니게임08,09 ui추가",
       "url": "https://github.com/esuvean/PRESS-START_/commit/cfff74020d4c5485596b57c6a483acf2d6356db8",
@@ -12284,75 +12353,6 @@
         "deletions": 0,
         "meaningful_change": 82,
         "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "9ff5da907dadc58d16cf19c6cb9427aa0feaaa1a",
-      "message": "[fix] 챕터1 미니게임2 오류 수정",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/9ff5da907dadc58d16cf19c6cb9427aa0feaaa1a",
-      "date": "2026-08-19T08:50:16Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 579,
-        "deletions": 529,
-        "meaningful_change": 1108,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "993dc9124621f886b7482e9a90d8e022e3b9d1b8",
-      "message": "[feat] 챕터1 미니게임3구현",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/993dc9124621f886b7482e9a90d8e022e3b9d1b8",
-      "date": "2026-08-19T08:45:03Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 6,
-        "additions": 1314,
-        "deletions": 1,
-        "meaningful_change": 1301,
-        "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "e56c91b93db266ebe99e4d6575fe9154cfcfe811",
-      "message": "Merge branch 'main' of https://github.com/esuvean/PRESS-START_",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/e56c91b93db266ebe99e4d6575fe9154cfcfe811",
-      "date": "2026-08-18T17:01:14Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 36,
-        "additions": 21382,
-        "deletions": 3418,
-        "meaningful_change": 24266,
-        "meaningful_file_count": 17,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -15897,6 +15897,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "316824469c3115b90a8ca414c983def305566a23",
+      "message": "Merge branch 'main' of https://github.com/qkrgml59/2026_2_TeamProject",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/316824469c3115b90a8ca414c983def305566a23",
+      "date": "2026-10-20T08:07:32Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "qkrgml59",
+      "gitAuthorName": "qkrgml59",
+      "gitAuthorEmail": "qkrgml59@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 91,
+        "additions": 432246,
+        "deletions": 11,
+        "meaningful_change": 431817,
+        "meaningful_file_count": 45,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 5팀",
+      "repo": "qkrgml59/2026_2_TeamProject",
+      "branch": "main",
+      "sha": "c423e4d2e3c744a4431603ba091b70af3ab44ebe",
+      "message": "[Fix] player 퍼즐 공격 안 되는 거 수정",
+      "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c423e4d2e3c744a4431603ba091b70af3ab44ebe",
+      "date": "2026-10-20T08:04:28Z",
+      "expectedGithub": "qkrgml59",
+      "actualGithub": "qkrgml59",
+      "gitAuthorName": "qkrgml59",
+      "gitAuthorEmail": "qkrgml59@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 614,
+        "deletions": 8,
+        "meaningful_change": 615,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -23815,6 +23861,52 @@
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
+      "sha": "31afd50a8b5dbb1f3363790145a68cc4dc866273",
+      "message": "[Feat] 암석 아이콘 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/31afd50a8b5dbb1f3363790145a68cc4dc866273",
+      "date": "2026-10-20T10:18:18Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "chobin1253",
+      "gitAuthorName": "chobin1253",
+      "gitAuthorEmail": "dlchqls06@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 125,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 2,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "3671723c90ec656acc35d75dfa24f94915b702c8",
+      "message": "[Feat] 나레이션ai 스탠딩 일러스트 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/3671723c90ec656acc35d75dfa24f94915b702c8",
+      "date": "2026-10-20T05:50:19Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "chobin1253",
+      "gitAuthorName": "chobin1253",
+      "gitAuthorEmail": "dlchqls06@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 494,
+        "deletions": 237,
+        "meaningful_change": 247,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
       "sha": "7255c25f097d6f9b63de6d7dca18526f02b50686",
       "message": "[Feat] 플레이어 리소스 삽입 및 위치 조정",
       "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/7255c25f097d6f9b63de6d7dca18526f02b50686",
@@ -25550,13 +25642,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 300,
-        "additions": 1596965,
-        "deletions": 29586,
-        "meaningful_change": 4069,
-        "meaningful_file_count": 53,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
