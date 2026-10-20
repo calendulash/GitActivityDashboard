@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 21. 04:39",
+  "updatedAt": "2026. 10. 21. 07:40",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7012,13 +7012,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 170,
-        "additions": 908171,
-        "deletions": 237150,
-        "meaningful_change": 1145009,
-        "meaningful_file_count": 95,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
