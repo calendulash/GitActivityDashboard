@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 21. 10:18",
+  "updatedAt": "2026. 10. 21. 15:23",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,9 +61,9 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 7,
-      "activeDays": 2,
-      "lastCommit": "어제",
+      "commits": 8,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
@@ -72,9 +72,15 @@
         4,
         7,
         0,
-        7
+        8
       ],
       "recent": [
+        {
+          "message": "[Feat] 적 및 아군 진영 Core 구현",
+          "time": "오늘",
+          "sha": "93f52e0",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff"
+        },
         {
           "message": "[Feat] 영웅, 특성 7종 구현",
           "time": "어제",
@@ -98,12 +104,6 @@
           "time": "5일 전",
           "sha": "55cac4a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/55cac4a5f617c53ff4f2806ad27db39b1711596a"
-        },
-        {
-          "message": "[Feat] 카드 시스템 구체화/시스템 정리",
-          "time": "5일 전",
-          "sha": "d3b48c6",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/d3b48c6fa8efa44ce1e31e6f2adac726bfcdf484"
         }
       ]
     },
@@ -115,7 +115,7 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -129,7 +129,7 @@
       "recent": [
         {
           "message": "[Fix]캔버스 스케일 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "12fc72f",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/12fc72f21427e08b2f575a415595f14af53d144c"
         },
@@ -251,7 +251,7 @@
         },
         {
           "message": "[Feat]빌드 파일",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "29ba2a3",
           "url": "https://github.com/23jihwan/7_tim/commit/29ba2a3d52947d55f57b500e304b7d6492390c0e"
         },
@@ -275,11 +275,11 @@
       "status": "active",
       "weekly": [
         3,
-        0,
-        7,
-        2,
         1,
-        5,
+        6,
+        2,
+        2,
+        4,
         8
       ],
       "recent": [
@@ -303,7 +303,7 @@
         },
         {
           "message": "[feat] 메인 빌드 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "5d6e328",
           "url": "https://github.com/esuvean/PRESS-START_/commit/5d6e3286715ce21293b7acde3a42ebbce4d5438d"
         },
@@ -389,13 +389,13 @@
         },
         {
           "message": "Add CODEOWNERS",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "b645314",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b645314d0cd9e08f7baeb806929a91e5d4a942ba"
         },
         {
           "message": "chore: .vscode 폴더를 추적에서 제외",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "b86172e",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b86172e50421c162e21452976e82f68d1853b9ec"
         },
@@ -661,18 +661,18 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 26,
-      "activeDays": 7,
+      "commits": 23,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
-        1,
-        27,
+        6,
+        22,
         17,
         17,
-        12,
-        26
+        15,
+        23
       ],
       "recent": [
         {
@@ -783,7 +783,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "40일 전",
+          "time": "41일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -905,7 +905,7 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 6,
+      "commits": 8,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -916,9 +916,21 @@
         5,
         9,
         4,
-        6
+        8
       ],
       "recent": [
+        {
+          "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
+          "time": "오늘",
+          "sha": "ecc60a8",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ecc60a8d6807a372f2a1d5ccdfcd48ed4a3ecd7b"
+        },
+        {
+          "message": "[Feat]공격에 이동 추가",
+          "time": "오늘",
+          "sha": "56a34ef",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/56a34efa870d3410d289843084562805b376c7a4"
+        },
         {
           "message": "스크립트 수정",
           "time": "오늘",
@@ -936,18 +948,6 @@
           "time": "3일 전",
           "sha": "11cebdc",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/11cebdc3765d9ff16d2ad677f74616b53eafcd66"
-        },
-        {
-          "message": "[Feat]공격순환 시스템 완성",
-          "time": "3일 전",
-          "sha": "a1c59e6",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a1c59e6de02ca2b0e36fe31c9d8784c0d1322eda"
-        },
-        {
-          "message": "[Feat] 공격 시스템 UI 스크립트 추가",
-          "time": "5일 전",
-          "sha": "9564f59",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/9564f59359552cb0e809bb77312185e5308dc527"
         }
       ]
     },
@@ -957,9 +957,9 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 7,
-      "activeDays": 2,
-      "lastCommit": "어제",
+      "commits": 8,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
@@ -968,9 +968,15 @@
         4,
         7,
         0,
-        7
+        8
       ],
       "recent": [
+        {
+          "message": "[Feat] 적 및 아군 진영 Core 구현",
+          "time": "오늘",
+          "sha": "93f52e0",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff"
+        },
         {
           "message": "[Feat] 영웅, 특성 7종 구현",
           "time": "어제",
@@ -994,12 +1000,6 @@
           "time": "5일 전",
           "sha": "55cac4a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/55cac4a5f617c53ff4f2806ad27db39b1711596a"
-        },
-        {
-          "message": "[Feat] 카드 시스템 구체화/시스템 정리",
-          "time": "5일 전",
-          "sha": "d3b48c6",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/d3b48c6fa8efa44ce1e31e6f2adac726bfcdf484"
         }
       ]
     },

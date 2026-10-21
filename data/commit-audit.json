@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 21. 10:18",
+  "updatedAt": "2026. 10. 21. 15:23",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -2310,6 +2310,29 @@
       "projectName": "3학년 3팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "93f52e06aa3fd560921514aae7d1fd6ab88ba5ff",
+      "message": "[Feat] 적 및 아군 진영 Core 구현",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff",
+      "date": "2026-10-21T06:08:50Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 80,
+        "additions": 2868,
+        "deletions": 821,
+        "meaningful_change": 2945,
+        "meaningful_file_count": 44,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "499990178fef5706eeb8d66e33b451cb01b73e71",
       "message": "[Feat] 영웅, 특성 7종 구현",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/499990178fef5706eeb8d66e33b451cb01b73e71",
@@ -4584,26 +4607,49 @@
       }
     },
     {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
-      "sha": "c5b4f373cc0b210a7a8f3b7d2034a0e09ece38dd",
-      "message": "[Art feat] AI 전사 이미지 생성 된것들 (추후 수정 예정)",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/c5b4f373cc0b210a7a8f3b7d2034a0e09ece38dd",
-      "date": "2026-05-17T16:10:31Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "rlatjsdn818",
-      "gitAuthorName": "rlatjsdn818",
-      "gitAuthorEmail": "sunwoo030404@g.shingu.ac.kr",
+      "sha": "4a3fc50f680da250670795ecfb3f1407c0e14e05",
+      "message": "Merge branch 'Kwonjun' into main",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/4a3fc50f680da250670795ecfb3f1407c0e14e05",
+      "date": "2026-10-21T02:21:50Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "Im-Dinosaur",
+      "gitAuthorName": "Im-Dinosaur",
+      "gitAuthorEmail": "wnsdl80100@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 3,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 3,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
+        "changed_files": 5,
+        "additions": 115,
+        "deletions": 19,
+        "meaningful_change": 134,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "97b8f744e201368fb358ca6e30dcd5511eb2cd0a",
+      "message": "[Fix] 게임 중 로비 참가자 표시 및 메인 탭 접근 수정",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/97b8f744e201368fb358ca6e30dcd5511eb2cd0a",
+      "date": "2026-10-21T02:13:12Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "Im-Dinosaur",
+      "gitAuthorName": "Im-Dinosaur",
+      "gitAuthorEmail": "wnsdl80100@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 115,
+        "deletions": 19,
+        "meaningful_change": 134,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -6856,52 +6902,6 @@
         "deletions": 0,
         "meaningful_change": 582,
         "meaningful_file_count": 7,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "7e3af049de0cfac7520682889e5f08e299893224",
-      "message": "[Fix] 버그 수정v2",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/7e3af049de0cfac7520682889e5f08e299893224",
-      "date": "2026-09-13T08:25:42Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 22,
-        "deletions": 14,
-        "meaningful_change": 36,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "f964e56a23306f87d2d79148a49ed361142cc4e5",
-      "message": "[Feat] 버그 수정",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/f964e56a23306f87d2d79148a49ed361142cc4e5",
-      "date": "2026-09-13T08:01:52Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 46,
-        "additions": 1109,
-        "deletions": 284,
-        "meaningful_change": 1393,
-        "meaningful_file_count": 46,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -27863,6 +27863,75 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "ecc60a8d6807a372f2a1d5ccdfcd48ed4a3ecd7b",
+      "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ecc60a8d6807a372f2a1d5ccdfcd48ed4a3ecd7b",
+      "date": "2026-10-21T01:36:10Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 136887,
+        "deletions": 0,
+        "meaningful_change": 136880,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "56a34efa870d3410d289843084562805b376c7a4",
+      "message": "[Feat]공격에 이동 추가",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/56a34efa870d3410d289843084562805b376c7a4",
+      "date": "2026-10-21T01:36:04Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 661,
+        "deletions": 417,
+        "meaningful_change": 1076,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "478d639c91b76b115b79ec2d66ed229a0f9f78ae",
+      "message": "[Feat] Room 1 타일맵 디자인 추가",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/478d639c91b76b115b79ec2d66ed229a0f9f78ae",
+      "date": "2026-10-21T01:27:38Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "2026137008",
+      "gitAuthorName": "강민서",
+      "gitAuthorEmail": "2026137008@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 136887,
+        "deletions": 0,
+        "meaningful_change": 136880,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "89b454e66510e5eb9abc070ca225eaa2f16af4f4",
       "message": "스크립트 수정",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89b454e66510e5eb9abc070ca225eaa2f16af4f4",
@@ -28867,6 +28936,29 @@
         "deletions": 0,
         "meaningful_change": 8363,
         "meaningful_file_count": 74,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 2팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
+      "sha": "93f52e06aa3fd560921514aae7d1fd6ab88ba5ff",
+      "message": "[Feat] 적 및 아군 진영 Core 구현",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff",
+      "date": "2026-10-21T06:08:50Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 80,
+        "additions": 2868,
+        "deletions": 821,
+        "meaningful_change": 2945,
+        "meaningful_file_count": 44,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -31145,29 +31237,6 @@
         "meaningful_change": 0,
         "meaningful_file_count": 1,
         "suspicious_score": 50,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 2팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "c5b4f373cc0b210a7a8f3b7d2034a0e09ece38dd",
-      "message": "[Art feat] AI 전사 이미지 생성 된것들 (추후 수정 예정)",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/c5b4f373cc0b210a7a8f3b7d2034a0e09ece38dd",
-      "date": "2026-05-17T16:10:31Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "rlatjsdn818",
-      "gitAuthorName": "rlatjsdn818",
-      "gitAuthorEmail": "sunwoo030404@g.shingu.ac.kr",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 3,
-        "suspicious_score": 35,
         "judgment": "확인필요"
       }
     },
