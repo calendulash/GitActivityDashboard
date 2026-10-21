@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 22. 02:42",
+  "updatedAt": "2026. 10. 22. 05:59",
   "students": [
     {
       "name": "2학년 1팀",
@@ -187,13 +187,13 @@
         },
         {
           "message": "[Feat] 물에 빠지면 견인비용 내기 & 원거리 공격 강도, 경찰 추가, 인게임 시간흐름 현실 10분",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "fe65c13",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/fe65c1322fbac806bd69002751b490a2e050d3a3"
         },
         {
           "message": "[Feat] 대출앱, 도박앱 추가 & 일일임대료 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "dcbbbcf",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/dcbbbcfbb7f0d29518f5be3f2f987fd239e88cb1"
         },
@@ -507,7 +507,7 @@
       "repo": "jeonghyerin002/2026_2TeamProject",
       "commits": 4,
       "activeDays": 3,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         3,
@@ -521,7 +521,7 @@
       "recent": [
         {
           "message": "[Feat] 진무가문 내부",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "3f78935",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/3f78935a4b85987769fe9e2bd83a71874f827331"
         },
@@ -585,19 +585,19 @@
         },
         {
           "message": "[chore] Prefabs 폴더 롤백",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "5eb60fa",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/5eb60faa7566714a19e248d719d339d7e545baf3"
         },
         {
           "message": "[chore] MangerPrefabs 폴더 위치 롤백",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "8264b3a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/8264b3ae9368fd9753d4ebc8adb99b9d842e404a"
         },
         {
           "message": "[chore] Boss 카메라 세팅",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "43aee9e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/43aee9edaed7a5a0115f991b2e46b5f4ba967aa5"
         }
@@ -829,7 +829,7 @@
         },
         {
           "message": "[Feat] 업적 시스템 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "b733855",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/b733855609f96ca16c4b9aef4d28d9fb3d21c9ef"
         },
@@ -859,8 +859,8 @@
       "status": "active",
       "weekly": [
         2,
-        4,
-        1,
+        5,
+        0,
         8,
         0,
         10,
@@ -881,19 +881,19 @@
         },
         {
           "message": "[Fix] 스크립트 붙이는걸 깜빡해서 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "0d92a65",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/0d92a659ea554519da823e944c42e1b79913b8b2"
         },
         {
           "message": "[Feat] 전투 후 결과창 닫기 버튼을 통해 메인 메뉴로 돌아가도록 설정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "9c56b4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c56b4b12832f49896b20cf7163a7098979b86d3"
         },
         {
           "message": "[Feat] 스테이지 데이터 구현 및 스테이지 선택 후 배틀 씬 전환 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "8798e0e",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/8798e0e20fc3b9b6c26ba3c912bc70c0b3f85df6"
         }
@@ -1031,13 +1031,13 @@
         },
         {
           "message": "[Feat] 물에 빠지면 견인비용 내기 & 원거리 공격 강도, 경찰 추가, 인게임 시간흐름 현실 10분",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "fe65c13",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/fe65c1322fbac806bd69002751b490a2e050d3a3"
         },
         {
           "message": "[Feat] 대출앱, 도박앱 추가 & 일일임대료 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "dcbbbcf",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/dcbbbcfbb7f0d29518f5be3f2f987fd239e88cb1"
         },
