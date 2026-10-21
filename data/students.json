@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 22. 05:59",
+  "updatedAt": "2026. 10. 22. 08:57",
   "students": [
     {
       "name": "2학년 1팀",
@@ -141,19 +141,19 @@
         },
         {
           "message": "[Fix] 미션 오브젝트 수정, 게임 시간 수정",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "7e1c3ad",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/7e1c3ad737cfc52fc409dc6706cd5bc3187c28a8"
         },
         {
           "message": "[Fix] UI 수정",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "e567b99",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e567b9965ef2860c8250c583861b47c4ec4b83cf"
         },
         {
           "message": "[Feat] UI 적용",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "e7db311",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
         }
@@ -367,10 +367,10 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "13일 전",
-      "status": "inactive",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         2,
@@ -378,9 +378,15 @@
         2,
         12,
         3,
-        0
+        1
       ],
       "recent": [
+        {
+          "message": "[Feat] 미니게임 템플릿 추가 및 기존 3종 재작성",
+          "time": "오늘",
+          "sha": "140e1e4",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/140e1e430aef67386fa9af12b6d53b835ec66307"
+        },
         {
           "message": "refactor: 카페 맵 오브젝트를 프리팹으로 정리",
           "time": "13일 전",
@@ -404,12 +410,6 @@
           "time": "14일 전",
           "sha": "7182082",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718208293bf3f8a1358b3e1d241cbd9020433933"
-        },
-        {
-          "message": "fix: 얼음 스쿱 이동 제한",
-          "time": "14일 전",
-          "sha": "718435a",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718435a8d82ee06c8b80277cc5b302fe76e95fa4"
         }
       ]
     },
@@ -441,7 +441,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "36일 전",
+          "time": "37일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -801,8 +801,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 6,
-      "activeDays": 4,
+      "commits": 5,
+      "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -811,8 +811,8 @@
         0,
         13,
         28,
-        0,
-        6
+        1,
+        5
       ],
       "recent": [
         {

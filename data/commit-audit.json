@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 22. 05:59",
+  "updatedAt": "2026. 10. 22. 08:57",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -12700,6 +12700,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "140e1e430aef67386fa9af12b6d53b835ec66307",
+      "message": "[Feat] 미니게임 템플릿 추가 및 기존 3종 재작성",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/140e1e430aef67386fa9af12b6d53b835ec66307",
+      "date": "2026-10-21T22:28:03Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "simo07d7PG",
+      "gitAuthorName": "simo07d7PG",
+      "gitAuthorEmail": "simo07d7.pg@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 110,
+        "additions": 1248,
+        "deletions": 7055,
+        "meaningful_change": 8042,
+        "meaningful_file_count": 60,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -26033,13 +26056,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 300,
-        "additions": 1596965,
-        "deletions": 29586,
-        "meaningful_change": 4069,
-        "meaningful_file_count": 53,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
