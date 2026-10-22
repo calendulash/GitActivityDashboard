@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 23. 03:15",
+  "updatedAt": "2026. 10. 23. 06:59",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -25632,6 +25632,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "947ed53f59f718c14df4dc7dc39e2327b02aa6c0",
+      "message": "[Fix] 폭포 쉐이더 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/947ed53f59f718c14df4dc7dc39e2327b02aa6c0",
+      "date": "2026-10-22T19:25:09Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 11134,
+        "deletions": 1440,
+        "meaningful_change": 8,
+        "meaningful_file_count": 3,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "5d64675be3443e1d999f706ca5c1ef0d15f5c5cf",
       "message": "[Feat] VFX 그래프 추가 & 폭포 쉐이더 추가",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5d64675be3443e1d999f706ca5c1ef0d15f5c5cf",
@@ -26769,13 +26792,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 1596965,
+        "deletions": 29586,
+        "meaningful_change": 4069,
+        "meaningful_file_count": 53,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
