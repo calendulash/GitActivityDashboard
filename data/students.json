@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 22. 22:30",
+  "updatedAt": "2026. 10. 23. 03:15",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,9 +61,9 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 5,
-      "activeDays": 3,
-      "lastCommit": "오늘",
+      "commits": 4,
+      "activeDays": 2,
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         2,
@@ -71,13 +71,13 @@
         0,
         4,
         7,
-        5,
-        5
+        6,
+        4
       ],
       "recent": [
         {
           "message": "[Feat] 플레이어 스킬 1개, 유물 1개 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "e1572b7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/e1572b72d8333e2cc070ee86e57538396dc93291"
         },
@@ -95,13 +95,13 @@
         },
         {
           "message": "[Feat] 영웅, 특성 7종 구현",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "4999901",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/499990178fef5706eeb8d66e33b451cb01b73e71"
         },
         {
           "message": "[Feat] 테스트 영웅 구현 1",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "6eb322b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518"
         }
@@ -193,19 +193,19 @@
         },
         {
           "message": "[Feat] 대출앱, 도박앱 추가 & 일일임대료 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "dcbbbcf",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/dcbbbcfbb7f0d29518f5be3f2f987fd239e88cb1"
         },
         {
           "message": "[Feat] 무기점 추가, 배달 시간 조정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "f7ab01e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/f7ab01e4b947b0222e5960a54aa34ffb9071852f"
         },
         {
           "message": "[Feat] 빈민가 & 신도시 구역 추가 배달 시스템 변경 & 리뷰 시스템 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "10b72f4",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/10b72f43c64e6f23798dca0a028d76231fddfc3c"
         }
@@ -217,49 +217,49 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 4,
-      "activeDays": 2,
-      "lastCommit": "어제",
+      "commits": 6,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         1,
         0,
         4,
-        6,
         7,
-        4
+        6,
+        6
       ],
       "recent": [
         {
+          "message": "[Fix]턴 종료 버튼 다시 올림",
+          "time": "오늘",
+          "sha": "a611076",
+          "url": "https://github.com/23jihwan/7_tim/commit/a6110764c0c7164b166a760c76142d06f1d766b7"
+        },
+        {
+          "message": "[Feat]카드 테두리 이미지 및 턴종료 버튼 이미지 구현",
+          "time": "오늘",
+          "sha": "fdd523d",
+          "url": "https://github.com/23jihwan/7_tim/commit/fdd523dabf6fd1bfcadac5f2337d2d521c2d5b35"
+        },
+        {
           "message": "[Feat]HP바 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "307b0d5",
           "url": "https://github.com/23jihwan/7_tim/commit/307b0d593cce078f5dd9c0fc33685d5cd00d2228"
         },
         {
           "message": "[Feat]조합 추가 및 속성 공격 추가 완성",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "f0ae725",
           "url": "https://github.com/23jihwan/7_tim/commit/f0ae7257113df041aec099ee2c2c462aba42d92e"
         },
         {
           "message": "[Feat]에셋 추가 및 속성,조합식 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "399137e",
           "url": "https://github.com/23jihwan/7_tim/commit/399137e33ce22fcd49d566452f0f01173aec5f07"
-        },
-        {
-          "message": "[Feat]빌드 파일",
-          "time": "3일 전",
-          "sha": "29ba2a3",
-          "url": "https://github.com/23jihwan/7_tim/commit/29ba2a3d52947d55f57b500e304b7d6492390c0e"
-        },
-        {
-          "message": "[Fix]안올라간거 다시 올림",
-          "time": "8일 전",
-          "sha": "6ee8129",
-          "url": "https://github.com/23jihwan/7_tim/commit/6ee812991d05b0a5c1d9ac5043352182122b3467"
         }
       ]
     },
@@ -527,25 +527,25 @@
         },
         {
           "message": "[Feat] 갈색시티씬 생성 및 세팅",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "0175377",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/0175377dce8a497ca776927e3aabd964e232e19c"
         },
         {
           "message": "[Feat] 1번도로 배치",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "1b06e6b",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/1b06e6bf87a58c38ba7b072177a3147f63b465b8"
         },
         {
           "message": "[Feat] PalletTownTilemap 배치",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "ca10db3",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ca10db30d4efa50d9dd01de55120eb203d440c6b"
         },
         {
           "message": "[Fix] 플레이어 이미지 오류 수정",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "ee00e63",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ee00e63d3712f8c684ae1ac3bc9eb48987f481e4"
         }
@@ -611,13 +611,13 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 27,
       "activeDays": 4,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
         0,
-        3,
-        8,
+        4,
+        7,
         2,
         4,
         27
@@ -625,31 +625,31 @@
       "recent": [
         {
           "message": "[Chore] 리딤 복구",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "0e3bed2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/0e3bed230c4eb5973ffc1a0d3bd9121076375442"
         },
         {
           "message": "Merge pull request #80 from JungYS24/develop",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "4a97a97",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/4a97a979b522ae1aca444df9d6d9d379c1f9fdbe"
         },
         {
           "message": "Merge develop into main (develop 기준) (#79)",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "32f4986",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/32f4986cae20ce3931526e2d0136e8b0d07147d5"
         },
         {
           "message": "Merge remote-tracking branch 'origin/main' into merge/main-into-develop",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "5168ad2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/5168ad2888cfa76fe1b4beaec97034e1177b6c0e"
         },
         {
           "message": "[Fix] 맵·튜토리얼 씬의 미싱 MonsterDataManager 제거",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "e035b86",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/e035b86b75cf50a8bf8ad13ab656cecf07e40343"
         }
@@ -667,8 +667,8 @@
       "status": "active",
       "weekly": [
         0,
-        10,
         21,
+        10,
         17,
         16,
         12,
@@ -689,7 +689,7 @@
         },
         {
           "message": "[Feat] 카메라 흔들림 타격피격 연출",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "91217bb",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/91217bb78637db47c70cac4c12f6e63f0c199dd8"
         },
@@ -777,7 +777,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "35일 전",
+          "time": "36일 전",
           "sha": "c24111e",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/c24111e35fc3a14a37627d46a46edbf2c16df3af"
         },
@@ -809,8 +809,8 @@
         0,
         0,
         0,
-        18,
-        23,
+        19,
+        22,
         1,
         8
       ],
@@ -835,13 +835,13 @@
         },
         {
           "message": "[Fix] 쉐이더 로드 실패 해결 시도",
-          "time": "오늘",
+          "time": "어제",
           "sha": "1cce3c8",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1cce3c8e557ffc387104a223818e0e14be2687aa"
         },
         {
           "message": "[Feat] 포탈 시스템 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "c74cada",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/c74cada963cf32a06fd1c87157926ae6182aadfc"
         }
@@ -957,9 +957,9 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 5,
-      "activeDays": 3,
-      "lastCommit": "오늘",
+      "commits": 4,
+      "activeDays": 2,
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         2,
@@ -967,13 +967,13 @@
         0,
         4,
         7,
-        5,
-        5
+        6,
+        4
       ],
       "recent": [
         {
           "message": "[Feat] 플레이어 스킬 1개, 유물 1개 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "e1572b7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/e1572b72d8333e2cc070ee86e57538396dc93291"
         },
@@ -991,13 +991,13 @@
         },
         {
           "message": "[Feat] 영웅, 특성 7종 구현",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "4999901",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/499990178fef5706eeb8d66e33b451cb01b73e71"
         },
         {
           "message": "[Feat] 테스트 영웅 구현 1",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "6eb322b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/6eb322bfeb429f0cc4326d37fee64895e564b518"
         }
@@ -1037,19 +1037,19 @@
         },
         {
           "message": "[Feat] 대출앱, 도박앱 추가 & 일일임대료 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "dcbbbcf",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/dcbbbcfbb7f0d29518f5be3f2f987fd239e88cb1"
         },
         {
           "message": "[Feat] 무기점 추가, 배달 시간 조정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "f7ab01e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/f7ab01e4b947b0222e5960a54aa34ffb9071852f"
         },
         {
           "message": "[Feat] 빈민가 & 신도시 구역 추가 배달 시스템 변경 & 리뷰 시스템 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "10b72f4",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/10b72f43c64e6f23798dca0a028d76231fddfc3c"
         }

@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 10. 22. 22:30",
+  "updatedAt": "2026. 10. 23. 03:15",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "edc737e64d76cf952196c48b0d63a6ad5e3e04aa",
+      "message": "[Feat] 바스테트 5개 방 걷는 퍼즐·봉인석·횃불 제단 + 석상/발판 그림 + 아누비스로 이동",
+      "url": "https://github.com/suyan05/PharaohCube/commit/edc737e64d76cf952196c48b0d63a6ad5e3e04aa",
+      "date": "2026-10-22T15:31:16Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 89,
+        "additions": 23174,
+        "deletions": 904,
+        "meaningful_change": 22525,
+        "meaningful_file_count": 48,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2279,29 +2302,6 @@
         "deletions": 0,
         "meaningful_change": 0,
         "meaningful_file_count": 16,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "67aa91f0a45b9716666bc5bbebe24c03eed98231",
-      "message": "[Feat] 두아트 슬라이딩 미로",
-      "url": "https://github.com/suyan05/PharaohCube/commit/67aa91f0a45b9716666bc5bbebe24c03eed98231",
-      "date": "2026-10-05T17:45:51Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "khy1004",
-      "gitAuthorName": "khy1004",
-      "gitAuthorEmail": "khyseog08@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 9,
-        "additions": 580,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 4,
         "suspicious_score": 35,
         "judgment": "확인필요"
       }
@@ -9210,6 +9210,52 @@
       "projectName": "2학년 7팀",
       "repo": "23jihwan/7_tim",
       "branch": "main",
+      "sha": "a6110764c0c7164b166a760c76142d06f1d766b7",
+      "message": "[Fix]턴 종료 버튼 다시 올림",
+      "url": "https://github.com/23jihwan/7_tim/commit/a6110764c0c7164b166a760c76142d06f1d766b7",
+      "date": "2026-10-22T17:33:44Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "23jihwan",
+      "gitAuthorName": "23jihwan",
+      "gitAuthorEmail": "dbwlghks7410@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 7,
+        "deletions": 7,
+        "meaningful_change": 14,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
+      "sha": "fdd523dabf6fd1bfcadac5f2337d2d521c2d5b35",
+      "message": "[Feat]카드 테두리 이미지 및 턴종료 버튼 이미지 구현",
+      "url": "https://github.com/23jihwan/7_tim/commit/fdd523dabf6fd1bfcadac5f2337d2d521c2d5b35",
+      "date": "2026-10-22T17:19:37Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "23jihwan",
+      "gitAuthorName": "23jihwan",
+      "gitAuthorEmail": "dbwlghks7410@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 303,
+        "deletions": 17,
+        "meaningful_change": 34,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
       "sha": "d440f0fa99f84754d519c13763b7b4d1fdbdc356",
       "message": "[Feat] 설정창 완성 메인화면 사운드 추가 및 사운드 메니저 추가",
       "url": "https://github.com/23jihwan/7_tim/commit/d440f0fa99f84754d519c13763b7b4d1fdbdc356",
@@ -12706,6 +12752,75 @@
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
       "branch": "main",
+      "sha": "222f65fda4c39e4d3b8769133fa454b738baf994",
+      "message": "[Build] 빌드파일 수정",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/222f65fda4c39e4d3b8769133fa454b738baf994",
+      "date": "2026-10-22T13:43:14Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 2,
+        "deletions": 2,
+        "meaningful_change": 4,
+        "meaningful_file_count": 2,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "f1aa0d8dbee6a4dc8da721209211ed7db2bd5ebd",
+      "message": "[Feat] CursorLock",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/f1aa0d8dbee6a4dc8da721209211ed7db2bd5ebd",
+      "date": "2026-10-22T13:27:00Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 16,
+        "deletions": 0,
+        "meaningful_change": 16,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "92ec04146fb483ce8f2d00c77d8f4ef998c6ac04",
+      "message": "[Feat] Retry,Exit Code",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/92ec04146fb483ce8f2d00c77d8f4ef998c6ac04",
+      "date": "2026-10-22T13:24:12Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 2076,
+        "deletions": 11,
+        "meaningful_change": 2087,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
       "sha": "4ba58602697ff0401d14a9e95811a3ce7df72ff2",
       "message": "Merge branch 'main' of https://github.com/simo07d7PG/Team_JJAMBBAP",
       "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/4ba58602697ff0401d14a9e95811a3ce7df72ff2",
@@ -14471,6 +14586,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
+      "sha": "a10c835b78acdb22287c36e63406edcb25ac1950",
+      "message": "[Chore] 다이어로그 출력 속도 조절",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/a10c835b78acdb22287c36e63406edcb25ac1950",
+      "date": "2026-10-22T15:46:35Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "blocks2094",
+      "gitAuthorName": "HyunWoo",
+      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 2,
+        "deletions": 2,
+        "meaningful_change": 4,
+        "meaningful_file_count": 2,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
+      "sha": "645f3d31d4b9a091e361694b42da6ce18fd1729d",
+      "message": "[Fix] 최초 StartMenu 진입 시 페이드 연출 생략",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/645f3d31d4b9a091e361694b42da6ce18fd1729d",
+      "date": "2026-10-22T15:43:27Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "blocks2094",
+      "gitAuthorName": "HyunWoo",
+      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 13,
+        "deletions": 0,
+        "meaningful_change": 13,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
+      "sha": "672f0979ff4d723f724364728ba563cc1172c2a1",
+      "message": "[Feat] 프롤로그 이미지 전환 및 대화창 연출 개선",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/672f0979ff4d723f724364728ba563cc1172c2a1",
+      "date": "2026-10-22T15:43:13Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "blocks2094",
+      "gitAuthorName": "HyunWoo",
+      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 1220,
+        "deletions": 336,
+        "meaningful_change": 612,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -25448,6 +25632,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "5d64675be3443e1d999f706ca5c1ef0d15f5c5cf",
+      "message": "[Feat] VFX 그래프 추가 & 폭포 쉐이더 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5d64675be3443e1d999f706ca5c1ef0d15f5c5cf",
+      "date": "2026-10-22T15:30:20Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 300,
+        "additions": 1008090,
+        "deletions": 82,
+        "meaningful_change": 273,
+        "meaningful_file_count": 72,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "6f58254522148a37a1b0633e7223d320c1b4dfe9",
       "message": "[Chore] DOTween Import",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6f58254522148a37a1b0633e7223d320c1b4dfe9",
@@ -26562,13 +26769,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 300,
-        "additions": 1596965,
-        "deletions": 29586,
-        "meaningful_change": 4069,
-        "meaningful_file_count": 53,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
