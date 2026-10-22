@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 22. 08:57",
+  "updatedAt": "2026. 10. 22. 11:36",
   "students": [
     {
       "name": "2학년 1팀",
@@ -274,7 +274,7 @@
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
-        3,
+        2,
         1,
         6,
         2,
@@ -303,7 +303,7 @@
         },
         {
           "message": "[feat] 메인 빌드 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "5d6e328",
           "url": "https://github.com/esuvean/PRESS-START_/commit/5d6e3286715ce21293b7acde3a42ebbce4d5438d"
         },
@@ -343,7 +343,7 @@
         },
         {
           "message": "2",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         },
@@ -661,20 +661,32 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 23,
-      "activeDays": 6,
-      "lastCommit": "어제",
+      "commits": 25,
+      "activeDays": 7,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
-        9,
-        20,
-        20,
+        7,
+        22,
+        18,
         14,
         14,
-        23
+        25
       ],
       "recent": [
+        {
+          "message": "[Chore] 폴더 구조 정리",
+          "time": "오늘",
+          "sha": "8516b3c",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/8516b3c9de685750a7a7081ed7a21a6d8e373d1d"
+        },
+        {
+          "message": "[Chore] VFX 에셋 임포트",
+          "time": "오늘",
+          "sha": "9238ab9",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9238ab934cb5c4cd1579eb3a8808ab4c6657aa8f"
+        },
         {
           "message": "[Feat] 카메라 흔들림 타격피격 연출",
           "time": "어제",
@@ -692,18 +704,6 @@
           "time": "어제",
           "sha": "854522a",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/854522aca532f8b61fc6e746291852063e1a8b1a"
-        },
-        {
-          "message": "[Chore] 스테이지 씬 패널 리소스 적용",
-          "time": "어제",
-          "sha": "17349de",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/17349de126feafafa49021dab1c2e07dcc2e3e1f"
-        },
-        {
-          "message": "[Chore] SFX 임포트, 호출",
-          "time": "2일 전",
-          "sha": "84870d3",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/84870d32a185a5c9df6f516ff01e3f1b4c645e54"
         }
       ]
     },
@@ -855,7 +855,7 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 15,
       "activeDays": 3,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         2,
@@ -869,13 +869,13 @@
       "recent": [
         {
           "message": "[Fix] 데미지 텍스트 폰트 크기 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "83dd27c",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/83dd27c5c8a631e4b9af5546572eda24fe09dff5"
         },
         {
           "message": "[Fix] 데미지 텍스트가 스프라이트에 가려져 나오는 버그 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "74e855a",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/74e855af76136be322aca3528d82673d3f1a8df4"
         },
@@ -905,18 +905,18 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 8,
-      "activeDays": 3,
+      "commits": 7,
+      "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         0,
         0,
-        5,
-        9,
-        5,
-        8
+        6,
+        8,
+        6,
+        7
       ],
       "recent": [
         {
@@ -927,25 +927,25 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
-          "time": "오늘",
+          "time": "어제",
           "sha": "ecc60a8",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ecc60a8d6807a372f2a1d5ccdfcd48ed4a3ecd7b"
         },
         {
           "message": "[Feat]공격에 이동 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "56a34ef",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/56a34efa870d3410d289843084562805b376c7a4"
         },
         {
           "message": "스크립트 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "89b454e",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89b454e66510e5eb9abc070ca225eaa2f16af4f4"
         },
         {
           "message": "[Fix] 버그 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "73bc32a",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/73bc32a95df126dcdd700616ee42dd405818dde4"
         }
