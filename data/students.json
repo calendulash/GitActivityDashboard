@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 22. 11:36",
+  "updatedAt": "2026. 10. 22. 17:05",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,7 +61,7 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 10,
+      "commits": 8,
       "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
@@ -71,8 +71,8 @@
         0,
         4,
         7,
-        0,
-        10
+        2,
+        8
       ],
       "recent": [
         {
@@ -83,13 +83,13 @@
         },
         {
           "message": "[Feat] 회피 상태효과 구현 및 방어 상태효과 삭제",
-          "time": "오늘",
+          "time": "어제",
           "sha": "1f6ca49",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/1f6ca497e4170fb311aa7803fc3ae0ba6d1a6c3e"
         },
         {
           "message": "[Feat] 적 및 아군 진영 Core 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "93f52e0",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff"
         },
@@ -115,7 +115,7 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -129,13 +129,13 @@
       "recent": [
         {
           "message": "[Fix]캔버스 스케일 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "12fc72f",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/12fc72f21427e08b2f575a415595f14af53d144c"
         },
         {
           "message": "[Fix] 발전기 미션 오류 수정",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "684c5ec",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/684c5ec469ee147c0e925c676fbd22fb67b0c26d"
         },
@@ -226,8 +226,8 @@
         1,
         0,
         4,
-        4,
-        9,
+        6,
+        7,
         4
       ],
       "recent": [
@@ -251,7 +251,7 @@
         },
         {
           "message": "[Feat]빌드 파일",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "29ba2a3",
           "url": "https://github.com/23jihwan/7_tim/commit/29ba2a3d52947d55f57b500e304b7d6492390c0e"
         },
@@ -323,7 +323,7 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "5일 전",
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "Boss 1 Phase",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
         },
@@ -367,49 +367,49 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 1,
-      "activeDays": 1,
+      "commits": 10,
+      "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         2,
+        1,
+        1,
+        15,
         0,
-        2,
-        12,
-        3,
-        1
+        10
       ],
       "recent": [
         {
-          "message": "[Feat] 미니게임 템플릿 추가 및 기존 3종 재작성",
+          "message": "[Chore] 빈 폴더와 Build Settings 정리",
           "time": "오늘",
-          "sha": "140e1e4",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/140e1e430aef67386fa9af12b6d53b835ec66307"
+          "sha": "7ba7985",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/7ba79853f997ce617a40ad95349a7a1625d1b807"
         },
         {
-          "message": "refactor: 카페 맵 오브젝트를 프리팹으로 정리",
-          "time": "13일 전",
-          "sha": "a7847f2",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/a7847f2e2042793df0f53c070522f77a4ae872e9"
+          "message": "[Chore] 안 쓰는 머티리얼과 프로토타입 에셋 삭제",
+          "time": "오늘",
+          "sha": "e3bc2d1",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/e3bc2d1f826a6ef398cd53e3b42053afd973e4cb"
         },
         {
-          "message": "Add CODEOWNERS",
-          "time": "13일 전",
-          "sha": "b645314",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b645314d0cd9e08f7baeb806929a91e5d4a942ba"
+          "message": "[Chore] 머티리얼과 셰이더 위치 정리",
+          "time": "오늘",
+          "sha": "af8ec59",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/af8ec590bf681eff836c9b7b532503fbf1375cc4"
         },
         {
-          "message": "chore: .vscode 폴더를 추적에서 제외",
-          "time": "13일 전",
-          "sha": "b86172e",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/b86172e50421c162e21452976e82f68d1853b9ec"
+          "message": "[Feat] 미니게임 지시어·남은 시간·결과 글자 표시",
+          "time": "오늘",
+          "sha": "ce27f3c",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/ce27f3cae63227686c4267e2ea5e4fbc0bf760d5"
         },
         {
-          "message": "feat: 얼음 담기 연출 보완",
-          "time": "14일 전",
-          "sha": "7182082",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/718208293bf3f8a1358b3e1d241cbd9020433933"
+          "message": "[Feat] 기계 클릭으로 미니게임 열고 복귀",
+          "time": "오늘",
+          "sha": "c4935af",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/c4935af8a62f2a620a1245828e1447ba54e4d91e"
         }
       ]
     },
@@ -510,8 +510,8 @@
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
-        3,
-        2,
+        4,
+        1,
         2,
         3,
         0,
@@ -579,7 +579,7 @@
         },
         {
           "message": "[Fix] player 퍼즐 공격 안 되는 거 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "c423e4d",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c423e4d2e3c744a4431603ba091b70af3ab44ebe"
         },
@@ -616,8 +616,8 @@
       "weekly": [
         0,
         0,
-        1,
-        10,
+        2,
+        9,
         2,
         4,
         27
@@ -668,10 +668,10 @@
       "weekly": [
         0,
         7,
-        22,
-        18,
-        14,
-        14,
+        23,
+        17,
+        17,
+        11,
         25
       ],
       "recent": [
@@ -760,8 +760,8 @@
       "lastCommit": "28일 전",
       "status": "inactive",
       "weekly": [
-        1,
         2,
+        1,
         1,
         0,
         0,
@@ -783,7 +783,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "41일 전",
+          "time": "42일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -801,20 +801,38 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 5,
-      "activeDays": 3,
+      "commits": 8,
+      "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         0,
         0,
-        13,
-        28,
+        18,
+        23,
         1,
-        5
+        8
       ],
       "recent": [
+        {
+          "message": "[Chore] DOTween Import",
+          "time": "오늘",
+          "sha": "6f58254",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6f58254522148a37a1b0633e7223d320c1b4dfe9"
+        },
+        {
+          "message": "[Chore] 프로젝트 정리 및 Scene 변경 사항 적용",
+          "time": "오늘",
+          "sha": "58404b3",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/58404b3f05aef41229f83f810316246cdabadf90"
+        },
+        {
+          "message": "[Feat] 메인 메뉴 컨트롤러",
+          "time": "오늘",
+          "sha": "f2af455",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f2af4550449165b581df11c7b4fe9267fa38375b"
+        },
         {
           "message": "[Fix] 쉐이더 로드 실패 해결 시도",
           "time": "오늘",
@@ -826,24 +844,6 @@
           "time": "오늘",
           "sha": "c74cada",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/c74cada963cf32a06fd1c87157926ae6182aadfc"
-        },
-        {
-          "message": "[Feat] 업적 시스템 구현",
-          "time": "어제",
-          "sha": "b733855",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/b733855609f96ca16c4b9aef4d28d9fb3d21c9ef"
-        },
-        {
-          "message": "[Chore] 폴더 구조, 파일명 변경",
-          "time": "3일 전",
-          "sha": "6c0baaa",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6c0baaab92a44359536b0ea441a8e73298a2fdb2"
-        },
-        {
-          "message": "[Feat] 트리거 텍스트 추가",
-          "time": "3일 전",
-          "sha": "90c0309",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/90c0309cbd7f86dc038e76d9995b0b30d6eab337"
         }
       ]
     },
@@ -913,8 +913,8 @@
         0,
         0,
         0,
-        6,
-        8,
+        9,
+        5,
         6,
         7
       ],
@@ -957,7 +957,7 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 10,
+      "commits": 8,
       "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
@@ -967,8 +967,8 @@
         0,
         4,
         7,
-        0,
-        10
+        2,
+        8
       ],
       "recent": [
         {
@@ -979,13 +979,13 @@
         },
         {
           "message": "[Feat] 회피 상태효과 구현 및 방어 상태효과 삭제",
-          "time": "오늘",
+          "time": "어제",
           "sha": "1f6ca49",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/1f6ca497e4170fb311aa7803fc3ae0ba6d1a6c3e"
         },
         {
           "message": "[Feat] 적 및 아군 진영 Core 구현",
-          "time": "오늘",
+          "time": "어제",
           "sha": "93f52e0",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff"
         },
