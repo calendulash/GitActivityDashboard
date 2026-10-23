@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 23. 14:19",
+  "updatedAt": "2026. 10. 23. 19:28",
   "students": [
     {
       "name": "2학년 1팀",
@@ -83,13 +83,13 @@
         },
         {
           "message": "[Feat] 회피 상태효과 구현 및 방어 상태효과 삭제",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "1f6ca49",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/1f6ca497e4170fb311aa7803fc3ae0ba6d1a6c3e"
         },
         {
           "message": "[Feat] 적 및 아군 진영 Core 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "93f52e0",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff"
         },
@@ -135,7 +135,7 @@
         },
         {
           "message": "[Fix] 발전기 미션 오류 수정",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "684c5ec",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/684c5ec469ee147c0e925c676fbd22fb67b0c26d"
         },
@@ -269,18 +269,18 @@
       "team": "esuvean",
       "github": "esuvean",
       "repo": "esuvean/PRESS-START_",
-      "commits": 7,
-      "activeDays": 3,
+      "commits": 4,
+      "activeDays": 2,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
-        2,
-        2,
+        1,
+        3,
+        4,
+        3,
+        4,
         5,
-        2,
-        5,
-        2,
-        7
+        4
       ],
       "recent": [
         {
@@ -291,13 +291,13 @@
         },
         {
           "message": "[Feat] 사운드 작업",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "0698dda",
           "url": "https://github.com/esuvean/PRESS-START_/commit/0698dda8aac2d40529a1aba6c383fa211b2e72ec"
         },
         {
           "message": "[Feat] 버튼 누르는 사운드 이펙트 넣기, 타이머10초전 연출 넣기",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "86395c7",
           "url": "https://github.com/esuvean/PRESS-START_/commit/86395c7add2f1ded83754208c1c2b8e5fb1becd0"
         },
@@ -309,7 +309,7 @@
         },
         {
           "message": "[Update] 로딩화면 UI변경",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "58025e7",
           "url": "https://github.com/esuvean/PRESS-START_/commit/58025e7392d9c1de097ce5a9109df0828fa9315e"
         }
@@ -321,9 +321,9 @@
       "team": "Sine-aw",
       "github": "Sine-aw",
       "repo": "Sine-aw/nohesitate",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "6일 전",
+      "commits": 0,
+      "activeDays": 0,
+      "lastCommit": "7일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -331,13 +331,13 @@
         0,
         2,
         1,
-        0,
-        1
+        1,
+        0
       ],
       "recent": [
         {
           "message": "Boss 1 Phase",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
         },
@@ -355,7 +355,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "961d453",
           "url": "https://github.com/Sine-aw/nohesitate/commit/961d4534e191a30bd657036794b3c9f9745507f6"
         }
@@ -475,13 +475,13 @@
         },
         {
           "message": "낚시 상점 구매 시스템 및 재낚시 오류 수정",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "2a18798",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/2a187985d6f7fcadea37b1e2d8ca685a6225f80d"
         },
         {
           "message": "낚시 상점 오브젝트 추가",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "94e9c70",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/94e9c702eca7aad62677ade9173c555f38cf1939"
         },
@@ -557,9 +557,9 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 7,
-      "activeDays": 3,
-      "lastCommit": "2일 전",
+      "commits": 6,
+      "activeDays": 2,
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         3,
@@ -567,19 +567,19 @@
         1,
         5,
         2,
-        7,
-        7
+        8,
+        6
       ],
       "recent": [
         {
           "message": "Merge branch 'main' of https://github.com/qkrgml59/2026_2_TeamProject",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "3168244",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/316824469c3115b90a8ca414c983def305566a23"
         },
         {
           "message": "[Fix] player 퍼즐 공격 안 되는 거 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "c423e4d",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c423e4d2e3c744a4431603ba091b70af3ab44ebe"
         },
@@ -609,7 +609,7 @@
       "team": "JungYS24",
       "github": "JungYS24",
       "repo": "JungYS24/Tricky-Yacht",
-      "commits": 27,
+      "commits": 26,
       "activeDays": 4,
       "lastCommit": "3일 전",
       "status": "active",
@@ -619,8 +619,8 @@
         4,
         7,
         2,
-        4,
-        27
+        5,
+        26
       ],
       "recent": [
         {
@@ -661,8 +661,8 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 24,
-      "activeDays": 6,
+      "commits": 22,
+      "activeDays": 5,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -671,8 +671,8 @@
         10,
         17,
         16,
-        12,
-        24
+        14,
+        22
       ],
       "recent": [
         {
@@ -789,7 +789,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "43일 전",
+          "time": "44일 전",
           "sha": "343a6a3",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/343a6a31cb72fadfa41e3625d8988d3fcc159b23"
         }
@@ -803,7 +803,7 @@
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "commits": 8,
       "activeDays": 4,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -817,19 +817,19 @@
       "recent": [
         {
           "message": "[Chore] DOTween Import",
-          "time": "오늘",
+          "time": "어제",
           "sha": "6f58254",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6f58254522148a37a1b0633e7223d320c1b4dfe9"
         },
         {
           "message": "[Chore] 프로젝트 정리 및 Scene 변경 사항 적용",
-          "time": "오늘",
+          "time": "어제",
           "sha": "58404b3",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/58404b3f05aef41229f83f810316246cdabadf90"
         },
         {
           "message": "[Feat] 메인 메뉴 컨트롤러",
-          "time": "오늘",
+          "time": "어제",
           "sha": "f2af455",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f2af4550449165b581df11c7b4fe9267fa38375b"
         },
@@ -905,9 +905,9 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 7,
-      "activeDays": 2,
-      "lastCommit": "어제",
+      "commits": 9,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -916,9 +916,21 @@
         9,
         5,
         6,
-        7
+        9
       ],
       "recent": [
+        {
+          "message": "플레이어 수정 및 적,배경,사운드 수정본 및 추가",
+          "time": "오늘",
+          "sha": "e6b2ead",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/e6b2eadd81b7477e20281d0ac58741a235e942a7"
+        },
+        {
+          "message": "아트 올려두기",
+          "time": "오늘",
+          "sha": "8ba76f5",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/8ba76f5dacaf0940435b1cb46aa4b64fce3dc2d2"
+        },
         {
           "message": "적(임시) 아트 추가",
           "time": "어제",
@@ -936,18 +948,6 @@
           "time": "2일 전",
           "sha": "56a34ef",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/56a34efa870d3410d289843084562805b376c7a4"
-        },
-        {
-          "message": "스크립트 수정",
-          "time": "2일 전",
-          "sha": "89b454e",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89b454e66510e5eb9abc070ca225eaa2f16af4f4"
-        },
-        {
-          "message": "[Fix] 버그 수정",
-          "time": "2일 전",
-          "sha": "73bc32a",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/73bc32a95df126dcdd700616ee42dd405818dde4"
         }
       ]
     },
@@ -979,13 +979,13 @@
         },
         {
           "message": "[Feat] 회피 상태효과 구현 및 방어 상태효과 삭제",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "1f6ca49",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/1f6ca497e4170fb311aa7803fc3ae0ba6d1a6c3e"
         },
         {
           "message": "[Feat] 적 및 아군 진영 Core 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "93f52e0",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/93f52e06aa3fd560921514aae7d1fd6ab88ba5ff"
         },
