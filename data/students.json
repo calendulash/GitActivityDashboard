@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 23. 09:25",
+  "updatedAt": "2026. 10. 23. 14:19",
   "students": [
     {
       "name": "2학년 1팀",
@@ -115,8 +115,8 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
         0,
@@ -129,7 +129,7 @@
       "recent": [
         {
           "message": "[Fix]캔버스 스케일 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "12fc72f",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/12fc72f21427e08b2f575a415595f14af53d144c"
         },
@@ -165,9 +165,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 12,
-      "activeDays": 4,
-      "lastCommit": "2일 전",
+      "commits": 13,
+      "activeDays": 5,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         1,
@@ -176,9 +176,15 @@
         0,
         2,
         2,
-        12
+        13
       ],
       "recent": [
+        {
+          "message": "[Feat] 게임 프롤로그 & 튜토리얼 제작",
+          "time": "오늘",
+          "sha": "79630a5",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/79630a546314ec89a4855238d1bc887825bb895a"
+        },
         {
           "message": "[Feat] 게임 프롤로그 제작중 (미완성)",
           "time": "2일 전",
@@ -202,12 +208,6 @@
           "time": "3일 전",
           "sha": "f7ab01e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/f7ab01e4b947b0222e5960a54aa34ffb9071852f"
-        },
-        {
-          "message": "[Feat] 빈민가 & 신도시 구역 추가 배달 시스템 변경 & 리뷰 시스템 추가",
-          "time": "3일 전",
-          "sha": "10b72f4",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/10b72f43c64e6f23798dca0a028d76231fddfc3c"
         }
       ]
     },
@@ -275,8 +275,8 @@
       "status": "active",
       "weekly": [
         2,
-        1,
-        6,
+        2,
+        5,
         2,
         5,
         2,
@@ -303,7 +303,7 @@
         },
         {
           "message": "[feat] 메인 빌드 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "5d6e328",
           "url": "https://github.com/esuvean/PRESS-START_/commit/5d6e3286715ce21293b7acde3a42ebbce4d5438d"
         },
@@ -343,7 +343,7 @@
         },
         {
           "message": "2",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         },
@@ -663,7 +663,7 @@
       "repo": "jinjooyoung/DUAL-DUEL",
       "commits": 24,
       "activeDays": 6,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -677,13 +677,13 @@
       "recent": [
         {
           "message": "[Chore] 폴더 구조 정리",
-          "time": "오늘",
+          "time": "어제",
           "sha": "8516b3c",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/8516b3c9de685750a7a7081ed7a21a6d8e373d1d"
         },
         {
           "message": "[Chore] VFX 에셋 임포트",
-          "time": "오늘",
+          "time": "어제",
           "sha": "9238ab9",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9238ab934cb5c4cd1579eb3a8808ab4c6657aa8f"
         },
@@ -783,7 +783,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "42일 전",
+          "time": "43일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -855,7 +855,7 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 15,
       "activeDays": 3,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         2,
@@ -869,13 +869,13 @@
       "recent": [
         {
           "message": "[Fix] 데미지 텍스트 폰트 크기 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "83dd27c",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/83dd27c5c8a631e4b9af5546572eda24fe09dff5"
         },
         {
           "message": "[Fix] 데미지 텍스트가 스프라이트에 가려져 나오는 버그 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "74e855a",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/74e855af76136be322aca3528d82673d3f1a8df4"
         },
@@ -927,25 +927,25 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "ecc60a8",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ecc60a8d6807a372f2a1d5ccdfcd48ed4a3ecd7b"
         },
         {
           "message": "[Feat]공격에 이동 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "56a34ef",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/56a34efa870d3410d289843084562805b376c7a4"
         },
         {
           "message": "스크립트 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "89b454e",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89b454e66510e5eb9abc070ca225eaa2f16af4f4"
         },
         {
           "message": "[Fix] 버그 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "73bc32a",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/73bc32a95df126dcdd700616ee42dd405818dde4"
         }
@@ -1009,9 +1009,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 12,
-      "activeDays": 4,
-      "lastCommit": "2일 전",
+      "commits": 13,
+      "activeDays": 5,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         1,
@@ -1020,9 +1020,15 @@
         0,
         2,
         2,
-        12
+        13
       ],
       "recent": [
+        {
+          "message": "[Feat] 게임 프롤로그 & 튜토리얼 제작",
+          "time": "오늘",
+          "sha": "79630a5",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/79630a546314ec89a4855238d1bc887825bb895a"
+        },
         {
           "message": "[Feat] 게임 프롤로그 제작중 (미완성)",
           "time": "2일 전",
@@ -1046,12 +1052,6 @@
           "time": "3일 전",
           "sha": "f7ab01e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/f7ab01e4b947b0222e5960a54aa34ffb9071852f"
-        },
-        {
-          "message": "[Feat] 빈민가 & 신도시 구역 추가 배달 시스템 변경 & 리뷰 시스템 추가",
-          "time": "3일 전",
-          "sha": "10b72f4",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/10b72f43c64e6f23798dca0a028d76231fddfc3c"
         }
       ]
     }

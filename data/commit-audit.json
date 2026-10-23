@@ -1,11 +1,103 @@
 {
-  "updatedAt": "2026. 10. 23. 09:25",
+  "updatedAt": "2026. 10. 23. 14:19",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "cfb2bba004556c2020f91f31f929721f0d12b43f",
+      "message": "[Feat] 라의 방 어둠 + 글자 겹침 정리 + 히든 라의 불씨(태양의 배)",
+      "url": "https://github.com/suyan05/PharaohCube/commit/cfb2bba004556c2020f91f31f929721f0d12b43f",
+      "date": "2026-10-23T04:40:38Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 31,
+        "additions": 5895,
+        "deletions": 3569,
+        "meaningful_change": 8814,
+        "meaningful_file_count": 17,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "8dea7c4629f44eec072d2d9d66999b7a432e1fdd",
+      "message": "[Feat] 라의 방 횃불 신전 개편 + 임시 중앙 홀 + 스핑크스 눈빛",
+      "url": "https://github.com/suyan05/PharaohCube/commit/8dea7c4629f44eec072d2d9d66999b7a432e1fdd",
+      "date": "2026-10-23T04:01:12Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 83,
+        "additions": 10358,
+        "deletions": 78,
+        "meaningful_change": 8139,
+        "meaningful_file_count": 41,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "52ede8674ad69b8e0c7017548e0efdd7eb8a9339",
+      "message": "[Fix] 핑크스 크기 수정 및 렌즈 비석 해독을 기획대로 변경",
+      "url": "https://github.com/suyan05/PharaohCube/commit/52ede8674ad69b8e0c7017548e0efdd7eb8a9339",
+      "date": "2026-10-23T03:13:42Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 30,
+        "additions": 5725,
+        "deletions": 1263,
+        "meaningful_change": 6739,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "1309ec9d8e31799638e7a3ef1cdfbb874bd915f8",
+      "message": "[Feat] 스핑크스의 꿈 1인칭 눈 뜨기와 꿈 화면 효과 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/1309ec9d8e31799638e7a3ef1cdfbb874bd915f8",
+      "date": "2026-10-23T02:59:06Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 77,
+        "additions": 5028,
+        "deletions": 137,
+        "meaningful_change": 4987,
+        "meaningful_file_count": 35,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2212,98 +2304,6 @@
         "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "b47ccb88a55edf3f02436f2295987349b634cc42",
-      "message": "[Feat] 호루스 성도 단계 보상, 별 조각 삽입, 달의 눈 장착대 연결",
-      "url": "https://github.com/suyan05/PharaohCube/commit/b47ccb88a55edf3f02436f2295987349b634cc42",
-      "date": "2026-10-05T18:37:22Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 9,
-        "additions": 471,
-        "deletions": 3056,
-        "meaningful_change": 3515,
-        "meaningful_file_count": 6,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "77832e39fc5b02cd61b6c5af416afcda09d4a7ac",
-      "message": "[Feat] 유물 이미지 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/77832e39fc5b02cd61b6c5af416afcda09d4a7ac",
-      "date": "2026-10-05T17:48:02Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "khy1004",
-      "gitAuthorName": "khy1004",
-      "gitAuthorEmail": "khyseog08@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 17,
-        "additions": 1152,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 8,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "bde737d7de2d88b82f00ec4640c3f2175a4dc585",
-      "message": "[Feat] 매듭 퍼즐 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/bde737d7de2d88b82f00ec4640c3f2175a4dc585",
-      "date": "2026-10-05T17:47:29Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "khy1004",
-      "gitAuthorName": "khy1004",
-      "gitAuthorEmail": "khyseog08@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 15,
-        "additions": 1009,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 7,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "bf8029763ef67bb7201b5701ae8f6121a119f633",
-      "message": "[Feat] 마방진 퍼즐 이미지 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/bf8029763ef67bb7201b5701ae8f6121a119f633",
-      "date": "2026-10-05T17:46:49Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "khy1004",
-      "gitAuthorName": "khy1004",
-      "gitAuthorEmail": "khyseog08@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 33,
-        "additions": 2296,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 16,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
       }
     },
     {
@@ -7012,13 +7012,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 170,
+        "additions": 908171,
+        "deletions": 237150,
+        "meaningful_change": 1145009,
+        "meaningful_file_count": 95,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -32394,6 +32394,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "79630a546314ec89a4855238d1bc887825bb895a",
+      "message": "[Feat] 게임 프롤로그 & 튜토리얼 제작",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/79630a546314ec89a4855238d1bc887825bb895a",
+      "date": "2026-10-23T05:14:09Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 143,
+        "additions": 122992,
+        "deletions": 28478,
+        "meaningful_change": 150878,
+        "meaningful_file_count": 81,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "164bbb15979fff7c738f8699b5a7370bb67800d8",
       "message": "[Feat] 게임 프롤로그 제작중 (미완성)",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/164bbb15979fff7c738f8699b5a7370bb67800d8",
@@ -34663,29 +34686,6 @@
         "deletions": 629,
         "meaningful_change": 1994,
         "meaningful_file_count": 78,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "49855d5dcd881886000a65cbbdf6789aece4e2ca",
-      "message": "[Feat] 피자 주문 시스템 추가",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/49855d5dcd881886000a65cbbdf6789aece4e2ca",
-      "date": "2026-08-26T11:41:12Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "shingumingi",
-      "gitAuthorName": "shingumingi",
-      "gitAuthorEmail": "pettid0314@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 35,
-        "additions": 2873,
-        "deletions": 291,
-        "meaningful_change": 3058,
-        "meaningful_file_count": 20,
         "suspicious_score": 0,
         "judgment": "정상"
       }
