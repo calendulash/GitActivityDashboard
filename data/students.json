@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 24. 04:36",
+  "updatedAt": "2026. 10. 24. 07:39",
   "students": [
     {
       "name": "2학년 1팀",
@@ -113,10 +113,10 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "4일 전",
-      "status": "watch",
+      "commits": 3,
+      "activeDays": 2,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -124,9 +124,21 @@
         0,
         2,
         5,
-        1
+        3
       ],
       "recent": [
+        {
+          "message": "[Fix] 맵 수정",
+          "time": "오늘",
+          "sha": "0cf1578",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/0cf1578ee1e6f80d93a8ed3191dac50e77952e35"
+        },
+        {
+          "message": "[Feat] 4~12인 맵 배치",
+          "time": "오늘",
+          "sha": "e740b26",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/e740b262b98874c8bb4f954c3366aebeb70bcf86"
+        },
         {
           "message": "[Fix]캔버스 스케일 수정",
           "time": "4일 전",
@@ -141,21 +153,9 @@
         },
         {
           "message": "[Fix] 미션 오브젝트 수정, 게임 시간 수정",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "7e1c3ad",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/7e1c3ad737cfc52fc409dc6706cd5bc3187c28a8"
-        },
-        {
-          "message": "[Fix] UI 수정",
-          "time": "11일 전",
-          "sha": "e567b99",
-          "url": "https://github.com/ahyun04/26TeamProject_2/commit/e567b9965ef2860c8250c583861b47c4ec4b83cf"
-        },
-        {
-          "message": "[Feat] UI 적용",
-          "time": "11일 전",
-          "sha": "e7db311",
-          "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
         }
       ]
     },
@@ -585,7 +585,7 @@
         },
         {
           "message": "[chore] Prefabs 폴더 롤백",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "5eb60fa",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/5eb60faa7566714a19e248d719d339d7e545baf3"
         },
@@ -808,8 +808,8 @@
       "weekly": [
         0,
         0,
-        2,
-        23,
+        3,
+        22,
         16,
         1,
         8
