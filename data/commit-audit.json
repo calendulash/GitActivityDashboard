@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 23. 19:28",
+  "updatedAt": "2026. 10. 24. 00:32",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -2310,6 +2310,29 @@
       "projectName": "3학년 3팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "f8fbd12e3839e9839cdd3830de5a064ac49f75c2",
+      "message": "[Feat] 장애물 - 화살통 및 지형지물 - 풀숲 구현",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/f8fbd12e3839e9839cdd3830de5a064ac49f75c2",
+      "date": "2026-10-23T12:17:23Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 133,
+        "additions": 7645,
+        "deletions": 2130,
+        "meaningful_change": 8510,
+        "meaningful_file_count": 68,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "e1572b72d8333e2cc070ee86e57538396dc93291",
       "message": "[Feat] 플레이어 스킬 1개, 유물 1개 구현",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/e1572b72d8333e2cc070ee86e57538396dc93291",
@@ -4573,29 +4596,6 @@
       "gitAuthorName": "Deokdragon",
       "gitAuthorEmail": "ejrdyd3899@gmail.com",
       "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 1,
-        "suspicious_score": 50,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "a9d6aa4fe7d31b117606c8967f0c0e51ae3b52f5",
-      "message": "[PD Feat] 던전 아이디어 설계",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/a9d6aa4fe7d31b117606c8967f0c0e51ae3b52f5",
-      "date": "2026-05-17T18:24:01Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
-      "verification": "verified",
       "analysis": {
         "changed_files": 1,
         "additions": 0,
@@ -6910,6 +6910,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "76cce59ee5d92ca822b03299cd14fa506caf7d61",
+      "message": "[Feat] 마감 후 미션 제작, 피날레(마지막 배달)",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/76cce59ee5d92ca822b03299cd14fa506caf7d61",
+      "date": "2026-10-23T15:09:30Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 234,
+        "additions": 94824,
+        "deletions": 11410,
+        "meaningful_change": 105587,
+        "meaningful_file_count": 136,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "79630a546314ec89a4855238d1bc887825bb895a",
       "message": "[Feat] 게임 프롤로그 & 튜토리얼 제작",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/79630a546314ec89a4855238d1bc887825bb895a",
@@ -7035,13 +7058,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 170,
+        "additions": 908171,
+        "deletions": 237150,
+        "meaningful_change": 1145009,
+        "meaningful_file_count": 95,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -9184,29 +9207,6 @@
       }
     },
     {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "6dd36c9ea086d6e40a3ce2828273bb9b6312cbf2",
-      "message": "[Feat] 피자 재료 모델링 추가 프리팹 변경",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/6dd36c9ea086d6e40a3ce2828273bb9b6312cbf2",
-      "date": "2026-08-26T14:41:09Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "yuseongmok",
-      "gitAuthorName": "yuseongmok",
-      "gitAuthorEmail": "yousm112783@daum.net",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 173,
-        "additions": 8599,
-        "deletions": 629,
-        "meaningful_change": 1994,
-        "meaningful_file_count": 78,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "2학년 7팀",
       "repo": "23jihwan/7_tim",
       "branch": "main",
@@ -10147,6 +10147,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "827cf534b07825b1399a9a1b686def983c9b658b",
+      "message": "[feat] MG 17 미니게임 추가",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/827cf534b07825b1399a9a1b686def983c9b658b",
+      "date": "2026-10-23T11:13:36Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "ywkang0404",
+      "gitAuthorName": "ywkang0404",
+      "gitAuthorEmail": "ywkang0404@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 710,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 6,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "1bb3d9264284a6fe9b3dfb9bc892344d55ed73e7",
+      "message": "[Feat] 11챕터 & 14챕터 화면 UI 수정",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/1bb3d9264284a6fe9b3dfb9bc892344d55ed73e7",
+      "date": "2026-10-23T10:42:05Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": null,
+      "gitAuthorName": "cannotstoppinglove",
+      "gitAuthorEmail": "bomspringangel@gs.shingu.ac.kr",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 40,
+        "additions": 1642,
+        "deletions": 4,
+        "meaningful_change": 0,
+        "meaningful_file_count": 22,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
@@ -12404,52 +12450,6 @@
       }
     },
     {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "4289eaf485a5018a609e26769fb3cae53ea035db",
-      "message": "[FEAT] 챕터1 미니게임4 1차 구현",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/4289eaf485a5018a609e26769fb3cae53ea035db",
-      "date": "2026-08-22T11:53:05Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 3516,
-        "deletions": 63,
-        "meaningful_change": 3579,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "1d9d4555690a763b8f124f442e716b715105a738",
-      "message": "[feat] 미니게임3 구현",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/1d9d4555690a763b8f124f442e716b715105a738",
-      "date": "2026-08-21T22:37:56Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 5,
-        "additions": 3863,
-        "deletions": 2258,
-        "meaningful_change": 6114,
-        "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "1학년 B반 4팀",
       "repo": "Sine-aw/nohesitate",
       "branch": "main",
@@ -12746,6 +12746,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
+      "sha": "14e3f82b735bb15edb6ba59dd81eb2bce966b9ac",
+      "message": "[feat]오브젝트 모델링 4",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/14e3f82b735bb15edb6ba59dd81eb2bce966b9ac",
+      "date": "2026-10-23T13:53:36Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cho70806-lab",
+      "gitAuthorName": "cho70806",
+      "gitAuthorEmail": "cho70806@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 882,
+        "deletions": 971,
+        "meaningful_change": 1742,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -25701,6 +25724,52 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "ed405503235313ee04df7f9c298d331e3f009883",
+      "message": "[Chore] 폭포 쉐이더 그레프 정리",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/ed405503235313ee04df7f9c298d331e3f009883",
+      "date": "2026-10-23T12:36:14Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 229,
+        "deletions": 215,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 95,
+        "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "9bd11258db695d6c47f0602898f1da28749ef134",
+      "message": "[Feat] 폭포 쉐이더 효과 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9bd11258db695d6c47f0602898f1da28749ef134",
+      "date": "2026-10-23T12:09:55Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 15,
+        "additions": 12858,
+        "deletions": 1757,
+        "meaningful_change": 84,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "947ed53f59f718c14df4dc7dc39e2327b02aa6c0",
       "message": "[Fix] 폭포 쉐이더 수정",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/947ed53f59f718c14df4dc7dc39e2327b02aa6c0",
@@ -26861,13 +26930,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 300,
-        "additions": 1596965,
-        "deletions": 29586,
-        "meaningful_change": 4069,
-        "meaningful_file_count": 53,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -30232,6 +30301,29 @@
       "projectName": "3학년 2팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "f8fbd12e3839e9839cdd3830de5a064ac49f75c2",
+      "message": "[Feat] 장애물 - 화살통 및 지형지물 - 풀숲 구현",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/f8fbd12e3839e9839cdd3830de5a064ac49f75c2",
+      "date": "2026-10-23T12:17:23Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 133,
+        "additions": 7645,
+        "deletions": 2130,
+        "meaningful_change": 8510,
+        "meaningful_file_count": 68,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 2팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "e1572b72d8333e2cc070ee86e57538396dc93291",
       "message": "[Feat] 플레이어 스킬 1개, 유물 1개 구현",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/e1572b72d8333e2cc070ee86e57538396dc93291",
@@ -32506,26 +32598,26 @@
       }
     },
     {
-      "projectName": "3학년 2팀",
-      "repo": "Taehyeon88/Graduation-project",
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
       "branch": "main",
-      "sha": "a9d6aa4fe7d31b117606c8967f0c0e51ae3b52f5",
-      "message": "[PD Feat] 던전 아이디어 설계",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/a9d6aa4fe7d31b117606c8967f0c0e51ae3b52f5",
-      "date": "2026-05-17T18:24:01Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "sha": "76cce59ee5d92ca822b03299cd14fa506caf7d61",
+      "message": "[Feat] 마감 후 미션 제작, 피날레(마지막 배달)",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/76cce59ee5d92ca822b03299cd14fa506caf7d61",
+      "date": "2026-10-23T15:09:30Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 1,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 1,
-        "suspicious_score": 50,
-        "judgment": "확인필요"
+        "changed_files": 234,
+        "additions": 94824,
+        "deletions": 11410,
+        "meaningful_change": 105587,
+        "meaningful_file_count": 136,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -32657,13 +32749,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 170,
+        "additions": 908171,
+        "deletions": 237150,
+        "meaningful_change": 1145009,
+        "meaningful_file_count": 95,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -34801,29 +34893,6 @@
         "deletions": 704,
         "meaningful_change": 2470,
         "meaningful_file_count": 33,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "6dd36c9ea086d6e40a3ce2828273bb9b6312cbf2",
-      "message": "[Feat] 피자 재료 모델링 추가 프리팹 변경",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/6dd36c9ea086d6e40a3ce2828273bb9b6312cbf2",
-      "date": "2026-08-26T14:41:09Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "yuseongmok",
-      "gitAuthorName": "yuseongmok",
-      "gitAuthorEmail": "yousm112783@daum.net",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 173,
-        "additions": 8599,
-        "deletions": 629,
-        "meaningful_change": 1994,
-        "meaningful_file_count": 78,
         "suspicious_score": 0,
         "judgment": "정상"
       }
