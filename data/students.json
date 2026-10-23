@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 23. 06:59",
+  "updatedAt": "2026. 10. 23. 09:25",
   "students": [
     {
       "name": "2학년 1팀",
@@ -141,19 +141,19 @@
         },
         {
           "message": "[Fix] 미션 오브젝트 수정, 게임 시간 수정",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "7e1c3ad",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/7e1c3ad737cfc52fc409dc6706cd5bc3187c28a8"
         },
         {
           "message": "[Fix] UI 수정",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "e567b99",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e567b9965ef2860c8250c583861b47c4ec4b83cf"
         },
         {
           "message": "[Feat] UI 적용",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "e7db311",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e7db3115d02d470cfa25b3c4cc0c9c981c0a8784"
         }
@@ -367,7 +367,7 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 17,
+      "commits": 20,
       "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
@@ -378,9 +378,27 @@
         2,
         14,
         0,
-        17
+        20
       ],
       "recent": [
+        {
+          "message": "[Feat] 손님 인내도 추가",
+          "time": "오늘",
+          "sha": "5f730c4",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/5f730c47e8547c4ab061faf6fb700acbb6efab1c"
+        },
+        {
+          "message": "[Feat] 주문 수락·단계 진행·제공 결제",
+          "time": "오늘",
+          "sha": "425fb4e",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/425fb4ec8fa9106e47d9a6b56b1a736d38362b97"
+        },
+        {
+          "message": "[Feat] 손님과 말풍선 추가",
+          "time": "오늘",
+          "sha": "772eb31",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/772eb311ff54ef8270c9f81041911b0bd80705b7"
+        },
         {
           "message": "[Feat] 메뉴 에셋 추가",
           "time": "오늘",
@@ -392,24 +410,6 @@
           "time": "오늘",
           "sha": "1bdb895",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/1bdb89535b5743a209d2802c3682b2fa48a3c636"
-        },
-        {
-          "message": "[Feat] 안티에일리어싱 설정 추가",
-          "time": "오늘",
-          "sha": "2971c42",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/2971c421a26f49f206dd03641fb52afc9681ffaf"
-        },
-        {
-          "message": "[Style] 카페 색 보정 강도 낮추기",
-          "time": "오늘",
-          "sha": "5be103d",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/5be103df282b528c95277fc9091d70ebaf2a38d5"
-        },
-        {
-          "message": "[Style] 후처리 외곽선 부드럽게 조정",
-          "time": "오늘",
-          "sha": "eb53b13",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/eb53b134676e8981632ad1c1f4034efb5e682f40"
         }
       ]
     },
@@ -441,7 +441,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "37일 전",
+          "time": "38일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
