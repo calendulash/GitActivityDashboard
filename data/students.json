@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 24. 14:28",
+  "updatedAt": "2026. 10. 24. 18:52",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,7 +61,7 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 7,
+      "commits": 8,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -72,9 +72,15 @@
         3,
         7,
         6,
-        7
+        8
       ],
       "recent": [
+        {
+          "message": "[Feat] CombatantView 업데이트 + 블럭 리소스 적용 + 날카로운 단도 스킬 연출 추가 + 기물 정보 확인 UI + 치명타 기능 넣기",
+          "time": "오늘",
+          "sha": "1bf060b",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/1bf060b3b0301c7ceb624ae3bad962a5ee9330c1"
+        },
         {
           "message": "[Feat] 유물 UI + VG 추가 + 카드 UI 변경 + 유닛 배치 인터렉션 연출 변경 + 영웅 이동 방식 변경",
           "time": "오늘",
@@ -98,12 +104,6 @@
           "time": "2일 전",
           "sha": "e1572b7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/e1572b72d8333e2cc070ee86e57538396dc93291"
-        },
-        {
-          "message": "[Feat] 회피 상태효과 구현 및 방어 상태효과 삭제",
-          "time": "2일 전",
-          "sha": "1f6ca49",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/1f6ca497e4170fb311aa7803fc3ae0ba6d1a6c3e"
         }
       ]
     },
@@ -147,7 +147,7 @@
         },
         {
           "message": "[Fix] 발전기 미션 오류 수정",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "684c5ec",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/684c5ec469ee147c0e925c676fbd22fb67b0c26d"
         },
@@ -269,20 +269,26 @@
       "team": "esuvean",
       "github": "esuvean",
       "repo": "esuvean/PRESS-START_",
-      "commits": 4,
-      "activeDays": 2,
-      "lastCommit": "3일 전",
+      "commits": 5,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         1,
-        3,
         4,
+        3,
         3,
         4,
         5,
-        4
+        5
       ],
       "recent": [
+        {
+          "message": "[Feat] 미니게임 16 UI제작 , 적용 , 애니메이션 추가",
+          "time": "오늘",
+          "sha": "1668d76",
+          "url": "https://github.com/esuvean/PRESS-START_/commit/1668d76a9f8f0602d23a94f045e6888c9d3d2b24"
+        },
         {
           "message": "[Feat] UI적용",
           "time": "3일 전",
@@ -297,7 +303,7 @@
         },
         {
           "message": "[Feat] 버튼 누르는 사운드 이펙트 넣기, 타이머10초전 연출 넣기",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "86395c7",
           "url": "https://github.com/esuvean/PRESS-START_/commit/86395c7add2f1ded83754208c1c2b8e5fb1becd0"
         },
@@ -306,12 +312,6 @@
           "time": "5일 전",
           "sha": "5d6e328",
           "url": "https://github.com/esuvean/PRESS-START_/commit/5d6e3286715ce21293b7acde3a42ebbce4d5438d"
-        },
-        {
-          "message": "[Update] 로딩화면 UI변경",
-          "time": "7일 전",
-          "sha": "58025e7",
-          "url": "https://github.com/esuvean/PRESS-START_/commit/58025e7392d9c1de097ce5a9109df0828fa9315e"
         }
       ]
     },
@@ -323,8 +323,8 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "7일 전",
-      "status": "watch",
+      "lastCommit": "8일 전",
+      "status": "inactive",
       "weekly": [
         0,
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "Boss 1 Phase",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
         },
@@ -481,7 +481,7 @@
         },
         {
           "message": "낚시 상점 오브젝트 추가",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "94e9c70",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/94e9c702eca7aad62677ade9173c555f38cf1939"
         },
@@ -559,8 +559,8 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 6,
       "activeDays": 2,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         3,
         0,
@@ -573,13 +573,13 @@
       "recent": [
         {
           "message": "Merge branch 'main' of https://github.com/qkrgml59/2026_2_TeamProject",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "3168244",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/316824469c3115b90a8ca414c983def305566a23"
         },
         {
           "message": "[Fix] player 퍼즐 공격 안 되는 거 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "c423e4d",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c423e4d2e3c744a4431603ba091b70af3ab44ebe"
         },
@@ -616,8 +616,8 @@
       "weekly": [
         0,
         0,
-        5,
         6,
+        5,
         4,
         7,
         22
@@ -663,18 +663,24 @@
       "repo": "jinjooyoung/DUAL-DUEL",
       "commits": 22,
       "activeDays": 5,
-      "lastCommit": "2일 전",
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
-        21,
-        14,
-        14,
+        20,
+        16,
+        12,
         15,
-        14,
+        15,
         22
       ],
       "recent": [
+        {
+          "message": "[Feat] 타격 VFX 추가",
+          "time": "오늘",
+          "sha": "b3ec494",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b3ec4948bacb67f3eff8ac007a2c0bb670eb4805"
+        },
         {
           "message": "[Chore] 폴더 구조 정리",
           "time": "2일 전",
@@ -698,12 +704,6 @@
           "time": "3일 전",
           "sha": "6b6cd6d",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/6b6cd6d405b4723b037b3d618f12be9b2f0b79a7"
-        },
-        {
-          "message": "[Chore] 전투씬 HP 슬라이더 리소스 적용, 기능 연결",
-          "time": "3일 전",
-          "sha": "854522a",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/854522aca532f8b61fc6e746291852063e1a8b1a"
         }
       ]
     },
@@ -803,7 +803,7 @@
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "commits": 8,
       "activeDays": 4,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -817,19 +817,19 @@
       "recent": [
         {
           "message": "[Chore] DOTween Import",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "6f58254",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6f58254522148a37a1b0633e7223d320c1b4dfe9"
         },
         {
           "message": "[Chore] 프로젝트 정리 및 Scene 변경 사항 적용",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "58404b3",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/58404b3f05aef41229f83f810316246cdabadf90"
         },
         {
           "message": "[Feat] 메인 메뉴 컨트롤러",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "f2af455",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f2af4550449165b581df11c7b4fe9267fa38375b"
         },
@@ -905,8 +905,8 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 9,
-      "activeDays": 3,
+      "commits": 7,
+      "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -915,8 +915,8 @@
         1,
         9,
         4,
-        6,
-        9
+        8,
+        7
       ],
       "recent": [
         {
@@ -927,7 +927,7 @@
         },
         {
           "message": "아트 올려두기",
-          "time": "오늘",
+          "time": "어제",
           "sha": "8ba76f5",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/8ba76f5dacaf0940435b1cb46aa4b64fce3dc2d2"
         },
@@ -957,7 +957,7 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 7,
+      "commits": 8,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
@@ -968,9 +968,15 @@
         3,
         7,
         6,
-        7
+        8
       ],
       "recent": [
+        {
+          "message": "[Feat] CombatantView 업데이트 + 블럭 리소스 적용 + 날카로운 단도 스킬 연출 추가 + 기물 정보 확인 UI + 치명타 기능 넣기",
+          "time": "오늘",
+          "sha": "1bf060b",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/1bf060b3b0301c7ceb624ae3bad962a5ee9330c1"
+        },
         {
           "message": "[Feat] 유물 UI + VG 추가 + 카드 UI 변경 + 유닛 배치 인터렉션 연출 변경 + 영웅 이동 방식 변경",
           "time": "오늘",
@@ -994,12 +1000,6 @@
           "time": "2일 전",
           "sha": "e1572b7",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/e1572b72d8333e2cc070ee86e57538396dc93291"
-        },
-        {
-          "message": "[Feat] 회피 상태효과 구현 및 방어 상태효과 삭제",
-          "time": "2일 전",
-          "sha": "1f6ca49",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/1f6ca497e4170fb311aa7803fc3ae0ba6d1a6c3e"
         }
       ]
     },
