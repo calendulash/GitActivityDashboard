@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 25. 02:18",
+  "updatedAt": "2026. 10. 25. 04:48",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -9202,6 +9202,29 @@
         "deletions": 1440,
         "meaningful_change": 1583,
         "meaningful_file_count": 124,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
+      "sha": "440ac6f39cb0c4edf196bbe5c761ba834e11d94d",
+      "message": "[Feat] 엘리트 배경 추가 턴종료 이미지 수정 보스 배경 추가",
+      "url": "https://github.com/23jihwan/7_tim/commit/440ac6f39cb0c4edf196bbe5c761ba834e11d94d",
+      "date": "2026-10-24T17:37:37Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "omh1228",
+      "gitAuthorName": "omh1228",
+      "gitAuthorEmail": "pigoh041228@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 294,
+        "deletions": 8,
+        "meaningful_change": 16,
+        "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -25080,6 +25103,29 @@
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
+      "sha": "3b68c15298776ce3b2263c2e9ef1467955882a99",
+      "message": "[feat] 적, 적 스포너 추가 & 플레이어 공격 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/3b68c15298776ce3b2263c2e9ef1467955882a99",
+      "date": "2026-10-24T19:44:43Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "Tiphe0821",
+      "gitAuthorName": "Tiphe0821",
+      "gitAuthorEmail": "namucho24@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 18,
+        "additions": 308,
+        "deletions": 0,
+        "meaningful_change": 276,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
       "sha": "4741ea9effa2719775a897208cf495aa75b62e4c",
       "message": "[Fix] 치트엔진 수정",
       "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/4741ea9effa2719775a897208cf495aa75b62e4c",
@@ -26109,6 +26155,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "42457ddc10d5a1739a6d52964c254cf0bec49c84",
+      "message": "[Fix] 라이팅 버그 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/42457ddc10d5a1739a6d52964c254cf0bec49c84",
+      "date": "2026-10-24T17:29:30Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 632,
+        "deletions": 113,
+        "meaningful_change": 745,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -28384,29 +28453,6 @@
         "deletions": 24,
         "meaningful_change": 492,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "29a0647bfec744bb6bd12e4fbf77cdc7284f7b7d",
-      "message": "[Feat] 플레이어 조작 개편, 카메라 마이그레이션",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/29a0647bfec744bb6bd12e4fbf77cdc7284f7b7d",
-      "date": "2026-09-25T20:08:57Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "parksh070126@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 8,
-        "additions": 2525,
-        "deletions": 174,
-        "meaningful_change": 2693,
-        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
