@@ -1,11 +1,80 @@
 {
-  "updatedAt": "2026. 10. 26. 05:18",
+  "updatedAt": "2026. 10. 26. 07:51",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "8a6722c485e74bffff25d3bc1eab00fc639458d3",
+      "message": "[Fix]맵 배치 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3",
+      "date": "2026-10-25T22:14:32Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "suyan05",
+      "gitAuthorName": "suyan05",
+      "gitAuthorEmail": "cadhppr588@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 3258,
+        "deletions": 3162,
+        "meaningful_change": 6420,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "80be766603b3a5f66ac8039edb58c61fd9cadab2",
+      "message": "[Fead]바스테트 맵 배치",
+      "url": "https://github.com/suyan05/PharaohCube/commit/80be766603b3a5f66ac8039edb58c61fd9cadab2",
+      "date": "2026-10-25T20:12:28Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "suyan05",
+      "gitAuthorName": "suyan05",
+      "gitAuthorEmail": "cadhppr588@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 1404,
+        "deletions": 1180,
+        "meaningful_change": 2584,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "e2dd2df14793ec095754cf9c4b10396781a5400a",
+      "message": "[Fead]바스테트 타일 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/e2dd2df14793ec095754cf9c4b10396781a5400a",
+      "date": "2026-10-25T20:12:05Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "suyan05",
+      "gitAuthorName": "suyan05",
+      "gitAuthorEmail": "cadhppr588@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 45,
+        "additions": 2677,
+        "deletions": 0,
+        "meaningful_change": 723,
+        "meaningful_file_count": 22,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2232,75 +2301,6 @@
         "additions": 4486,
         "deletions": 50,
         "meaningful_change": 4521,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "c020c6688ed10f57eef63b0b181f67b918efec84",
-      "message": "[feat]바스테트 메인 퍼즐 5(신성한 반복) 구현 및 출구 석문 개방 연동",
-      "url": "https://github.com/suyan05/PharaohCube/commit/c020c6688ed10f57eef63b0b181f67b918efec84",
-      "date": "2026-10-06T17:43:42Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 5,
-        "additions": 13056,
-        "deletions": 5169,
-        "meaningful_change": 18215,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "82fbd438b85ef57f48375db52986aece988b64a1",
-      "message": "[Feat] P2 회로판 아트 스프라이트 적용",
-      "url": "https://github.com/suyan05/PharaohCube/commit/82fbd438b85ef57f48375db52986aece988b64a1",
-      "date": "2026-10-06T16:26:44Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 136,
-        "deletions": 29,
-        "meaningful_change": 165,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "6d559c213899f69838bfed99d603c68916e4c75b",
-      "message": "[Feat] 호루스의 방 목표 HUD 및 별길 가이드 구현",
-      "url": "https://github.com/suyan05/PharaohCube/commit/6d559c213899f69838bfed99d603c68916e4c75b",
-      "date": "2026-10-05T22:13:41Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 310,
-        "deletions": 0,
-        "meaningful_change": 308,
         "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"

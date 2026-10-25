@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 26. 05:18",
+  "updatedAt": "2026. 10. 26. 07:51",
   "students": [
     {
       "name": "2학년 1팀",
@@ -9,7 +9,7 @@
       "team": "suyan05",
       "github": "suyan05",
       "repo": "suyan05/PharaohCube",
-      "commits": 2,
+      "commits": 3,
       "activeDays": 1,
       "lastCommit": "오늘",
       "status": "active",
@@ -20,9 +20,15 @@
         0,
         8,
         0,
-        2
+        3
       ],
       "recent": [
+        {
+          "message": "[Fix]맵 배치 수정",
+          "time": "오늘",
+          "sha": "8a6722c",
+          "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
+        },
         {
           "message": "[Fead]바스테트 맵 배치",
           "time": "오늘",
@@ -46,12 +52,6 @@
           "time": "15일 전",
           "sha": "89e7e79",
           "url": "https://github.com/suyan05/PharaohCube/commit/89e7e799f23619f31660a7afc3c01d13a7836057"
-        },
-        {
-          "message": "[Fead]라의방 오브제 임시 배치",
-          "time": "15일 전",
-          "sha": "e3752ec",
-          "url": "https://github.com/suyan05/PharaohCube/commit/e3752ec4e7d336b2416567ffbae876978493c87a"
         }
       ]
     },
@@ -122,8 +122,8 @@
         0,
         0,
         1,
-        2,
-        4,
+        5,
+        1,
         5
       ],
       "recent": [
@@ -141,7 +141,7 @@
         },
         {
           "message": "[Fix] 맵 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "0cf1578",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/0cf1578ee1e6f80d93a8ed3191dac50e77952e35"
         },
@@ -447,7 +447,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "40일 전",
+          "time": "41일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -570,8 +570,8 @@
       "weekly": [
         3,
         1,
-        2,
-        3,
+        5,
+        0,
         9,
         5,
         3
