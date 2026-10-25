@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 25. 23:10",
+  "updatedAt": "2026. 10. 26. 02:55",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,23 +61,29 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 10,
-      "activeDays": 4,
+      "commits": 11,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
         0,
+        4,
         3,
         4,
-        4,
         6,
-        10
+        11
       ],
       "recent": [
         {
-          "message": "[Feat] 스테이지 선택 시스템 구현",
+          "message": "[Feat] 주점 시스템 및 소문 시스템 구현",
           "time": "오늘",
+          "sha": "a49574e",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/a49574ec397f73472304644301586876beb7ba7e"
+        },
+        {
+          "message": "[Feat] 스테이지 선택 시스템 구현",
+          "time": "어제",
           "sha": "77621e6",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/77621e64f97359d7ac383917fa0059979e47d9d3"
         },
@@ -98,12 +104,6 @@
           "time": "어제",
           "sha": "d1a176d",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d1a176d142881ca8b19a2c463497790142b5a19b"
-        },
-        {
-          "message": "[Feat] 이미지 리소스 할당",
-          "time": "어제",
-          "sha": "c1b0ac6",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/c1b0ac63354abbfadd6625a024093437095fe088"
         }
       ]
     },
@@ -113,7 +113,7 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 4,
+      "commits": 5,
       "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
@@ -121,12 +121,18 @@
         0,
         0,
         0,
-        0,
-        2,
+        1,
+        1,
         5,
-        4
+        5
       ],
       "recent": [
+        {
+          "message": "[Fix]UI 수정",
+          "time": "오늘",
+          "sha": "869e40c",
+          "url": "https://github.com/ahyun04/26TeamProject_2/commit/869e40c7c14b6d96cdcbeb444433545a6a306f9c"
+        },
         {
           "message": "[Fix] 미션 배치",
           "time": "오늘",
@@ -150,12 +156,6 @@
           "time": "6일 전",
           "sha": "12fc72f",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/12fc72f21427e08b2f575a415595f14af53d144c"
-        },
-        {
-          "message": "[Fix] 발전기 미션 오류 수정",
-          "time": "13일 전",
-          "sha": "684c5ec",
-          "url": "https://github.com/ahyun04/26TeamProject_2/commit/684c5ec469ee147c0e925c676fbd22fb67b0c26d"
         }
       ]
     },
@@ -199,7 +199,7 @@
         },
         {
           "message": "[Feat] 마감 후 미션 제작, 피날레(마지막 배달)",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "76cce59",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/76cce59ee5d92ca822b03299cd14fa506caf7d61"
         },
@@ -217,7 +217,7 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 12,
+      "commits": 14,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -226,11 +226,23 @@
         0,
         0,
         4,
-        7,
-        6,
-        12
+        12,
+        1,
+        14
       ],
       "recent": [
+        {
+          "message": "[Feat]빌드 파일",
+          "time": "오늘",
+          "sha": "b4d975d",
+          "url": "https://github.com/23jihwan/7_tim/commit/b4d975d89b6090d6cfbd954bbe315b321571ac21"
+        },
+        {
+          "message": "[Feat]도감 시스템 구현 완성",
+          "time": "오늘",
+          "sha": "508f23f",
+          "url": "https://github.com/23jihwan/7_tim/commit/508f23ffe60db55ef959a58c0913502db969c2e3"
+        },
         {
           "message": "[Feat] 카드 도감 구현중",
           "time": "오늘",
@@ -248,18 +260,6 @@
           "time": "오늘",
           "sha": "46ad24b",
           "url": "https://github.com/23jihwan/7_tim/commit/46ad24bddb36bc665c2d10286da94e5b65d3463b"
-        },
-        {
-          "message": "[Feat]전투씬 배경화면 변경",
-          "time": "어제",
-          "sha": "22d4a3d",
-          "url": "https://github.com/23jihwan/7_tim/commit/22d4a3dedf9ccf088671cd4cd520bfcf00511fd3"
-        },
-        {
-          "message": "[Feat]조합 버튼 이미지 구현",
-          "time": "어제",
-          "sha": "d35dc4b",
-          "url": "https://github.com/23jihwan/7_tim/commit/d35dc4bb3b5b531b480dac40f8f669a0f79cad58"
         }
       ]
     },
@@ -276,8 +276,8 @@
       "weekly": [
         1,
         6,
-        1,
         3,
+        1,
         5,
         4,
         6
@@ -375,7 +375,7 @@
       "repo": "simo07d7PG/Team_JJAMBBAP",
       "commits": 20,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         2,
@@ -389,13 +389,13 @@
       "recent": [
         {
           "message": "[Feat] 손님 인내도 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "5f730c4",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/5f730c47e8547c4ab061faf6fb700acbb6efab1c"
         },
         {
           "message": "[Feat] 주문 수락·단계 진행·제공 결제",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "425fb4e",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/425fb4ec8fa9106e47d9a6b56b1a736d38362b97"
         },
@@ -511,49 +511,49 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 4,
-      "activeDays": 3,
+      "commits": 6,
+      "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        4,
-        3,
+        0,
+        2,
         2,
         1,
-        2,
+        4,
         3,
-        4
+        6
       ],
       "recent": [
+        {
+          "message": "[Test] 태초마을 아트 수정",
+          "time": "오늘",
+          "sha": "50bd1ae",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/50bd1aea1db85193124dac27755490445f2ba6d0"
+        },
+        {
+          "message": "[Chore] 배틀씬 Enemy 이미지 변경",
+          "time": "오늘",
+          "sha": "8c2e074",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/8c2e0747988141db7652b3642bc0a52832ffc384"
+        },
+        {
+          "message": "[chore] 배틀씬 수정",
+          "time": "오늘",
+          "sha": "588cf89",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/588cf8909f9d8067fe95a39123eae049459ca0d7"
+        },
+        {
+          "message": "[Fix] 스킬 색상 변경",
+          "time": "오늘",
+          "sha": "f732ed5",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/f732ed5730f66960f70775f4f61fd3abc1e81dc0"
+        },
         {
           "message": "[Feat] 배틀 연출 스크립트 작성",
           "time": "오늘",
           "sha": "ccc53cb",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ccc53cb734938d0f354a9a3f69a7ca3ed387b37a"
-        },
-        {
-          "message": "[Feat] 진무가문 내부",
-          "time": "5일 전",
-          "sha": "3f78935",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/3f78935a4b85987769fe9e2bd83a71874f827331"
-        },
-        {
-          "message": "[Feat] 갈색시티씬 생성 및 세팅",
-          "time": "6일 전",
-          "sha": "0175377",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/0175377dce8a497ca776927e3aabd964e232e19c"
-        },
-        {
-          "message": "[Feat] 1번도로 배치",
-          "time": "6일 전",
-          "sha": "1b06e6b",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/1b06e6bf87a58c38ba7b072177a3147f63b465b8"
-        },
-        {
-          "message": "[Feat] PalletTownTilemap 배치",
-          "time": "7일 전",
-          "sha": "ca10db3",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/ca10db30d4efa50d9dd01de55120eb203d440c6b"
         }
       ]
     },
@@ -563,10 +563,10 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 6,
-      "activeDays": 2,
-      "lastCommit": "5일 전",
-      "status": "watch",
+      "commits": 7,
+      "activeDays": 3,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         3,
         1,
@@ -574,9 +574,15 @@
         3,
         4,
         6,
-        6
+        7
       ],
       "recent": [
+        {
+          "message": "[Assets] 타일맵 에셋 추가 및 팔레트 등록",
+          "time": "오늘",
+          "sha": "e565616",
+          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/e565616a44b8a42cd5d678c99eb68104688ea684"
+        },
         {
           "message": "Merge branch 'main' of https://github.com/qkrgml59/2026_2_TeamProject",
           "time": "5일 전",
@@ -600,12 +606,6 @@
           "time": "6일 전",
           "sha": "8264b3a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/8264b3ae9368fd9753d4ebc8adb99b9d842e404a"
-        },
-        {
-          "message": "[chore] Boss 카메라 세팅",
-          "time": "6일 전",
-          "sha": "43aee9e",
-          "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/43aee9edaed7a5a0115f991b2e46b5f4ba967aa5"
         }
       ]
     },
@@ -615,47 +615,47 @@
       "team": "JungYS24",
       "github": "JungYS24",
       "repo": "JungYS24/Tricky-Yacht",
-      "commits": 18,
-      "activeDays": 2,
-      "lastCommit": "5일 전",
+      "commits": 17,
+      "activeDays": 1,
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         0,
         0,
-        6,
-        5,
+        8,
+        3,
         4,
-        11,
-        18
+        12,
+        17
       ],
       "recent": [
         {
           "message": "[Chore] 리딤 복구",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "0e3bed2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/0e3bed230c4eb5973ffc1a0d3bd9121076375442"
         },
         {
           "message": "Merge pull request #80 from JungYS24/develop",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "4a97a97",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/4a97a979b522ae1aca444df9d6d9d379c1f9fdbe"
         },
         {
           "message": "Merge develop into main (develop 기준) (#79)",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "32f4986",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/32f4986cae20ce3931526e2d0136e8b0d07147d5"
         },
         {
           "message": "Merge remote-tracking branch 'origin/main' into merge/main-into-develop",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "5168ad2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/5168ad2888cfa76fe1b4beaec97034e1177b6c0e"
         },
         {
           "message": "[Fix] 맵·튜토리얼 씬의 미싱 MonsterDataManager 제거",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "e035b86",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/e035b86b75cf50a8bf8ad13ab656cecf07e40343"
         }
@@ -667,8 +667,8 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 20,
-      "activeDays": 6,
+      "commits": 19,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -676,9 +676,9 @@
         18,
         19,
         17,
-        11,
-        15,
-        20
+        14,
+        13,
+        19
       ],
       "recent": [
         {
@@ -761,10 +761,10 @@
       "team": "hawengtiger",
       "github": "hawengtiger",
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "32일 전",
-      "status": "inactive",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         2,
         1,
@@ -772,9 +772,15 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "recent": [
+        {
+          "message": "[Feat] Demo",
+          "time": "오늘",
+          "sha": "4ecc2a4",
+          "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/4ecc2a4b85333a40696f47c8fec50ee6eb913a25"
+        },
         {
           "message": "[Feat] 기초 유니티 세팅",
           "time": "32일 전",
@@ -815,8 +821,8 @@
         0,
         0,
         0,
-        21,
-        12,
+        23,
+        7,
         3,
         15
       ],
@@ -866,8 +872,8 @@
       "weekly": [
         2,
         5,
-        2,
-        6,
+        4,
+        4,
         5,
         5,
         15
@@ -963,23 +969,29 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 10,
-      "activeDays": 4,
+      "commits": 11,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
         0,
+        4,
         3,
         4,
-        4,
         6,
-        10
+        11
       ],
       "recent": [
         {
-          "message": "[Feat] 스테이지 선택 시스템 구현",
+          "message": "[Feat] 주점 시스템 및 소문 시스템 구현",
           "time": "오늘",
+          "sha": "a49574e",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/a49574ec397f73472304644301586876beb7ba7e"
+        },
+        {
+          "message": "[Feat] 스테이지 선택 시스템 구현",
+          "time": "어제",
           "sha": "77621e6",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/77621e64f97359d7ac383917fa0059979e47d9d3"
         },
@@ -1000,12 +1012,6 @@
           "time": "어제",
           "sha": "d1a176d",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/d1a176d142881ca8b19a2c463497790142b5a19b"
-        },
-        {
-          "message": "[Feat] 이미지 리소스 할당",
-          "time": "어제",
-          "sha": "c1b0ac6",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/c1b0ac63354abbfadd6625a024093437095fe088"
         }
       ]
     },
@@ -1049,7 +1055,7 @@
         },
         {
           "message": "[Feat] 마감 후 미션 제작, 피날레(마지막 배달)",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "76cce59",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/76cce59ee5d92ca822b03299cd14fa506caf7d61"
         },
