@@ -1,11 +1,57 @@
 {
-  "updatedAt": "2026. 10. 25. 14:13",
+  "updatedAt": "2026. 10. 25. 18:50",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "1fe1b5ead8e02c543c2129f6081b8e35103b1099",
+      "message": "[Feat] 바스테트 비석 렌즈 해독·벽화·여신 대사·업적 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/1fe1b5ead8e02c543c2129f6081b8e35103b1099",
+      "date": "2026-10-25T06:50:50Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 41,
+        "additions": 7131,
+        "deletions": 4322,
+        "meaningful_change": 10152,
+        "meaningful_file_count": 28,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "76e09218c4f20e8d70d28bbec0b97a5b4cd4a10e",
+      "message": "[Feat] 시작 화면 배경 그림 적용 + 로고·버튼 위치 조정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/76e09218c4f20e8d70d28bbec0b97a5b4cd4a10e",
+      "date": "2026-10-25T05:04:54Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 9,
+        "additions": 1390,
+        "deletions": 1063,
+        "meaningful_change": 2159,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2256,52 +2302,6 @@
         "deletions": 0,
         "meaningful_change": 308,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "3c66df4ed602f8d3748c781387999d66ad4deff3",
-      "message": "[Feat] 화면 메시지에 호루스의 방 아이템/퍼즐 안내 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/3c66df4ed602f8d3748c781387999d66ad4deff3",
-      "date": "2026-10-05T22:06:30Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 2553,
-        "deletions": 29,
-        "meaningful_change": 2582,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "39172e5f72155657e08da703b642f4cdbd9918fa",
-      "message": "[Feat] 호루스의 방 바닥 동선 정비 및 벽화, 수집 요소 배치",
-      "url": "https://github.com/suyan05/PharaohCube/commit/39172e5f72155657e08da703b642f4cdbd9918fa",
-      "date": "2026-10-05T21:59:48Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 1103,
-        "deletions": 129,
-        "meaningful_change": 1232,
-        "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -9210,6 +9210,52 @@
       "projectName": "2학년 7팀",
       "repo": "23jihwan/7_tim",
       "branch": "main",
+      "sha": "3bb79631e079ba103689818087bc4890ecb2cac8",
+      "message": "[Feat]보스 씬으로 이동하기 구현",
+      "url": "https://github.com/23jihwan/7_tim/commit/3bb79631e079ba103689818087bc4890ecb2cac8",
+      "date": "2026-10-25T09:11:42Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "23jihwan",
+      "gitAuthorName": "23jihwan",
+      "gitAuthorEmail": "dbwlghks7410@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 17,
+        "additions": 12,
+        "deletions": 2,
+        "meaningful_change": 6,
+        "meaningful_file_count": 9,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
+      "sha": "46ad24bddb36bc665c2d10286da94e5b65d3463b",
+      "message": "[Fix]상태이상 옵션 수정",
+      "url": "https://github.com/23jihwan/7_tim/commit/46ad24bddb36bc665c2d10286da94e5b65d3463b",
+      "date": "2026-10-25T08:51:34Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "23jihwan",
+      "gitAuthorName": "23jihwan",
+      "gitAuthorEmail": "dbwlghks7410@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 5329,
+        "deletions": 22,
+        "meaningful_change": 5344,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
       "sha": "440ac6f39cb0c4edf196bbe5c761ba834e11d94d",
       "message": "[Feat] 엘리트 배경 추가 턴종료 이미지 수정 보스 배경 추가",
       "url": "https://github.com/23jihwan/7_tim/commit/440ac6f39cb0c4edf196bbe5c761ba834e11d94d",
@@ -10262,6 +10308,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "25522ba71c6c2912bfb96ee74f4183d7bc32b2ab",
+      "message": "[Feat] 19챕터 UI 추가",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/25522ba71c6c2912bfb96ee74f4183d7bc32b2ab",
+      "date": "2026-10-25T05:45:16Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": null,
+      "gitAuthorName": "cannotstoppinglove",
+      "gitAuthorEmail": "bomspringangel@gs.shingu.ac.kr",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 22,
+        "additions": 1287,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 11,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
@@ -12538,29 +12607,6 @@
         "meaningful_change": 3102,
         "meaningful_file_count": 12,
         "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "5fdc529a261faa88e323dcf88800e5d46cf85c39",
-      "message": "[feat] 챕터1 미니게임2 타겟 박스 크기 수정",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/5fdc529a261faa88e323dcf88800e5d46cf85c39",
-      "date": "2026-08-30T19:14:40Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 2,
-        "deletions": 2,
-        "meaningful_change": 4,
-        "meaningful_file_count": 1,
-        "suspicious_score": 30,
         "judgment": "정상"
       }
     },
@@ -22803,6 +22849,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "c3e7719b835fafcd257a54d9288cf8f2e38d6b68",
+      "message": "무기 업그레이드 UI 배치",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/c3e7719b835fafcd257a54d9288cf8f2e38d6b68",
+      "date": "2026-10-25T06:44:32Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 2950,
+        "deletions": 155,
+        "meaningful_change": 3105,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "29e927ae3da01b297ace0169e0b97597838cc5c9",
       "message": "적 데미지 조정",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/29e927ae3da01b297ace0169e0b97597838cc5c9",
@@ -25077,26 +25146,49 @@
       }
     },
     {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
-      "sha": "9c3bb44d77214474f9e839b15ae4c3565712cc54",
-      "message": "UI 이미지 삽입",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/9c3bb44d77214474f9e839b15ae4c3565712cc54",
-      "date": "2026-09-27T05:05:54Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": null,
-      "gitAuthorName": "choyeonjung134",
-      "gitAuthorEmail": "choyeonjung134@gamil.com",
-      "verification": "unlinked",
+      "sha": "dfc0e10cdf6422556d19735615ef836d070b02ec",
+      "message": "Merge branch 'main' of https://github.com/Tiphe0821/GameProject_T3_1_B",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/dfc0e10cdf6422556d19735615ef836d070b02ec",
+      "date": "2026-10-25T08:09:57Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "dotcom4143",
+      "gitAuthorName": "dotcom4143",
+      "gitAuthorEmail": "eostmfhektzja4143@gmail.com",
+      "verification": "mismatch",
       "analysis": {
-        "changed_files": 38,
-        "additions": 3356,
-        "deletions": 0,
-        "meaningful_change": 2771,
-        "meaningful_file_count": 28,
+        "changed_files": 22,
+        "additions": 5607,
+        "deletions": 2,
+        "meaningful_change": 47,
+        "meaningful_file_count": 10,
         "suspicious_score": 0,
         "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "0a39e5ff2dae192afc9001db23579d895bfb7739",
+      "message": "[Feat] 스포너 알 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/0a39e5ff2dae192afc9001db23579d895bfb7739",
+      "date": "2026-10-25T07:05:44Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "ih551311",
+      "gitAuthorName": "ih551311",
+      "gitAuthorEmail": "ih551311@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 4975,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
@@ -25120,6 +25212,29 @@
         "meaningful_file_count": 5,
         "suspicious_score": 35,
         "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "0f6b869ad389e5b77092aae55a7dd699f0109977",
+      "message": "[Feat] 1단계 부속품 SO 추가",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/0f6b869ad389e5b77092aae55a7dd699f0109977",
+      "date": "2026-10-24T23:49:11Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "dotcom4143",
+      "gitAuthorName": "dotcom4143",
+      "gitAuthorEmail": "eostmfhektzja4143@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 189,
+        "deletions": 25,
+        "meaningful_change": 90,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -26270,6 +26385,167 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "41c875fa92f4e0429ecb4dd8cf1751ff37efd50a",
+      "message": "[Feat] 챕터 0 물 속 상호작용 배치",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/41c875fa92f4e0429ecb4dd8cf1751ff37efd50a",
+      "date": "2026-10-25T06:57:28Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 149,
+        "deletions": 39,
+        "meaningful_change": 188,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "f88bad18996f31353068ab67dda588abe723efad",
+      "message": "[Fix] 포탈 랜더링 오류, 카메라 충돌 처리",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f88bad18996f31353068ab67dda588abe723efad",
+      "date": "2026-10-25T06:41:45Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 34,
+        "deletions": 27,
+        "meaningful_change": 61,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "5a673575277fd4ea6af03f178de4fbc371684413",
+      "message": "Revert \"[Refactor] InputActions 중앙 관리\"",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5a673575277fd4ea6af03f178de4fbc371684413",
+      "date": "2026-10-25T06:24:59Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 14,
+        "deletions": 18,
+        "meaningful_change": 32,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "9b91b7dc4a9156088721d922988a457291f92064",
+      "message": "[Refactor] 포탈 관리 구조 변경",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9b91b7dc4a9156088721d922988a457291f92064",
+      "date": "2026-10-25T06:06:31Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 9,
+        "additions": 722,
+        "deletions": 583,
+        "meaningful_change": 1275,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "5c1db38a8ae6cec5b18ab38e3f5e9db0cb1d3880",
+      "message": "[Refactor] InputActions 중앙 관리",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5c1db38a8ae6cec5b18ab38e3f5e9db0cb1d3880",
+      "date": "2026-10-25T05:57:03Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 18,
+        "deletions": 14,
+        "meaningful_change": 32,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "e5b0170cf7b116460e99ca0fc82303eeffb87faf",
+      "message": "[Chore] 프로젝트 폴더 구조 정리",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/e5b0170cf7b116460e99ca0fc82303eeffb87faf",
+      "date": "2026-10-25T05:56:52Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 49,
+        "additions": 39,
+        "deletions": 7,
+        "meaningful_change": 10,
+        "meaningful_file_count": 22,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "cd5a1e497f9f07ef1605407abb781724e41ac925",
+      "message": "[Fix] 포탈 경계선 수정, 카메라 이동 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/cd5a1e497f9f07ef1605407abb781724e41ac925",
+      "date": "2026-10-25T05:34:13Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 17,
+        "deletions": 19,
+        "meaningful_change": 36,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -28412,167 +28688,6 @@
       }
     },
     {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "6b3df33d998e1d263124dfb863564dfc19080dc6",
-      "message": "[Fix] 프레임워크 잔재 제거, 카메라 동적 찾기",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6b3df33d998e1d263124dfb863564dfc19080dc6",
-      "date": "2026-09-27T11:41:40Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "parksh070126@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 28,
-        "additions": 59,
-        "deletions": 10597,
-        "meaningful_change": 10566,
-        "meaningful_file_count": 16,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "ab65c27ae194cc7b6258717c257551522bbb9074",
-      "message": "[Refactor] GameStateManager 경로 정리 (Manager/) 및 씬 갱신",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/ab65c27ae194cc7b6258717c257551522bbb9074",
-      "date": "2026-09-27T11:23:07Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "parksh070126@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 23,
-        "deletions": 40,
-        "meaningful_change": 55,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "3377398dc3e5b84a56057f94375b9171c28f79a2",
-      "message": "[Refactor] 프레임워크 제거, 플레이어 조작/카메라 구조 분리 및 씬 동기화",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/3377398dc3e5b84a56057f94375b9171c28f79a2",
-      "date": "2026-09-27T11:16:30Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "parksh070126@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 151,
-        "additions": 2570,
-        "deletions": 6863,
-        "meaningful_change": 8849,
-        "meaningful_file_count": 66,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "23d95687f619050ffbb941310ac65d10c4d488c4",
-      "message": "[Feat] 돌 프롭 추가",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/23d95687f619050ffbb941310ac65d10c4d488c4",
-      "date": "2026-09-27T11:09:01Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "yoojoonlee0424",
-      "gitAuthorName": "yoojoonlee0424",
-      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 18,
-        "additions": 2503,
-        "deletions": 21,
-        "meaningful_change": 2015,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "1cf30a52cf3765fdfb15406c6cb3fb442f6242ca",
-      "message": "[Fix] Grass_test 씬에 플레이어 추가, 기본 빌드 설정",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/1cf30a52cf3765fdfb15406c6cb3fb442f6242ca",
-      "date": "2026-09-27T05:51:08Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "parksh070126@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 8,
-        "additions": 830,
-        "deletions": 156,
-        "meaningful_change": 986,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "388088d1b0ea4b30db8b2cc9640a376c8f2b7b68",
-      "message": "[Update] 들판 쉐이딩 물결효과 추가",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/388088d1b0ea4b30db8b2cc9640a376c8f2b7b68",
-      "date": "2026-09-26T22:43:06Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "yoojoonlee0424",
-      "gitAuthorName": "yoojoonlee0424",
-      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 10,
-        "additions": 3691,
-        "deletions": 355,
-        "meaningful_change": 39,
-        "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "90a9e4f970ecfd993c1ff5920535b41639642600",
-      "message": "[Feat] 카메라 줌 인 아웃, 카메라 충돌",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/90a9e4f970ecfd993c1ff5920535b41639642600",
-      "date": "2026-09-26T13:14:14Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "parksh070126@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 5,
-        "additions": 470,
-        "deletions": 24,
-        "meaningful_change": 492,
-        "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "1학년 A반 2팀",
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "branch": "main",
@@ -29605,6 +29720,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "0090915a1ca3a195792aa4702df0f2446d007193",
+      "message": "조금 수정",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0090915a1ca3a195792aa4702df0f2446d007193",
+      "date": "2026-10-25T09:28:13Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 26,
+        "additions": 56574,
+        "deletions": 78584,
+        "meaningful_change": 134760,
+        "meaningful_file_count": 14,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
