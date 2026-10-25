@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 26. 02:55",
+  "updatedAt": "2026. 10. 26. 05:18",
   "students": [
     {
       "name": "2학년 1팀",
@@ -9,10 +9,10 @@
       "team": "suyan05",
       "github": "suyan05",
       "repo": "suyan05/PharaohCube",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "15일 전",
-      "status": "inactive",
+      "commits": 2,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         0,
@@ -20,9 +20,21 @@
         0,
         8,
         0,
-        0
+        2
       ],
       "recent": [
+        {
+          "message": "[Fead]바스테트 맵 배치",
+          "time": "오늘",
+          "sha": "80be766",
+          "url": "https://github.com/suyan05/PharaohCube/commit/80be766603b3a5f66ac8039edb58c61fd9cadab2"
+        },
+        {
+          "message": "[Fead]바스테트 타일 추가",
+          "time": "오늘",
+          "sha": "e2dd2df",
+          "url": "https://github.com/suyan05/PharaohCube/commit/e2dd2df14793ec095754cf9c4b10396781a5400a"
+        },
         {
           "message": "[docs]몇몇 이미지 수정",
           "time": "15일 전",
@@ -40,18 +52,6 @@
           "time": "15일 전",
           "sha": "e3752ec",
           "url": "https://github.com/suyan05/PharaohCube/commit/e3752ec4e7d336b2416567ffbae876978493c87a"
-        },
-        {
-          "message": "[Fead]아누비스 타일맵 제작",
-          "time": "15일 전",
-          "sha": "bca1964",
-          "url": "https://github.com/suyan05/PharaohCube/commit/bca1964e8478bcd38fd6f7e2bf5f9921360c51ef"
-        },
-        {
-          "message": "[Fead]아누비스 맵 tile palette 제작",
-          "time": "15일 전",
-          "sha": "260f174",
-          "url": "https://github.com/suyan05/PharaohCube/commit/260f17454bb3b87dff9928112240f4dc87fcbe47"
         }
       ]
     },
@@ -122,8 +122,8 @@
         0,
         0,
         1,
-        1,
-        5,
+        2,
+        4,
         5
       ],
       "recent": [
@@ -147,7 +147,7 @@
         },
         {
           "message": "[Feat] 4~12인 맵 배치",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "e740b26",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e740b262b98874c8bb4f954c3366aebeb70bcf86"
         },
@@ -518,8 +518,8 @@
       "weekly": [
         0,
         2,
-        2,
-        1,
+        3,
+        0,
         4,
         3,
         6
@@ -563,8 +563,8 @@
       "team": "qkrgml59",
       "github": "qkrgml59",
       "repo": "qkrgml59/2026_2_TeamProject",
-      "commits": 7,
-      "activeDays": 3,
+      "commits": 3,
+      "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -572,9 +572,9 @@
         1,
         2,
         3,
-        4,
-        6,
-        7
+        9,
+        5,
+        3
       ],
       "recent": [
         {
@@ -597,13 +597,13 @@
         },
         {
           "message": "[chore] Prefabs 폴더 롤백",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "5eb60fa",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/5eb60faa7566714a19e248d719d339d7e545baf3"
         },
         {
           "message": "[chore] MangerPrefabs 폴더 위치 롤백",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "8264b3a",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/8264b3ae9368fd9753d4ebc8adb99b9d842e404a"
         }
@@ -813,7 +813,7 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 15,
+      "commits": 17,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -821,12 +821,24 @@
         0,
         0,
         0,
-        23,
-        7,
+        20,
+        6,
         3,
-        15
+        17
       ],
       "recent": [
+        {
+          "message": "[Chore] 씬 저장",
+          "time": "오늘",
+          "sha": "930496a",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/930496a434ca172fa80f8ee7b2aebef277f0eff2"
+        },
+        {
+          "message": "[Chore] 임시 포탈 추가",
+          "time": "오늘",
+          "sha": "eb9cbda",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eb9cbda4f60d5dad2fb15636c444c805f13765ee"
+        },
         {
           "message": "[Fix] 포탈 랜더링 오류, 카메라 충돌 처리",
           "time": "오늘",
@@ -844,18 +856,6 @@
           "time": "오늘",
           "sha": "9b91b7d",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9b91b7dc4a9156088721d922988a457291f92064"
-        },
-        {
-          "message": "[Refactor] InputActions 중앙 관리",
-          "time": "오늘",
-          "sha": "5c1db38",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5c1db38a8ae6cec5b18ab38e3f5e9db0cb1d3880"
-        },
-        {
-          "message": "[Chore] 프로젝트 폴더 구조 정리",
-          "time": "오늘",
-          "sha": "e5b0170",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/e5b0170cf7b116460e99ca0fc82303eeffb87faf"
         }
       ]
     },
@@ -893,19 +893,19 @@
         },
         {
           "message": "[Fix] 스크립트 붙이는걸 깜빡해서 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "0d92a65",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/0d92a659ea554519da823e944c42e1b79913b8b2"
         },
         {
           "message": "[Feat] 전투 후 결과창 닫기 버튼을 통해 메인 메뉴로 돌아가도록 설정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "9c56b4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c56b4b12832f49896b20cf7163a7098979b86d3"
         },
         {
           "message": "[Feat] 스테이지 데이터 구현 및 스테이지 선택 후 배틀 씬 전환 구현",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "8798e0e",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/8798e0e20fc3b9b6c26ba3c912bc70c0b3f85df6"
         }
