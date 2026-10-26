@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 26. 10:03",
+  "updatedAt": "2026. 10. 26. 14:50",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,20 +61,26 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 11,
-      "activeDays": 5,
+      "commits": 12,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
         0,
         4,
-        3,
-        4,
+        5,
+        2,
         6,
-        11
+        12
       ],
       "recent": [
+        {
+          "message": "[Feat] 엘리트 스테이지 구현",
+          "time": "오늘",
+          "sha": "256505a",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
+        },
         {
           "message": "[Feat] 주점 시스템 및 소문 시스템 구현",
           "time": "오늘",
@@ -98,12 +104,6 @@
           "time": "어제",
           "sha": "1bf060b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/1bf060b3b0301c7ceb624ae3bad962a5ee9330c1"
-        },
-        {
-          "message": "[Feat] 유물 UI + VG 추가 + 카드 UI 변경 + 유닛 배치 인터렉션 연출 변경 + 영웅 이동 방식 변경",
-          "time": "어제",
-          "sha": "d1a176d",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/d1a176d142881ca8b19a2c463497790142b5a19b"
         }
       ]
     },
@@ -113,8 +113,8 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 5,
-      "activeDays": 3,
+      "commits": 4,
+      "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -123,8 +123,8 @@
         0,
         1,
         5,
-        1,
-        5
+        2,
+        4
       ],
       "recent": [
         {
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Fix]캔버스 스케일 수정",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "12fc72f",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/12fc72f21427e08b2f575a415595f14af53d144c"
         }
@@ -165,9 +165,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 13,
+      "commits": 12,
       "activeDays": 5,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         1,
@@ -175,25 +175,25 @@
         0,
         1,
         1,
-        6,
-        13
+        7,
+        12
       ],
       "recent": [
         {
           "message": "[Feat] 추격씬 직접 1인칭 운전으로 변경",
-          "time": "오늘",
+          "time": "어제",
           "sha": "528a680",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/528a6801ebf4b57708310c89662e5cf377f476c1"
         },
         {
           "message": "[Fix] 플레이어 모델 교체 주요 NPC 모델 교체",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "7d6262e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7d6262e609763e2e104ea757cf8ea080968b0099"
         },
         {
           "message": "[Fix] 핸드폰UI 고침 각종 버그 해결",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
         },
@@ -205,7 +205,7 @@
         },
         {
           "message": "[Feat] 게임 프롤로그 & 튜토리얼 제작",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "79630a5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/79630a546314ec89a4855238d1bc887825bb895a"
         }
@@ -217,7 +217,7 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 14,
+      "commits": 13,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -227,8 +227,8 @@
         0,
         4,
         12,
-        1,
-        14
+        2,
+        13
       ],
       "recent": [
         {
@@ -269,18 +269,18 @@
       "team": "esuvean",
       "github": "esuvean",
       "repo": "esuvean/PRESS-START_",
-      "commits": 6,
-      "activeDays": 3,
+      "commits": 5,
+      "activeDays": 2,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
         1,
-        6,
-        3,
+        7,
+        2,
         1,
         5,
-        4,
-        6
+        5,
+        5
       ],
       "recent": [
         {
@@ -355,7 +355,7 @@
         },
         {
           "message": "2",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         },
@@ -373,9 +373,9 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 20,
-      "activeDays": 2,
-      "lastCommit": "3일 전",
+      "commits": 21,
+      "activeDays": 3,
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         2,
@@ -384,9 +384,15 @@
         10,
         6,
         0,
-        20
+        21
       ],
       "recent": [
+        {
+          "message": "[Feat] 미니게임 모델을 팀원 모델로 교체",
+          "time": "2일 전",
+          "sha": "afc20b5",
+          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/afc20b50819ae40735b534db838b33a4899b85dd"
+        },
         {
           "message": "[Feat] 손님 인내도 추가",
           "time": "3일 전",
@@ -410,12 +416,6 @@
           "time": "3일 전",
           "sha": "494ba50",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/494ba504d2971ab11034a27bb22b279752aa106a"
-        },
-        {
-          "message": "[Feat] 미니게임 카메라 후처리 켜기",
-          "time": "3일 전",
-          "sha": "1bdb895",
-          "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/1bdb89535b5743a209d2802c3682b2fa48a3c636"
         }
       ]
     },
@@ -667,18 +667,18 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 19,
+      "commits": 14,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         18,
-        19,
-        17,
+        22,
         14,
-        13,
-        19
+        15,
+        17,
+        14
       ],
       "recent": [
         {
@@ -701,13 +701,13 @@
         },
         {
           "message": "[Chore] 폴더 구조 정리",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "8516b3c",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/8516b3c9de685750a7a7081ed7a21a6d8e373d1d"
         },
         {
           "message": "[Chore] VFX 에셋 임포트",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "9238ab9",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9238ab934cb5c4cd1579eb3a8808ab4c6657aa8f"
         }
@@ -795,7 +795,7 @@
         },
         {
           "message": "Update README.md",
-          "time": "45일 전",
+          "time": "46일 전",
           "sha": "5f36ccf",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
         },
@@ -813,20 +813,26 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 17,
-      "activeDays": 5,
+      "commits": 18,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         0,
         0,
-        20,
+        19,
         6,
         3,
-        17
+        18
       ],
       "recent": [
+        {
+          "message": "[Feat] 심리스 환경 전환 컨트롤",
+          "time": "오늘",
+          "sha": "0e94d7f",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
+        },
         {
           "message": "[Chore] 씬 저장",
           "time": "오늘",
@@ -850,12 +856,6 @@
           "time": "오늘",
           "sha": "5a67357",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5a673575277fd4ea6af03f178de4fbc371684413"
-        },
-        {
-          "message": "[Refactor] 포탈 관리 구조 변경",
-          "time": "오늘",
-          "sha": "9b91b7d",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9b91b7dc4a9156088721d922988a457291f92064"
         }
       ]
     },
@@ -865,29 +865,35 @@
       "team": "hoshinouhee123",
       "github": "hoshinouhee123",
       "repo": "hoshinouhee123/gacha-game-teamplay",
-      "commits": 15,
-      "activeDays": 3,
-      "lastCommit": "4일 전",
-      "status": "watch",
+      "commits": 16,
+      "activeDays": 4,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         2,
         5,
-        4,
-        4,
+        5,
+        3,
         5,
         5,
-        15
+        16
       ],
       "recent": [
         {
+          "message": "[Chore] 빌드 세팅",
+          "time": "오늘",
+          "sha": "edf040b",
+          "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/edf040b2d1e9de65480588b3baa8998df2caa2d7"
+        },
+        {
           "message": "[Fix] 데미지 텍스트 폰트 크기 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "83dd27c",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/83dd27c5c8a631e4b9af5546572eda24fe09dff5"
         },
         {
           "message": "[Fix] 데미지 텍스트가 스프라이트에 가려져 나오는 버그 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "74e855a",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/74e855af76136be322aca3528d82673d3f1a8df4"
         },
@@ -902,12 +908,6 @@
           "time": "5일 전",
           "sha": "9c56b4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c56b4b12832f49896b20cf7163a7098979b86d3"
-        },
-        {
-          "message": "[Feat] 스테이지 데이터 구현 및 스테이지 선택 후 배틀 씬 전환 구현",
-          "time": "5일 전",
-          "sha": "8798e0e",
-          "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/8798e0e20fc3b9b6c26ba3c912bc70c0b3f85df6"
         }
       ]
     },
@@ -917,8 +917,8 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 14,
-      "activeDays": 4,
+      "commits": 15,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -928,9 +928,15 @@
         13,
         0,
         8,
-        14
+        15
       ],
       "recent": [
+        {
+          "message": "문제 너무많다",
+          "time": "오늘",
+          "sha": "bba2dc2",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/bba2dc2ce8f0f3b27934e0f56b3cf4f0d41d488f"
+        },
         {
           "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
           "time": "오늘",
@@ -954,12 +960,6 @@
           "time": "오늘",
           "sha": "0090915",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0090915a1ca3a195792aa4702df0f2446d007193"
-        },
-        {
-          "message": "다이얼로그 고쳐야 할듯 실행이 안된다..",
-          "time": "어제",
-          "sha": "6063be2",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/6063be2b588eb56505e8eb9f13fd60eb887e557f"
         }
       ]
     },
@@ -969,20 +969,26 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 11,
-      "activeDays": 5,
+      "commits": 12,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         2,
         0,
         4,
-        3,
-        4,
+        5,
+        2,
         6,
-        11
+        12
       ],
       "recent": [
+        {
+          "message": "[Feat] 엘리트 스테이지 구현",
+          "time": "오늘",
+          "sha": "256505a",
+          "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
+        },
         {
           "message": "[Feat] 주점 시스템 및 소문 시스템 구현",
           "time": "오늘",
@@ -1006,12 +1012,6 @@
           "time": "어제",
           "sha": "1bf060b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/1bf060b3b0301c7ceb624ae3bad962a5ee9330c1"
-        },
-        {
-          "message": "[Feat] 유물 UI + VG 추가 + 카드 UI 변경 + 유닛 배치 인터렉션 연출 변경 + 영웅 이동 방식 변경",
-          "time": "어제",
-          "sha": "d1a176d",
-          "url": "https://github.com/Taehyeon88/Graduation-project/commit/d1a176d142881ca8b19a2c463497790142b5a19b"
         }
       ]
     },
@@ -1021,9 +1021,9 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 13,
+      "commits": 12,
       "activeDays": 5,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         1,
@@ -1031,25 +1031,25 @@
         0,
         1,
         1,
-        6,
-        13
+        7,
+        12
       ],
       "recent": [
         {
           "message": "[Feat] 추격씬 직접 1인칭 운전으로 변경",
-          "time": "오늘",
+          "time": "어제",
           "sha": "528a680",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/528a6801ebf4b57708310c89662e5cf377f476c1"
         },
         {
           "message": "[Fix] 플레이어 모델 교체 주요 NPC 모델 교체",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "7d6262e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7d6262e609763e2e104ea757cf8ea080968b0099"
         },
         {
           "message": "[Fix] 핸드폰UI 고침 각종 버그 해결",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
         },
@@ -1061,7 +1061,7 @@
         },
         {
           "message": "[Feat] 게임 프롤로그 & 튜토리얼 제작",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "79630a5",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/79630a546314ec89a4855238d1bc887825bb895a"
         }
