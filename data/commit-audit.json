@@ -1,11 +1,80 @@
 {
-  "updatedAt": "2026. 10. 27. 16:15",
+  "updatedAt": "2026. 10. 27. 22:41",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "8f218b765367d95ca30fa20f225c36b76deb9888",
+      "message": "[Fix] 라의 방 이집트풍 배경음악(히자즈 음계, 네이/우드/다르부카/시스트럼) + 스핑크스 깨어남 소리 교체",
+      "url": "https://github.com/suyan05/PharaohCube/commit/8f218b765367d95ca30fa20f225c36b76deb9888",
+      "date": "2026-10-27T07:07:22Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 4,
+        "deletions": 4,
+        "meaningful_change": 8,
+        "meaningful_file_count": 6,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "53b8749e0e3560641da1fffd2f221701b32c95f5",
+      "message": "[Feat]: 소리 시스템 + 합성 효과음/배경음악 + 대사 삐리리",
+      "url": "https://github.com/suyan05/PharaohCube/commit/53b8749e0e3560641da1fffd2f221701b32c95f5",
+      "date": "2026-10-27T06:39:17Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 78,
+        "additions": 1024,
+        "deletions": 10,
+        "meaningful_change": 369,
+        "meaningful_file_count": 44,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "4b96b513f2dbf611cfaae844f64b06d96b4bae39",
+      "message": "[Feat] 꿈의 비석 해독 화면을 아트 그림(Common_UI_Stele_Panel)으로 교체",
+      "url": "https://github.com/suyan05/PharaohCube/commit/4b96b513f2dbf611cfaae844f64b06d96b4bae39",
+      "date": "2026-10-27T06:24:27Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 213,
+        "deletions": 8,
+        "meaningful_change": 65,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2235,75 +2304,6 @@
         "meaningful_file_count": 16,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "c1a50ed2ee8151f4ccff0b8c73ef6a345ea6d294",
-      "message": "[Feat] P2 회로판 거울 조작 튜토리얼 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/c1a50ed2ee8151f4ccff0b8c73ef6a345ea6d294",
-      "date": "2026-10-06T18:29:38Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 52,
-        "deletions": 3,
-        "meaningful_change": 55,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "f61980df8dddffc346a3b80aa51e857beb9169e0",
-      "message": "[design]아누비스 퍼즐 배차 가능한 오브제 배치",
-      "url": "https://github.com/suyan05/PharaohCube/commit/f61980df8dddffc346a3b80aa51e857beb9169e0",
-      "date": "2026-10-06T18:27:35Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "suyan05",
-      "gitAuthorName": "suyan05",
-      "gitAuthorEmail": "cadhppr588@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 9,
-        "additions": 396,
-        "deletions": 128,
-        "meaningful_change": 487,
-        "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "91443eccf22fad626fd7d4cf2797c3749615c3f7",
-      "message": "[design]이미지 수정 및 정리",
-      "url": "https://github.com/suyan05/PharaohCube/commit/91443eccf22fad626fd7d4cf2797c3749615c3f7",
-      "date": "2026-10-06T18:27:01Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "suyan05",
-      "gitAuthorName": "suyan05",
-      "gitAuthorEmail": "cadhppr588@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 30,
-        "additions": 647,
-        "deletions": 36,
-        "meaningful_change": 0,
-        "meaningful_file_count": 12,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
       }
     },
     {
@@ -10866,6 +10866,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "420dbe57103acacc53862b6540f23e164176c93e",
+      "message": "[Feat] 급한 회색 UI 버튼 커밋",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/420dbe57103acacc53862b6540f23e164176c93e",
+      "date": "2026-10-27T12:09:20Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": null,
+      "gitAuthorName": "cannotstoppinglove",
+      "gitAuthorEmail": "bomspringangel@gs.shingu.ac.kr",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 117,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "4f34bfa78a1657701e00feb0cb165e1b2330460e",
       "message": "[Feat] 챕터4 UI전부 교체 오류수정",
       "url": "https://github.com/esuvean/PRESS-START_/commit/4f34bfa78a1657701e00feb0cb165e1b2330460e",
@@ -13132,29 +13155,6 @@
       "analysis": {
         "changed_files": 4,
         "additions": 32,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "ede66ef04c6e1e018620bfcd7629403c3aca6df4",
-      "message": "[feat] 팀 폴더 안에 개인폴더추가",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/ede66ef04c6e1e018620bfcd7629403c3aca6df4",
-      "date": "2026-09-09T14:21:33Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "hunmin5296",
-      "gitAuthorName": "hunmin5296",
-      "gitAuthorEmail": "kimhunmin04@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 16,
         "deletions": 0,
         "meaningful_change": 0,
         "meaningful_file_count": 0,
