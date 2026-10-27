@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 28. 04:04",
+  "updatedAt": "2026. 10. 28. 08:02",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -4610,6 +4610,52 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "5c59174fe7bae85462440711c1aa0099915f132c",
+      "message": "Merge branch 'Kwonjun' into main",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/5c59174fe7bae85462440711c1aa0099915f132c",
+      "date": "2026-10-27T18:58:28Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "Im-Dinosaur",
+      "gitAuthorName": "Im-Dinosaur",
+      "gitAuthorEmail": "wnsdl80100@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 26,
+        "additions": 801,
+        "deletions": 115,
+        "meaningful_change": 916,
+        "meaningful_file_count": 26,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "5e1d88e4633b2e173e3f9c4d845fc2c56460389d",
+      "message": "[Fix] 플레이어 표시와 걷기 및 아이템 수치 개선",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/5e1d88e4633b2e173e3f9c4d845fc2c56460389d",
+      "date": "2026-10-27T18:58:15Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "Im-Dinosaur",
+      "gitAuthorName": "Im-Dinosaur",
+      "gitAuthorEmail": "wnsdl80100@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 26,
+        "additions": 801,
+        "deletions": 115,
+        "meaningful_change": 916,
+        "meaningful_file_count": 26,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "b238a3910daf043d237d138e75c34b1ab055c3b2",
       "message": "[Fix] UI 변경",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/b238a3910daf043d237d138e75c34b1ab055c3b2",
@@ -6858,52 +6904,6 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "a500f31a55548e9cd3f51858c86bf17258f5d7b9",
-      "message": "[Feat] 산소 밸브 단체 미션 구현",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/a500f31a55548e9cd3f51858c86bf17258f5d7b9",
-      "date": "2026-10-05T13:21:10Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "namsuhan0322",
-      "gitAuthorName": "namsuhan0322",
-      "gitAuthorEmail": "rnatpakfl@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 15,
-        "additions": 2846,
-        "deletions": 1957,
-        "meaningful_change": 4783,
-        "meaningful_file_count": 12,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "a0cb4a8cdf224b43b3a4bcfc6f43267d22ceca59",
-      "message": "[Feat] 마이크 상태 UI 및 음성 송신 설정 추가",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/a0cb4a8cdf224b43b3a4bcfc6f43267d22ceca59",
-      "date": "2026-10-05T09:17:22Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 14,
-        "additions": 2244,
-        "deletions": 57,
-        "meaningful_change": 2235,
-        "meaningful_file_count": 10,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {

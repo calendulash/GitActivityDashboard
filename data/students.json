@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 28. 04:04",
+  "updatedAt": "2026. 10. 28. 08:02",
   "students": [
     {
       "name": "2학년 1팀",
@@ -11,7 +11,7 @@
       "repo": "suyan05/PharaohCube",
       "commits": 3,
       "activeDays": 1,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -25,19 +25,19 @@
       "recent": [
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         },
         {
           "message": "[Fead]바스테트 맵 배치",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "80be766",
           "url": "https://github.com/suyan05/PharaohCube/commit/80be766603b3a5f66ac8039edb58c61fd9cadab2"
         },
         {
           "message": "[Fead]바스테트 타일 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "e2dd2df",
           "url": "https://github.com/suyan05/PharaohCube/commit/e2dd2df14793ec095754cf9c4b10396781a5400a"
         },
@@ -147,13 +147,13 @@
         },
         {
           "message": "[Fix] 맵 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "0cf1578",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/0cf1578ee1e6f80d93a8ed3191dac50e77952e35"
         },
         {
           "message": "[Feat] 4~12인 맵 배치",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "e740b26",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/e740b262b98874c8bb4f954c3366aebeb70bcf86"
         }
@@ -447,7 +447,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "42일 전",
+          "time": "43일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -813,8 +813,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 18,
-      "activeDays": 6,
+      "commits": 17,
+      "activeDays": 5,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -823,8 +823,8 @@
         0,
         25,
         0,
-        3,
-        18
+        4,
+        17
       ],
       "recent": [
         {
@@ -835,13 +835,13 @@
         },
         {
           "message": "[Chore] 씬 저장",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "930496a",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/930496a434ca172fa80f8ee7b2aebef277f0eff2"
         },
         {
           "message": "[Chore] 임시 포탈 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "eb9cbda",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eb9cbda4f60d5dad2fb15636c444c805f13765ee"
         },
@@ -865,8 +865,8 @@
       "team": "hoshinouhee123",
       "github": "hoshinouhee123",
       "repo": "hoshinouhee123/gacha-game-teamplay",
-      "commits": 6,
-      "activeDays": 3,
+      "commits": 3,
+      "activeDays": 2,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -875,8 +875,8 @@
         7,
         1,
         10,
-        10,
-        6
+        13,
+        3
       ],
       "recent": [
         {
@@ -899,13 +899,13 @@
         },
         {
           "message": "[Fix] 스크립트 붙이는걸 깜빡해서 수정",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "0d92a65",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/0d92a659ea554519da823e944c42e1b79913b8b2"
         },
         {
           "message": "[Feat] 전투 후 결과창 닫기 버튼을 통해 메인 메뉴로 돌아가도록 설정",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "9c56b4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c56b4b12832f49896b20cf7163a7098979b86d3"
         }
