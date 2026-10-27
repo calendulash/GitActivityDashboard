@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 27. 07:19",
+  "updatedAt": "2026. 10. 27. 10:47",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7265,13 +7265,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 170,
+        "additions": 908171,
+        "deletions": 237150,
+        "meaningful_change": 1145009,
+        "meaningful_file_count": 95,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -23815,6 +23815,75 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "ac950dfeb98df64e1181d70eaad2c85e50676cef",
+      "message": "근접 무기 버그 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/ac950dfeb98df64e1181d70eaad2c85e50676cef",
+      "date": "2026-10-27T01:30:28Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 103,
+        "deletions": 16,
+        "meaningful_change": 119,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "07a23699d66aaea0bd82c40c0924a348bd832193",
+      "message": "NPC,Enemy 스텟 생성 / Enemy,Player NPC 공격 가능하게 변경",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/07a23699d66aaea0bd82c40c0924a348bd832193",
+      "date": "2026-10-27T01:03:41Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 17,
+        "additions": 2564,
+        "deletions": 239,
+        "meaningful_change": 2799,
+        "meaningful_file_count": 12,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "3b1912d7fd211637b5c0c6bab579fe1463b4f603",
+      "message": "적 Hp UI 생성",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/3b1912d7fd211637b5c0c6bab579fe1463b4f603",
+      "date": "2026-10-26T23:19:11Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 14,
+        "additions": 750,
+        "deletions": 4829,
+        "meaningful_change": 5577,
+        "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "e776b254799da1ca990e2a09f9cb9ab95fb6d267",
       "message": "폰트 교체",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/e776b254799da1ca990e2a09f9cb9ab95fb6d267",
@@ -26039,75 +26108,6 @@
         "meaningful_change": 10,
         "meaningful_file_count": 2,
         "suspicious_score": 15,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "9fa46f259a4bbbae78b3c7a3293e378a8e9f2bb1",
-      "message": "다이얼로그 시스템",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/9fa46f259a4bbbae78b3c7a3293e378a8e9f2bb1",
-      "date": "2026-09-28T23:05:38Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 14,
-        "additions": 27578,
-        "deletions": 1814,
-        "meaningful_change": 29363,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "ebb679ed7144206deb94f1e3e1b274ab1ef7696f",
-      "message": "HP 시스템",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/ebb679ed7144206deb94f1e3e1b274ab1ef7696f",
-      "date": "2026-09-28T08:43:23Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 8,
-        "additions": 652,
-        "deletions": 1096,
-        "meaningful_change": 1730,
-        "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "6752ff159e58450c0a1d4db9a5c6bc92c601f800",
-      "message": "타이틀 시스템 프로토 타입",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/6752ff159e58450c0a1d4db9a5c6bc92c601f800",
-      "date": "2026-09-28T06:30:23Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 18,
-        "additions": 17239,
-        "deletions": 1083,
-        "meaningful_change": 18154,
-        "meaningful_file_count": 9,
-        "suspicious_score": 0,
         "judgment": "정상"
       }
     },
