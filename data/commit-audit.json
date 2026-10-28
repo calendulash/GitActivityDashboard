@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 28. 08:02",
+  "updatedAt": "2026. 10. 28. 11:06",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -2310,6 +2310,29 @@
       "projectName": "3학년 3팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "83febd97a11af0c411a52aee68b26dd8ef8fda3e",
+      "message": "[Feat] 전투 씬 보완 작업",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e",
+      "date": "2026-10-28T01:05:12Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 71,
+        "additions": 5732,
+        "deletions": 3706,
+        "meaningful_change": 8894,
+        "meaningful_file_count": 51,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "256505a6eb8d9be1d8471f7d0f201fc1906f8817",
       "message": "[Feat] 엘리트 스테이지 구현",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817",
@@ -4579,29 +4602,6 @@
         "deletions": 19929,
         "meaningful_change": 19921,
         "meaningful_file_count": 6,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "b6f8f26d4d604ce67ba5a23be814e668479650dc",
-      "message": "[Pro Upd] 1.인접 개념 재정립, 2.공격 횟수 기능 추가, 3.랜덤 대상 지정 공격 기능 구현",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/b6f8f26d4d604ce67ba5a23be814e668479650dc",
-      "date": "2026-05-20T02:30:58Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 22,
-        "additions": 20187,
-        "deletions": 376,
-        "meaningful_change": 20524,
-        "meaningful_file_count": 17,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -31106,6 +31106,52 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "0ae0e71ffe285cd3b4b6273230d020096160d91f",
+      "message": "[Fix]플레이어 타일맵 뚫고 들어가는 현상 수정",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0ae0e71ffe285cd3b4b6273230d020096160d91f",
+      "date": "2026-10-28T00:52:57Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": null,
+      "gitAuthorName": "chmchimjam377",
+      "gitAuthorEmail": "chmchimjam377@gmail.com",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 36,
+        "deletions": 2,
+        "meaningful_change": 38,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "80f66b323c83a1e63075c797b5eaffa06818eb9e",
+      "message": "Add files via upload",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/80f66b323c83a1e63075c797b5eaffa06818eb9e",
+      "date": "2026-10-28T00:19:02Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "jerryseo0220-droid",
+      "gitAuthorName": "jerryseo0220-droid",
+      "gitAuthorEmail": "jerryseo0220@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 50,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "bba2dc2ce8f0f3b27934e0f56b3cf4f0d41d488f",
       "message": "문제 너무많다",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/bba2dc2ce8f0f3b27934e0f56b3cf4f0d41d488f",
@@ -32593,6 +32639,29 @@
         "deletions": 0,
         "meaningful_change": 8363,
         "meaningful_file_count": 74,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 2팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
+      "sha": "83febd97a11af0c411a52aee68b26dd8ef8fda3e",
+      "message": "[Feat] 전투 씬 보완 작업",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e",
+      "date": "2026-10-28T01:05:12Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 71,
+        "additions": 5732,
+        "deletions": 3706,
+        "meaningful_change": 8894,
+        "meaningful_file_count": 51,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -34870,29 +34939,6 @@
         "deletions": 19929,
         "meaningful_change": 19921,
         "meaningful_file_count": 6,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 2팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "b6f8f26d4d604ce67ba5a23be814e668479650dc",
-      "message": "[Pro Upd] 1.인접 개념 재정립, 2.공격 횟수 기능 추가, 3.랜덤 대상 지정 공격 기능 구현",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/b6f8f26d4d604ce67ba5a23be814e668479650dc",
-      "date": "2026-05-20T02:30:58Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 22,
-        "additions": 20187,
-        "deletions": 376,
-        "meaningful_change": 20524,
-        "meaningful_file_count": 17,
         "suspicious_score": 0,
         "judgment": "정상"
       }
