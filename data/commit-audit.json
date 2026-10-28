@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 28. 11:06",
+  "updatedAt": "2026. 10. 28. 17:01",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -21561,6 +21561,52 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "43d40388e964d732651ed88afa4e32bc2b574030",
+      "message": "[Fix] 전투 종료 후 카드 입력 막음",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/43d40388e964d732651ed88afa4e32bc2b574030",
+      "date": "2026-10-28T05:51:27Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 4,
+        "deletions": 1,
+        "meaningful_change": 5,
+        "meaningful_file_count": 2,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "32aa8e898667bcdcd9112f8a2cdcb84c467b6da8",
+      "message": "[Feat] 체력 다음 스테이지에도 유지, 배틀 종료 시 카드 시전 멈춤",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/32aa8e898667bcdcd9112f8a2cdcb84c467b6da8",
+      "date": "2026-10-28T05:43:46Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 31,
+        "deletions": 3,
+        "meaningful_change": 26,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "5642588e2148b96f647aa3b6c575024a9c739f1b",
       "message": "[Chore] 임시 리소스 모두 적용 완료",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/5642588e2148b96f647aa3b6c575024a9c739f1b",
@@ -23807,52 +23853,6 @@
         "deletions": 65,
         "meaningful_change": 100,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "ca3cf501a3d25560e1e5d0078025a695e3f620b2",
-      "message": "[Fix] 배치된 카드가 손패에 정렬되는 버그 수정",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/ca3cf501a3d25560e1e5d0078025a695e3f620b2",
-      "date": "2026-09-16T08:16:15Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 8,
-        "deletions": 6,
-        "meaningful_change": 14,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "520d3f5032a803773a7708f031fb583d8020aed8",
-      "message": "[Test] 드로우, 버림, 패 정렬 작동 확인",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/520d3f5032a803773a7708f031fb583d8020aed8",
-      "date": "2026-09-16T06:48:56Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 143,
-        "deletions": 17,
-        "meaningful_change": 160,
-        "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -31100,6 +31100,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "0668c2396b3c8f1988651f8d342bee372a6fea5f",
+      "message": "[Feat]아이템 프리팹 추가 및 적 확인",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0668c2396b3c8f1988651f8d342bee372a6fea5f",
+      "date": "2026-10-28T02:54:10Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": null,
+      "gitAuthorName": "chmchimjam377",
+      "gitAuthorEmail": "chmchimjam377@gmail.com",
+      "verification": "unlinked",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 548,
+        "deletions": 347,
+        "meaningful_change": 884,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
