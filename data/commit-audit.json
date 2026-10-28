@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 28. 17:01",
+  "updatedAt": "2026. 10. 28. 23:57",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -2310,6 +2310,29 @@
       "projectName": "3학년 3팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "7ca07871129e4c5dc4b4ff249b9366abac0bc1d7",
+      "message": "[Feat] 스테이지 선택 씬 보완 작업",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/7ca07871129e4c5dc4b4ff249b9366abac0bc1d7",
+      "date": "2026-10-28T12:57:50Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 40,
+        "additions": 6416,
+        "deletions": 88064,
+        "meaningful_change": 93959,
+        "meaningful_file_count": 24,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "83febd97a11af0c411a52aee68b26dd8ef8fda3e",
       "message": "[Feat] 전투 씬 보완 작업",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e",
@@ -4584,24 +4607,70 @@
       }
     },
     {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
-      "sha": "2c2fa1fa5d4b1ba90bcac95206d59c7435c4150f",
-      "message": "[clean] TokenData(적, 영웅, 벽) Tokens 폴더로 정리",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/2c2fa1fa5d4b1ba90bcac95206d59c7435c4150f",
-      "date": "2026-05-21T00:01:50Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
-      "verification": "verified",
+      "sha": "33f7c6b44ba67a8de332b6153a3a195a39b172ff",
+      "message": "Merge branch 'NSH_Test'",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/33f7c6b44ba67a8de332b6153a3a195a39b172ff",
+      "date": "2026-10-28T10:02:57Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
       "analysis": {
-        "changed_files": 16,
-        "additions": 1,
-        "deletions": 19929,
-        "meaningful_change": 19921,
-        "meaningful_file_count": 6,
+        "changed_files": 15,
+        "additions": 3505,
+        "deletions": 3299,
+        "meaningful_change": 6804,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "35652018773cfb088a95bbddaf0458cb4157c1cf",
+      "message": "[Fix] 압력계 입력 미션 공중부양 수정",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/35652018773cfb088a95bbddaf0458cb4157c1cf",
+      "date": "2026-10-28T09:49:08Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 15,
+        "additions": 3505,
+        "deletions": 3299,
+        "meaningful_change": 6804,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "5934defdea1a87ef9363a49691f196afb95ff728",
+      "message": "[Feat] 4~12 씬 , standby 씬 광원 조정 , 버튼,벨브 인터렉션 애니메이션 추가",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/5934defdea1a87ef9363a49691f196afb95ff728",
+      "date": "2026-10-28T08:26:30Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "mataltw04",
+      "gitAuthorName": "mataltw04",
+      "gitAuthorEmail": "20040518koko@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 15,
+        "additions": 9583,
+        "deletions": 516,
+        "meaningful_change": 9799,
+        "meaningful_file_count": 10,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -6838,75 +6907,6 @@
       }
     },
     {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "c7e2410c531b7452ece1827ffe6521abd2013fda",
-      "message": "[Fix] 방장 양도 오류 수정",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/c7e2410c531b7452ece1827ffe6521abd2013fda",
-      "date": "2026-10-06T15:31:24Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "fti11",
-      "gitAuthorName": "fti11",
-      "gitAuthorEmail": "mxonstruck@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 250,
-        "deletions": 53,
-        "meaningful_change": 292,
-        "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "a743e26730a5d19fce775f41abc6b31be050b2a3",
-      "message": "[Feat] 설정창 UI 개선 및 중앙 조준점 추가",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/a743e26730a5d19fce775f41abc6b31be050b2a3",
-      "date": "2026-10-06T06:41:59Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 25,
-        "additions": 14594,
-        "deletions": 2197,
-        "meaningful_change": 16418,
-        "meaningful_file_count": 17,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "9b3cba1e15266c3747bee3656684c1a9cb0e8e68",
-      "message": "[Feat] 설정창 기획서 추가 & 초대, 방 시스템 수정",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/9b3cba1e15266c3747bee3656684c1a9cb0e8e68",
-      "date": "2026-10-05T21:00:33Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "ahyun04",
-      "gitAuthorName": "ahyun04",
-      "gitAuthorEmail": "ahyun125@g.shingu.ac.kr",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 0,
-        "deletions": 7,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
-      }
-    },
-    {
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
@@ -7265,13 +7265,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 170,
-        "additions": 908171,
-        "deletions": 237150,
-        "meaningful_change": 1145009,
-        "meaningful_file_count": 95,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -9202,6 +9202,75 @@
         "deletions": 3,
         "meaningful_change": 320,
         "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
+      "sha": "598f2c51683512689e5aac68e79bc003d87773c7",
+      "message": "[Feat] 데모 버튼 누름",
+      "url": "https://github.com/23jihwan/7_tim/commit/598f2c51683512689e5aac68e79bc003d87773c7",
+      "date": "2026-10-28T14:30:26Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "omh1228",
+      "gitAuthorName": "omh1228",
+      "gitAuthorEmail": "pigoh041228@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 1,
+        "deletions": 1,
+        "meaningful_change": 2,
+        "meaningful_file_count": 1,
+        "suspicious_score": 50,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
+      "sha": "6348395ce15154df4d83669b4bf82a1e2f825d67",
+      "message": "[Feat] [발표용] 맵 고정 모드 킴 그리고 휴식방 구현 강화는 미구현",
+      "url": "https://github.com/23jihwan/7_tim/commit/6348395ce15154df4d83669b4bf82a1e2f825d67",
+      "date": "2026-10-28T14:24:29Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "omh1228",
+      "gitAuthorName": "omh1228",
+      "gitAuthorEmail": "pigoh041228@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 417,
+        "deletions": 1,
+        "meaningful_change": 273,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
+      "sha": "4fe082ab32f10bea9096bf18936a3e6492271b0c",
+      "message": "[Fix] 중간발표를 위한 상점 가격 변경",
+      "url": "https://github.com/23jihwan/7_tim/commit/4fe082ab32f10bea9096bf18936a3e6492271b0c",
+      "date": "2026-10-28T09:13:06Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "junhae01",
+      "gitAuthorName": "junhae0",
+      "gitAuthorEmail": "jh040101@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 6,
+        "deletions": 6,
+        "meaningful_change": 12,
+        "meaningful_file_count": 6,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -32670,6 +32739,29 @@
       "projectName": "3학년 2팀",
       "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
+      "sha": "7ca07871129e4c5dc4b4ff249b9366abac0bc1d7",
+      "message": "[Feat] 스테이지 선택 씬 보완 작업",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/7ca07871129e4c5dc4b4ff249b9366abac0bc1d7",
+      "date": "2026-10-28T12:57:50Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 40,
+        "additions": 6416,
+        "deletions": 88064,
+        "meaningful_change": 93959,
+        "meaningful_file_count": 24,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 2팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
       "sha": "83febd97a11af0c411a52aee68b26dd8ef8fda3e",
       "message": "[Feat] 전투 씬 보완 작업",
       "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e",
@@ -34944,29 +35036,6 @@
       }
     },
     {
-      "projectName": "3학년 2팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "2c2fa1fa5d4b1ba90bcac95206d59c7435c4150f",
-      "message": "[clean] TokenData(적, 영웅, 벽) Tokens 폴더로 정리",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/2c2fa1fa5d4b1ba90bcac95206d59c7435c4150f",
-      "date": "2026-05-21T00:01:50Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 16,
-        "additions": 1,
-        "deletions": 19929,
-        "meaningful_change": 19921,
-        "meaningful_file_count": 6,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
@@ -35325,13 +35394,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 170,
-        "additions": 908171,
-        "deletions": 237150,
-        "meaningful_change": 1145009,
-        "meaningful_file_count": 95,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
