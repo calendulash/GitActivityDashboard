@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 30. 02:17",
+  "updatedAt": "2026. 10. 30. 06:52",
   "students": [
     {
       "name": "2학년 1팀",
@@ -31,13 +31,13 @@
         },
         {
           "message": "[Fead]바스테트 맵 배치",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "80be766",
           "url": "https://github.com/suyan05/PharaohCube/commit/80be766603b3a5f66ac8039edb58c61fd9cadab2"
         },
         {
           "message": "[Fead]바스테트 타일 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "e2dd2df",
           "url": "https://github.com/suyan05/PharaohCube/commit/e2dd2df14793ec095754cf9c4b10396781a5400a"
         },
@@ -63,7 +63,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 12,
       "activeDays": 5,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "오늘",
+          "time": "어제",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "오늘",
+          "time": "어제",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -115,7 +115,7 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 6,
       "activeDays": 4,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -129,7 +129,7 @@
       "recent": [
         {
           "message": "[Feat]맵 조금 꾸밈",
-          "time": "오늘",
+          "time": "어제",
           "sha": "d08f28e",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/d08f28e830cde7c81859caad4fe3751037777186"
         },
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Fix] 맵 수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "0cf1578",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/0cf1578ee1e6f80d93a8ed3191dac50e77952e35"
         }
@@ -217,8 +217,8 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 18,
-      "activeDays": 6,
+      "commits": 16,
+      "activeDays": 5,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -227,8 +227,8 @@
         4,
         7,
         6,
-        4,
-        18
+        6,
+        16
       ],
       "recent": [
         {
@@ -323,7 +323,7 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 3,
       "activeDays": 2,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "title",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "a4230d4",
           "url": "https://github.com/Sine-aw/nohesitate/commit/a4230d4cb913e86e06ae943bf2aa0d799866d86e"
         },
@@ -513,7 +513,7 @@
       "repo": "jeonghyerin002/2026_2TeamProject",
       "commits": 6,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -527,7 +527,7 @@
       "recent": [
         {
           "message": "[Fix] 캔버스 해상도 변경",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "fb51208",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/fb51208035df80ded6eaf7e5b3b5a095c02d199e"
         },
@@ -565,7 +565,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 3,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -579,7 +579,7 @@
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
@@ -617,7 +617,7 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "9일 전",
+      "lastCommit": "10일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -631,25 +631,25 @@
       "recent": [
         {
           "message": "[Chore] 리딤 복구",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "0e3bed2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/0e3bed230c4eb5973ffc1a0d3bd9121076375442"
         },
         {
           "message": "Merge pull request #80 from JungYS24/develop",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "4a97a97",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/4a97a979b522ae1aca444df9d6d9d379c1f9fdbe"
         },
         {
           "message": "Merge develop into main (develop 기준) (#79)",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "32f4986",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/32f4986cae20ce3931526e2d0136e8b0d07147d5"
         },
         {
           "message": "Merge remote-tracking branch 'origin/main' into merge/main-into-develop",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "5168ad2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/5168ad2888cfa76fe1b4beaec97034e1177b6c0e"
         },
@@ -853,7 +853,7 @@
         },
         {
           "message": "[Chore] 씬 저장",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "930496a",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/930496a434ca172fa80f8ee7b2aebef277f0eff2"
         }
@@ -899,13 +899,13 @@
         },
         {
           "message": "[Fix] 스크립트 붙이는걸 깜빡해서 수정",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "0d92a65",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/0d92a659ea554519da823e944c42e1b79913b8b2"
         },
         {
           "message": "[Feat] 전투 후 결과창 닫기 버튼을 통해 메인 메뉴로 돌아가도록 설정",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "9c56b4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c56b4b12832f49896b20cf7163a7098979b86d3"
         }
@@ -971,7 +971,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 12,
       "activeDays": 5,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -985,13 +985,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "오늘",
+          "time": "어제",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "오늘",
+          "time": "어제",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
