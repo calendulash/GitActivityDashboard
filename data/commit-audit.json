@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 10. 29. 05:17",
+  "updatedAt": "2026. 10. 29. 09:05",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "f8ef9bd415007647a21647987eafddce610d8f4a",
+      "message": "[Feat] 시연용 T 치트",
+      "url": "https://github.com/suyan05/PharaohCube/commit/f8ef9bd415007647a21647987eafddce610d8f4a",
+      "date": "2026-10-28T16:24:31Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "parksarang04",
+      "gitAuthorName": "parksarang04",
+      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 287,
+        "deletions": 5,
+        "meaningful_change": 282,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2284,26 +2307,49 @@
       }
     },
     {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
       "branch": "main",
-      "sha": "d522e375e74b70e664c17c1f8f263f44c416c87e",
-      "message": "[fix] p3 퍼즐 수정",
-      "url": "https://github.com/suyan05/PharaohCube/commit/d522e375e74b70e664c17c1f8f263f44c416c87e",
-      "date": "2026-10-07T13:56:19Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "khy1004",
-      "gitAuthorName": "khy1004",
-      "gitAuthorEmail": "khyseog08@gmail.com",
-      "verification": "mismatch",
+      "sha": "5e5709b947fd61f8e9e5c33ab46992756ba11624",
+      "message": "[Clean] 사용하지 않는 이미지 제거",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624",
+      "date": "2026-10-28T20:07:54Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
       "analysis": {
-        "changed_files": 2,
-        "additions": 11,
-        "deletions": 11,
+        "changed_files": 107,
+        "additions": 0,
+        "deletions": 5501,
         "meaningful_change": 0,
-        "meaningful_file_count": 1,
+        "meaningful_file_count": 53,
         "suspicious_score": 35,
         "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "3학년 3팀",
+      "repo": "Taehyeon88/Graduation-project",
+      "branch": "main",
+      "sha": "97622692e7933a2ef4dfba7f753600ac21dd1337",
+      "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
+      "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337",
+      "date": "2026-10-28T20:07:31Z",
+      "expectedGithub": "Taehyeon88",
+      "actualGithub": "Taehyeon88",
+      "gitAuthorName": "Taehyeon88",
+      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 59,
+        "additions": 4679,
+        "deletions": 5218,
+        "meaningful_change": 9383,
+        "meaningful_file_count": 37,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -4561,47 +4607,24 @@
       }
     },
     {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
-      "sha": "01547892baf2bf3f1939b2579ac871b10eae536e",
-      "message": "[PN Upd] 맵 디자인 및 맵 별 등장 몬스터 구성 + 카드 등장 확률",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/01547892baf2bf3f1939b2579ac871b10eae536e",
-      "date": "2026-05-21T16:22:33Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "DeokDragon",
-      "gitAuthorName": "Deokdragon",
-      "gitAuthorEmail": "ejrdyd3899@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 2,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 3팀",
-      "repo": "Taehyeon88/Graduation-project",
-      "branch": "main",
-      "sha": "0c7856f9530fa68a8626dbce44d494e0dc3858ce",
-      "message": "[Pro Feat] 힘의 토템 설치, 토템 방출 카드 구현",
-      "url": "https://github.com/Taehyeon88/Graduation-project/commit/0c7856f9530fa68a8626dbce44d494e0dc3858ce",
-      "date": "2026-05-21T14:26:13Z",
-      "expectedGithub": "Taehyeon88",
-      "actualGithub": "Taehyeon88",
-      "gitAuthorName": "Taehyeon88",
-      "gitAuthorEmail": "Taehyeon5376@naver.com",
+      "sha": "d08f28e830cde7c81859caad4fe3751037777186",
+      "message": "[Feat]맵 조금 꾸밈",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/d08f28e830cde7c81859caad4fe3751037777186",
+      "date": "2026-10-28T20:14:35Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "ahyun04",
+      "gitAuthorName": "ahyun04",
+      "gitAuthorEmail": "ahyun125@g.shingu.ac.kr",
       "verification": "verified",
       "analysis": {
-        "changed_files": 28,
-        "additions": 1079,
-        "deletions": 25,
-        "meaningful_change": 1008,
-        "meaningful_file_count": 17,
+        "changed_files": 4,
+        "additions": 2131,
+        "deletions": 72,
+        "meaningful_change": 2201,
+        "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -6879,29 +6902,6 @@
         "deletions": 3500,
         "meaningful_change": 14600,
         "meaningful_file_count": 55,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "666b7813523ed1f99d0ad8e328e1d379b15c0f7e",
-      "message": "[Feat] 산소 교체 새로운 기획서에 맞게 수정, 부품 맞추기 구현",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/666b7813523ed1f99d0ad8e328e1d379b15c0f7e",
-      "date": "2026-10-09T13:07:42Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "namsuhan0322",
-      "gitAuthorName": "namsuhan0322",
-      "gitAuthorEmail": "rnatpakfl@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 86,
-        "additions": 9007,
-        "deletions": 1816,
-        "meaningful_change": 10543,
-        "meaningful_file_count": 52,
         "suspicious_score": 0,
         "judgment": "정상"
       }

@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 29. 05:17",
+  "updatedAt": "2026. 10. 29. 09:05",
   "students": [
     {
       "name": "2학년 1팀",
@@ -11,7 +11,7 @@
       "repo": "suyan05/PharaohCube",
       "commits": 3,
       "activeDays": 1,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -25,7 +25,7 @@
       "recent": [
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         },
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Fix] 맵 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "0cf1578",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/0cf1578ee1e6f80d93a8ed3191dac50e77952e35"
         }
@@ -373,8 +373,8 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 27,
-      "activeDays": 4,
+      "commits": 24,
+      "activeDays": 3,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
@@ -383,8 +383,8 @@
         2,
         12,
         3,
-        0,
-        27
+        3,
+        24
       ],
       "recent": [
         {
@@ -447,7 +447,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "43일 전",
+          "time": "44일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -822,8 +822,8 @@
         0,
         0,
         25,
-        0,
-        6,
+        1,
+        5,
         15
       ],
       "recent": [
