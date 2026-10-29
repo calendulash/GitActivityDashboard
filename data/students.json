@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 29. 19:35",
+  "updatedAt": "2026. 10. 30. 02:17",
   "students": [
     {
       "name": "2학년 1팀",
@@ -43,13 +43,13 @@
         },
         {
           "message": "[docs]몇몇 이미지 수정",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "db9b32e",
           "url": "https://github.com/suyan05/PharaohCube/commit/db9b32e6a5868301a4dcf5c000e83462fc0fdcc4"
         },
         {
           "message": "[Fead]아누비스 오브제 배치",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "89e7e79",
           "url": "https://github.com/suyan05/PharaohCube/commit/89e7e799f23619f31660a7afc3c01d13a7836057"
         }
@@ -70,8 +70,8 @@
         0,
         4,
         7,
-        5,
-        5,
+        6,
+        4,
         12
       ],
       "recent": [
@@ -89,7 +89,7 @@
         },
         {
           "message": "[Feat] 스테이지 선택 씬 보완 작업",
-          "time": "오늘",
+          "time": "어제",
           "sha": "7ca0787",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/7ca07871129e4c5dc4b4ff249b9366abac0bc1d7"
         },
@@ -135,19 +135,19 @@
         },
         {
           "message": "[Fix] UI 변경",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "b238a39",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/b238a3910daf043d237d138e75c34b1ab055c3b2"
         },
         {
           "message": "[Fix]UI 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "869e40c",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/869e40c7c14b6d96cdcbeb444433545a6a306f9c"
         },
         {
           "message": "[Fix] 미션 배치",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "8d51848",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/8d51848a7b5a90add319ea001966246418c2dfbe"
         },
@@ -165,8 +165,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
-      "activeDays": 4,
+      "commits": 7,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -176,12 +176,18 @@
         2,
         2,
         12,
-        6
+        7
       ],
       "recent": [
         {
-          "message": "[Feat] 프롤로그 연출 추가, 대사 수정",
+          "message": "[Feat] 각종 사운드 추가, 레그돌 연출 추가",
           "time": "오늘",
+          "sha": "304e5c8",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/304e5c87624f2308a97650c338ee595c96f5fbfd"
+        },
+        {
+          "message": "[Feat] 프롤로그 연출 추가, 대사 수정",
+          "time": "어제",
           "sha": "9e2d778",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/9e2d7788724ea32eb8751578825e5bdc4b094a8e"
         },
@@ -202,12 +208,6 @@
           "time": "5일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
-        },
-        {
-          "message": "[Feat] 마감 후 미션 제작, 피날레(마지막 배달)",
-          "time": "5일 전",
-          "sha": "76cce59",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/76cce59ee5d92ca822b03299cd14fa506caf7d61"
         }
       ]
     },
@@ -219,21 +219,21 @@
       "repo": "23jihwan/7_tim",
       "commits": 18,
       "activeDays": 6,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         1,
         0,
         4,
-        6,
         7,
+        6,
         4,
         18
       ],
       "recent": [
         {
           "message": "[Fix]보스 체력 수정 및 빌드파일",
-          "time": "오늘",
+          "time": "어제",
           "sha": "7d2745d",
           "url": "https://github.com/23jihwan/7_tim/commit/7d2745d8e9ff75b33a30e8906084bd2eb0aaeacc"
         },
@@ -245,19 +245,19 @@
         },
         {
           "message": "[Feat]빌드 파일 다시 올림",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "afe7086",
           "url": "https://github.com/23jihwan/7_tim/commit/afe7086a6f7f05a69f9f1689294ba4973452cfe6"
         },
         {
           "message": "[Fix]도감 아이콘 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "cdc5cb9",
           "url": "https://github.com/23jihwan/7_tim/commit/cdc5cb9bf485bd965f886de398fe8f858656faaa"
         },
         {
           "message": "[Fix]도감에 쉴드 카드 2종 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "0a0c092",
           "url": "https://github.com/23jihwan/7_tim/commit/0a0c0925604cfea738e14f1c1f9ff338654ef4e7"
         }
@@ -343,13 +343,13 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/Sine-aw/nohesitate",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "241b0d3",
           "url": "https://github.com/Sine-aw/nohesitate/commit/241b0d351ba323c7d576c891486b1de620a88566"
         },
         {
           "message": "2 Phase, Title",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "ebb8812",
           "url": "https://github.com/Sine-aw/nohesitate/commit/ebb881257140efdb94a019f43981e88468cf1e90"
         },
@@ -373,8 +373,8 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 22,
-      "activeDays": 4,
+      "commits": 14,
+      "activeDays": 3,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -383,8 +383,8 @@
         2,
         14,
         0,
-        12,
-        22
+        20,
+        14
       ],
       "recent": [
         {
@@ -427,11 +427,11 @@
       "repo": "jeolje934-dot/Placeholder_2026_1A_team-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "41일 전",
+      "lastCommit": "42일 전",
       "status": "inactive",
       "weekly": [
-        1,
-        1,
+        2,
+        0,
         0,
         0,
         0,
@@ -441,7 +441,7 @@
       "recent": [
         {
           "message": "[Feat] test 씬 입니다",
-          "time": "41일 전",
+          "time": "42일 전",
           "sha": "ffde155",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/ffde1558b9f9d992394bd8810e756666f709a986"
         },
@@ -461,7 +461,7 @@
       "repo": "whxogud9090/4team_project_02",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "22일 전",
+      "lastCommit": "23일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -475,7 +475,7 @@
       "recent": [
         {
           "message": "물고기 등급 및 판매 상점 시스템 추가",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "5506b0d",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/5506b0deff61c8855a27a70cfe6b3fe459c79513"
         },
@@ -493,13 +493,13 @@
         },
         {
           "message": "주인공 걷기 모션 및 낚시 테스트 씬 개선",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "cb16f20",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/cb16f2049903e40e3ed5efb6acf8c373e25d1c8d"
         },
         {
           "message": "픽셀 호수 낚시 테스트 환경 구성",
-          "time": "30일 전",
+          "time": "31일 전",
           "sha": "b3c8cce",
           "url": "https://github.com/whxogud9090/4team_project_02/commit/b3c8cce2bedfdf67e3ec1ec530944eb9f5e6f12b"
         }
@@ -533,25 +533,25 @@
         },
         {
           "message": "[Test] 태초마을 아트 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "50bd1ae",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/50bd1aea1db85193124dac27755490445f2ba6d0"
         },
         {
           "message": "[Chore] 배틀씬 Enemy 이미지 변경",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "8c2e074",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/8c2e0747988141db7652b3642bc0a52832ffc384"
         },
         {
           "message": "[chore] 배틀씬 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "588cf89",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/588cf8909f9d8067fe95a39123eae049459ca0d7"
         },
         {
           "message": "[Fix] 스킬 색상 변경",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "f732ed5",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/f732ed5730f66960f70775f4f61fd3abc1e81dc0"
         }
@@ -585,13 +585,13 @@
         },
         {
           "message": "[Feat] 맵 타일맵 적용 완료",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "c3b9768",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c3b9768ba9ea2adf183e501e6181bc097f01c2d3"
         },
         {
           "message": "[Assets] 타일맵 에셋 추가 및 팔레트 등록",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "e565616",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/e565616a44b8a42cd5d678c99eb68104688ea684"
         },
@@ -621,8 +621,8 @@
       "status": "inactive",
       "weekly": [
         0,
-        3,
-        8,
+        4,
+        7,
         2,
         4,
         27,
@@ -655,7 +655,7 @@
         },
         {
           "message": "[Fix] 맵·튜토리얼 씬의 미싱 MonsterDataManager 제거",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "e035b86",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/e035b86b75cf50a8bf8ad13ab656cecf07e40343"
         }
@@ -672,12 +672,12 @@
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        0,
-        23,
+        14,
+        10,
         17,
-        17,
-        11,
-        25,
+        16,
+        12,
+        24,
         7
       ],
       "recent": [
@@ -707,7 +707,7 @@
         },
         {
           "message": "[Fix] BGM 페이드연출 중 씬 전환시 BGM 꺼지던 문제 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "3f149ce",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3f149cedc5208110d454cb7c9e21c64aca31809e"
         }
@@ -761,9 +761,9 @@
       "team": "hawengtiger",
       "github": "hawengtiger",
       "repo": "hawengtiger/2026_09_09_Team-1rock2bird-",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "3일 전",
+      "commits": 3,
+      "activeDays": 2,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         1,
@@ -772,38 +772,38 @@
         0,
         0,
         0,
-        1
+        3
       ],
       "recent": [
         {
+          "message": "Merge branch 'feature'",
+          "time": "오늘",
+          "sha": "1fe7319",
+          "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/1fe7319e6611a678076dfc683edcb622f478fa28"
+        },
+        {
+          "message": "[Feat] Demo 2.0",
+          "time": "오늘",
+          "sha": "7118a54",
+          "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/7118a54e25b82af21bb61cd573fb6c970d528a62"
+        },
+        {
           "message": "[Feat] Demo",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "4ecc2a4",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/4ecc2a4b85333a40696f47c8fec50ee6eb913a25"
         },
         {
           "message": "[Feat] 기초 유니티 세팅",
-          "time": "35일 전",
+          "time": "36일 전",
           "sha": "2837208",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/28372088587f8e48707cbe93ba9bd03e7d2f93dd"
         },
         {
           "message": "Update README.md",
-          "time": "42일 전",
+          "time": "43일 전",
           "sha": "c24111e",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/c24111e35fc3a14a37627d46a46edbf2c16df3af"
-        },
-        {
-          "message": "Update README.md",
-          "time": "49일 전",
-          "sha": "5f36ccf",
-          "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/5f36ccf43becea8058633850a561ef754ccfe218"
-        },
-        {
-          "message": "Initial commit",
-          "time": "50일 전",
-          "sha": "343a6a3",
-          "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/343a6a31cb72fadfa41e3625d8988d3fcc159b23"
         }
       ]
     },
@@ -813,20 +813,38 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 12,
-      "activeDays": 3,
-      "lastCommit": "3일 전",
+      "commits": 15,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         0,
         1,
-        23,
+        22,
         1,
         8,
-        12
+        15
       ],
       "recent": [
+        {
+          "message": "[Fix] 퍼즐 조각 저장 및 초기화",
+          "time": "오늘",
+          "sha": "f8bb0e7",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f8bb0e790c2ae51a136246bfa6f412906d43b2f5"
+        },
+        {
+          "message": "[Fix] 퍼즐 시각 요소 추가",
+          "time": "오늘",
+          "sha": "d0d7f13",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/d0d7f13a6c9199360d503ff8ca4aa5197b87ad70"
+        },
+        {
+          "message": "[Feat] 퍼즐 조각 아이템화",
+          "time": "오늘",
+          "sha": "78bc653",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/78bc6539a667ba2289b2fed4f6b336ec3cca676f"
+        },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
           "time": "3일 전",
@@ -838,24 +856,6 @@
           "time": "3일 전",
           "sha": "930496a",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/930496a434ca172fa80f8ee7b2aebef277f0eff2"
-        },
-        {
-          "message": "[Chore] 임시 포탈 추가",
-          "time": "3일 전",
-          "sha": "eb9cbda",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/eb9cbda4f60d5dad2fb15636c444c805f13765ee"
-        },
-        {
-          "message": "[Fix] 포탈 랜더링 오류, 카메라 충돌 처리",
-          "time": "4일 전",
-          "sha": "f88bad1",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f88bad18996f31353068ab67dda588abe723efad"
-        },
-        {
-          "message": "Revert \"[Refactor] InputActions 중앙 관리\"",
-          "time": "4일 전",
-          "sha": "5a67357",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/5a673575277fd4ea6af03f178de4fbc371684413"
         }
       ]
     },
@@ -873,8 +873,8 @@
         5,
         0,
         8,
-        0,
-        10,
+        2,
+        8,
         15,
         1
       ],
@@ -917,7 +917,7 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 11,
+      "commits": 12,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -928,9 +928,15 @@
         5,
         6,
         7,
-        11
+        12
       ],
       "recent": [
+        {
+          "message": "일반 적 아트 올려두기",
+          "time": "오늘",
+          "sha": "3fe4e9c",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/3fe4e9caaf8af576182f2613f3c53fa6ba4dff92"
+        },
         {
           "message": "유니티 시스템 여러가지 실험",
           "time": "오늘",
@@ -945,21 +951,15 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "23f63fd",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/23f63fdedbe7f89e50a415320b1d435dc5141ae5"
         },
         {
           "message": "음.",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "bd478e7",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/bd478e710b5535f4440b394d8eb7e31c1a1aa41b"
-        },
-        {
-          "message": "레이저 수정",
-          "time": "4일 전",
-          "sha": "d4d9f49",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/d4d9f4907bcb4245350d1d7a52b7e19775ae3708"
         }
       ]
     },
@@ -978,8 +978,8 @@
         0,
         4,
         7,
-        5,
-        5,
+        6,
+        4,
         12
       ],
       "recent": [
@@ -997,7 +997,7 @@
         },
         {
           "message": "[Feat] 스테이지 선택 씬 보완 작업",
-          "time": "오늘",
+          "time": "어제",
           "sha": "7ca0787",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/7ca07871129e4c5dc4b4ff249b9366abac0bc1d7"
         },
@@ -1021,8 +1021,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
-      "activeDays": 4,
+      "commits": 7,
+      "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
@@ -1032,12 +1032,18 @@
         2,
         2,
         12,
-        6
+        7
       ],
       "recent": [
         {
-          "message": "[Feat] 프롤로그 연출 추가, 대사 수정",
+          "message": "[Feat] 각종 사운드 추가, 레그돌 연출 추가",
           "time": "오늘",
+          "sha": "304e5c8",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/304e5c87624f2308a97650c338ee595c96f5fbfd"
+        },
+        {
+          "message": "[Feat] 프롤로그 연출 추가, 대사 수정",
+          "time": "어제",
           "sha": "9e2d778",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/9e2d7788724ea32eb8751578825e5bdc4b094a8e"
         },
@@ -1058,12 +1064,6 @@
           "time": "5일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
-        },
-        {
-          "message": "[Feat] 마감 후 미션 제작, 피날레(마지막 배달)",
-          "time": "5일 전",
-          "sha": "76cce59",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/76cce59ee5d92ca822b03299cd14fa506caf7d61"
         }
       ]
     }
