@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 30. 10:38",
+  "updatedAt": "2026. 10. 30. 16:37",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -4610,6 +4610,52 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "dfdaa00e389b33ab11596f94760a6f39ee2c63cf",
+      "message": "Merge branch 'Kwonjun' into main",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/dfdaa00e389b33ab11596f94760a6f39ee2c63cf",
+      "date": "2026-10-30T07:18:49Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "Im-Dinosaur",
+      "gitAuthorName": "Im-Dinosaur",
+      "gitAuthorEmail": "wnsdl80100@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 50,
+        "deletions": 1,
+        "meaningful_change": 51,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "e627f4f1589d3e93110c9c190f1220b378e35da7",
+      "message": "[Fix] 대기실 설정 단말기 충돌 추가",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/e627f4f1589d3e93110c9c190f1220b378e35da7",
+      "date": "2026-10-30T07:18:46Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "Im-Dinosaur",
+      "gitAuthorName": "Im-Dinosaur",
+      "gitAuthorEmail": "wnsdl80100@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 50,
+        "deletions": 1,
+        "meaningful_change": 51,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "d08f28e830cde7c81859caad4fe3751037777186",
       "message": "[Feat]맵 조금 꾸밈",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/d08f28e830cde7c81859caad4fe3751037777186",
@@ -6856,52 +6902,6 @@
         "deletions": 1986,
         "meaningful_change": 7108,
         "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "763b4012c2c81a8b348c666a93e5497b2e4dcd97",
-      "message": "[Feat] 로비 씬 구현 및 배치",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/763b4012c2c81a8b348c666a93e5497b2e4dcd97",
-      "date": "2026-10-09T13:57:48Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "fti11",
-      "gitAuthorName": "fti11",
-      "gitAuthorEmail": "mxonstruck@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 9,
-        "additions": 5133,
-        "deletions": 1986,
-        "meaningful_change": 7108,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "ebfa1088bf4f08601cb0e3a318c7ef352fa10e73",
-      "message": "[Feat] 설정창 및 플레이어 피드백 반영",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/ebfa1088bf4f08601cb0e3a318c7ef352fa10e73",
-      "date": "2026-10-09T13:52:41Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 89,
-        "additions": 12341,
-        "deletions": 3500,
-        "meaningful_change": 14600,
-        "meaningful_file_count": 55,
         "suspicious_score": 0,
         "judgment": "정상"
       }
