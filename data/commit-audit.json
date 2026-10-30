@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 10. 30. 16:37",
+  "updatedAt": "2026. 10. 30. 23:40",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -7380,13 +7380,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 170,
-        "additions": 908171,
-        "deletions": 237150,
-        "meaningful_change": 1145009,
-        "meaningful_file_count": 95,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -22481,6 +22481,52 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "7dc59b1164b5f29e6f570357f51901f2cfd48d70",
+      "message": "[Refactor] 설명 텍스트 삭제, 밸류만 카드에 보여줌",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/7dc59b1164b5f29e6f570357f51901f2cfd48d70",
+      "date": "2026-10-30T13:40:47Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 101,
+        "deletions": 65,
+        "meaningful_change": 44,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
+      "sha": "699d09000ca5780307c1f859fcd3ef7f5aee7ea2",
+      "message": "[Chore] 사용하지 않는 SO 삭제",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/699d09000ca5780307c1f859fcd3ef7f5aee7ea2",
+      "date": "2026-10-30T13:19:00Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 79,
+        "additions": 0,
+        "deletions": 1068,
+        "meaningful_change": 748,
+        "meaningful_file_count": 39,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "a56fb027a6909c8d4b9a757f195571e53d3f2526",
       "message": "[Chore] 몬스터 에셋 수치 조정",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/a56fb027a6909c8d4b9a757f195571e53d3f2526",
@@ -24727,52 +24773,6 @@
         "deletions": 19,
         "meaningful_change": 312,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "031664aa45676cceaa0184477d349d4cb7eba415",
-      "message": "[Feat] 게임매니저 캐릭터, 몬스터SO 변수 선언 및 전투 시작 시 HP 할당",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/031664aa45676cceaa0184477d349d4cb7eba415",
-      "date": "2026-09-17T12:59:13Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 22,
-        "deletions": 0,
-        "meaningful_change": 22,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "dc817aec21293fede7157194b511656f9ddcf36e",
-      "message": "[Feat] 캐릭터, 몬스터 엑셀 -> SO, 에디터 스위치문 추가, SO 생성",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/dc817aec21293fede7157194b511656f9ddcf36e",
-      "date": "2026-09-17T12:50:32Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 17,
-        "additions": 322,
-        "deletions": 0,
-        "meaningful_change": 270,
-        "meaningful_file_count": 8,
         "suspicious_score": 0,
         "judgment": "정상"
       }
