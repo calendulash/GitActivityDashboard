@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 30. 23:40",
+  "updatedAt": "2026. 10. 31. 04:46",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,8 +61,8 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 11,
-      "activeDays": 5,
+      "commits": 10,
+      "activeDays": 4,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -71,8 +71,8 @@
         4,
         7,
         6,
-        5,
-        11
+        6,
+        10
       ],
       "recent": [
         {
@@ -135,7 +135,7 @@
         },
         {
           "message": "[Fix] UI 변경",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "b238a39",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/b238a3910daf043d237d138e75c34b1ab055c3b2"
         },
@@ -165,8 +165,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
-      "activeDays": 5,
+      "commits": 5,
+      "activeDays": 4,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -174,9 +174,9 @@
         1,
         0,
         2,
-        2,
+        3,
         13,
-        6
+        5
       ],
       "recent": [
         {
@@ -187,7 +187,7 @@
         },
         {
           "message": "[Feat] 프롤로그 연출 추가, 대사 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "9e2d778",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/9e2d7788724ea32eb8751578825e5bdc4b094a8e"
         },
@@ -219,7 +219,7 @@
       "repo": "23jihwan/7_tim",
       "commits": 16,
       "activeDays": 5,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         1,
@@ -233,7 +233,7 @@
       "recent": [
         {
           "message": "[Fix]보스 체력 수정 및 빌드파일",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "7d2745d",
           "url": "https://github.com/23jihwan/7_tim/commit/7d2745d8e9ff75b33a30e8906084bd2eb0aaeacc"
         },
@@ -245,7 +245,7 @@
         },
         {
           "message": "[Feat]빌드 파일 다시 올림",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "afe7086",
           "url": "https://github.com/23jihwan/7_tim/commit/afe7086a6f7f05a69f9f1689294ba4973452cfe6"
         },
@@ -323,7 +323,7 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 3,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "title",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "a4230d4",
           "url": "https://github.com/Sine-aw/nohesitate/commit/a4230d4cb913e86e06ae943bf2aa0d799866d86e"
         },
@@ -513,12 +513,12 @@
       "repo": "jeonghyerin002/2026_2TeamProject",
       "commits": 6,
       "activeDays": 2,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
-        0,
-        3,
+        1,
+        2,
         0,
         4,
         4,
@@ -527,31 +527,31 @@
       "recent": [
         {
           "message": "[Fix] 캔버스 해상도 변경",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "fb51208",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/fb51208035df80ded6eaf7e5b3b5a095c02d199e"
         },
         {
           "message": "[Test] 태초마을 아트 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "50bd1ae",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/50bd1aea1db85193124dac27755490445f2ba6d0"
         },
         {
           "message": "[Chore] 배틀씬 Enemy 이미지 변경",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "8c2e074",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/8c2e0747988141db7652b3642bc0a52832ffc384"
         },
         {
           "message": "[chore] 배틀씬 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "588cf89",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/588cf8909f9d8067fe95a39123eae049459ca0d7"
         },
         {
           "message": "[Fix] 스킬 색상 변경",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "f732ed5",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/f732ed5730f66960f70775f4f61fd3abc1e81dc0"
         }
@@ -565,8 +565,8 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 3,
       "activeDays": 2,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
         1,
@@ -579,19 +579,19 @@
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
         {
           "message": "[Feat] 맵 타일맵 적용 완료",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "c3b9768",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c3b9768ba9ea2adf183e501e6181bc097f01c2d3"
         },
         {
           "message": "[Assets] 타일맵 에셋 추가 및 팔레트 등록",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "e565616",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/e565616a44b8a42cd5d678c99eb68104688ea684"
         },
@@ -617,45 +617,45 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "10일 전",
+      "lastCommit": "11일 전",
       "status": "inactive",
       "weekly": [
         0,
         5,
         6,
-        3,
-        5,
+        4,
+        4,
         25,
         0
       ],
       "recent": [
         {
           "message": "[Chore] 리딤 복구",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "0e3bed2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/0e3bed230c4eb5973ffc1a0d3bd9121076375442"
         },
         {
           "message": "Merge pull request #80 from JungYS24/develop",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "4a97a97",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/4a97a979b522ae1aca444df9d6d9d379c1f9fdbe"
         },
         {
           "message": "Merge develop into main (develop 기준) (#79)",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "32f4986",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/32f4986cae20ce3931526e2d0136e8b0d07147d5"
         },
         {
           "message": "Merge remote-tracking branch 'origin/main' into merge/main-into-develop",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "5168ad2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/5168ad2888cfa76fe1b4beaec97034e1177b6c0e"
         },
         {
           "message": "[Fix] 맵·튜토리얼 씬의 미싱 MonsterDataManager 제거",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "e035b86",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/e035b86b75cf50a8bf8ad13ab656cecf07e40343"
         }
@@ -667,20 +667,26 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 10,
+      "commits": 11,
       "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        11,
+        10,
         13,
-        14,
-        16,
+        15,
+        15,
         14,
         22,
-        10
+        11
       ],
       "recent": [
+        {
+          "message": "[Refactor] 카드 기믹 밸류 텍스트 수정",
+          "time": "오늘",
+          "sha": "831921d",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/831921dfdf8eecedc2c122b635f18800b4897567"
+        },
         {
           "message": "[Refactor] 스프라이트 미리 캐싱해서 사용, 카드 구조 변경",
           "time": "오늘",
@@ -704,12 +710,6 @@
           "time": "어제",
           "sha": "a56fb02",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/a56fb027a6909c8d4b9a757f195571e53d3f2526"
-        },
-        {
-          "message": "[Fix] 전투 종료 후 카드 입력 막음",
-          "time": "2일 전",
-          "sha": "43d4038",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/43d40388e964d732651ed88afa4e32bc2b574030"
         }
       ]
     },
@@ -789,7 +789,7 @@
         },
         {
           "message": "[Feat] Demo",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "4ecc2a4",
           "url": "https://github.com/hawengtiger/2026_09_09_Team-1rock2bird-/commit/4ecc2a4b85333a40696f47c8fec50ee6eb913a25"
         },
@@ -820,8 +820,8 @@
       "weekly": [
         0,
         0,
-        1,
-        22,
+        7,
+        16,
         1,
         8,
         15
@@ -853,7 +853,7 @@
         },
         {
           "message": "[Chore] 씬 저장",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "930496a",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/930496a434ca172fa80f8ee7b2aebef277f0eff2"
         }
@@ -899,13 +899,13 @@
         },
         {
           "message": "[Fix] 스크립트 붙이는걸 깜빡해서 수정",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "0d92a65",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/0d92a659ea554519da823e944c42e1b79913b8b2"
         },
         {
           "message": "[Feat] 전투 후 결과창 닫기 버튼을 통해 메인 메뉴로 돌아가도록 설정",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "9c56b4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9c56b4b12832f49896b20cf7163a7098979b86d3"
         }
@@ -969,8 +969,8 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 11,
-      "activeDays": 5,
+      "commits": 10,
+      "activeDays": 4,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -979,8 +979,8 @@
         4,
         7,
         6,
-        5,
-        11
+        6,
+        10
       ],
       "recent": [
         {
@@ -1021,8 +1021,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
-      "activeDays": 5,
+      "commits": 5,
+      "activeDays": 4,
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
@@ -1030,9 +1030,9 @@
         1,
         0,
         2,
-        2,
+        3,
         13,
-        6
+        5
       ],
       "recent": [
         {
@@ -1043,7 +1043,7 @@
         },
         {
           "message": "[Feat] 프롤로그 연출 추가, 대사 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "9e2d778",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/9e2d7788724ea32eb8751578825e5bdc4b094a8e"
         },
