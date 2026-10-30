@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 30. 06:52",
+  "updatedAt": "2026. 10. 30. 10:38",
   "students": [
     {
       "name": "2학년 1팀",
@@ -11,8 +11,8 @@
       "repo": "suyan05/PharaohCube",
       "commits": 3,
       "activeDays": 1,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
         0,
@@ -25,7 +25,7 @@
       "recent": [
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         },
@@ -95,13 +95,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -205,7 +205,7 @@
         },
         {
           "message": "[Fix] 핸드폰UI 고침 각종 버그 해결",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
         }
@@ -274,8 +274,8 @@
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        1,
-        6,
+        2,
+        5,
         2,
         5,
         2,
@@ -361,7 +361,7 @@
         },
         {
           "message": "2",
-          "time": "23일 전",
+          "time": "24일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         }
@@ -447,7 +447,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "44일 전",
+          "time": "45일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -455,53 +455,53 @@
     },
     {
       "name": "1학년 A반 4팀",
-      "id": "whxogud9090",
-      "team": "whxogud9090",
-      "github": "whxogud9090",
-      "repo": "whxogud9090/4team_project_02",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "23일 전",
-      "status": "inactive",
+      "id": "yungyeong08",
+      "team": "yungyeong08",
+      "github": "yungyeong08",
+      "repo": "yungyeong08/4team_project_02",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "6일 전",
+      "status": "watch",
       "weekly": [
         0,
         0,
-        3,
-        4,
+        1,
         0,
-        0,
-        0
+        1,
+        2,
+        1
       ],
       "recent": [
         {
-          "message": "물고기 등급 및 판매 상점 시스템 추가",
-          "time": "23일 전",
-          "sha": "5506b0d",
-          "url": "https://github.com/whxogud9090/4team_project_02/commit/5506b0deff61c8855a27a70cfe6b3fe459c79513"
+          "message": "[Feat] 아이콘 이미지 추가",
+          "time": "6일 전",
+          "sha": "61bcef9",
+          "url": "https://github.com/yungyeong08/4team_project_02/commit/61bcef9238dd6da792874ae80b2fd7769959acca"
         },
         {
-          "message": "낚시 상점 구매 시스템 및 재낚시 오류 수정",
-          "time": "23일 전",
-          "sha": "2a18798",
-          "url": "https://github.com/whxogud9090/4team_project_02/commit/2a187985d6f7fcadea37b1e2d8ca685a6225f80d"
+          "message": "[Feat] 물고기 이미지 5종 추가",
+          "time": "9일 전",
+          "sha": "d111d48",
+          "url": "https://github.com/yungyeong08/4team_project_02/commit/d111d4865aca73466024dcceeec20e74b9a11814"
         },
         {
-          "message": "낚시 상점 오브젝트 추가",
-          "time": "23일 전",
-          "sha": "94e9c70",
-          "url": "https://github.com/whxogud9090/4team_project_02/commit/94e9c702eca7aad62677ade9173c555f38cf1939"
+          "message": "[Feat] 물고기 이미지 추가",
+          "time": "10일 전",
+          "sha": "4f7867d",
+          "url": "https://github.com/yungyeong08/4team_project_02/commit/4f7867d89c8870250af3eda9fa8d79e56f57c96c"
         },
         {
-          "message": "주인공 걷기 모션 및 낚시 테스트 씬 개선",
-          "time": "27일 전",
-          "sha": "cb16f20",
-          "url": "https://github.com/whxogud9090/4team_project_02/commit/cb16f2049903e40e3ed5efb6acf8c373e25d1c8d"
+          "message": "[Feat] 낚싯대 이미지 추가",
+          "time": "16일 전",
+          "sha": "1179ad4",
+          "url": "https://github.com/yungyeong08/4team_project_02/commit/1179ad4ec3224d0387f18ddbd22c45ec07ef3177"
         },
         {
-          "message": "픽셀 호수 낚시 테스트 환경 구성",
+          "message": "Initial commit",
           "time": "31일 전",
-          "sha": "b3c8cce",
-          "url": "https://github.com/whxogud9090/4team_project_02/commit/b3c8cce2bedfdf67e3ec1ec530944eb9f5e6f12b"
+          "sha": "0888f6c",
+          "url": "https://github.com/yungyeong08/4team_project_02/commit/0888f6c67857eefbb5b6f2d8256601a17438849f"
         }
       ]
     },
@@ -847,7 +847,7 @@
         },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "0e94d7f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
         },
@@ -887,13 +887,13 @@
         },
         {
           "message": "[Fix] 데미지 텍스트 폰트 크기 수정",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "83dd27c",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/83dd27c5c8a631e4b9af5546572eda24fe09dff5"
         },
         {
           "message": "[Fix] 데미지 텍스트가 스프라이트에 가려져 나오는 버그 수정",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "74e855a",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/74e855af76136be322aca3528d82673d3f1a8df4"
         },
@@ -1003,13 +1003,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -1061,7 +1061,7 @@
         },
         {
           "message": "[Fix] 핸드폰UI 고침 각종 버그 해결",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
         }
