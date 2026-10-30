@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 10. 31. 04:46",
+  "updatedAt": "2026. 10. 31. 08:34",
   "students": [
     {
       "name": "2학년 1팀",
@@ -11,7 +11,7 @@
       "repo": "suyan05/PharaohCube",
       "commits": 3,
       "activeDays": 1,
-      "lastCommit": "4일 전",
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -25,19 +25,19 @@
       "recent": [
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         },
         {
           "message": "[Fead]바스테트 맵 배치",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "80be766",
           "url": "https://github.com/suyan05/PharaohCube/commit/80be766603b3a5f66ac8039edb58c61fd9cadab2"
         },
         {
           "message": "[Fead]바스테트 타일 추가",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "e2dd2df",
           "url": "https://github.com/suyan05/PharaohCube/commit/e2dd2df14793ec095754cf9c4b10396781a5400a"
         },
@@ -63,7 +63,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 10,
       "activeDays": 4,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -113,9 +113,9 @@
       "team": "ahyun04",
       "github": "ahyun04",
       "repo": "ahyun04/26TeamProject_2",
-      "commits": 6,
-      "activeDays": 4,
-      "lastCommit": "어제",
+      "commits": 4,
+      "activeDays": 3,
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -123,13 +123,13 @@
         0,
         0,
         5,
-        1,
-        6
+        3,
+        4
       ],
       "recent": [
         {
           "message": "[Feat]맵 조금 꾸밈",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "d08f28e",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/d08f28e830cde7c81859caad4fe3751037777186"
         },
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Fix] 맵 수정",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "0cf1578",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/0cf1578ee1e6f80d93a8ed3191dac50e77952e35"
         }
@@ -447,7 +447,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "45일 전",
+          "time": "46일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -971,7 +971,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 10,
       "activeDays": 4,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -985,13 +985,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
