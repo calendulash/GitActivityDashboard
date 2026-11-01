@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 01. 10:48",
+  "updatedAt": "2026. 11. 01. 17:38",
   "students": [
     {
       "name": "2학년 1팀",
@@ -68,8 +68,8 @@
       "weekly": [
         0,
         3,
-        1,
-        7,
+        4,
+        4,
         6,
         10,
         6
@@ -165,8 +165,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 3,
-      "activeDays": 3,
+      "commits": 2,
+      "activeDays": 2,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
@@ -175,8 +175,8 @@
         1,
         1,
         6,
-        12,
-        3
+        13,
+        2
       ],
       "recent": [
         {
@@ -193,13 +193,13 @@
         },
         {
           "message": "[Feat] 추격씬 직접 1인칭 운전으로 변경",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "528a680",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/528a6801ebf4b57708310c89662e5cf377f476c1"
         },
         {
           "message": "[Fix] 플레이어 모델 교체 주요 NPC 모델 교체",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "7d6262e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7d6262e609763e2e104ea757cf8ea080968b0099"
         },
@@ -239,7 +239,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         },
@@ -271,11 +271,11 @@
       "repo": "esuvean/PRESS-START_",
       "commits": 3,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
-        4,
-        3,
+        6,
+        1,
         3,
         4,
         5,
@@ -285,19 +285,19 @@
       "recent": [
         {
           "message": "[Feat] 설정UI 변경및 또 변경...",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "2b82188",
           "url": "https://github.com/esuvean/PRESS-START_/commit/2b82188f35281a26ac36924ab25aea0e79fed0ae"
         },
         {
           "message": "[Feat] 설정오류 수정및 저장기능 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "7bb8bed",
           "url": "https://github.com/esuvean/PRESS-START_/commit/7bb8bedb3b8d3d4955b838404fdb686e857b9ac4"
         },
         {
           "message": "[Feat] 챕터4 UI전부 교체 오류수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "4f34bfa",
           "url": "https://github.com/esuvean/PRESS-START_/commit/4f34bfa78a1657701e00feb0cb165e1b2330460e"
         },
@@ -355,7 +355,7 @@
         },
         {
           "message": "Boss 1 Phase",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
         },
@@ -380,8 +380,8 @@
       "weekly": [
         2,
         1,
-        2,
-        14,
+        6,
+        10,
         0,
         21,
         13
@@ -395,25 +395,25 @@
         },
         {
           "message": "[Feat] 미니게임 제한 시간·속도 단축",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "372210f",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/372210f8b257a347c96e42e503f4b41a8b3692c1"
         },
         {
           "message": "[Fix] 영수증 겹침·실패 음료 판매·시작 하드컷 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "59f02fb",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/59f02fb594069b3a69af6b143725aa229c532a0b"
         },
         {
           "message": "[Feat] 임시 효과음·배경음 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "898ed7a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/898ed7a012ce9d07c8c10c5f5abb2f8eb9770557"
         },
         {
           "message": "[Feat] 기계·손님 앞 자동 이동 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "873c030",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/873c03017ff28835a7b30a8565fa8021776af1d9"
         }
@@ -499,7 +499,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "33일 전",
+          "time": "34일 전",
           "sha": "0888f6c",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/0888f6c67857eefbb5b6f2d8256601a17438849f"
         }
@@ -597,13 +597,13 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/qkrgml59/2026_2_TeamProject",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "3168244",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/316824469c3115b90a8ca414c983def305566a23"
         },
         {
           "message": "[Fix] player 퍼즐 공격 안 되는 거 수정",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "c423e4d",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c423e4d2e3c744a4431603ba091b70af3ab44ebe"
         }
@@ -624,8 +624,8 @@
         6,
         5,
         4,
-        8,
-        21,
+        9,
+        20,
         0
       ],
       "recent": [
@@ -676,8 +676,8 @@
         16,
         15,
         12,
-        15,
-        22,
+        17,
+        20,
         11
       ],
       "recent": [
@@ -813,18 +813,18 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 12,
+      "commits": 6,
       "activeDays": 3,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
         0,
-        9,
-        14,
-        1,
         11,
-        12
+        12,
+        1,
+        17,
+        6
       ],
       "recent": [
         {
@@ -867,12 +867,12 @@
       "repo": "hoshinouhee123/gacha-game-teamplay",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "5일 전",
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         5,
-        0,
-        8,
+        2,
+        6,
         2,
         8,
         15,
@@ -881,7 +881,7 @@
       "recent": [
         {
           "message": "[Chore] 빌드 세팅",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "edf040b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/edf040b2d1e9de65480588b3baa8998df2caa2d7"
         },
@@ -924,8 +924,8 @@
       "weekly": [
         0,
         1,
-        11,
-        2,
+        12,
+        1,
         8,
         10,
         9
@@ -939,7 +939,7 @@
         },
         {
           "message": "[Feat] 플레이어 크리티컬 확률 및 크리티컬 피해, 3가지 공격 속성",
-          "time": "오늘",
+          "time": "어제",
           "sha": "0d08baf",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0d08baf974c90d6f26af49b48da5e4b90676fbf9"
         },
@@ -951,13 +951,13 @@
         },
         {
           "message": "유니티 시스템 여러가지 실험",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "3271733",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/32717336cc6a29c282451c0b4d06ebe4d8081344"
         },
         {
           "message": "문제 너무많다",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "bba2dc2",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/bba2dc2ce8f0f3b27934e0f56b3cf4f0d41d488f"
         }
@@ -976,8 +976,8 @@
       "weekly": [
         0,
         3,
-        1,
-        7,
+        4,
+        4,
         6,
         10,
         6
@@ -1021,8 +1021,8 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 3,
-      "activeDays": 3,
+      "commits": 2,
+      "activeDays": 2,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
@@ -1031,8 +1031,8 @@
         1,
         1,
         6,
-        12,
-        3
+        13,
+        2
       ],
       "recent": [
         {
@@ -1049,13 +1049,13 @@
         },
         {
           "message": "[Feat] 추격씬 직접 1인칭 운전으로 변경",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "528a680",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/528a6801ebf4b57708310c89662e5cf377f476c1"
         },
         {
           "message": "[Fix] 플레이어 모델 교체 주요 NPC 모델 교체",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "7d6262e",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/7d6262e609763e2e104ea757cf8ea080968b0099"
         },
