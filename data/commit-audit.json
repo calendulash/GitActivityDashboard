@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 02. 08:28",
+  "updatedAt": "2026. 11. 02. 11:52",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -32319,6 +32319,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "db8cbbe1d800e60e7b46ceb22a98b56cce3b1d75",
+      "message": "[Feat] 스태미나 UI연결 다시 회복됨 애니메이션에 버그 있음",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/db8cbbe1d800e60e7b46ceb22a98b56cce3b1d75",
+      "date": "2026-11-02T01:11:58Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 594,
+        "deletions": 22,
+        "meaningful_change": 606,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {

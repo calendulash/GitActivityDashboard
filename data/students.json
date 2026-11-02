@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 02. 08:28",
+  "updatedAt": "2026. 11. 02. 11:52",
   "students": [
     {
       "name": "2학년 1팀",
@@ -61,8 +61,8 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 5,
-      "activeDays": 2,
+      "commits": 4,
+      "activeDays": 1,
       "lastCommit": "4일 전",
       "status": "watch",
       "weekly": [
@@ -71,8 +71,8 @@
         3,
         4,
         6,
-        11,
-        5
+        12,
+        4
       ],
       "recent": [
         {
@@ -95,13 +95,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -205,7 +205,7 @@
         },
         {
           "message": "[Fix] 핸드폰UI 고침 각종 버그 해결",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
         }
@@ -226,8 +226,8 @@
         0,
         4,
         12,
-        1,
-        14,
+        2,
+        13,
         8
       ],
       "recent": [
@@ -239,7 +239,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         },
@@ -274,12 +274,12 @@
       "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
-        6,
-        3,
+        7,
+        2,
         1,
         5,
-        4,
-        6,
+        5,
+        5,
         3
       ],
       "recent": [
@@ -361,7 +361,7 @@
         },
         {
           "message": "2",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         }
@@ -373,7 +373,7 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 13,
+      "commits": 12,
       "activeDays": 2,
       "lastCommit": "3일 전",
       "status": "active",
@@ -383,8 +383,8 @@
         10,
         6,
         0,
-        21,
-        13
+        22,
+        12
       ],
       "recent": [
         {
@@ -673,11 +673,11 @@
       "status": "active",
       "weekly": [
         6,
-        19,
+        22,
+        14,
+        15,
         17,
         14,
-        13,
-        19,
         12
       ],
       "recent": [
@@ -813,8 +813,8 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 4,
-      "activeDays": 2,
+      "commits": 3,
+      "activeDays": 1,
       "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
@@ -823,8 +823,8 @@
         17,
         6,
         3,
-        17,
-        4
+        18,
+        3
       ],
       "recent": [
         {
@@ -847,7 +847,7 @@
         },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "0e94d7f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
         },
@@ -887,13 +887,13 @@
         },
         {
           "message": "[Fix] 데미지 텍스트 폰트 크기 수정",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "83dd27c",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/83dd27c5c8a631e4b9af5546572eda24fe09dff5"
         },
         {
           "message": "[Fix] 데미지 텍스트가 스프라이트에 가려져 나오는 버그 수정",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "74e855a",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/74e855af76136be322aca3528d82673d3f1a8df4"
         },
@@ -917,9 +917,9 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 5,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 6,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -928,9 +928,15 @@
         0,
         8,
         14,
-        5
+        6
       ],
       "recent": [
+        {
+          "message": "[Feat] 스태미나 UI연결 다시 회복됨 애니메이션에 버그 있음",
+          "time": "오늘",
+          "sha": "db8cbbe",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/db8cbbe1d800e60e7b46ceb22a98b56cce3b1d75"
+        },
         {
           "message": "[Feat] 플레이어 스태미나 구현",
           "time": "어제",
@@ -951,15 +957,9 @@
         },
         {
           "message": "유니티 시스템 여러가지 실험",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "3271733",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/32717336cc6a29c282451c0b4d06ebe4d8081344"
-        },
-        {
-          "message": "문제 너무많다",
-          "time": "6일 전",
-          "sha": "bba2dc2",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/bba2dc2ce8f0f3b27934e0f56b3cf4f0d41d488f"
         }
       ]
     },
@@ -969,8 +969,8 @@
       "team": "Taehyeon88",
       "github": "Taehyeon88",
       "repo": "Taehyeon88/Graduation-project",
-      "commits": 5,
-      "activeDays": 2,
+      "commits": 4,
+      "activeDays": 1,
       "lastCommit": "4일 전",
       "status": "watch",
       "weekly": [
@@ -979,8 +979,8 @@
         3,
         4,
         6,
-        11,
-        5
+        12,
+        4
       ],
       "recent": [
         {
@@ -1003,13 +1003,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -1061,7 +1061,7 @@
         },
         {
           "message": "[Fix] 핸드폰UI 고침 각종 버그 해결",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "d2ad172",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/d2ad172c46578e2e3082f24ee026b7574d976171"
         }
