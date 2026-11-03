@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 04. 02:43",
+  "updatedAt": "2026. 11. 04. 07:44",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -30932,13 +30932,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 1596965,
+        "deletions": 29586,
+        "meaningful_change": 4069,
+        "meaningful_file_count": 53,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -32388,6 +32388,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "a5f47016fda0e0091b6c775421414b6ba6c47a38",
+      "message": "열쇠에 닿으면 열쇠가 따라오고 그거 열쇠 전용 벽에 닿으면 없어지는거",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a5f47016fda0e0091b6c775421414b6ba6c47a38",
+      "date": "2026-11-03T18:41:32Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "jerryseo0220-droid",
+      "gitAuthorName": "jerryseo0220-droid",
+      "gitAuthorEmail": "jerryseo0220@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 428,
+        "deletions": 18,
+        "meaningful_change": 442,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "7bd627206990e214165e7db374954db417a2f6db",
+      "message": "공중적 플레이어 머리위에서 폭탄을 떨어뜨림",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/7bd627206990e214165e7db374954db417a2f6db",
+      "date": "2026-11-03T18:12:51Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "jerryseo0220-droid",
+      "gitAuthorName": "jerryseo0220-droid",
+      "gitAuthorEmail": "jerryseo0220@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 728,
+        "deletions": 3,
+        "meaningful_change": 720,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
