@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 03. 11:44",
+  "updatedAt": "2026. 11. 03. 19:09",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -4610,6 +4610,52 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "fc5d3b0e37688b35df303517f8144ae6c5d3f20d",
+      "message": "Merge branch 'NSH_Test'",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/fc5d3b0e37688b35df303517f8144ae6c5d3f20d",
+      "date": "2026-11-03T09:01:02Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 59,
+        "additions": 39977,
+        "deletions": 3239,
+        "meaningful_change": 42935,
+        "meaningful_file_count": 42,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "fb4b98bc2fda70968daece6ee18d4626dcfcfb31",
+      "message": "[Feat] 새로운 미션 배관 누수 차단 구현",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/fb4b98bc2fda70968daece6ee18d4626dcfcfb31",
+      "date": "2026-11-03T09:00:49Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 59,
+        "additions": 39977,
+        "deletions": 3239,
+        "meaningful_change": 42935,
+        "meaningful_file_count": 42,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "dfdaa00e389b33ab11596f94760a6f39ee2c63cf",
       "message": "Merge branch 'Kwonjun' into main",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/dfdaa00e389b33ab11596f94760a6f39ee2c63cf",
@@ -6856,52 +6902,6 @@
         "deletions": 130,
         "meaningful_change": 2094,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "357aa04c3d1075a4add6079bf874951f516b72aa",
-      "message": "[Chore] 대화 첨부 및 검사 임시 파일 Git 제외",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/357aa04c3d1075a4add6079bf874951f516b72aa",
-      "date": "2026-10-09T14:16:27Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 7,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 95,
-        "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "29087f15ef374676ad85b5a2fc2b0843052d1f81",
-      "message": "Merge branch 'DH'",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/29087f15ef374676ad85b5a2fc2b0843052d1f81",
-      "date": "2026-10-09T13:58:10Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "fti11",
-      "gitAuthorName": "fti11",
-      "gitAuthorEmail": "mxonstruck@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 9,
-        "additions": 5133,
-        "deletions": 1986,
-        "meaningful_change": 7108,
-        "meaningful_file_count": 8,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -30909,13 +30909,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 300,
-        "additions": 1596965,
-        "deletions": 29586,
-        "meaningful_change": 4069,
-        "meaningful_file_count": 53,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
