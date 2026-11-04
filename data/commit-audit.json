@@ -1,11 +1,103 @@
 {
-  "updatedAt": "2026. 11. 04. 11:41",
+  "updatedAt": "2026. 11. 04. 18:55",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "b39da8fc536815567a6a8415729d60de68b2726d",
+      "message": "[FIx]이름 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/b39da8fc536815567a6a8415729d60de68b2726d",
+      "date": "2026-11-04T09:28:00Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "suyan05",
+      "gitAuthorName": "suyan05",
+      "gitAuthorEmail": "cadhppr588@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 207,
+        "deletions": 167,
+        "meaningful_change": 374,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "dda85200249fee5c095f5360218e2122a6978154",
+      "message": "[Fead]중앙맵 배치",
+      "url": "https://github.com/suyan05/PharaohCube/commit/dda85200249fee5c095f5360218e2122a6978154",
+      "date": "2026-11-04T09:24:24Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "suyan05",
+      "gitAuthorName": "suyan05",
+      "gitAuthorEmail": "cadhppr588@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 9478,
+        "deletions": 0,
+        "meaningful_change": 9471,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "27ae73ad8262c4b239a0fea9996b508a35a98980",
+      "message": "[Fead]중앙맵 타일맵 제작",
+      "url": "https://github.com/suyan05/PharaohCube/commit/27ae73ad8262c4b239a0fea9996b508a35a98980",
+      "date": "2026-11-04T09:24:13Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "suyan05",
+      "gitAuthorName": "suyan05",
+      "gitAuthorEmail": "cadhppr588@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 28,
+        "additions": 1200,
+        "deletions": 0,
+        "meaningful_change": 1081,
+        "meaningful_file_count": 13,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "1d78983f9368faf15bdaffcaa149fcc79c93c3e5",
+      "message": "[Fead]중앙맵 이미지 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/1d78983f9368faf15bdaffcaa149fcc79c93c3e5",
+      "date": "2026-11-04T09:23:50Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "suyan05",
+      "gitAuthorName": "suyan05",
+      "gitAuthorEmail": "cadhppr588@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 37,
+        "additions": 3050,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 18,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2212,98 +2304,6 @@
         "meaningful_file_count": 1,
         "suspicious_score": 50,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "ce30d13205dfaa5f7dacf7843f5298465b69baa6",
-      "message": "[Feat] P4 스프라이트 자동 연결이 P1 그림을 가져오는 문제 수정 및 P4 아트연결",
-      "url": "https://github.com/suyan05/PharaohCube/commit/ce30d13205dfaa5f7dacf7843f5298465b69baa6",
-      "date": "2026-10-08T23:42:13Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 652,
-        "deletions": 16,
-        "meaningful_change": 666,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "08f89e86a4cab39c30605964a50359a3455aa88d",
-      "message": "P3 일식 석탁 아트 적용 및 클리어 연동 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/08f89e86a4cab39c30605964a50359a3455aa88d",
-      "date": "2026-10-08T22:10:58Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 21,
-        "additions": 2059,
-        "deletions": 22,
-        "meaningful_change": 1088,
-        "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "8f54ef30df5438179a266bbf19a9614ba7341159",
-      "message": "씬 깜박",
-      "url": "https://github.com/suyan05/PharaohCube/commit/8f54ef30df5438179a266bbf19a9614ba7341159",
-      "date": "2026-10-08T17:35:35Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 15,
-        "deletions": 5,
-        "meaningful_change": 20,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "a016647551ab24ac0a717a0c2d43ce630c77e25a",
-      "message": "[Feat] 라의 방 아트 object 추가 및 폴더정리",
-      "url": "https://github.com/suyan05/PharaohCube/commit/a016647551ab24ac0a717a0c2d43ce630c77e25a",
-      "date": "2026-10-08T17:33:53Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 59,
-        "additions": 4061,
-        "deletions": 2144,
-        "meaningful_change": 4161,
-        "meaningful_file_count": 30,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
@@ -31282,6 +31282,75 @@
         "deletions": 6,
         "meaningful_change": 1395,
         "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "39edb0dd4ca10d72cf4d9db73bc7a708f15f8958",
+      "message": "Merge branch 'main' of https://github.com/hoshinouhee123/gacha-game-teamplay",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/39edb0dd4ca10d72cf4d9db73bc7a708f15f8958",
+      "date": "2026-11-04T02:43:53Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "yubi369-bit",
+      "gitAuthorName": "Ducci",
+      "gitAuthorEmail": "yubi369@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 32,
+        "additions": 259860,
+        "deletions": 458461,
+        "meaningful_change": 718128,
+        "meaningful_file_count": 19,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "d0e9a1e5c567c8d0b8004da6268d4a8aafa61781",
+      "message": "[Feat] 인벤토리 추가",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/d0e9a1e5c567c8d0b8004da6268d4a8aafa61781",
+      "date": "2026-11-04T02:43:44Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "yubi369-bit",
+      "gitAuthorName": "Ducci",
+      "gitAuthorEmail": "yubi369@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 10825,
+        "deletions": 4290,
+        "meaningful_change": 15115,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "9e53a4b3a34a6791cd6f43383050669345239961",
+      "message": "[Feat] 패시브 기믹 추가, 캐릭터1 스킬 기믹 구현",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9e53a4b3a34a6791cd6f43383050669345239961",
+      "date": "2026-11-04T02:40:49Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 32,
+        "additions": 259860,
+        "deletions": 458461,
+        "meaningful_change": 718128,
+        "meaningful_file_count": 19,
         "suspicious_score": 0,
         "judgment": "정상"
       }
