@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 05. 20:31",
+  "updatedAt": "2026. 11. 06. 04:10",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6910,6 +6910,52 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "024d0f0b6d41063423c6559cfb8bf1112600930c",
+      "message": "[Feat] 레이스 시작 직전까지 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/024d0f0b6d41063423c6559cfb8bf1112600930c",
+      "date": "2026-11-05T17:54:57Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 1345,
+        "deletions": 190,
+        "meaningful_change": 1533,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "80f4e885f702e9f0d01b496496e66b05eb283102",
+      "message": "[Feat] 감옥 씬 추가",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/80f4e885f702e9f0d01b496496e66b05eb283102",
+      "date": "2026-11-05T12:50:51Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 60,
+        "additions": 344828,
+        "deletions": 0,
+        "meaningful_change": 344440,
+        "meaningful_file_count": 27,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "5248487644a1ef377c01def615a5c518a8bd599e",
       "message": "[Feat] 대사 수정 및 마지막배달 이후 조직원 습격 제작중",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/5248487644a1ef377c01def615a5c518a8bd599e",
@@ -9156,52 +9202,6 @@
         "deletions": 7518,
         "meaningful_change": 54140,
         "meaningful_file_count": 58,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "edcd5ef12e67a37d5f73764711ff0198134bbf8f",
-      "message": "[Feat] SkyDom 색 변하게끔 변경",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/edcd5ef12e67a37d5f73764711ff0198134bbf8f",
-      "date": "2026-09-13T18:06:18Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "Woong1016",
-      "gitAuthorName": "Woong1016",
-      "gitAuthorEmail": "yol7122@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 27,
-        "deletions": 0,
-        "meaningful_change": 27,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "6e68eae73ac1c614ecad5823c70e7f456fb67ed5",
-      "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/6e68eae73ac1c614ecad5823c70e7f456fb67ed5",
-      "date": "2026-09-13T16:59:29Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "shingumingi",
-      "gitAuthorName": "shingumingi",
-      "gitAuthorEmail": "pettid0314@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 123,
-        "deletions": 59,
-        "meaningful_change": 159,
-        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -22642,6 +22642,29 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "d161d1034b7ff32fe303426264b0b1a423ad8c1e",
+      "message": "[Feat] 몬스터 테이블 수정에 따라 SO수정",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/d161d1034b7ff32fe303426264b0b1a423ad8c1e",
+      "date": "2026-11-05T13:57:53Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 258,
+        "deletions": 71,
+        "meaningful_change": 329,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "3e7e9bd47dbb60b2b1a160ae23e3d3241465e6a0",
       "message": "[Chore] 안 쓰는 파일 정리",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3e7e9bd47dbb60b2b1a160ae23e3d3241465e6a0",
@@ -24910,29 +24933,6 @@
         "additions": 27,
         "deletions": 0,
         "meaningful_change": 27,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
-      "branch": "main",
-      "sha": "b3a948a933c532164d9f79dce8e6ac6735348dc0",
-      "message": "[Feat] 배치된 슬롯 빼기, 위치 변경 가능 기능 추가",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/b3a948a933c532164d9f79dce8e6ac6735348dc0",
-      "date": "2026-09-17T15:41:34Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 43,
-        "deletions": 14,
-        "meaningful_change": 57,
         "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"
@@ -31047,13 +31047,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 300,
-        "additions": 1596965,
-        "deletions": 29586,
-        "meaningful_change": 4069,
-        "meaningful_file_count": 53,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -36994,6 +36994,52 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "024d0f0b6d41063423c6559cfb8bf1112600930c",
+      "message": "[Feat] 레이스 시작 직전까지 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/024d0f0b6d41063423c6559cfb8bf1112600930c",
+      "date": "2026-11-05T17:54:57Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 8,
+        "additions": 1345,
+        "deletions": 190,
+        "meaningful_change": 1533,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "80f4e885f702e9f0d01b496496e66b05eb283102",
+      "message": "[Feat] 감옥 씬 추가",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/80f4e885f702e9f0d01b496496e66b05eb283102",
+      "date": "2026-11-05T12:50:51Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 60,
+        "additions": 344828,
+        "deletions": 0,
+        "meaningful_change": 344440,
+        "meaningful_file_count": 27,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "5248487644a1ef377c01def615a5c518a8bd599e",
       "message": "[Feat] 대사 수정 및 마지막배달 이후 조직원 습격 제작중",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/5248487644a1ef377c01def615a5c518a8bd599e",
@@ -39240,52 +39286,6 @@
         "deletions": 7518,
         "meaningful_change": 54140,
         "meaningful_file_count": 58,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "edcd5ef12e67a37d5f73764711ff0198134bbf8f",
-      "message": "[Feat] SkyDom 색 변하게끔 변경",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/edcd5ef12e67a37d5f73764711ff0198134bbf8f",
-      "date": "2026-09-13T18:06:18Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "Woong1016",
-      "gitAuthorName": "Woong1016",
-      "gitAuthorEmail": "yol7122@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 27,
-        "deletions": 0,
-        "meaningful_change": 27,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "6e68eae73ac1c614ecad5823c70e7f456fb67ed5",
-      "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/6e68eae73ac1c614ecad5823c70e7f456fb67ed5",
-      "date": "2026-09-13T16:59:29Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "shingumingi",
-      "gitAuthorName": "shingumingi",
-      "gitAuthorEmail": "pettid0314@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 123,
-        "deletions": 59,
-        "meaningful_change": 159,
-        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
