@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 11. 06. 04:10",
+  "updatedAt": "2026. 11. 06. 09:08",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "e6bcc9d60eec129305a18f861b01de247f3b4e9a",
+      "message": "[Feat] 소베크 임시 칸 퍼즐 시스템 생성 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/e6bcc9d60eec129305a18f861b01de247f3b4e9a",
+      "date": "2026-11-05T20:09:31Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 105,
+        "additions": 11279,
+        "deletions": 2841,
+        "meaningful_change": 10957,
+        "meaningful_file_count": 51,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2279,29 +2302,6 @@
         "deletions": 4,
         "meaningful_change": 100,
         "meaningful_file_count": 23,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "87c281bfd8eccc880f3ad7708289744bb423f598",
-      "message": "[Feat] 퍼즐 UI 공통 세트 추가 및 고운바탕 폰트 적용",
-      "url": "https://github.com/suyan05/PharaohCube/commit/87c281bfd8eccc880f3ad7708289744bb423f598",
-      "date": "2026-10-09T01:59:57Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 21,
-        "additions": 1019,
-        "deletions": 133,
-        "meaningful_change": 973,
-        "meaningful_file_count": 9,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -4610,6 +4610,29 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "1be28d0950014721c1ab518c6e1a9f327488c69a",
+      "message": "[Feat] cctv실, 조종실 추가, 문 추가",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/1be28d0950014721c1ab518c6e1a9f327488c69a",
+      "date": "2026-11-05T22:59:40Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "ahyun04",
+      "gitAuthorName": "ahyun04",
+      "gitAuthorEmail": "ahyun125@g.shingu.ac.kr",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 7452,
+        "deletions": 2008,
+        "meaningful_change": 9460,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "7c4011f6edcd804771c303b92e471f0ce805a2f4",
       "message": "Merge branch 'DH'",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/7c4011f6edcd804771c303b92e471f0ce805a2f4",
@@ -6868,29 +6891,6 @@
       "message": "Merge branch 'NSH_Test'",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/85e521bac07e2b128bd0828bfa7804f444d911a3",
       "date": "2026-10-11T11:29:23Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "namsuhan0322",
-      "gitAuthorName": "namsuhan0322",
-      "gitAuthorEmail": "rnatpakfl@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 19,
-        "additions": 4282,
-        "deletions": 3105,
-        "meaningful_change": 7343,
-        "meaningful_file_count": 14,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "1adb2bbbfc3b4bf58411febf43d90f0ebbbf393a",
-      "message": "[Feat] 단체,개인미션 멀티 테스트 성공",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/1adb2bbbfc3b4bf58411febf43d90f0ebbbf393a",
-      "date": "2026-10-11T11:29:09Z",
       "expectedGithub": "ahyun04",
       "actualGithub": "namsuhan0322",
       "gitAuthorName": "namsuhan0322",
@@ -24942,6 +24942,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "ca150012ecb8ee09c2c94c0154783a0d839392e1",
+      "message": "총 설계도 아이템 생성",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/ca150012ecb8ee09c2c94c0154783a0d839392e1",
+      "date": "2026-11-06T00:01:16Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 1836,
+        "deletions": 66,
+        "meaningful_change": 1887,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "76de7bf7fde41315b54c3cd82343753a6b90a2f0",
       "message": "[Feat] 런처 반동 추가",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/76de7bf7fde41315b54c3cd82343753a6b90a2f0",
@@ -27211,29 +27234,6 @@
         "deletions": 10,
         "meaningful_change": 1117,
         "meaningful_file_count": 18,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "a4d222ea52b4f08d7bb261a2f2f04cf183aa4e30",
-      "message": "[Fix] 미니건 공격력 배율 수정, 씬 저장",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/a4d222ea52b4f08d7bb261a2f2f04cf183aa4e30",
-      "date": "2026-10-21T14:21:19Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 18,
-        "deletions": 1158,
-        "meaningful_change": 1176,
-        "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -31047,13 +31047,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 1596965,
+        "deletions": 29586,
+        "meaningful_change": 4069,
+        "meaningful_file_count": 53,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
