@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 06. 09:08",
+  "updatedAt": "2026. 11. 06. 13:30",
   "students": [
     {
       "name": "2학년 1팀",
@@ -17,7 +17,7 @@
         0,
         0,
         0,
-        6,
+        5,
         0,
         3,
         4
@@ -95,13 +95,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -239,7 +239,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         },
@@ -274,7 +274,7 @@
       "lastCommit": "7일 전",
       "status": "watch",
       "weekly": [
-        6,
+        5,
         2,
         5,
         2,
@@ -361,7 +361,7 @@
         },
         {
           "message": "2",
-          "time": "30일 전",
+          "time": "31일 전",
           "sha": "421cb69",
           "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         }
@@ -847,7 +847,7 @@
         },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "0e94d7f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
         },
@@ -887,25 +887,25 @@
         },
         {
           "message": "[Feat] 패시브 기믹 추가, 캐릭터1 스킬 기믹 구현",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "9e53a4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9e53a4b3a34a6791cd6f43383050669345239961"
         },
         {
           "message": "[Feat] 회피 기믹 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "7df416b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/7df416b817d0651bdfa154064630cdc979bf4a1e"
         },
         {
           "message": "[Fix] 전투 카메라 연출 시점 조정, 해상도 설정 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "3900ef0",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/3900ef0202b252396cb20a39aa2250a22e97a2cd"
         },
         {
           "message": "[Feat] 아군 사망 후 남은 대기 캐릭이 출전하도록 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "dea6258",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/dea6258b09fd9cf534745a4f95a926bb57fb2138"
         }
@@ -919,8 +919,8 @@
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "commits": 4,
       "activeDays": 2,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         0,
         9,
@@ -933,13 +933,13 @@
       "recent": [
         {
           "message": "[Fix] 플레이어 스태미나 버그 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "b805ff7",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/b805ff7ea3b1d2691863ef7c54163bf6d03facc6"
         },
         {
           "message": "[Feat] 스태미나 UI연결 다시 회복됨 애니메이션에 버그 있음",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "db8cbbe",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/db8cbbe1d800e60e7b46ceb22a98b56cce3b1d75"
         },
@@ -1003,13 +1003,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
