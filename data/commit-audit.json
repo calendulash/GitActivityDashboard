@@ -1,11 +1,80 @@
 {
-  "updatedAt": "2026. 11. 06. 21:32",
+  "updatedAt": "2026. 11. 07. 04:49",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "16420323762affca1a31fe0e2abd95b44461039d",
+      "message": "[Chore] 소베크·바스테트 기획서 및 아트 요청서 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/16420323762affca1a31fe0e2abd95b44461039d",
+      "date": "2026-11-06T17:28:26Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 23,
+        "additions": 38,
+        "deletions": 13,
+        "meaningful_change": 51,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "3f478625d96cf969f7e3d478a596e75db11be2c8",
+      "message": "[Feat] 소베크 퍼즐 전체를 2.5D 착시 퍼즐로 교체",
+      "url": "https://github.com/suyan05/PharaohCube/commit/3f478625d96cf969f7e3d478a596e75db11be2c8",
+      "date": "2026-11-06T14:18:06Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 50,
+        "additions": 16443,
+        "deletions": 6604,
+        "meaningful_change": 22952,
+        "meaningful_file_count": 32,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "8545a981b7cf918e80e8a28a1e581d1aad415efd",
+      "message": "[Feat] 소베크 착시 퍼즐 예시 (2.5D 카메라 회전) 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/8545a981b7cf918e80e8a28a1e581d1aad415efd",
+      "date": "2026-11-06T12:33:05Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 25,
+        "additions": 2200,
+        "deletions": 0,
+        "meaningful_change": 2132,
+        "meaningful_file_count": 12,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2233,75 +2302,6 @@
         "deletions": 0,
         "meaningful_change": 4816,
         "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "e3752ec4e7d336b2416567ffbae876978493c87a",
-      "message": "[Fead]라의방 오브제 임시 배치",
-      "url": "https://github.com/suyan05/PharaohCube/commit/e3752ec4e7d336b2416567ffbae876978493c87a",
-      "date": "2026-10-10T11:30:31Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "suyan05",
-      "gitAuthorName": "suyan05",
-      "gitAuthorEmail": "cadhppr588@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 2626,
-        "deletions": 1241,
-        "meaningful_change": 3867,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "bca1964e8478bcd38fd6f7e2bf5f9921360c51ef",
-      "message": "[Fead]아누비스 타일맵 제작",
-      "url": "https://github.com/suyan05/PharaohCube/commit/bca1964e8478bcd38fd6f7e2bf5f9921360c51ef",
-      "date": "2026-10-10T11:30:05Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "suyan05",
-      "gitAuthorName": "suyan05",
-      "gitAuthorEmail": "cadhppr588@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 35663,
-        "deletions": 0,
-        "meaningful_change": 35656,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "260f17454bb3b87dff9928112240f4dc87fcbe47",
-      "message": "[Fead]아누비스 맵 tile palette 제작",
-      "url": "https://github.com/suyan05/PharaohCube/commit/260f17454bb3b87dff9928112240f4dc87fcbe47",
-      "date": "2026-10-10T11:29:23Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "suyan05",
-      "gitAuthorName": "suyan05",
-      "gitAuthorEmail": "cadhppr588@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 70,
-        "additions": 2002,
-        "deletions": 0,
-        "meaningful_change": 1715,
-        "meaningful_file_count": 34,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -4610,6 +4610,29 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "42ae2b33f27ace9462398754986e25bdc639fbb2",
+      "message": "[Feat] 미니맵, 지도, 플레이어 UI 추가",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/42ae2b33f27ace9462398754986e25bdc639fbb2",
+      "date": "2026-11-06T17:19:14Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "ahyun04",
+      "gitAuthorName": "ahyun04",
+      "gitAuthorEmail": "ahyun125@g.shingu.ac.kr",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 59,
+        "additions": 6517,
+        "deletions": 2733,
+        "meaningful_change": 5694,
+        "meaningful_file_count": 31,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "fe1bef42493be450ec10f44fd1926545732e0ac8",
       "message": "Merge branch 'Kwonjun' into main",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/fe1bef42493be450ec10f44fd1926545732e0ac8",
@@ -6884,24 +6907,24 @@
       }
     },
     {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
       "branch": "main",
-      "sha": "663bd20f087de303ee6b0f1ef6fe6bcbdcba0c14",
-      "message": "[Fix] StandBy 체력 소진 사망 연출 적용",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/663bd20f087de303ee6b0f1ef6fe6bcbdcba0c14",
-      "date": "2026-10-11T14:18:32Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
+      "sha": "22187a00f75ea24aff3523aba17eb4030a0e24d6",
+      "message": "[Fix] 감옥씬 정문, 주방 수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/22187a00f75ea24aff3523aba17eb4030a0e24d6",
+      "date": "2026-11-06T15:43:39Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
       "analysis": {
-        "changed_files": 16,
-        "additions": 3517,
-        "deletions": 11,
-        "meaningful_change": 3493,
-        "meaningful_file_count": 12,
+        "changed_files": 29,
+        "additions": 31088,
+        "deletions": 24742,
+        "meaningful_change": 55717,
+        "meaningful_file_count": 15,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -7955,13 +7978,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 300,
-        "additions": 102427,
-        "deletions": 36518,
-        "meaningful_change": 1568,
-        "meaningful_file_count": 125,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -9181,29 +9204,6 @@
         "meaningful_file_count": 3,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "08e14935b98322e38431b84de81e13fb59b2b641",
-      "message": "[Feat] 재료 잠금 & 강도 시스템 구현",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/08e14935b98322e38431b84de81e13fb59b2b641",
-      "date": "2026-09-17T17:45:47Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "shingumingi",
-      "gitAuthorName": "shingumingi",
-      "gitAuthorEmail": "pettid0314@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 103,
-        "additions": 50021,
-        "deletions": 7518,
-        "meaningful_change": 54140,
-        "meaningful_file_count": 58,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
@@ -29105,6 +29105,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "8c09c82d39c027d0df4ecbc4c419911162d4582a",
+      "message": "[Feat] 렌턴 재질 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/8c09c82d39c027d0df4ecbc4c419911162d4582a",
+      "date": "2026-11-06T19:24:10Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 24,
+        "additions": 1058,
+        "deletions": 44,
+        "meaningful_change": 362,
+        "meaningful_file_count": 13,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "7e7969f6f13ade01265879372f170b3cd6f8208d",
       "message": "[Feat] 다른 방식의 풀 렌더링 추가",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7e7969f6f13ade01265879372f170b3cd6f8208d",
@@ -31374,29 +31397,6 @@
         "deletions": 45,
         "meaningful_change": 90,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "d35a3afb8ae7fb83aeb5ffce8e1d1c0ba57bd6f0",
-      "message": "[Chore] URP 버전 호환성 패키지 및 쉐이더 경고 수정",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/d35a3afb8ae7fb83aeb5ffce8e1d1c0ba57bd6f0",
-      "date": "2026-10-01T16:54:46Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 48,
-        "additions": 2307,
-        "deletions": 6,
-        "meaningful_change": 1395,
-        "meaningful_file_count": 15,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -36994,6 +36994,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "22187a00f75ea24aff3523aba17eb4030a0e24d6",
+      "message": "[Fix] 감옥씬 정문, 주방 수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/22187a00f75ea24aff3523aba17eb4030a0e24d6",
+      "date": "2026-11-06T15:43:39Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 29,
+        "additions": 31088,
+        "deletions": 24742,
+        "meaningful_change": 55717,
+        "meaningful_file_count": 15,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "024d0f0b6d41063423c6559cfb8bf1112600930c",
       "message": "[Feat] 레이스 시작 직전까지 구현",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/024d0f0b6d41063423c6559cfb8bf1112600930c",
@@ -39265,29 +39288,6 @@
         "meaningful_file_count": 3,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "08e14935b98322e38431b84de81e13fb59b2b641",
-      "message": "[Feat] 재료 잠금 & 강도 시스템 구현",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/08e14935b98322e38431b84de81e13fb59b2b641",
-      "date": "2026-09-17T17:45:47Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "shingumingi",
-      "gitAuthorName": "shingumingi",
-      "gitAuthorEmail": "pettid0314@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 103,
-        "additions": 50021,
-        "deletions": 7518,
-        "meaningful_change": 54140,
-        "meaningful_file_count": 58,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     }
   ]
