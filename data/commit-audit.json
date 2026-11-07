@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 07. 04:49",
+  "updatedAt": "2026. 11. 07. 09:04",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6910,6 +6910,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "ce671451e7ebd6ebba5d93179b19d918f693770b",
+      "message": "[Feat] 레이스 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/ce671451e7ebd6ebba5d93179b19d918f693770b",
+      "date": "2026-11-06T20:16:42Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 11377,
+        "deletions": 1094,
+        "meaningful_change": 12443,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "22187a00f75ea24aff3523aba17eb4030a0e24d6",
       "message": "[Fix] 감옥씬 정문, 주방 수정",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/22187a00f75ea24aff3523aba17eb4030a0e24d6",
@@ -7978,13 +8001,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -9181,29 +9204,6 @@
         "meaningful_file_count": 132,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "d08d400c88e4333f598c38466e6834201f81f693",
-      "message": "[Feat] SFX 추가 1차",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/d08d400c88e4333f598c38466e6834201f81f693",
-      "date": "2026-09-19T03:06:59Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 10,
-        "additions": 101,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 3,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
       }
     },
     {
@@ -36994,6 +36994,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "ce671451e7ebd6ebba5d93179b19d918f693770b",
+      "message": "[Feat] 레이스 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/ce671451e7ebd6ebba5d93179b19d918f693770b",
+      "date": "2026-11-06T20:16:42Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 11377,
+        "deletions": 1094,
+        "meaningful_change": 12443,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "22187a00f75ea24aff3523aba17eb4030a0e24d6",
       "message": "[Fix] 감옥씬 정문, 주방 수정",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/22187a00f75ea24aff3523aba17eb4030a0e24d6",
@@ -39265,29 +39288,6 @@
         "meaningful_file_count": 132,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "d08d400c88e4333f598c38466e6834201f81f693",
-      "message": "[Feat] SFX 추가 1차",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/d08d400c88e4333f598c38466e6834201f81f693",
-      "date": "2026-09-19T03:06:59Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 10,
-        "additions": 101,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 3,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
       }
     }
   ]
