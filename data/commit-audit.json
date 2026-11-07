@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 07. 19:59",
+  "updatedAt": "2026. 11. 08. 01:55",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -4610,6 +4610,75 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "6838802ba0d59d92c249bd8beb99371af517e380",
+      "message": "Merge branch 'main' into DH",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/6838802ba0d59d92c249bd8beb99371af517e380",
+      "date": "2026-11-07T14:37:16Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "fti11",
+      "gitAuthorName": "fti11",
+      "gitAuthorEmail": "mxonstruck@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 23,
+        "additions": 1899,
+        "deletions": 7,
+        "meaningful_change": 652,
+        "meaningful_file_count": 12,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "1a9403f9604dadcb1dc5ae67f9f09ee89532f400",
+      "message": "[Feat] 미니맵 UI 적용 및 시스템 구현",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/1a9403f9604dadcb1dc5ae67f9f09ee89532f400",
+      "date": "2026-11-07T14:36:51Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "fti11",
+      "gitAuthorName": "fti11",
+      "gitAuthorEmail": "mxonstruck@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 20,
+        "additions": 1160,
+        "deletions": 198,
+        "meaningful_change": 1358,
+        "meaningful_file_count": 20,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
+      "sha": "8d073f86b2919fb0d97c5ee5d2a2d4cebe7fe643",
+      "message": "[Feat] 좌표 설정 패널 , 배관 누수 차단 파이프 4개 , 테이프 아이템 오브젝트 추가",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/8d073f86b2919fb0d97c5ee5d2a2d4cebe7fe643",
+      "date": "2026-11-07T13:11:08Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "mataltw04",
+      "gitAuthorName": "mataltw04",
+      "gitAuthorEmail": "20040518koko@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 23,
+        "additions": 1899,
+        "deletions": 7,
+        "meaningful_change": 652,
+        "meaningful_file_count": 12,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "42ae2b33f27ace9462398754986e25bdc639fbb2",
       "message": "[Feat] 미니맵, 지도, 플레이어 UI 추가",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/42ae2b33f27ace9462398754986e25bdc639fbb2",
@@ -6835,75 +6904,6 @@
         "meaningful_file_count": 1,
         "suspicious_score": 50,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "600e659d7ff8bf7b080bb0da87ec144a373551db",
-      "message": "[Feat] 클릭, 플레이어 사운드 추가",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/600e659d7ff8bf7b080bb0da87ec144a373551db",
-      "date": "2026-10-11T14:27:00Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "hb7117",
-      "gitAuthorName": "hb7117",
-      "gitAuthorEmail": "bin20050711@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 3,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "e0bdc993cb82da18b6d3a035c414435bdd55e05a",
-      "message": "Merge branch 'NSH_Test'",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/e0bdc993cb82da18b6d3a035c414435bdd55e05a",
-      "date": "2026-10-11T14:21:43Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "namsuhan0322",
-      "gitAuthorName": "namsuhan0322",
-      "gitAuthorEmail": "rnatpakfl@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 43,
-        "additions": 4206,
-        "deletions": 1113,
-        "meaningful_change": 5166,
-        "meaningful_file_count": 25,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "1e962a76ac4ffa84cb7ecfa09239486438e21bc2",
-      "message": "[Feat] 메인게임씬에 미션들 배치 및 테스트 성공",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/1e962a76ac4ffa84cb7ecfa09239486438e21bc2",
-      "date": "2026-10-11T14:21:30Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "namsuhan0322",
-      "gitAuthorName": "namsuhan0322",
-      "gitAuthorEmail": "rnatpakfl@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 43,
-        "additions": 4206,
-        "deletions": 1113,
-        "meaningful_change": 5166,
-        "meaningful_file_count": 25,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
@@ -27265,6 +27265,98 @@
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
+      "sha": "80bf54a17469f9fbad0138d88fe3c650985c25f8",
+      "message": "더미 데이터 커밋",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/80bf54a17469f9fbad0138d88fe3c650985c25f8",
+      "date": "2026-11-07T15:15:28Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "dotcom4143",
+      "gitAuthorName": "dotcom4143",
+      "gitAuthorEmail": "eostmfhektzja4143@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 16,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "e52ff53e8b951e65ffbcdded802bab4b582d85c1",
+      "message": "Merge branch 'main' of https://github.com/Tiphe0821/GameProject_T3_1_B",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/e52ff53e8b951e65ffbcdded802bab4b582d85c1",
+      "date": "2026-11-07T15:01:57Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "dotcom4143",
+      "gitAuthorName": "dotcom4143",
+      "gitAuthorEmail": "eostmfhektzja4143@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 155,
+        "deletions": 768,
+        "meaningful_change": 846,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "045e83d565121b203bab6b463625bda74e9fc5a5",
+      "message": "[Feat] 요원 변경용 모니터 스크립트 제작",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/045e83d565121b203bab6b463625bda74e9fc5a5",
+      "date": "2026-11-07T14:59:49Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "dotcom4143",
+      "gitAuthorName": "dotcom4143",
+      "gitAuthorEmail": "eostmfhektzja4143@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 437,
+        "deletions": 9,
+        "meaningful_change": 444,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
+      "sha": "1293effccb3ea2f5f6ad09dbd9e7d6cc37f2870f",
+      "message": "[feat] 나레이션용 다이얼로그 구현",
+      "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/1293effccb3ea2f5f6ad09dbd9e7d6cc37f2870f",
+      "date": "2026-11-07T14:56:38Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "TunaMaster07",
+      "gitAuthorName": "TunaMaster07",
+      "gitAuthorEmail": "hhj07110542@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 383,
+        "deletions": 9,
+        "meaningful_change": 315,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 3팀",
+      "repo": "Tiphe0821/GameProject_T3_1_B",
+      "branch": "main",
       "sha": "06eb9d20bc4ddee2729e5616202f1db941417018",
       "message": "[Fix] 문 스크립트 오류 수정",
       "url": "https://github.com/Tiphe0821/GameProject_T3_1_B/commit/06eb9d20bc4ddee2729e5616202f1db941417018",
@@ -31422,6 +31514,29 @@
         "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 2팀",
+      "repo": "hoshinouhee123/gacha-game-teamplay",
+      "branch": "main",
+      "sha": "4e9952a90f3b494bc78f6c1de34786185c0873df",
+      "message": "때려칩니다. 저 혼자 일하는것도 싫고 작업중인거 말도 없이 충돌내놓고, 아트 리소스 제작도 안하고, 기획 설명도 하지 않고, 게임 구현 제가 전부다하고 있는거 싫습니다. 이대로 출시조차 못할거같은데 그냥 제 학점 깍아주세요. 저 더이상 저만 열심히해야할 이유를 못느끼겠습니다. 힘들어요.",
+      "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/4e9952a90f3b494bc78f6c1de34786185c0873df",
+      "date": "2026-11-07T15:00:25Z",
+      "expectedGithub": "hoshinouhee123",
+      "actualGithub": "hoshinouhee123",
+      "gitAuthorName": "hoshinouhee123",
+      "gitAuthorEmail": "mna209459@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 11,
+        "deletions": 1,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 95,
+        "judgment": "뻥의심"
       }
     },
     {
