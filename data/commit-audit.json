@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 08. 01:55",
+  "updatedAt": "2026. 11. 08. 05:50",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6910,6 +6910,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "dffbf9b1fed8ee8549e4e32b235c3358dd5951dd",
+      "message": "[Feat] 정비소 UI Button 수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/dffbf9b1fed8ee8549e4e32b235c3358dd5951dd",
+      "date": "2026-11-07T18:27:56Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 49,
+        "deletions": 49,
+        "meaningful_change": 98,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "ce671451e7ebd6ebba5d93179b19d918f693770b",
       "message": "[Feat] 레이스 구현",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/ce671451e7ebd6ebba5d93179b19d918f693770b",
@@ -9179,29 +9202,6 @@
         "deletions": 119,
         "meaningful_change": 715793,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "bf75dbac9d2f580877ad698d5496de8c02f2745a",
-      "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a",
-      "date": "2026-09-19T03:28:36Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "yuseongmok",
-      "gitAuthorName": "yuseongmok",
-      "gitAuthorEmail": "yousm112783@daum.net",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 300,
-        "additions": 4465,
-        "deletions": 323276,
-        "meaningful_change": 9172,
-        "meaningful_file_count": 132,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -37224,6 +37224,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "dffbf9b1fed8ee8549e4e32b235c3358dd5951dd",
+      "message": "[Feat] 정비소 UI Button 수정",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/dffbf9b1fed8ee8549e4e32b235c3358dd5951dd",
+      "date": "2026-11-07T18:27:56Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 49,
+        "deletions": 49,
+        "meaningful_change": 98,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "ce671451e7ebd6ebba5d93179b19d918f693770b",
       "message": "[Feat] 레이스 구현",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/ce671451e7ebd6ebba5d93179b19d918f693770b",
@@ -39493,29 +39516,6 @@
         "deletions": 119,
         "meaningful_change": 715793,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "bf75dbac9d2f580877ad698d5496de8c02f2745a",
-      "message": "[Feat] DeliveryPoint 71지점 추가&적용 완료",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/bf75dbac9d2f580877ad698d5496de8c02f2745a",
-      "date": "2026-09-19T03:28:36Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "yuseongmok",
-      "gitAuthorName": "yuseongmok",
-      "gitAuthorEmail": "yousm112783@daum.net",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 300,
-        "additions": 4465,
-        "deletions": 323276,
-        "meaningful_change": 9172,
-        "meaningful_file_count": 132,
         "suspicious_score": 0,
         "judgment": "정상"
       }
