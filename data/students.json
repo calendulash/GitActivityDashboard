@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 08. 09:17",
+  "updatedAt": "2026. 11. 08. 15:36",
   "students": [
     {
       "name": "2학년 1팀",
@@ -67,8 +67,8 @@
       "status": "inactive",
       "weekly": [
         3,
-        1,
-        7,
+        4,
+        4,
         6,
         10,
         6,
@@ -95,13 +95,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -165,20 +165,32 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 4,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 6,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         1,
         1,
         6,
-        12,
-        3,
-        4
+        13,
+        2,
+        6
       ],
       "recent": [
+        {
+          "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
+          "time": "오늘",
+          "sha": "6bc7637",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/6bc76371c5dd10d737e8ffece5053be0810facaf"
+        },
+        {
+          "message": "[Feat] 마지막배달에서 이어지는 스토리 구현중",
+          "time": "오늘",
+          "sha": "12ea900",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/12ea900b79d5e63a6655e84bfc39d2d3e48947de"
+        },
         {
           "message": "[Fix] 감옥씬 정문, 주방 수정",
           "time": "어제",
@@ -196,18 +208,6 @@
           "time": "4일 전",
           "sha": "5248487",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5248487644a1ef377c01def615a5c518a8bd599e"
-        },
-        {
-          "message": "[Feat] 프롤로그 맵 다시 제작 대사 수정, 조직원 차량 배치",
-          "time": "4일 전",
-          "sha": "745e934",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/745e934f5f8cd4657d97f39046f60c2d44398e64"
-        },
-        {
-          "message": "[Feat] 각종 사운드 추가, 레그돌 연출 추가",
-          "time": "9일 전",
-          "sha": "304e5c8",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/304e5c87624f2308a97650c338ee595c96f5fbfd"
         }
       ]
     },
@@ -239,7 +239,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         },
@@ -271,10 +271,10 @@
       "repo": "esuvean/PRESS-START_",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "9일 전",
+      "lastCommit": "10일 전",
       "status": "inactive",
       "weekly": [
-        3,
+        1,
         3,
         4,
         5,
@@ -285,13 +285,13 @@
       "recent": [
         {
           "message": "[Feat] 설정UI 변경및 또 변경...",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "2b82188",
           "url": "https://github.com/esuvean/PRESS-START_/commit/2b82188f35281a26ac36924ab25aea0e79fed0ae"
         },
         {
           "message": "[Feat] 설정오류 수정및 저장기능 추가",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "7bb8bed",
           "url": "https://github.com/esuvean/PRESS-START_/commit/7bb8bedb3b8d3d4955b838404fdb686e857b9ac4"
         },
@@ -321,10 +321,10 @@
       "team": "Sine-aw",
       "github": "Sine-aw",
       "repo": "Sine-aw/nohesitate",
-      "commits": 0,
-      "activeDays": 0,
-      "lastCommit": "11일 전",
-      "status": "inactive",
+      "commits": 1,
+      "activeDays": 1,
+      "lastCommit": "오늘",
+      "status": "active",
       "weekly": [
         0,
         2,
@@ -332,9 +332,15 @@
         1,
         2,
         1,
-        0
+        1
       ],
       "recent": [
+        {
+          "message": "UI",
+          "time": "오늘",
+          "sha": "94032ce",
+          "url": "https://github.com/Sine-aw/nohesitate/commit/94032ceea95330136afab08983d43bbd2daf3767"
+        },
         {
           "message": "title",
           "time": "11일 전",
@@ -358,12 +364,6 @@
           "time": "22일 전",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
-        },
-        {
-          "message": "2",
-          "time": "32일 전",
-          "sha": "421cb69",
-          "url": "https://github.com/Sine-aw/nohesitate/commit/421cb6992cbdd3d1f67350c23a57109b1cc9773d"
         }
       ]
     },
@@ -379,8 +379,8 @@
       "status": "inactive",
       "weekly": [
         1,
-        2,
-        14,
+        6,
+        10,
         0,
         21,
         13,
@@ -407,13 +407,13 @@
         },
         {
           "message": "[Feat] 임시 효과음·배경음 추가",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "898ed7a",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/898ed7a012ce9d07c8c10c5f5abb2f8eb9770557"
         },
         {
           "message": "[Feat] 기계·손님 앞 자동 이동 추가",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "873c030",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/873c03017ff28835a7b30a8565fa8021776af1d9"
         }
@@ -499,7 +499,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "40일 전",
+          "time": "41일 전",
           "sha": "0888f6c",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/0888f6c67857eefbb5b6f2d8256601a17438849f"
         }
@@ -623,8 +623,8 @@
         6,
         5,
         4,
-        8,
-        21,
+        9,
+        20,
         0,
         0
       ],
@@ -819,11 +819,11 @@
       "status": "inactive",
       "weekly": [
         0,
-        8,
-        14,
+        9,
+        13,
         1,
-        11,
-        12,
+        16,
+        7,
         0
       ],
       "recent": [
@@ -847,7 +847,7 @@
         },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "0e94d7f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
         },
@@ -893,19 +893,19 @@
         },
         {
           "message": "[Feat] 패시브 기믹 추가, 캐릭터1 스킬 기믹 구현",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "9e53a4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9e53a4b3a34a6791cd6f43383050669345239961"
         },
         {
           "message": "[Feat] 회피 기믹 추가",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "7df416b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/7df416b817d0651bdfa154064630cdc979bf4a1e"
         },
         {
           "message": "[Fix] 전투 카메라 연출 시점 조정, 해상도 설정 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "3900ef0",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/3900ef0202b252396cb20a39aa2250a22e97a2cd"
         }
@@ -923,8 +923,8 @@
       "status": "active",
       "weekly": [
         1,
-        11,
-        2,
+        12,
+        1,
         8,
         10,
         9,
@@ -945,13 +945,13 @@
         },
         {
           "message": "[Fix] 플레이어 스태미나 버그 수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "b805ff7",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/b805ff7ea3b1d2691863ef7c54163bf6d03facc6"
         },
         {
           "message": "[Feat] 스태미나 UI연결 다시 회복됨 애니메이션에 버그 있음",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "db8cbbe",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/db8cbbe1d800e60e7b46ceb22a98b56cce3b1d75"
         },
@@ -975,8 +975,8 @@
       "status": "inactive",
       "weekly": [
         3,
-        1,
-        7,
+        4,
+        4,
         6,
         10,
         6,
@@ -1003,13 +1003,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -1021,20 +1021,32 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 4,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 6,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         1,
         1,
         6,
-        12,
-        3,
-        4
+        13,
+        2,
+        6
       ],
       "recent": [
+        {
+          "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
+          "time": "오늘",
+          "sha": "6bc7637",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/6bc76371c5dd10d737e8ffece5053be0810facaf"
+        },
+        {
+          "message": "[Feat] 마지막배달에서 이어지는 스토리 구현중",
+          "time": "오늘",
+          "sha": "12ea900",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/12ea900b79d5e63a6655e84bfc39d2d3e48947de"
+        },
         {
           "message": "[Fix] 감옥씬 정문, 주방 수정",
           "time": "어제",
@@ -1052,18 +1064,6 @@
           "time": "4일 전",
           "sha": "5248487",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/5248487644a1ef377c01def615a5c518a8bd599e"
-        },
-        {
-          "message": "[Feat] 프롤로그 맵 다시 제작 대사 수정, 조직원 차량 배치",
-          "time": "4일 전",
-          "sha": "745e934",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/745e934f5f8cd4657d97f39046f60c2d44398e64"
-        },
-        {
-          "message": "[Feat] 각종 사운드 추가, 레그돌 연출 추가",
-          "time": "9일 전",
-          "sha": "304e5c8",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/304e5c87624f2308a97650c338ee595c96f5fbfd"
         }
       ]
     }
