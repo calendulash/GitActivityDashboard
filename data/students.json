@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 08. 05:50",
+  "updatedAt": "2026. 11. 08. 09:17",
   "students": [
     {
       "name": "2학년 1팀",
@@ -49,7 +49,7 @@
         },
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         }
@@ -135,7 +135,7 @@
         },
         {
           "message": "[Feat] cctv실, 조종실 추가, 문 추가",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "1be28d0",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/1be28d0950014721c1ab518c6e1a9f327488c69a"
         },
@@ -447,7 +447,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "53일 전",
+          "time": "54일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
