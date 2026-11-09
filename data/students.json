@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 09. 07:51",
+  "updatedAt": "2026. 11. 09. 11:32",
   "students": [
     {
       "name": "2학년 1팀",
@@ -70,8 +70,8 @@
         3,
         4,
         6,
-        11,
-        5,
+        12,
+        4,
         0
       ],
       "recent": [
@@ -95,13 +95,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -141,7 +141,7 @@
         },
         {
           "message": "[Feat] cctv실, 조종실 추가, 문 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "1be28d0",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/1be28d0950014721c1ab518c6e1a9f327488c69a"
         },
@@ -165,20 +165,38 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
+      "commits": 9,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
-        1,
+        0,
         1,
         6,
         13,
         2,
-        6
+        9
       ],
       "recent": [
+        {
+          "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
+          "time": "오늘",
+          "sha": "47d4d0d",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/47d4d0d4c1d94be6d581cf9ab6c4978493dd6288"
+        },
+        {
+          "message": "[Merge] 소리 감지 NPC와 벽돌을 공원 전투 작업과 통합",
+          "time": "오늘",
+          "sha": "3418e30",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/3418e300da61b12c020b98c8c2fccfb13accc945"
+        },
+        {
+          "message": "[Feat] 공원 전투와 경찰 체포 연출 및 총격 피드백 개선",
+          "time": "오늘",
+          "sha": "15b9c62",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/15b9c62e4b9b50858b1779e8a25d7b869eaae6eb"
+        },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
           "time": "오늘",
@@ -190,24 +208,6 @@
           "time": "오늘",
           "sha": "12ea900",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/12ea900b79d5e63a6655e84bfc39d2d3e48947de"
-        },
-        {
-          "message": "[Fix] 감옥씬 정문, 주방 수정",
-          "time": "2일 전",
-          "sha": "22187a0",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/22187a00f75ea24aff3523aba17eb4030a0e24d6"
-        },
-        {
-          "message": "[Feat] 감옥 씬 추가",
-          "time": "3일 전",
-          "sha": "80f4e88",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/80f4e885f702e9f0d01b496496e66b05eb283102"
-        },
-        {
-          "message": "[Feat] 대사 수정 및 마지막배달 이후 조직원 습격 제작중",
-          "time": "5일 전",
-          "sha": "5248487",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/5248487644a1ef377c01def615a5c518a8bd599e"
         }
       ]
     },
@@ -245,7 +245,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         },
@@ -274,11 +274,11 @@
       "lastCommit": "10일 전",
       "status": "inactive",
       "weekly": [
-        3,
+        2,
         1,
         5,
-        4,
-        6,
+        5,
+        5,
         3,
         0
       ],
@@ -373,7 +373,7 @@
       "team": "simo07d7PG",
       "github": "simo07d7PG",
       "repo": "simo07d7PG/Team_JJAMBBAP",
-      "commits": 2,
+      "commits": 1,
       "activeDays": 1,
       "lastCommit": "6일 전",
       "status": "watch",
@@ -383,8 +383,8 @@
         6,
         0,
         21,
-        13,
-        2
+        14,
+        1
       ],
       "recent": [
         {
@@ -395,7 +395,7 @@
         },
         {
           "message": "[Chore] .gitignore에 zip 제외 추가",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "3d25278",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/3d25278a8a7d17b3c24ff095c20f71eeafa32859"
         },
@@ -667,49 +667,49 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 7,
-      "activeDays": 6,
+      "commits": 11,
+      "activeDays": 7,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        18,
-        17,
-        14,
-        13,
-        19,
+        16,
+        15,
+        15,
+        16,
+        15,
         12,
-        7
+        11
       ],
       "recent": [
+        {
+          "message": "[Chore] 프리팹 연결 까먹음",
+          "time": "오늘",
+          "sha": "7fb1087",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/7fb10874e413163a7fc0ce443b5cf409e0d20aa0"
+        },
+        {
+          "message": "[Refactor] 카드 조작/UI 분리",
+          "time": "오늘",
+          "sha": "3edd660",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3edd6602937f3e5c0e3b6916a2b224422d6f2489"
+        },
+        {
+          "message": "[Feat] 몬스터 기본 공격력 추가",
+          "time": "오늘",
+          "sha": "8ef932e",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/8ef932eedc52dd9c7bc071395306582b83eca8a5"
+        },
+        {
+          "message": "[Feat] 몬스터 랜덤 등장",
+          "time": "오늘",
+          "sha": "02d4f1b",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/02d4f1b51e3fc1fe29d4efc1f220299c3335af2f"
+        },
         {
           "message": "[Feat] 몬스터테이블 수정, 몬스터SO 생성",
           "time": "오늘",
           "sha": "49490ef",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/49490ef20ca9c5d188439f5c81fa3a7d8936d797"
-        },
-        {
-          "message": "[Feat] 몬스터 기믹 4종 추가",
-          "time": "어제",
-          "sha": "9885dca",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/9885dca88c6a59ff8815c37e1a0b75e5aea759d1"
-        },
-        {
-          "message": "[Feat] 몬스터SO 추가",
-          "time": "2일 전",
-          "sha": "55efc23",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/55efc232cbcb47333b04f133f2e96b48224877a6"
-        },
-        {
-          "message": "[Feat] 몬스터 테이블 수정에 따라 SO수정",
-          "time": "3일 전",
-          "sha": "d161d10",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/d161d1034b7ff32fe303426264b0b1a423ad8c1e"
-        },
-        {
-          "message": "[Chore] 안 쓰는 파일 정리",
-          "time": "4일 전",
-          "sha": "3e7e9bd",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3e7e9bd47dbb60b2b1a160ae23e3d3241465e6a0"
         }
       ]
     },
@@ -822,8 +822,8 @@
         16,
         6,
         3,
-        17,
-        4,
+        18,
+        3,
         0
       ],
       "recent": [
@@ -847,7 +847,7 @@
         },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "0e94d7f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
         },
@@ -893,19 +893,19 @@
         },
         {
           "message": "[Feat] 회피 기믹 추가",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "7df416b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/7df416b817d0651bdfa154064630cdc979bf4a1e"
         },
         {
           "message": "[Fix] 전투 카메라 연출 시점 조정, 해상도 설정 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "3900ef0",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/3900ef0202b252396cb20a39aa2250a22e97a2cd"
         },
         {
           "message": "[Feat] 아군 사망 후 남은 대기 캐릭이 출전하도록 수정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "dea6258",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/dea6258b09fd9cf534745a4f95a926bb57fb2138"
         }
@@ -917,7 +917,7 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 4,
+      "commits": 3,
       "activeDays": 2,
       "lastCommit": "어제",
       "status": "active",
@@ -927,8 +927,8 @@
         0,
         8,
         14,
-        5,
-        4
+        6,
+        3
       ],
       "recent": [
         {
@@ -951,7 +951,7 @@
         },
         {
           "message": "[Feat] 스태미나 UI연결 다시 회복됨 애니메이션에 버그 있음",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "db8cbbe",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/db8cbbe1d800e60e7b46ceb22a98b56cce3b1d75"
         },
@@ -978,8 +978,8 @@
         3,
         4,
         6,
-        11,
-        5,
+        12,
+        4,
         0
       ],
       "recent": [
@@ -1003,13 +1003,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -1021,20 +1021,38 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 6,
+      "commits": 9,
       "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
-        1,
+        0,
         1,
         6,
         13,
         2,
-        6
+        9
       ],
       "recent": [
+        {
+          "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
+          "time": "오늘",
+          "sha": "47d4d0d",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/47d4d0d4c1d94be6d581cf9ab6c4978493dd6288"
+        },
+        {
+          "message": "[Merge] 소리 감지 NPC와 벽돌을 공원 전투 작업과 통합",
+          "time": "오늘",
+          "sha": "3418e30",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/3418e300da61b12c020b98c8c2fccfb13accc945"
+        },
+        {
+          "message": "[Feat] 공원 전투와 경찰 체포 연출 및 총격 피드백 개선",
+          "time": "오늘",
+          "sha": "15b9c62",
+          "url": "https://github.com/yuseongmok/Delivery-service/commit/15b9c62e4b9b50858b1779e8a25d7b869eaae6eb"
+        },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
           "time": "오늘",
@@ -1046,24 +1064,6 @@
           "time": "오늘",
           "sha": "12ea900",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/12ea900b79d5e63a6655e84bfc39d2d3e48947de"
-        },
-        {
-          "message": "[Fix] 감옥씬 정문, 주방 수정",
-          "time": "2일 전",
-          "sha": "22187a0",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/22187a00f75ea24aff3523aba17eb4030a0e24d6"
-        },
-        {
-          "message": "[Feat] 감옥 씬 추가",
-          "time": "3일 전",
-          "sha": "80f4e88",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/80f4e885f702e9f0d01b496496e66b05eb283102"
-        },
-        {
-          "message": "[Feat] 대사 수정 및 마지막배달 이후 조직원 습격 제작중",
-          "time": "5일 전",
-          "sha": "5248487",
-          "url": "https://github.com/yuseongmok/Delivery-service/commit/5248487644a1ef377c01def615a5c518a8bd599e"
         }
       ]
     }
