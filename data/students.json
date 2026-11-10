@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 11. 03:39",
+  "updatedAt": "2026. 11. 11. 08:52",
   "students": [
     {
       "name": "2학년 1팀",
@@ -49,7 +49,7 @@
         },
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         }
@@ -63,7 +63,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "12일 전",
+      "lastCommit": "13일 전",
       "status": "inactive",
       "weekly": [
         4,
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -147,13 +147,13 @@
         },
         {
           "message": "[Feat] cctv실, 조종실 추가, 문 추가",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "1be28d0",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/1be28d0950014721c1ab518c6e1a9f327488c69a"
         },
         {
           "message": "[Feat]맵 조금 꾸밈",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "d08f28e",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/d08f28e830cde7c81859caad4fe3751037777186"
         }
@@ -167,7 +167,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 7,
       "activeDays": 3,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -181,7 +181,7 @@
       "recent": [
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "47d4d0d",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/47d4d0d4c1d94be6d581cf9ab6c4978493dd6288"
         },
@@ -447,7 +447,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "56일 전",
+          "time": "57일 전",
           "sha": "a7471ec",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/a7471ec3212432eb7d0456f7a2d5801b9e7c8f91"
         }
@@ -565,7 +565,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "14일 전",
+      "lastCommit": "15일 전",
       "status": "inactive",
       "weekly": [
         5,
@@ -579,7 +579,7 @@
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "14일 전",
+          "time": "15일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
@@ -821,8 +821,8 @@
         0,
         22,
         0,
-        3,
-        18,
+        4,
+        17,
         3,
         0
       ],
@@ -853,7 +853,7 @@
         },
         {
           "message": "[Chore] 씬 저장",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "930496a",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/930496a434ca172fa80f8ee7b2aebef277f0eff2"
         }
@@ -873,8 +873,8 @@
         7,
         1,
         10,
-        9,
-        7,
+        13,
+        3,
         2,
         6
       ],
@@ -971,7 +971,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "12일 전",
+      "lastCommit": "13일 전",
       "status": "inactive",
       "weekly": [
         4,
@@ -985,13 +985,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -1023,7 +1023,7 @@
       "repo": "yuseongmok/Delivery-service",
       "commits": 7,
       "activeDays": 3,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -1037,7 +1037,7 @@
       "recent": [
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "47d4d0d",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/47d4d0d4c1d94be6d581cf9ab6c4978493dd6288"
         },

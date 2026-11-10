@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 11. 03:39",
+  "updatedAt": "2026. 11. 11. 08:52",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -11073,6 +11073,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "45af922c9f469a770bb19f9674633c674f853b95",
+      "message": "[feat] 25 1차 구현",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/45af922c9f469a770bb19f9674633c674f853b95",
+      "date": "2026-11-10T19:40:58Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "flexinja99",
+      "gitAuthorName": "flexinja",
+      "gitAuthorEmail": "hjgo927@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 1955,
+        "deletions": 1505,
+        "meaningful_change": 3453,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "5def287be9f912c92fb1ff0e920c3f2378cad9ea",
       "message": "[feat] 챕터 24구현",
       "url": "https://github.com/esuvean/PRESS-START_/commit/5def287be9f912c92fb1ff0e920c3f2378cad9ea",
@@ -13342,29 +13365,6 @@
         "deletions": 8,
         "meaningful_change": 82,
         "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "12e2a6227fed2c1ce932aa1c6d145514661b4e7f",
-      "message": "[Fix] 버튼 미니게임 UI수정",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/12e2a6227fed2c1ce932aa1c6d145514661b4e7f",
-      "date": "2026-09-21T01:37:57Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "esuvean",
-      "gitAuthorName": "esuvean",
-      "gitAuthorEmail": "esuvean@naver.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 14,
-        "additions": 380,
-        "deletions": 74,
-        "meaningful_change": 220,
-        "meaningful_file_count": 12,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -29542,6 +29542,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "4e88391302f0c58d1c5990bc154938cef186e434",
+      "message": "[Feat] 동물 에셋 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/4e88391302f0c58d1c5990bc154938cef186e434",
+      "date": "2026-11-10T20:17:39Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 145,
+        "additions": 147156,
+        "deletions": 16,
+        "meaningful_change": 144474,
+        "meaningful_file_count": 63,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "8c09c82d39c027d0df4ecbc4c419911162d4582a",
       "message": "[Feat] 렌턴 재질 추가",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/8c09c82d39c027d0df4ecbc4c419911162d4582a",
@@ -31811,29 +31834,6 @@
         "deletions": 279,
         "meaningful_change": 5425,
         "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "6cfaa9a38680f9ea8fb9e6fc6980784280d766d6",
-      "message": "[Fix] 물 쉐이터 테스트 맵 수정",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6cfaa9a38680f9ea8fb9e6fc6980784280d766d6",
-      "date": "2026-10-01T17:49:20Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "yoojoonlee0424",
-      "gitAuthorName": "yoojoonlee0424",
-      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 45,
-        "deletions": 45,
-        "meaningful_change": 90,
-        "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"
       }
