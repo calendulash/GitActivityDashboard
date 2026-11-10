@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 10. 12:10",
+  "updatedAt": "2026. 11. 10. 19:57",
   "students": [
     {
       "name": "2학년 1팀",
@@ -11,7 +11,7 @@
       "repo": "suyan05/PharaohCube",
       "commits": 4,
       "activeDays": 1,
-      "lastCommit": "5일 전",
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         0,
@@ -25,25 +25,25 @@
       "recent": [
         {
           "message": "[FIx]이름 수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "b39da8f",
           "url": "https://github.com/suyan05/PharaohCube/commit/b39da8fc536815567a6a8415729d60de68b2726d"
         },
         {
           "message": "[Fead]중앙맵 배치",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "dda8520",
           "url": "https://github.com/suyan05/PharaohCube/commit/dda85200249fee5c095f5360218e2122a6978154"
         },
         {
           "message": "[Fead]중앙맵 타일맵 제작",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "27ae73a",
           "url": "https://github.com/suyan05/PharaohCube/commit/27ae73ad8262c4b239a0fea9996b508a35a98980"
         },
         {
           "message": "[Fead]중앙맵 이미지 추가",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "1d78983",
           "url": "https://github.com/suyan05/PharaohCube/commit/1d78983f9368faf15bdaffcaa149fcc79c93c3e5"
         },
@@ -115,7 +115,7 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 4,
       "activeDays": 4,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -129,7 +129,7 @@
       "recent": [
         {
           "message": "[Fix] 미션 위치 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "1963540",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/19635406b6bf8c46628eb7c2ec9c1f869f68e1e2"
         },
@@ -199,13 +199,13 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "6bc7637",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6bc76371c5dd10d737e8ffece5053be0810facaf"
         },
         {
           "message": "[Feat] 마지막배달에서 이어지는 스토리 구현중",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "12ea900",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/12ea900b79d5e63a6655e84bfc39d2d3e48947de"
         }
@@ -271,45 +271,45 @@
       "repo": "esuvean/PRESS-START_",
       "commits": 2,
       "activeDays": 1,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         2,
         1,
         5,
-        5,
-        6,
+        8,
+        3,
         2,
         2
       ],
       "recent": [
         {
           "message": "[Feat] UI배치 정리",
-          "time": "오늘",
+          "time": "어제",
           "sha": "fb33e22",
           "url": "https://github.com/esuvean/PRESS-START_/commit/fb33e224f46eca9a7d66675bee1ce5aba5a1fce4"
         },
         {
           "message": "[Feat] 모니터 비율 수정, 애니메이션 최적화",
-          "time": "오늘",
+          "time": "어제",
           "sha": "d474d98",
           "url": "https://github.com/esuvean/PRESS-START_/commit/d474d98e02ac9704a7b26295769dd019f8967618"
         },
         {
           "message": "[Feat] 설정UI 변경및 또 변경...",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "2b82188",
           "url": "https://github.com/esuvean/PRESS-START_/commit/2b82188f35281a26ac36924ab25aea0e79fed0ae"
         },
         {
           "message": "[Feat] 설정오류 수정및 저장기능 추가",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "7bb8bed",
           "url": "https://github.com/esuvean/PRESS-START_/commit/7bb8bedb3b8d3d4955b838404fdb686e857b9ac4"
         },
         {
           "message": "[Feat] 챕터4 UI전부 교체 오류수정",
-          "time": "14일 전",
+          "time": "15일 전",
           "sha": "4f34bfa",
           "url": "https://github.com/esuvean/PRESS-START_/commit/4f34bfa78a1657701e00feb0cb165e1b2330460e"
         }
@@ -323,7 +323,7 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "UI",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "94032ce",
           "url": "https://github.com/Sine-aw/nohesitate/commit/94032ceea95330136afab08983d43bbd2daf3767"
         },
@@ -361,7 +361,7 @@
         },
         {
           "message": "Boss 1 Phase",
-          "time": "24일 전",
+          "time": "25일 전",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
         }
@@ -401,7 +401,7 @@
         },
         {
           "message": "[Refactor] 코어 루프·미니게임 스크립트 구조 정리",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "e74c715",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/e74c715e4ecfc2518b8369618dff3cd4de04d578"
         },
@@ -413,7 +413,7 @@
         },
         {
           "message": "[Feat] 하루 단위 저장·상점 해금·로딩 화면·방향 표시 추가",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "22dd577",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/22dd5770e78fc590cdb0f8d2e427a7dee3a16e6d"
         }
@@ -427,7 +427,7 @@
       "repo": "jeolje934-dot/Placeholder_2026_1A_team-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "53일 전",
+      "lastCommit": "54일 전",
       "status": "inactive",
       "weekly": [
         0,
@@ -441,7 +441,7 @@
       "recent": [
         {
           "message": "[Feat] test 씬 입니다",
-          "time": "53일 전",
+          "time": "54일 전",
           "sha": "ffde155",
           "url": "https://github.com/jeolje934-dot/Placeholder_2026_1A_team-project/commit/ffde1558b9f9d992394bd8810e756666f709a986"
         },
@@ -466,8 +466,8 @@
       "weekly": [
         1,
         0,
-        0,
-        2,
+        1,
+        1,
         2,
         0,
         0
@@ -487,19 +487,19 @@
         },
         {
           "message": "[Feat] 물고기 이미지 추가",
-          "time": "21일 전",
+          "time": "22일 전",
           "sha": "4f7867d",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/4f7867d89c8870250af3eda9fa8d79e56f57c96c"
         },
         {
           "message": "[Feat] 낚싯대 이미지 추가",
-          "time": "27일 전",
+          "time": "28일 전",
           "sha": "1179ad4",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/1179ad4ec3224d0387f18ddbd22c45ec07ef3177"
         },
         {
           "message": "Initial commit",
-          "time": "42일 전",
+          "time": "43일 전",
           "sha": "0888f6c",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/0888f6c67857eefbb5b6f2d8256601a17438849f"
         }
@@ -571,8 +571,8 @@
         5,
         1,
         8,
-        5,
-        5,
+        7,
+        3,
         0,
         0
       ],
@@ -597,13 +597,13 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/qkrgml59/2026_2_TeamProject",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "3168244",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/316824469c3115b90a8ca414c983def305566a23"
         },
         {
           "message": "[Fix] player 퍼즐 공격 안 되는 거 수정",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "c423e4d",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c423e4d2e3c744a4431603ba091b70af3ab44ebe"
         }
@@ -673,11 +673,11 @@
       "status": "active",
       "weekly": [
         13,
-        14,
-        15,
+        16,
+        13,
         22,
-        9,
-        14,
+        10,
+        13,
         13
       ],
       "recent": [
@@ -689,7 +689,7 @@
         },
         {
           "message": "[Feat] 배틀씬 CRT모니터 스타일 후처리 추가",
-          "time": "오늘",
+          "time": "어제",
           "sha": "af5522b",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/af5522b0b68d903f613da575d22a48f3154935a7"
         },
@@ -872,8 +872,8 @@
       "weekly": [
         7,
         1,
-        5,
-        10,
+        9,
+        6,
         11,
         2,
         6
@@ -919,13 +919,13 @@
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "commits": 3,
       "activeDays": 2,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
-        1,
-        13,
-        2,
-        6,
+        4,
+        10,
+        4,
+        4,
         15,
         6,
         3
@@ -933,25 +933,25 @@
       "recent": [
         {
           "message": "새로운 다이얼 로그 시스템 배치 완료 좀 배치 수정해야할듯..",
-          "time": "오늘",
+          "time": "어제",
           "sha": "ed1bed5",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ed1bed5130e03f96ea6b1308ef1af0737fc04e11"
         },
         {
           "message": "발 소리 효과음 추가[좀 많음..]",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "4d480a7",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/4d480a7b59e22e9bdc4fd2905734b5366bed5f01"
         },
         {
           "message": "적용되는지 확인",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "a9404e1",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a9404e18f824e6351a9de63990ad4eebd95eac64"
         },
         {
           "message": "[Fix] 플레이어 스태미나 버그 수정",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "b805ff7",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/b805ff7ea3b1d2691863ef7c54163bf6d03facc6"
         },
@@ -1055,13 +1055,13 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "6bc7637",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6bc76371c5dd10d737e8ffece5053be0810facaf"
         },
         {
           "message": "[Feat] 마지막배달에서 이어지는 스토리 구현중",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "12ea900",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/12ea900b79d5e63a6655e84bfc39d2d3e48947de"
         }
