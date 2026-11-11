@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 11. 12:59",
+  "updatedAt": "2026. 11. 11. 20:53",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -9210,6 +9210,29 @@
       "projectName": "2학년 7팀",
       "repo": "23jihwan/7_tim",
       "branch": "main",
+      "sha": "5066042df36eeff21107df0bca03a303a32bfbf2",
+      "message": "[Feat] 상점 아이템 랜덤 등록, 조합카드 구매시 적용 구현완료",
+      "url": "https://github.com/23jihwan/7_tim/commit/5066042df36eeff21107df0bca03a303a32bfbf2",
+      "date": "2026-11-11T09:18:37Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "junhae01",
+      "gitAuthorName": "junhae0",
+      "gitAuthorEmail": "jh040101@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 16,
+        "additions": 1485,
+        "deletions": 4722,
+        "meaningful_change": 6207,
+        "meaningful_file_count": 16,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
       "sha": "34162aabf32ca5e2c110292617e78fbb8695e937",
       "message": "[Feat] 카드 레시피 상점에 추가 및 카드 초반 조합 변경",
       "url": "https://github.com/23jihwan/7_tim/commit/34162aabf32ca5e2c110292617e78fbb8695e937",
@@ -11067,6 +11090,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "2036a9579fafb982b02476d1dbe4cd011019be8e",
+      "message": "[FEAT] 챕터 5 미니게임 25구현",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/2036a9579fafb982b02476d1dbe4cd011019be8e",
+      "date": "2026-11-11T11:36:37Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "flexinja99",
+      "gitAuthorName": "flexinja",
+      "gitAuthorEmail": "hjgo927@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 4259,
+        "deletions": 443,
+        "meaningful_change": 4693,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -13342,29 +13388,6 @@
         "deletions": 134,
         "meaningful_change": 4141,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "716520aff97398c09396af5cbf94e3a84575b7ef",
-      "message": "[feat] 미니게임3 변경",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/716520aff97398c09396af5cbf94e3a84575b7ef",
-      "date": "2026-09-22T17:34:47Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 74,
-        "deletions": 8,
-        "meaningful_change": 82,
-        "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -25218,6 +25241,98 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "958f8c21064a87e28db085eaa35b667be53ff8e6",
+      "message": "수류탄 던지는 거에도 문이 열리게 조정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/958f8c21064a87e28db085eaa35b667be53ff8e6",
+      "date": "2026-11-11T11:39:44Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 83,
+        "deletions": 12,
+        "meaningful_change": 95,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "0ceab3dbb40c1912952e4dfc6bd4912cce7ace4d",
+      "message": "인스펙터 수치 변경",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/0ceab3dbb40c1912952e4dfc6bd4912cce7ace4d",
+      "date": "2026-11-11T11:15:15Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 10,
+        "deletions": 1,
+        "meaningful_change": 11,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "c63bfec7ac4de7f96c0996b2d165af6e68175bd7",
+      "message": "쏭을 쏘면 문 열리는 코드 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/c63bfec7ac4de7f96c0996b2d165af6e68175bd7",
+      "date": "2026-11-11T11:08:58Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 449,
+        "deletions": 68,
+        "meaningful_change": 517,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "6f541ba731b4986749f68fc6dc99f5370728b756",
+      "message": "일반 원거리 총알 코드 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/6f541ba731b4986749f68fc6dc99f5370728b756",
+      "date": "2026-11-11T11:06:05Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 20,
+        "deletions": 0,
+        "meaningful_change": 20,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "d4f1cec7f177b70c29da36b52cd38d3108ae2dfd",
       "message": "문열기 시스템 조정",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/d4f1cec7f177b70c29da36b52cd38d3108ae2dfd",
@@ -27418,98 +27533,6 @@
         "deletions": 1320,
         "meaningful_change": 1408,
         "meaningful_file_count": 7,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "e9cfcc6ab876ef0948f0d72327a20a885fd62b80",
-      "message": "Revert \"무기 업그레이드 UI 배치\"",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/e9cfcc6ab876ef0948f0d72327a20a885fd62b80",
-      "date": "2026-10-26T04:52:55Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 799,
-        "deletions": 3173,
-        "meaningful_change": 3972,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "9194d8bbf79a922deb95fed6bb815590dd77f044",
-      "message": "빌드 파일",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/9194d8bbf79a922deb95fed6bb815590dd77f044",
-      "date": "2026-10-25T14:02:14Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 195,
-        "additions": 25671,
-        "deletions": 45,
-        "meaningful_change": 255,
-        "meaningful_file_count": 10,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "8f5dafa269d428bb1b89e31aeabce7481665a664",
-      "message": "대화 후 UI 패널을 여는 NPC를 여러개를 만들 수 있는 시스템 생성",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/8f5dafa269d428bb1b89e31aeabce7481665a664",
-      "date": "2026-10-25T13:00:00Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 15,
-        "additions": 44440,
-        "deletions": 1636,
-        "meaningful_change": 46068,
-        "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "c3e7719b835fafcd257a54d9288cf8f2e38d6b68",
-      "message": "무기 업그레이드 UI 배치",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/c3e7719b835fafcd257a54d9288cf8f2e38d6b68",
-      "date": "2026-10-25T06:44:32Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 5,
-        "additions": 2950,
-        "deletions": 155,
-        "meaningful_change": 3105,
-        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
