@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 12. 10:36",
+  "updatedAt": "2026. 11. 12. 18:00",
   "students": [
     {
       "name": "2학년 1팀",
@@ -68,8 +68,8 @@
       "weekly": [
         4,
         7,
-        0,
-        10,
+        4,
+        6,
         12,
         0,
         0
@@ -115,7 +115,7 @@
       "repo": "ahyun04/26TeamProject_2",
       "commits": 4,
       "activeDays": 4,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         0,
@@ -129,7 +129,7 @@
       "recent": [
         {
           "message": "[Fix] 미션 위치 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "1963540",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/19635406b6bf8c46628eb7c2ec9c1f869f68e1e2"
         },
@@ -205,7 +205,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "6bc7637",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6bc76371c5dd10d737e8ffece5053be0810facaf"
         }
@@ -223,8 +223,8 @@
       "status": "active",
       "weekly": [
         4,
-        4,
-        9,
+        6,
+        7,
         4,
         18,
         0,
@@ -251,7 +251,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         },
@@ -271,45 +271,45 @@
       "repo": "esuvean/PRESS-START_",
       "commits": 2,
       "activeDays": 1,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         2,
         5,
-        1,
-        8,
-        3,
         2,
+        7,
+        5,
+        0,
         2
       ],
       "recent": [
         {
           "message": "[Feat] UI배치 정리",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "fb33e22",
           "url": "https://github.com/esuvean/PRESS-START_/commit/fb33e224f46eca9a7d66675bee1ce5aba5a1fce4"
         },
         {
           "message": "[Feat] 모니터 비율 수정, 애니메이션 최적화",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "d474d98",
           "url": "https://github.com/esuvean/PRESS-START_/commit/d474d98e02ac9704a7b26295769dd019f8967618"
         },
         {
           "message": "[Feat] 설정UI 변경및 또 변경...",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "2b82188",
           "url": "https://github.com/esuvean/PRESS-START_/commit/2b82188f35281a26ac36924ab25aea0e79fed0ae"
         },
         {
           "message": "[Feat] 설정오류 수정및 저장기능 추가",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "7bb8bed",
           "url": "https://github.com/esuvean/PRESS-START_/commit/7bb8bedb3b8d3d4955b838404fdb686e857b9ac4"
         },
         {
           "message": "[Feat] 챕터4 UI전부 교체 오류수정",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "4f34bfa",
           "url": "https://github.com/esuvean/PRESS-START_/commit/4f34bfa78a1657701e00feb0cb165e1b2330460e"
         }
@@ -323,8 +323,8 @@
       "repo": "Sine-aw/nohesitate",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         2,
         1,
@@ -337,7 +337,7 @@
       "recent": [
         {
           "message": "UI",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "94032ce",
           "url": "https://github.com/Sine-aw/nohesitate/commit/94032ceea95330136afab08983d43bbd2daf3767"
         },
@@ -361,7 +361,7 @@
         },
         {
           "message": "Boss 1 Phase",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "9b1883a",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b1883a52c37e4de0c7bbe1201b8cf5a3aeea1a7"
         }
@@ -379,11 +379,11 @@
       "status": "active",
       "weekly": [
         2,
-        12,
+        14,
+        0,
+        10,
+        23,
         3,
-        6,
-        21,
-        9,
         2
       ],
       "recent": [
@@ -401,13 +401,13 @@
         },
         {
           "message": "[Refactor] 코어 루프·미니게임 스크립트 구조 정리",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "e74c715",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/e74c715e4ecfc2518b8369618dff3cd4de04d578"
         },
         {
           "message": "[Chore] .gitignore에 zip 제외 추가",
-          "time": "9일 전",
+          "time": "10일 전",
           "sha": "3d25278",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/3d25278a8a7d17b3c24ff095c20f71eeafa32859"
         },
@@ -499,7 +499,7 @@
         },
         {
           "message": "Initial commit",
-          "time": "44일 전",
+          "time": "45일 전",
           "sha": "0888f6c",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/0888f6c67857eefbb5b6f2d8256601a17438849f"
         }
@@ -597,13 +597,13 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/qkrgml59/2026_2_TeamProject",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "3168244",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/316824469c3115b90a8ca414c983def305566a23"
         },
         {
           "message": "[Fix] player 퍼즐 공격 안 되는 거 수정",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "c423e4d",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/c423e4d2e3c744a4431603ba091b70af3ab44ebe"
         }
@@ -620,7 +620,7 @@
       "lastCommit": "23일 전",
       "status": "inactive",
       "weekly": [
-        10,
+        9,
         2,
         4,
         27,
@@ -673,10 +673,10 @@
       "status": "active",
       "weekly": [
         14,
-        14,
-        14,
-        24,
-        7,
+        17,
+        11,
+        25,
+        6,
         12,
         15
       ],
@@ -707,7 +707,7 @@
         },
         {
           "message": "[Feat] 배틀씬 CRT모니터 스타일 후처리 추가",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "af5522b",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/af5522b0b68d903f613da575d22a48f3154935a7"
         }
@@ -821,8 +821,8 @@
         0,
         22,
         1,
-        5,
-        15,
+        8,
+        12,
         3,
         0
       ],
@@ -847,7 +847,7 @@
         },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "0e94d7f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
         },
@@ -887,13 +887,13 @@
         },
         {
           "message": "[Feat] 패시브 기믹 추가, 캐릭터1 스킬 기믹 구현",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "9e53a4b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/9e53a4b3a34a6791cd6f43383050669345239961"
         },
         {
           "message": "[Feat] 회피 기믹 추가",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "7df416b",
           "url": "https://github.com/hoshinouhee123/gacha-game-teamplay/commit/7df416b817d0651bdfa154064630cdc979bf4a1e"
         },
@@ -917,49 +917,49 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 7,
-      "activeDays": 3,
+      "commits": 8,
+      "activeDays": 4,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        5,
         9,
         5,
-        8,
-        10,
         6,
-        7
+        7,
+        11,
+        5,
+        8
       ],
       "recent": [
         {
-          "message": "드디어 2D 랜더링으로 바꿨다!!",
+          "message": "스토리 시스템 코드 문제 없지만 구조상 문제 많음",
           "time": "오늘",
+          "sha": "a6c055c",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a6c055c134a6a25b3b066f5f88f7fc4623612c5e"
+        },
+        {
+          "message": "드디어 2D 랜더링으로 바꿨다!!",
+          "time": "어제",
           "sha": "81bad1b",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/81bad1b032d5a16ff7dd84d7c3eae341ebee9d14"
         },
         {
           "message": "UI 배치 작동 되는지 아직은 확인 못함",
-          "time": "오늘",
+          "time": "어제",
           "sha": "be78efb",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/be78efb68f58d04e44c4176082c4101898e5d765"
         },
         {
           "message": "[Fix] Aseprite 파일에 맞게 코드 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "0eb7523",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/0eb7523fb5db07804cb9f36e0b7c963715ce864d"
         },
         {
           "message": "[Feat]스토리 다이얼로그 시스템 만듬 배치 안함",
-          "time": "오늘",
+          "time": "어제",
           "sha": "e1d5d4f",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/e1d5d4f7324588ba9d9ec30e4c589f9749fadcc1"
-        },
-        {
-          "message": "새로운 다이얼 로그 시스템 배치 완료 좀 배치 수정해야할듯..",
-          "time": "2일 전",
-          "sha": "ed1bed5",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ed1bed5130e03f96ea6b1308ef1af0737fc04e11"
         }
       ]
     },
@@ -976,8 +976,8 @@
       "weekly": [
         4,
         7,
-        0,
-        10,
+        4,
+        6,
         12,
         0,
         0
@@ -1061,7 +1061,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "6bc7637",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/6bc76371c5dd10d737e8ffece5053be0810facaf"
         }
