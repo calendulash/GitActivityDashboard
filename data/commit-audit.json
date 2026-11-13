@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 11. 13. 20:37",
+  "updatedAt": "2026. 11. 14. 03:56",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "fcc3e4de8fadea02991938df2153144160e44b24",
+      "message": "[Feat] 바스테트의 방 스토리 연출과 검은 고양이 길잡이 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/fcc3e4de8fadea02991938df2153144160e44b24",
+      "date": "2026-11-13T12:34:26Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 32,
+        "additions": 2521,
+        "deletions": 1122,
+        "meaningful_change": 2969,
+        "meaningful_file_count": 17,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2279,29 +2302,6 @@
         "deletions": 1055,
         "meaningful_change": 5545,
         "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "24a79746bea574d2c83840d1eadaab66750ed2d9",
-      "message": "[Feat] 바스테트 실전 방 진행 구조",
-      "url": "https://github.com/suyan05/PharaohCube/commit/24a79746bea574d2c83840d1eadaab66750ed2d9",
-      "date": "2026-10-19T04:13:28Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 50,
-        "additions": 69875,
-        "deletions": 73,
-        "meaningful_change": 69809,
-        "meaningful_file_count": 28,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -4610,6 +4610,29 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "949c3c01ffdda26d45b5253e351e1e24c7bedd2a",
+      "message": "[Feat] 살인자 암전 기믹 구현",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/949c3c01ffdda26d45b5253e351e1e24c7bedd2a",
+      "date": "2026-11-13T12:38:13Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 34,
+        "additions": 13551,
+        "deletions": 11720,
+        "meaningful_change": 25174,
+        "meaningful_file_count": 24,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "b807e7353d45e595eae21dcff518c153d7dbb9c8",
       "message": "[Feat] 입력창 포커스 시 플레이스홀더 숨김",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/b807e7353d45e595eae21dcff518c153d7dbb9c8",
@@ -6884,24 +6907,47 @@
       }
     },
     {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
       "branch": "main",
-      "sha": "40bfca3404cbc14fef49ca4d14fbac55aacbb229",
-      "message": "[Feat] 아이템 Hold 모션 및 칼 장착 위치 적용",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/40bfca3404cbc14fef49ca4d14fbac55aacbb229",
-      "date": "2026-10-12T06:26:13Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
+      "sha": "dd58b3db0c0fd21b4e2f54a39cb24f3ae02334bc",
+      "message": "[Feat] 감옥챕터- 식당 치킨만들기 미션 기능구현 완료",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/dd58b3db0c0fd21b4e2f54a39cb24f3ae02334bc",
+      "date": "2026-11-13T13:57:28Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 29,
-        "additions": 2411,
-        "deletions": 2,
-        "meaningful_change": 2189,
-        "meaningful_file_count": 16,
+        "changed_files": 15,
+        "additions": 617787,
+        "deletions": 0,
+        "meaningful_change": 617750,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "b0f86eb3e15474aa51d68eb5465058ca9b08ccfe",
+      "message": "[Feat] 감옥 미션 및 탈옥 피날레 프로토 제작",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/b0f86eb3e15474aa51d68eb5465058ca9b08ccfe",
+      "date": "2026-11-13T13:25:36Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 300,
+        "additions": 220606,
+        "deletions": 60922,
+        "meaningful_change": 275320,
+        "meaningful_file_count": 145,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -7104,13 +7150,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 59,
+        "additions": 7328,
+        "deletions": 634,
+        "meaningful_change": 7801,
+        "meaningful_file_count": 35,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -9156,52 +9202,6 @@
         "deletions": 6,
         "meaningful_change": 289,
         "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "d01341bcce5084e04144f28024e155252c18bf8a",
-      "message": "[Fix] 발주 메뉴 수정",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/d01341bcce5084e04144f28024e155252c18bf8a",
-      "date": "2026-10-05T07:35:07Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 17,
-        "deletions": 14,
-        "meaningful_change": 28,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "c9d44b5c897d5ce64436ef82102625ef5e5dc24b",
-      "message": "[fix] ui 오류수정",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/c9d44b5c897d5ce64436ef82102625ef5e5dc24b",
-      "date": "2026-10-04T19:53:44Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 370,
-        "deletions": 64,
-        "meaningful_change": 416,
-        "meaningful_file_count": 4,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -25379,6 +25379,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "ed18b945d6beacf99bc3e437aec44bd8d9aa73f0",
+      "message": "다이얼로그 패널 이미지 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/ed18b945d6beacf99bc3e437aec44bd8d9aa73f0",
+      "date": "2026-11-13T17:20:13Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "ksmxxx-glitch",
+      "gitAuthorName": "ksmxxx-giltch",
+      "gitAuthorEmail": "ksm071010@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 1,
+        "suspicious_score": 50,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "e950d3f8b84d2e31de00e69955ca3303b1ce2649",
       "message": "상인 연출 조정",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/e950d3f8b84d2e31de00e69955ca3303b1ce2649",
@@ -27653,29 +27676,6 @@
       }
     },
     {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "d601f224abde6bd23de77a67362921415f71db00",
-      "message": "[Feat] 업그레이드 패넗 프리팹화",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/d601f224abde6bd23de77a67362921415f71db00",
-      "date": "2026-10-29T08:50:39Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 360,
-        "deletions": 72,
-        "meaningful_change": 425,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "1학년 B반 3팀",
       "repo": "Tiphe0821/GameProject_T3_1_B",
       "branch": "main",
@@ -29720,6 +29720,29 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "bf67e8d6620a933faf3590c14810a8462edcfeb0",
+      "message": "[Feat] 크리스탈 쉐이더 제작 시작",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/bf67e8d6620a933faf3590c14810a8462edcfeb0",
+      "date": "2026-11-13T16:44:43Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "yoojoonlee0424",
+      "gitAuthorName": "yoojoonlee0424",
+      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 22,
+        "additions": 5687,
+        "deletions": 12,
+        "meaningful_change": 213,
+        "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -31995,29 +32018,6 @@
         "deletions": 74,
         "meaningful_change": 106,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "f8c4e470c88562595e4fa26b569e3031c74c0ca5",
-      "message": "[Feat] 물 쉐이더 파티클 시스템 추가",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/f8c4e470c88562595e4fa26b569e3031c74c0ca5",
-      "date": "2026-10-02T13:25:30Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "yoojoonlee0424",
-      "gitAuthorName": "yoojoonlee0424",
-      "gitAuthorEmail": "yoojoonlee0424@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 7987,
-        "deletions": 279,
-        "meaningful_change": 5425,
-        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -37914,6 +37914,52 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "dd58b3db0c0fd21b4e2f54a39cb24f3ae02334bc",
+      "message": "[Feat] 감옥챕터- 식당 치킨만들기 미션 기능구현 완료",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/dd58b3db0c0fd21b4e2f54a39cb24f3ae02334bc",
+      "date": "2026-11-13T13:57:28Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 15,
+        "additions": 617787,
+        "deletions": 0,
+        "meaningful_change": 617750,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
+      "sha": "b0f86eb3e15474aa51d68eb5465058ca9b08ccfe",
+      "message": "[Feat] 감옥 미션 및 탈옥 피날레 프로토 제작",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/b0f86eb3e15474aa51d68eb5465058ca9b08ccfe",
+      "date": "2026-11-13T13:25:36Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "yuseongmok",
+      "gitAuthorName": "yuseongmok",
+      "gitAuthorEmail": "yousm112783@daum.net",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 300,
+        "additions": 220606,
+        "deletions": 60922,
+        "meaningful_change": 275320,
+        "meaningful_file_count": 145,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "6820abe0f272ebec750c9cd0edfcab6432b24b83",
       "message": "[Feat] 미션4 변경",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/6820abe0f272ebec750c9cd0edfcab6432b24b83",
@@ -40160,52 +40206,6 @@
         "deletions": 6,
         "meaningful_change": 289,
         "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "d01341bcce5084e04144f28024e155252c18bf8a",
-      "message": "[Fix] 발주 메뉴 수정",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/d01341bcce5084e04144f28024e155252c18bf8a",
-      "date": "2026-10-05T07:35:07Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 17,
-        "deletions": 14,
-        "meaningful_change": 28,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "c9d44b5c897d5ce64436ef82102625ef5e5dc24b",
-      "message": "[fix] ui 오류수정",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/c9d44b5c897d5ce64436ef82102625ef5e5dc24b",
-      "date": "2026-10-04T19:53:44Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 7,
-        "additions": 370,
-        "deletions": 64,
-        "meaningful_change": 416,
-        "meaningful_file_count": 4,
         "suspicious_score": 0,
         "judgment": "정상"
       }
