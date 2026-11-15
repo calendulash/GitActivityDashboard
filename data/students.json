@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 15. 08:01",
+  "updatedAt": "2026. 11. 15. 11:34",
   "students": [
     {
       "name": "2학년 1팀",
@@ -95,13 +95,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -205,7 +205,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "47d4d0d",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/47d4d0d4c1d94be6d581cf9ab6c4978493dd6288"
         }
@@ -251,7 +251,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         },
@@ -407,7 +407,7 @@
         },
         {
           "message": "[Chore] .gitignore에 zip 제외 추가",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "3d25278",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/3d25278a8a7d17b3c24ff095c20f71eeafa32859"
         },
@@ -834,7 +834,7 @@
         },
         {
           "message": "[Feat] 심리스 환경 전환 컨트롤",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "0e94d7f",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/0e94d7f5ec27bd76bf6da6c306f0927c1fe0dfe9"
         },
@@ -906,7 +906,7 @@
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "commits": 6,
       "activeDays": 3,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         11,
@@ -920,7 +920,7 @@
       "recent": [
         {
           "message": "스토리 시스템 코드 문제 없지만 구조상 문제 많음",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "a6c055c",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a6c055c134a6a25b3b066f5f88f7fc4623612c5e"
         },
@@ -944,7 +944,7 @@
         },
         {
           "message": "[Feat]스토리 다이얼로그 시스템 만듬 배치 안함",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "e1d5d4f",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/e1d5d4f7324588ba9d9ec30e4c589f9749fadcc1"
         }
@@ -990,13 +990,13 @@
         },
         {
           "message": "[Feat] 전투 씬 보완 작업",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "83febd9",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/83febd97a11af0c411a52aee68b26dd8ef8fda3e"
         },
         {
           "message": "[Feat] 엘리트 스테이지 구현",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "256505a",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/256505a6eb8d9be1d8471f7d0f201fc1906f8817"
         }
@@ -1048,7 +1048,7 @@
         },
         {
           "message": "Merge branch 'main' of https://github.com/yuseongmok/Delivery-service",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "47d4d0d",
           "url": "https://github.com/yuseongmok/Delivery-service/commit/47d4d0d4c1d94be6d581cf9ab6c4978493dd6288"
         }

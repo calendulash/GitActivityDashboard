@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 15. 08:01",
+  "updatedAt": "2026. 11. 15. 11:34",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -25379,6 +25379,75 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "b8c682f17ef3cbc7ac6f8c16a7f41f362535c866",
+      "message": "보스 체력바 연출 시스템",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/b8c682f17ef3cbc7ac6f8c16a7f41f362535c866",
+      "date": "2026-11-15T02:21:56Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 2653,
+        "deletions": 51,
+        "meaningful_change": 2704,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "7ecaa04b27a85934af71d9fbe5900abde65cf6eb",
+      "message": "캔버스 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/7ecaa04b27a85934af71d9fbe5900abde65cf6eb",
+      "date": "2026-11-15T02:08:22Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 257,
+        "deletions": 45,
+        "meaningful_change": 302,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "f2eaec3c0886d22a261ea01e7f9275ace82db9ee",
+      "message": "몬스터 떨어지는 연출 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/f2eaec3c0886d22a261ea01e7f9275ace82db9ee",
+      "date": "2026-11-15T01:37:01Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 301,
+        "deletions": 81,
+        "meaningful_change": 380,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "d0fc05742333172c4b0c981eab0ddf3578856263",
       "message": "[Fix] 근접무기 트레일 개선",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/d0fc05742333172c4b0c981eab0ddf3578856263",
@@ -27602,75 +27671,6 @@
         "deletions": 0,
         "meaningful_change": 256,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "a434a3a719411ebf3b90d0731d7c4fc8528324b1",
-      "message": "보스 코드 수정전 커및",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/a434a3a719411ebf3b90d0731d7c4fc8528324b1",
-      "date": "2026-11-02T06:51:32Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 5,
-        "additions": 23,
-        "deletions": 2846,
-        "meaningful_change": 2869,
-        "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "8e3a8a31a7eeea55bd700ed78555f7f9fd99c337",
-      "message": "[Feat] 클러스터 로켓 코드 추가",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/8e3a8a31a7eeea55bd700ed78555f7f9fd99c337",
-      "date": "2026-11-02T06:37:22Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 148,
-        "deletions": 0,
-        "meaningful_change": 146,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "1266377351bbf21f5bcf642a03623d0a57d04857",
-      "message": "[Feat] 클러스터 폭탄 코드 추가",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/1266377351bbf21f5bcf642a03623d0a57d04857",
-      "date": "2026-11-02T06:35:05Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 6,
-        "additions": 120,
-        "deletions": 0,
-        "meaningful_change": 110,
-        "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -31990,13 +31990,13 @@
       "gitAuthorEmail": "yoojoonlee0424@gmail.com",
       "verification": "mismatch",
       "analysis": {
-        "changed_files": 300,
-        "additions": 1596965,
-        "deletions": 29586,
-        "meaningful_change": 4069,
-        "meaningful_file_count": 53,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
