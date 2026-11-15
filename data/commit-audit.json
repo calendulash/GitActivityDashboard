@@ -1,11 +1,149 @@
 {
-  "updatedAt": "2026. 11. 16. 01:57",
+  "updatedAt": "2026. 11. 16. 06:40",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "2f9b48fb02f2864808e04e395d0114d49097b778",
+      "message": "[Fix] 수첩 유물 카드 그림 표시와 새 게임 기록 초기화 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/2f9b48fb02f2864808e04e395d0114d49097b778",
+      "date": "2026-11-15T21:23:44Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 315,
+        "deletions": 5,
+        "meaningful_change": 175,
+        "meaningful_file_count": 9,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "26e7b950cdab3aa3031aa291c74cc519d691a2f6",
+      "message": "[Feat] 바스테트 서브 퍼즐 유물 4개 획득 카드와 수첩 카드에 그림 연결",
+      "url": "https://github.com/suyan05/PharaohCube/commit/26e7b950cdab3aa3031aa291c74cc519d691a2f6",
+      "date": "2026-11-15T21:00:02Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 658,
+        "deletions": 9,
+        "meaningful_change": 95,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "be4042c3b826210acf8fd26db9e692cd68c8b44e",
+      "message": "[Fix] 바스테트 맵 밖에 보이던 파란 카메라 배경을 검은색으로 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/be4042c3b826210acf8fd26db9e692cd68c8b44e",
+      "date": "2026-11-15T20:18:15Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 44,
+        "deletions": 0,
+        "meaningful_change": 44,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "454ff9b3c193f12b90c539b4ddc3036893dd989d",
+      "message": "[Fix] 바스테트 시작 화면이 맵 전체 대신 입구 벽화 복도를 비추도록 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/454ff9b3c193f12b90c539b4ddc3036893dd989d",
+      "date": "2026-11-15T19:17:03Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 95,
+        "deletions": 5,
+        "meaningful_change": 100,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "e86939f3b1058303362af27706a69d9b935721db",
+      "message": "[Fix] 바스테트 비석 그림창이 E로 닫히지 않던 문제 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/e86939f3b1058303362af27706a69d9b935721db",
+      "date": "2026-11-15T19:02:24Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 3,
+        "deletions": 0,
+        "meaningful_change": 3,
+        "meaningful_file_count": 1,
+        "suspicious_score": 30,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "3978144ce3195432ca39e7e6d1d860bf725f2d33",
+      "message": "[Fix] 바스테트 벽화 연출 안내 글자 깨짐 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/3978144ce3195432ca39e7e6d1d860bf725f2d33",
+      "date": "2026-11-15T19:02:01Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 2,
+        "deletions": 2,
+        "meaningful_change": 4,
+        "meaningful_file_count": 1,
+        "suspicious_score": 30,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2164,144 +2302,6 @@
         "deletions": 14,
         "meaningful_change": 179,
         "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "c99e1076e9c208099154142485166def12614ccd",
-      "message": "[Feat]feat: 라의 방 2차 - 완전한 어둠, 횃불 시간, 낮->밤 자동 전환, 고고학 수첩",
-      "url": "https://github.com/suyan05/PharaohCube/commit/c99e1076e9c208099154142485166def12614ccd",
-      "date": "2026-10-23T05:17:08Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 62,
-        "additions": 3485,
-        "deletions": 321,
-        "meaningful_change": 3667,
-        "meaningful_file_count": 36,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "cfb2bba004556c2020f91f31f929721f0d12b43f",
-      "message": "[Feat] 라의 방 어둠 + 글자 겹침 정리 + 히든 라의 불씨(태양의 배)",
-      "url": "https://github.com/suyan05/PharaohCube/commit/cfb2bba004556c2020f91f31f929721f0d12b43f",
-      "date": "2026-10-23T04:40:38Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 31,
-        "additions": 5895,
-        "deletions": 3569,
-        "meaningful_change": 8814,
-        "meaningful_file_count": 17,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "8dea7c4629f44eec072d2d9d66999b7a432e1fdd",
-      "message": "[Feat] 라의 방 횃불 신전 개편 + 임시 중앙 홀 + 스핑크스 눈빛",
-      "url": "https://github.com/suyan05/PharaohCube/commit/8dea7c4629f44eec072d2d9d66999b7a432e1fdd",
-      "date": "2026-10-23T04:01:12Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 83,
-        "additions": 10358,
-        "deletions": 78,
-        "meaningful_change": 8139,
-        "meaningful_file_count": 41,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "52ede8674ad69b8e0c7017548e0efdd7eb8a9339",
-      "message": "[Fix] 핑크스 크기 수정 및 렌즈 비석 해독을 기획대로 변경",
-      "url": "https://github.com/suyan05/PharaohCube/commit/52ede8674ad69b8e0c7017548e0efdd7eb8a9339",
-      "date": "2026-10-23T03:13:42Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 30,
-        "additions": 5725,
-        "deletions": 1263,
-        "meaningful_change": 6739,
-        "meaningful_file_count": 11,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "1309ec9d8e31799638e7a3ef1cdfbb874bd915f8",
-      "message": "[Feat] 스핑크스의 꿈 1인칭 눈 뜨기와 꿈 화면 효과 추가",
-      "url": "https://github.com/suyan05/PharaohCube/commit/1309ec9d8e31799638e7a3ef1cdfbb874bd915f8",
-      "date": "2026-10-23T02:59:06Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 77,
-        "additions": 5028,
-        "deletions": 137,
-        "meaningful_change": 4987,
-        "meaningful_file_count": 35,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "edc737e64d76cf952196c48b0d63a6ad5e3e04aa",
-      "message": "[Feat] 바스테트 5개 방 걷는 퍼즐·봉인석·횃불 제단 + 석상/발판 그림 + 아누비스로 이동",
-      "url": "https://github.com/suyan05/PharaohCube/commit/edc737e64d76cf952196c48b0d63a6ad5e3e04aa",
-      "date": "2026-10-22T15:31:16Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "kangxogh1013",
-      "gitAuthorName": "kangxogh1013",
-      "gitAuthorEmail": "ho1013sl@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 89,
-        "additions": 23174,
-        "deletions": 904,
-        "meaningful_change": 22525,
-        "meaningful_file_count": 48,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -14109,6 +14109,29 @@
       "projectName": "1학년 B반 1팀",
       "repo": "simo07d7PG/Team_JJAMBBAP",
       "branch": "main",
+      "sha": "919310ac301467afc351907b04af63b48393f7ec",
+      "message": "[Feat] FullScreen, Screen",
+      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/919310ac301467afc351907b04af63b48393f7ec",
+      "date": "2026-11-15T17:53:37Z",
+      "expectedGithub": "simo07d7PG",
+      "actualGithub": "cocomakid",
+      "gitAuthorName": "cocomakid",
+      "gitAuthorEmail": "joonyoung0113@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 1748,
+        "deletions": 126,
+        "meaningful_change": 1872,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 1팀",
+      "repo": "simo07d7PG/Team_JJAMBBAP",
+      "branch": "main",
       "sha": "4e3b52a026188b57871041ec5ed2294c52020dc3",
       "message": "[feat] 텍스쳐 적용 문제 해결 완료",
       "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/4e3b52a026188b57871041ec5ed2294c52020dc3",
@@ -16383,29 +16406,6 @@
       }
     },
     {
-      "projectName": "1학년 B반 1팀",
-      "repo": "simo07d7PG/Team_JJAMBBAP",
-      "branch": "main",
-      "sha": "8b6063612ed60b6c9409de59bfb030894f0cbbf1",
-      "message": "Initial commit",
-      "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/8b6063612ed60b6c9409de59bfb030894f0cbbf1",
-      "date": "2026-09-13T12:02:41Z",
-      "expectedGithub": "simo07d7PG",
-      "actualGithub": "simo07d7PG",
-      "gitAuthorName": "simo07d7PG",
-      "gitAuthorEmail": "simo07d7.pg@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 108,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
-      }
-    },
-    {
       "projectName": "1학년 A반 4팀",
       "repo": "yungyeong08/4team_project_02",
       "branch": "main",
@@ -17277,6 +17277,75 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
+      "sha": "0e457d1dddb6d4eb7ad096ad3f7b260c4eb818cd",
+      "message": "[Feat] 신사 내부 검정 이미지..",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/0e457d1dddb6d4eb7ad096ad3f7b260c4eb818cd",
+      "date": "2026-11-15T18:50:53Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "jeonghyerin002",
+      "gitAuthorName": "jeonghyerin002",
+      "gitAuthorEmail": "jhr102446@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 92,
+        "deletions": 0,
+        "meaningful_change": 92,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
+      "sha": "3e21a4de7142a462de0b525167004320f72752c8",
+      "message": "[Feat] 건물 콜라이더 설정",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/3e21a4de7142a462de0b525167004320f72752c8",
+      "date": "2026-11-15T18:41:41Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "jeonghyerin002",
+      "gitAuthorName": "jeonghyerin002",
+      "gitAuthorEmail": "jhr102446@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 484,
+        "deletions": 249,
+        "meaningful_change": 733,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
+      "sha": "05f1db0c95a253ace71507f413390471759e5a62",
+      "message": "[Feat] 씬 이동 설정",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/05f1db0c95a253ace71507f413390471759e5a62",
+      "date": "2026-11-15T18:30:47Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "jeonghyerin002",
+      "gitAuthorName": "jeonghyerin002",
+      "gitAuthorEmail": "jhr102446@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 4661,
+        "deletions": 322,
+        "meaningful_change": 4983,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -19508,75 +19577,6 @@
         "meaningful_file_count": 12,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 6팀",
-      "repo": "jeonghyerin002/2026_2TeamProject",
-      "branch": "main",
-      "sha": "2bafa58efc2b105ad84975706e5a456143f316f7",
-      "message": "[Refactor] 양식 변경된 CSV파일 정상적으로 SO변환",
-      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/2bafa58efc2b105ad84975706e5a456143f316f7",
-      "date": "2026-10-08T11:45:22Z",
-      "expectedGithub": "jeonghyerin002",
-      "actualGithub": "blocks2094",
-      "gitAuthorName": "HyunWoo",
-      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 33,
-        "additions": 258,
-        "deletions": 92,
-        "meaningful_change": 306,
-        "meaningful_file_count": 26,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 6팀",
-      "repo": "jeonghyerin002/2026_2TeamProject",
-      "branch": "main",
-      "sha": "e240533aeea319ecddf1e2525e19e711712d333e",
-      "message": "[Refactor]데이터 헤드컬럼 변경(Name)",
-      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/e240533aeea319ecddf1e2525e19e711712d333e",
-      "date": "2026-10-08T11:24:36Z",
-      "expectedGithub": "jeonghyerin002",
-      "actualGithub": "sangbeen0912",
-      "gitAuthorName": "sangbeen0912",
-      "gitAuthorEmail": "sangbeen0912@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 2,
-        "deletions": 2,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "2학년 6팀",
-      "repo": "jeonghyerin002/2026_2TeamProject",
-      "branch": "main",
-      "sha": "feead736be5e306e032029e5093d49b8cac2573c",
-      "message": "[Feat]시트 컬럼 소문자로 변경",
-      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/feead736be5e306e032029e5093d49b8cac2573c",
-      "date": "2026-10-08T11:09:32Z",
-      "expectedGithub": "jeonghyerin002",
-      "actualGithub": "sangbeen0912",
-      "gitAuthorName": "sangbeen0912",
-      "gitAuthorEmail": "sangbeen0912@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 2,
-        "deletions": 2,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
       }
     },
     {

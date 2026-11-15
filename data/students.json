@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 16. 01:57",
+  "updatedAt": "2026. 11. 16. 06:40",
   "students": [
     {
       "name": "2학년 1팀",
@@ -17,8 +17,8 @@
         0,
         0,
         0,
-        0,
-        3,
+        2,
+        1,
         4,
         0
       ],
@@ -63,7 +63,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "17일 전",
+      "lastCommit": "18일 전",
       "status": "inactive",
       "weekly": [
         3,
@@ -77,13 +77,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -141,7 +141,7 @@
         },
         {
           "message": "[Feat] 미니맵, 지도, 플레이어 UI 추가",
-          "time": "8일 전",
+          "time": "9일 전",
           "sha": "42ae2b3",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/42ae2b33f27ace9462398754986e25bdc639fbb2"
         },
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Feat]맵 조금 꾸밈",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "d08f28e",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/d08f28e830cde7c81859caad4fe3751037777186"
         }
@@ -165,7 +165,7 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 9,
+      "commits": 7,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -175,8 +175,8 @@
         6,
         13,
         2,
-        6,
-        9
+        8,
+        7
       ],
       "recent": [
         {
@@ -223,8 +223,8 @@
       "status": "active",
       "weekly": [
         4,
-        10,
-        3,
+        12,
+        1,
         14,
         8,
         1,
@@ -355,7 +355,7 @@
         },
         {
           "message": "title",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "a4230d4",
           "url": "https://github.com/Sine-aw/nohesitate/commit/a4230d4cb913e86e06ae943bf2aa0d799866d86e"
         },
@@ -498,20 +498,38 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 6,
+      "commits": 9,
       "activeDays": 2,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
         4,
-        1,
-        8,
+        3,
+        6,
         1,
         0,
-        6
+        9
       ],
       "recent": [
+        {
+          "message": "[Feat] 신사 내부 검정 이미지..",
+          "time": "오늘",
+          "sha": "0e457d1",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/0e457d1dddb6d4eb7ad096ad3f7b260c4eb818cd"
+        },
+        {
+          "message": "[Feat] 건물 콜라이더 설정",
+          "time": "오늘",
+          "sha": "3e21a4d",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/3e21a4de7142a462de0b525167004320f72752c8"
+        },
+        {
+          "message": "[Feat] 씬 이동 설정",
+          "time": "오늘",
+          "sha": "05f1db0",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/05f1db0c95a253ace71507f413390471759e5a62"
+        },
         {
           "message": "[Feat] 무도의 길 타일맵 배치",
           "time": "오늘",
@@ -523,24 +541,6 @@
           "time": "오늘",
           "sha": "476448f",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/476448fbcd4f69acdcff1cbe5eb6ca3b08880fb3"
-        },
-        {
-          "message": "[Feat] 브라운시티 타일 배치",
-          "time": "오늘",
-          "sha": "3f4107e",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/3f4107e373fb473d52b754376742a8d00b095a1d"
-        },
-        {
-          "message": "Merge branch 'main' of https://github.com/jeonghyerin002/2026_2TeamProject",
-          "time": "3일 전",
-          "sha": "39a4051",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/39a4051ed78ca06a90017a215d53e3f763b5b32b"
-        },
-        {
-          "message": "[Feat] 바위 타일맵 추가",
-          "time": "3일 전",
-          "sha": "452d56f",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/452d56f75ef3f64fa98b908cf3f1771d8e21f2c2"
         }
       ]
     },
@@ -552,21 +552,21 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "19일 전",
+      "lastCommit": "20일 전",
       "status": "inactive",
       "weekly": [
         3,
-        4,
-        6,
-        6,
+        9,
+        5,
         3,
+        2,
         0,
         0
       ],
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
@@ -578,7 +578,7 @@
         },
         {
           "message": "[Assets] 타일맵 에셋 추가 및 팔레트 등록",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "e565616",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/e565616a44b8a42cd5d678c99eb68104688ea684"
         },
@@ -604,10 +604,10 @@
       "repo": "JungYS24/Tricky-Yacht",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "26일 전",
+      "lastCommit": "27일 전",
       "status": "inactive",
       "weekly": [
-        4,
+        3,
         4,
         12,
         17,
@@ -618,31 +618,31 @@
       "recent": [
         {
           "message": "[Chore] 리딤 복구",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "0e3bed2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/0e3bed230c4eb5973ffc1a0d3bd9121076375442"
         },
         {
           "message": "Merge pull request #80 from JungYS24/develop",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "4a97a97",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/4a97a979b522ae1aca444df9d6d9d379c1f9fdbe"
         },
         {
           "message": "Merge develop into main (develop 기준) (#79)",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "32f4986",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/32f4986cae20ce3931526e2d0136e8b0d07147d5"
         },
         {
           "message": "Merge remote-tracking branch 'origin/main' into merge/main-into-develop",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "5168ad2",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/5168ad2888cfa76fe1b4beaec97034e1177b6c0e"
         },
         {
           "message": "[Fix] 맵·튜토리얼 씬의 미싱 MonsterDataManager 제거",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "e035b86",
           "url": "https://github.com/JungYS24/Tricky-Yacht/commit/e035b86b75cf50a8bf8ad13ab656cecf07e40343"
         }
@@ -805,11 +805,11 @@
       "lastCommit": "17일 전",
       "status": "inactive",
       "weekly": [
-        9,
-        7,
-        3,
-        15,
+        10,
         6,
+        3,
+        17,
+        4,
         0,
         0
       ],
@@ -840,7 +840,7 @@
         },
         {
           "message": "[Chore] 씬 저장",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "930496a",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/930496a434ca172fa80f8ee7b2aebef277f0eff2"
         }
@@ -958,7 +958,7 @@
       "repo": "Taehyeon88/Graduation-project",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "17일 전",
+      "lastCommit": "18일 전",
       "status": "inactive",
       "weekly": [
         3,
@@ -972,13 +972,13 @@
       "recent": [
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "17일 전",
+          "time": "18일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -1008,7 +1008,7 @@
       "team": "yuseongmok",
       "github": "yuseongmok",
       "repo": "yuseongmok/Delivery-service",
-      "commits": 9,
+      "commits": 7,
       "activeDays": 5,
       "lastCommit": "오늘",
       "status": "active",
@@ -1018,8 +1018,8 @@
         6,
         13,
         2,
-        6,
-        9
+        8,
+        7
       ],
       "recent": [
         {
