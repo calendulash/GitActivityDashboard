@@ -1,11 +1,57 @@
 {
-  "updatedAt": "2026. 11. 16. 06:40",
+  "updatedAt": "2026. 11. 16. 10:31",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "d1c5a81b5f4a048aa157768b57d8745d9fd52341",
+      "message": "[Feat] 바스테트 비석을 모두 해독하면 열리는 숨은 방 향실과 히든 유물 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/d1c5a81b5f4a048aa157768b57d8745d9fd52341",
+      "date": "2026-11-15T22:37:44Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 30,
+        "additions": 1721,
+        "deletions": 33,
+        "meaningful_change": 601,
+        "meaningful_file_count": 17,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "4a3c4f95952630b8c95c4a78e0b93cb7f0d9952e",
+      "message": "[Fix] 수첩 메모가 넘치면 다음 쪽으로 넘기고 메모 개수 표시 수정",
+      "url": "https://github.com/suyan05/PharaohCube/commit/4a3c4f95952630b8c95c4a78e0b93cb7f0d9952e",
+      "date": "2026-11-15T21:53:54Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "kangxogh1013",
+      "gitAuthorName": "kangxogh1013",
+      "gitAuthorEmail": "ho1013sl@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 72,
+        "deletions": 10,
+        "meaningful_change": 82,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2256,52 +2302,6 @@
         "deletions": 29852,
         "meaningful_change": 57154,
         "meaningful_file_count": 30,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "d839b823aee4c552b70aa93323eda5cb91be72c6",
-      "message": "[Fix] Prologue_Dig 카메라 배경을 단색(어두운 모래색)으로 - 맵 바깥 노란색 비침",
-      "url": "https://github.com/suyan05/PharaohCube/commit/d839b823aee4c552b70aa93323eda5cb91be72c6",
-      "date": "2026-10-23T05:47:17Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 7,
-        "deletions": 2,
-        "meaningful_change": 9,
-        "meaningful_file_count": 2,
-        "suspicious_score": 15,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "bbdd40b6bf83214ed0efd15c1e152ee501fd9859",
-      "message": "[Fix] 밤 판/완성 그림 내용 맞바꿈, 불씨 아이콘 겹침, 퍼즐 파피루스 배경",
-      "url": "https://github.com/suyan05/PharaohCube/commit/bbdd40b6bf83214ed0efd15c1e152ee501fd9859",
-      "date": "2026-10-23T05:43:51Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 13,
-        "additions": 363,
-        "deletions": 14,
-        "meaningful_change": 179,
-        "meaningful_file_count": 9,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -6910,6 +6910,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "a8141240f653d07dccdbb0a6a71093a769d1e9d3",
+      "message": "[Feat] Chicken Qeust 조리 현장 및 조리 퀘스트 완료",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/a8141240f653d07dccdbb0a6a71093a769d1e9d3",
+      "date": "2026-11-15T21:41:50Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 1805,
+        "deletions": 1088,
+        "meaningful_change": 2841,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "06bae836e09a9750ff2c0308c7e31217945a458f",
       "message": "[Fix] UI 관련 수정",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/06bae836e09a9750ff2c0308c7e31217945a458f",
@@ -9179,29 +9202,6 @@
         "deletions": 22,
         "meaningful_change": 123,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "32912f47f5f9310ed935faf1d27c66000707ff45",
-      "message": "[Feat] 오토바이 라이트 구현",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/32912f47f5f9310ed935faf1d27c66000707ff45",
-      "date": "2026-10-05T13:34:43Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 773,
-        "deletions": 9,
-        "meaningful_change": 754,
-        "meaningful_file_count": 7,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -17283,6 +17283,29 @@
       "projectName": "2학년 6팀",
       "repo": "jeonghyerin002/2026_2TeamProject",
       "branch": "main",
+      "sha": "e45b0005c17de73371d028956a594d79151b12ce",
+      "message": "[Fix] 에테르 보관함 fasle 입력키 E키로 지정",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/e45b0005c17de73371d028956a594d79151b12ce",
+      "date": "2026-11-16T01:08:44Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "blocks2094",
+      "gitAuthorName": "HyunWoo",
+      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 15,
+        "deletions": 0,
+        "meaningful_change": 15,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
       "sha": "0e457d1dddb6d4eb7ad096ad3f7b260c4eb818cd",
       "message": "[Feat] 신사 내부 검정 이미지..",
       "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/0e457d1dddb6d4eb7ad096ad3f7b260c4eb818cd",
@@ -19554,29 +19577,6 @@
         "meaningful_file_count": 0,
         "suspicious_score": 80,
         "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "2학년 6팀",
-      "repo": "jeonghyerin002/2026_2TeamProject",
-      "branch": "main",
-      "sha": "8835b3287aadc4bb3c7e7f3e45608135d629b554",
-      "message": "[Feat] 무기 획득/장착 기능 구현",
-      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/8835b3287aadc4bb3c7e7f3e45608135d629b554",
-      "date": "2026-10-08T14:28:00Z",
-      "expectedGithub": "jeonghyerin002",
-      "actualGithub": "blocks2094",
-      "gitAuthorName": "HyunWoo",
-      "gitAuthorEmail": "blocks2094@g.shingu.ac.kr",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 24,
-        "additions": 493,
-        "deletions": 5,
-        "meaningful_change": 462,
-        "meaningful_file_count": 12,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
@@ -23194,6 +23194,29 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "537616b436b0d6eefdc5f921695c097bcdb46570",
+      "message": "[Chore] 밸런스 수치 조정, 로컬라이징 테이블 추가, 플로팅텍스트 폰트 변경",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/537616b436b0d6eefdc5f921695c097bcdb46570",
+      "date": "2026-11-16T01:08:53Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 39,
+        "additions": 590,
+        "deletions": 77,
+        "meaningful_change": 638,
+        "meaningful_file_count": 37,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "bcad5bc38c524db8463ae576a58d3ff3f9481ec7",
       "message": "[Chore] 연출 수치 조정",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/bcad5bc38c524db8463ae576a58d3ff3f9481ec7",
@@ -25468,23 +25491,23 @@
       }
     },
     {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
       "branch": "main",
-      "sha": "207179642be6e58c116f91036b1d93ca49554d9a",
-      "message": "[Chore] 폰트 다이나믹 > 스태틱 변경",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/207179642be6e58c116f91036b1d93ca49554d9a",
-      "date": "2026-09-28T01:14:29Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
+      "sha": "c13f3d2ebf85b2948f42d0084100e023c096acfb",
+      "message": "더미 오브젝트",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/c13f3d2ebf85b2948f42d0084100e023c096acfb",
+      "date": "2026-11-16T01:00:05Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
       "analysis": {
-        "changed_files": 7,
-        "additions": 175416,
-        "deletions": 23499,
-        "meaningful_change": 198897,
+        "changed_files": 6,
+        "additions": 440,
+        "deletions": 1108,
+        "meaningful_change": 1546,
         "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
@@ -27764,29 +27787,6 @@
         "meaningful_change": 372,
         "meaningful_file_count": 4,
         "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "f2a85d174b2bd4a7d7ab0d139378b7df9b9b2b69",
-      "message": "[Fix] 무기 타입 샷건 추가",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/f2a85d174b2bd4a7d7ab0d139378b7df9b9b2b69",
-      "date": "2026-11-02T08:43:03Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 2,
-        "deletions": 1,
-        "meaningful_change": 3,
-        "meaningful_file_count": 1,
-        "suspicious_score": 30,
         "judgment": "정상"
       }
     },
@@ -38443,6 +38443,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "a8141240f653d07dccdbb0a6a71093a769d1e9d3",
+      "message": "[Feat] Chicken Qeust 조리 현장 및 조리 퀘스트 완료",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/a8141240f653d07dccdbb0a6a71093a769d1e9d3",
+      "date": "2026-11-15T21:41:50Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "Woong1016",
+      "gitAuthorName": "Woong1016",
+      "gitAuthorEmail": "yol7122@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 1805,
+        "deletions": 1088,
+        "meaningful_change": 2841,
+        "meaningful_file_count": 5,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "06bae836e09a9750ff2c0308c7e31217945a458f",
       "message": "[Fix] UI 관련 수정",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/06bae836e09a9750ff2c0308c7e31217945a458f",
@@ -40712,29 +40735,6 @@
         "deletions": 22,
         "meaningful_change": 123,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "32912f47f5f9310ed935faf1d27c66000707ff45",
-      "message": "[Feat] 오토바이 라이트 구현",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/32912f47f5f9310ed935faf1d27c66000707ff45",
-      "date": "2026-10-05T13:34:43Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "losieee",
-      "gitAuthorName": "losieee",
-      "gitAuthorEmail": "dfdf334@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 773,
-        "deletions": 9,
-        "meaningful_change": 754,
-        "meaningful_file_count": 7,
         "suspicious_score": 0,
         "judgment": "정상"
       }
