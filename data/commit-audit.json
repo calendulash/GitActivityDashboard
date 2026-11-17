@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 17. 04:02",
+  "updatedAt": "2026. 11. 17. 11:30",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -8507,13 +8507,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -9201,6 +9201,29 @@
         "additions": 101,
         "deletions": 22,
         "meaningful_change": 123,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 7팀",
+      "repo": "23jihwan/7_tim",
+      "branch": "main",
+      "sha": "427c722862433808aac65e4a7d41af7832506c6a",
+      "message": "[Feat] 휴식방에서 카드제거 최대 3장까지 추가",
+      "url": "https://github.com/23jihwan/7_tim/commit/427c722862433808aac65e4a7d41af7832506c6a",
+      "date": "2026-11-16T19:13:00Z",
+      "expectedGithub": "23jihwan",
+      "actualGithub": "omh1228",
+      "gitAuthorName": "omh1228",
+      "gitAuthorEmail": "pigoh041228@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 61,
+        "deletions": 10,
+        "meaningful_change": 71,
         "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"
@@ -17329,6 +17352,29 @@
       "projectName": "2학년 6팀",
       "repo": "jeonghyerin002/2026_2TeamProject",
       "branch": "main",
+      "sha": "fb7c12d098f22c8b36d4967bc5c9dd9f02c17252",
+      "message": "[Feat] 플레이어 이미지 수정 및 무령산 씬 설계",
+      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/fb7c12d098f22c8b36d4967bc5c9dd9f02c17252",
+      "date": "2026-11-16T19:16:45Z",
+      "expectedGithub": "jeonghyerin002",
+      "actualGithub": "jeonghyerin002",
+      "gitAuthorName": "jeonghyerin002",
+      "gitAuthorEmail": "jhr102446@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 233,
+        "deletions": 0,
+        "meaningful_change": 218,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 6팀",
+      "repo": "jeonghyerin002/2026_2TeamProject",
+      "branch": "main",
       "sha": "6953220a0a069ee5b8a04f9f38517ac22e48acac",
       "message": "[Feat] 카테고리 인벤토리 UI 및 장비 스텟 비교 추가",
       "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/6953220a0a069ee5b8a04f9f38517ac22e48acac",
@@ -19599,29 +19645,6 @@
         "meaningful_change": 0,
         "meaningful_file_count": 0,
         "suspicious_score": 95,
-        "judgment": "뻥의심"
-      }
-    },
-    {
-      "projectName": "2학년 6팀",
-      "repo": "jeonghyerin002/2026_2TeamProject",
-      "branch": "main",
-      "sha": "f4e7947d6cec9c09ed8457426d29c6979d3c0809",
-      "message": "[Feat]아이템 추가 랭크다운 추가",
-      "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/f4e7947d6cec9c09ed8457426d29c6979d3c0809",
-      "date": "2026-10-09T12:39:50Z",
-      "expectedGithub": "jeonghyerin002",
-      "actualGithub": "sangbeen0912",
-      "gitAuthorName": "sangbeen0912",
-      "gitAuthorEmail": "sangbeen0912@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 12,
-        "deletions": 2,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
         "judgment": "뻥의심"
       }
     },
@@ -24262,13 +24285,13 @@
       "gitAuthorEmail": "jjy26297449@gmail.com",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
+        "changed_files": 300,
+        "additions": 8,
         "deletions": 0,
         "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "meaningful_file_count": 130,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
@@ -30186,6 +30209,29 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "e5cc4449399db886dc95d368535679de17f13cb5",
+      "message": "[Fix] 갓레이 사라짐 버그 수정",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/e5cc4449399db886dc95d368535679de17f13cb5",
+      "date": "2026-11-16T19:01:54Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "sw4860",
+      "gitAuthorName": "sand",
+      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 32,
+        "deletions": 323,
+        "meaningful_change": 355,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "b43d61b4337de071eb12ca47633abdec4cfdade4",
       "message": "[Fix] 카메라 시야 수정",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/b43d61b4337de071eb12ca47633abdec4cfdade4",
@@ -32454,29 +32500,6 @@
         "additions": 1181,
         "deletions": 115,
         "meaningful_change": 1282,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "6be379628cd3c8a70859edb71e036b78c6731509",
-      "message": "[Feat] 상호작용 시스템, UI",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/6be379628cd3c8a70859edb71e036b78c6731509",
-      "date": "2026-10-04T06:32:05Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 1099,
-        "deletions": 27,
-        "meaningful_change": 1112,
         "meaningful_file_count": 8,
         "suspicious_score": 0,
         "judgment": "정상"

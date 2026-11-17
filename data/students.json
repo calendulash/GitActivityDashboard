@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 17. 04:02",
+  "updatedAt": "2026. 11. 17. 11:30",
   "students": [
     {
       "name": "2학년 1팀",
@@ -49,7 +49,7 @@
         },
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "21일 전",
+          "time": "22일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         }
@@ -89,13 +89,13 @@
         },
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Feat] cctv실, 조종실 추가, 문 추가",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "1be28d0",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/1be28d0950014721c1ab518c6e1a9f327488c69a"
         }
@@ -172,8 +172,8 @@
       "weekly": [
         0,
         1,
-        12,
-        7,
+        13,
+        6,
         2,
         9,
         6
@@ -225,8 +225,8 @@
         4,
         12,
         4,
-        17,
-        2,
+        18,
+        1,
         1,
         2
       ],
@@ -257,7 +257,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         }
@@ -326,8 +326,8 @@
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
-        2,
-        1,
+        3,
+        0,
         1,
         2,
         1,
@@ -407,7 +407,7 @@
         },
         {
           "message": "[Chore] .gitignore에 zip 제외 추가",
-          "time": "14일 전",
+          "time": "15일 전",
           "sha": "3d25278",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/3d25278a8a7d17b3c24ff095c20f71eeafa32859"
         },
@@ -498,9 +498,9 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 9,
-      "activeDays": 2,
-      "lastCommit": "어제",
+      "commits": 10,
+      "activeDays": 3,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
@@ -509,9 +509,15 @@
         6,
         0,
         0,
-        9
+        10
       ],
       "recent": [
+        {
+          "message": "[Feat] 플레이어 이미지 수정 및 무령산 씬 설계",
+          "time": "오늘",
+          "sha": "fb7c12d",
+          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/fb7c12d098f22c8b36d4967bc5c9dd9f02c17252"
+        },
         {
           "message": "[Feat] 신사 내부 검정 이미지..",
           "time": "어제",
@@ -535,12 +541,6 @@
           "time": "어제",
           "sha": "2e0c43c",
           "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/2e0c43c3a9126bb4d87d4aa811538903d6509aa5"
-        },
-        {
-          "message": "[Feat] 진무가문 내부",
-          "time": "어제",
-          "sha": "476448f",
-          "url": "https://github.com/jeonghyerin002/2026_2TeamProject/commit/476448fbcd4f69acdcff1cbe5eb6ca3b08880fb3"
         }
       ]
     },
@@ -552,21 +552,21 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "20일 전",
+      "lastCommit": "21일 전",
       "status": "inactive",
       "weekly": [
-        0,
-        9,
-        5,
-        4,
         1,
+        8,
+        5,
+        5,
+        0,
         0,
         0
       ],
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "20일 전",
+          "time": "21일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
@@ -676,19 +676,19 @@
         },
         {
           "message": "[Feat] 패배 시 게임 초기화, 메임 복귀",
-          "time": "오늘",
+          "time": "어제",
           "sha": "0fef058",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/0fef058b21b9a32fa2b0767595b1c1e083986cf0"
         },
         {
           "message": "[Chore] 배경 추가, 적 버프아이콘 정렬 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "76c186b",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/76c186b85fd516bd2ef572daaabbef48b0f99457"
         },
         {
           "message": "[Chore] 밸런스 수치 조정, 로컬라이징 테이블 추가, 플로팅텍스트 폰트 변경",
-          "time": "오늘",
+          "time": "어제",
           "sha": "537616b",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/537616b436b0d6eefdc5f921695c097bcdb46570"
         },
@@ -857,7 +857,7 @@
       "lastCommit": "어제",
       "status": "active",
       "weekly": [
-        2,
+        1,
         5,
         10,
         11,
@@ -932,7 +932,7 @@
         },
         {
           "message": "스토리 시스템 코드 문제 없지만 구조상 문제 많음",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "a6c055c",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a6c055c134a6a25b3b066f5f88f7fc4623612c5e"
         },
@@ -984,13 +984,13 @@
         },
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         },
         {
           "message": "[Feat] 주점/시작화면 씬 보정 및 사운드 적용",
-          "time": "18일 전",
+          "time": "19일 전",
           "sha": "9762269",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/97622692e7933a2ef4dfba7f753600ac21dd1337"
         },
@@ -1015,8 +1015,8 @@
       "weekly": [
         0,
         1,
-        12,
-        7,
+        13,
+        6,
         2,
         9,
         6
