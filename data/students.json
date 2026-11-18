@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 18. 04:45",
+  "updatedAt": "2026. 11. 18. 11:03",
   "students": [
     {
       "name": "2학년 1팀",
@@ -49,7 +49,7 @@
         },
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         }
@@ -66,11 +66,11 @@
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        6,
-        1,
         7,
-        11,
-        4,
+        0,
+        7,
+        12,
+        3,
         0,
         4
       ],
@@ -101,7 +101,7 @@
         },
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         }
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Feat] cctv실, 조종실 추가, 문 추가",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "1be28d0",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/1be28d0950014721c1ab518c6e1a9f327488c69a"
         }
@@ -257,7 +257,7 @@
         },
         {
           "message": "[Fix]빌드",
-          "time": "21일 전",
+          "time": "22일 전",
           "sha": "1e2e947",
           "url": "https://github.com/23jihwan/7_tim/commit/1e2e947714917a8810dfa5f1a8aefb21ea91b321"
         }
@@ -407,7 +407,7 @@
         },
         {
           "message": "[Chore] .gitignore에 zip 제외 추가",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "3d25278",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/3d25278a8a7d17b3c24ff095c20f71eeafa32859"
         },
@@ -654,20 +654,38 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 19,
-      "activeDays": 5,
+      "commits": 22,
+      "activeDays": 6,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        11,
+        8,
         12,
         26,
         6,
         13,
         13,
-        19
+        22
       ],
       "recent": [
+        {
+          "message": "[Fix] 버프, 디버프 지속턴수 의도보다 -1되던 문제 수정",
+          "time": "오늘",
+          "sha": "2ef8cdb",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/2ef8cdb56167dd40dbeedcc8c89651c87f86e2fe"
+        },
+        {
+          "message": "[Fix] 보상 새로고침 전투 당 1번으로 변경",
+          "time": "오늘",
+          "sha": "3e3c8ac",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/3e3c8ace70a7587a9103016695f610beba85ff9f"
+        },
+        {
+          "message": "[Fix] 휴식 -> 스테이지 씬 복귀 시 층 다음 층 열리도록",
+          "time": "오늘",
+          "sha": "37ffd64",
+          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/37ffd646a1cc82484dbf4d3048b46a102f7c4de7"
+        },
         {
           "message": "[Feat] 휴식씬 기능 실제 수치 연동, 테스트 완료",
           "time": "오늘",
@@ -679,24 +697,6 @@
           "time": "오늘",
           "sha": "ff987a5",
           "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/ff987a54d9076ed44099769a4003c761f1da8c7f"
-        },
-        {
-          "message": "[Fix] 드로우 예정 순서대로 보이던 덱을 기준에 맞춰 정렬하도록 수정",
-          "time": "오늘",
-          "sha": "2f7d259",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/2f7d25953bfd5033221baef5a502d41c3198e744"
-        },
-        {
-          "message": "[Feat] 게임 종료 버튼 추가",
-          "time": "오늘",
-          "sha": "1948c77",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/1948c77954966797ab185bd5bf066de449218c39"
-        },
-        {
-          "message": "[Feat] 씬 전환 연출 추가",
-          "time": "오늘",
-          "sha": "82dc750",
-          "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/82dc75056b511bb83406b31a544f31b442f2a9cb"
         }
       ]
     },
@@ -859,10 +859,10 @@
       "weekly": [
         1,
         10,
-        13,
-        3,
-        2,
+        15,
+        1,
         6,
+        2,
         6
       ],
       "recent": [
@@ -911,8 +911,8 @@
       "weekly": [
         8,
         4,
-        4,
-        15,
+        8,
+        11,
         6,
         3,
         12
@@ -961,11 +961,11 @@
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        6,
-        1,
         7,
-        11,
-        4,
+        0,
+        7,
+        12,
+        3,
         0,
         4
       ],
@@ -996,7 +996,7 @@
         },
         {
           "message": "[Clean] 사용하지 않는 이미지 제거",
-          "time": "19일 전",
+          "time": "20일 전",
           "sha": "5e5709b",
           "url": "https://github.com/Taehyeon88/Graduation-project/commit/5e5709b947fd61f8e9e5c33ab46992756ba11624"
         }
