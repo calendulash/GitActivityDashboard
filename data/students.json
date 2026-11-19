@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 19. 03:35",
+  "updatedAt": "2026. 11. 19. 09:50",
   "students": [
     {
       "name": "2학년 1팀",
@@ -49,7 +49,7 @@
         },
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "23일 전",
+          "time": "24일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         }
@@ -69,8 +69,8 @@
         7,
         0,
         10,
-        10,
-        2,
+        12,
+        0,
         0,
         6
       ],
@@ -121,8 +121,8 @@
         0,
         0,
         1,
-        5,
-        1,
+        6,
+        0,
         4,
         1
       ],
@@ -153,7 +153,7 @@
         },
         {
           "message": "[Feat] cctv실, 조종실 추가, 문 추가",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "1be28d0",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/1be28d0950014721c1ab518c6e1a9f327488c69a"
         }
@@ -380,8 +380,8 @@
       "weekly": [
         11,
         3,
-        0,
-        27,
+        4,
+        23,
         9,
         18,
         0
@@ -401,19 +401,19 @@
         },
         {
           "message": "[Feat] 우유 스팀 미니게임 추가",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "39fde1f",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/39fde1f78377b0a129553e46102081a92d7ef51c"
         },
         {
           "message": "[Feat] 포타필터 담기 미니게임 추가",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "2a14dbb",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/2a14dbb0d4efb3853916544868bb73d53f106b6c"
         },
         {
           "message": "[Feat] 물 타기 미니게임 추가",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "7613845",
           "url": "https://github.com/simo07d7PG/Team_JJAMBBAP/commit/7613845d16f8f9a14786707acff10b662555c304"
         }
@@ -552,7 +552,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "22일 전",
+      "lastCommit": "23일 전",
       "status": "inactive",
       "weekly": [
         2,
@@ -566,7 +566,7 @@
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "22일 전",
+          "time": "23일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
@@ -805,9 +805,9 @@
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
-        7,
-        0,
-        6,
+        5,
+        1,
+        5,
         15,
         3,
         0,
@@ -964,8 +964,8 @@
         7,
         0,
         10,
-        10,
-        2,
+        12,
+        0,
         0,
         6
       ],

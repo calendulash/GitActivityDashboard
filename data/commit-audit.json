@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 19. 03:35",
+  "updatedAt": "2026. 11. 19. 09:50",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -8599,13 +8599,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -24929,13 +24929,13 @@
       "gitAuthorEmail": "jjy26297449@gmail.com",
       "verification": "verified",
       "analysis": {
-        "changed_files": 300,
-        "additions": 8,
+        "changed_files": 0,
+        "additions": 0,
         "deletions": 0,
         "meaningful_change": 0,
-        "meaningful_file_count": 130,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -30508,6 +30508,52 @@
       "projectName": "1학년 A반 5팀",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
       "branch": "main",
+      "sha": "40daaeaccc4f6d7ae113154e121adf85527a97f0",
+      "message": "[feat] 퍼즐 벽화 벽 3D 리소스 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/40daaeaccc4f6d7ae113154e121adf85527a97f0",
+      "date": "2026-11-18T20:59:26Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "surren01522-tech",
+      "gitAuthorName": "surren01522-tech",
+      "gitAuthorEmail": "surren01522@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 21,
+        "additions": 15277,
+        "deletions": 0,
+        "meaningful_change": 634,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
+      "sha": "39ad328d2ed1848e5f2555c1fbdc8854b173f889",
+      "message": "[feat] 세팅 UI 아이콘 추가",
+      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/39ad328d2ed1848e5f2555c1fbdc8854b173f889",
+      "date": "2026-11-18T18:44:33Z",
+      "expectedGithub": "sw4860",
+      "actualGithub": "surren01522-tech",
+      "gitAuthorName": "surren01522-tech",
+      "gitAuthorEmail": "surren01522@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 18,
+        "additions": 601,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 8,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "1학년 A반 5팀",
+      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
+      "branch": "main",
       "sha": "af17f84390820b7f864d4789fa50a22485188451",
       "message": "[feat] Alt 키 입력 시 UI 리소스 추가",
       "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/af17f84390820b7f864d4789fa50a22485188451",
@@ -32755,52 +32801,6 @@
         "meaningful_change": 16247,
         "meaningful_file_count": 3,
         "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "7d76f6580c1a0fc7e9415137fc5e9d3f9c42c92c",
-      "message": "[Feat] 플레이 데이터 세이브, 로드",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/7d76f6580c1a0fc7e9415137fc5e9d3f9c42c92c",
-      "date": "2026-10-05T10:54:31Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 866,
-        "deletions": 15,
-        "meaningful_change": 881,
-        "meaningful_file_count": 12,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 5팀",
-      "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "branch": "main",
-      "sha": "75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072",
-      "message": "[Chore] 빌드 씬 추가",
-      "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/75fa7b7ff806ff0abcaaf62ee6d083f54f2e3072",
-      "date": "2026-10-04T18:06:43Z",
-      "expectedGithub": "sw4860",
-      "actualGithub": "sw4860",
-      "gitAuthorName": "sand",
-      "gitAuthorEmail": "68569225+sw4860@users.noreply.github.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 3,
-        "deletions": 0,
-        "meaningful_change": 3,
-        "meaningful_file_count": 1,
-        "suspicious_score": 30,
         "judgment": "정상"
       }
     },
