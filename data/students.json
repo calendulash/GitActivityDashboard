@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 20. 08:59",
+  "updatedAt": "2026. 11. 20. 14:07",
   "students": [
     {
       "name": "2학년 1팀",
@@ -141,7 +141,7 @@
         },
         {
           "message": "[Fix] 미션 위치 수정",
-          "time": "10일 전",
+          "time": "11일 전",
           "sha": "1963540",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/19635406b6bf8c46628eb7c2ec9c1f869f68e1e2"
         },
@@ -219,7 +219,7 @@
       "repo": "23jihwan/7_tim",
       "commits": 2,
       "activeDays": 2,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         7,
@@ -233,7 +233,7 @@
       "recent": [
         {
           "message": "[Fix]카드 데이터 수정",
-          "time": "오늘",
+          "time": "어제",
           "sha": "e3bbe72",
           "url": "https://github.com/23jihwan/7_tim/commit/e3bbe72bcf6cda8737c7d295917b84c867b198fe"
         },
@@ -446,8 +446,8 @@
       "team": "yungyeong08",
       "github": "yungyeong08",
       "repo": "yungyeong08/4team_project_02",
-      "commits": 2,
-      "activeDays": 2,
+      "commits": 1,
+      "activeDays": 1,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
@@ -456,8 +456,8 @@
         2,
         1,
         0,
-        0,
-        2
+        1,
+        1
       ],
       "recent": [
         {
@@ -468,7 +468,7 @@
         },
         {
           "message": "[Feat] 물고기 10종 이미지 추가",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "d4f5d61",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/d4f5d61b0ceeaf64bee25e1be1ccb310513a2da8"
         },
@@ -800,9 +800,9 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 14,
-      "activeDays": 3,
-      "lastCommit": "어제",
+      "commits": 15,
+      "activeDays": 4,
+      "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         5,
@@ -811,9 +811,15 @@
         15,
         0,
         0,
-        14
+        15
       ],
       "recent": [
+        {
+          "message": "[Feat] UI 변경 및 에셋 교체, Ch.0 - Ch.1 연결 pt.1",
+          "time": "오늘",
+          "sha": "9138fab",
+          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/9138fab64695019902fbd20a424a10adafa1b550"
+        },
         {
           "message": "[Fix] 물 파티클 위치 버그 수정",
           "time": "어제",
@@ -828,7 +834,7 @@
         },
         {
           "message": "[Refactor] 잔디 최적화",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "3bd3984",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/3bd39846be708d54598cae2aab59a97d48921638"
         },
@@ -837,12 +843,6 @@
           "time": "2일 전",
           "sha": "d5858b2",
           "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/d5858b27b2f1ab4d6027602fb558e3f213b36963"
-        },
-        {
-          "message": "[Feat] 스타트 페이드 화면, 빈 화면 클릭시 닫기 추가",
-          "time": "2일 전",
-          "sha": "20fdcc1",
-          "url": "https://github.com/surren01522-tech/2026_02_GameProject_Eurydice/commit/20fdcc17ff928374fed73fcc6daf66818a1687f2"
         }
       ]
     },
@@ -906,7 +906,7 @@
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "commits": 14,
       "activeDays": 4,
-      "lastCommit": "오늘",
+      "lastCommit": "어제",
       "status": "active",
       "weekly": [
         0,
@@ -920,7 +920,7 @@
       "recent": [
         {
           "message": "런 시스템 카메라 쪽 코드 추가 확인 아직 안함 개선 해야할 듯",
-          "time": "오늘",
+          "time": "어제",
           "sha": "28ec3b9",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/28ec3b95e03a53124e573c7de3aa2b31f187d836"
         },
@@ -938,13 +938,13 @@
         },
         {
           "message": "[Feat] 런 시스템 코드 만듬 배치해야함",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "f4537fa",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/f4537fa9c32ceb5f4d5a8e0733eb48261c8e0cc3"
         },
         {
           "message": "스토리에서 씬 넘어가짐",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "b26d2d7",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/b26d2d7e068756043642f279f11d2a799f576522"
         }
