@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 21. 12:15",
+  "updatedAt": "2026. 11. 21. 19:45",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6910,6 +6910,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "a625fe42bcd43b2985847e8a4e9951456356e1ba",
+      "message": "[Feat] 챕터 3 게틀링건 미션 초안 작성",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/a625fe42bcd43b2985847e8a4e9951456356e1ba",
+      "date": "2026-11-21T03:14:09Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "losieee",
+      "gitAuthorName": "losieee",
+      "gitAuthorEmail": "dfdf334@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 4,
+        "additions": 9756,
+        "deletions": 9437,
+        "meaningful_change": 19193,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "922ade31456e4248f9904e38a5440fccb3f3eb84",
       "message": "[Feat] 챕터 3 권총 미션 구현 완료",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/922ade31456e4248f9904e38a5440fccb3f3eb84",
@@ -8737,13 +8760,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -9179,29 +9202,6 @@
         "deletions": 311,
         "meaningful_change": 331,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "1238a0501d3258dda005221f5eae9b014e2fa0cb",
-      "message": "[Fix] 주문 안받아지는 버그 수정",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/1238a0501d3258dda005221f5eae9b014e2fa0cb",
-      "date": "2026-10-06T22:50:41Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "shingumingi",
-      "gitAuthorName": "shingumingi",
-      "gitAuthorEmail": "pettid0314@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 650,
-        "deletions": 493,
-        "meaningful_change": 1143,
-        "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -17620,6 +17620,29 @@
         "deletions": 0,
         "meaningful_change": 135,
         "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 4팀",
+      "repo": "yungyeong08/4team_project_02",
+      "branch": "main",
+      "sha": "7e9fd5463afc67541e4ccba13f2d6ca3fd656b53",
+      "message": "[Feat] 물고기 30종 밸런스 및 낚시터 확장",
+      "url": "https://github.com/yungyeong08/4team_project_02/commit/7e9fd5463afc67541e4ccba13f2d6ca3fd656b53",
+      "date": "2026-11-21T08:49:43Z",
+      "expectedGithub": "yungyeong08",
+      "actualGithub": "whxogud9090",
+      "gitAuthorName": "태형",
+      "gitAuthorEmail": "th870707@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 343,
+        "deletions": 90,
+        "meaningful_change": 433,
+        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -26851,6 +26874,52 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "00b9bd35960eaf2231cec35b29b053dd005bad12",
+      "message": "일부 모델 교체",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/00b9bd35960eaf2231cec35b29b053dd005bad12",
+      "date": "2026-11-21T08:48:06Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 766,
+        "deletions": 60,
+        "meaningful_change": 382,
+        "meaningful_file_count": 7,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "db77337bd0518cdf5c035e20a900bff9c84437f3",
+      "message": "NPC02 외형 조정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/db77337bd0518cdf5c035e20a900bff9c84437f3",
+      "date": "2026-11-21T08:23:26Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 204,
+        "deletions": 119,
+        "meaningful_change": 212,
+        "meaningful_file_count": 4,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "78285f2651ed7452c2110f262421a549a7777ddf",
       "message": "Npc 일부 모델 조정",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/78285f2651ed7452c2110f262421a549a7777ddf",
@@ -29097,52 +29166,6 @@
         "deletions": 0,
         "meaningful_change": 20,
         "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "d4f1cec7f177b70c29da36b52cd38d3108ae2dfd",
-      "message": "문열기 시스템 조정",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/d4f1cec7f177b70c29da36b52cd38d3108ae2dfd",
-      "date": "2026-11-11T01:57:04Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 5,
-        "additions": 703,
-        "deletions": 0,
-        "meaningful_change": 584,
-        "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "a1963087e6a95f452a594d7626ab8e2cd861ea23",
-      "message": "3d 오브젝트 배치",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/a1963087e6a95f452a594d7626ab8e2cd861ea23",
-      "date": "2026-11-11T01:26:35Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 43,
-        "additions": 5861,
-        "deletions": 316,
-        "meaningful_change": 4462,
-        "meaningful_file_count": 24,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -42110,13 +42133,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
