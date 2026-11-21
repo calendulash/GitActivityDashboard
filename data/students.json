@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 21. 06:55",
+  "updatedAt": "2026. 11. 21. 12:15",
   "students": [
     {
       "name": "2학년 1팀",
@@ -49,7 +49,7 @@
         },
         {
           "message": "[Fix]맵 배치 수정",
-          "time": "25일 전",
+          "time": "26일 전",
           "sha": "8a6722c",
           "url": "https://github.com/suyan05/PharaohCube/commit/8a6722c485e74bffff25d3bc1eab00fc639458d3"
         }
@@ -68,8 +68,8 @@
       "weekly": [
         7,
         6,
-        6,
-        10,
+        7,
+        9,
         0,
         0,
         6
@@ -171,9 +171,9 @@
       "status": "active",
       "weekly": [
         0,
-        3,
+        4,
         13,
-        5,
+        4,
         4,
         9,
         8
@@ -219,13 +219,13 @@
       "repo": "23jihwan/7_tim",
       "commits": 2,
       "activeDays": 2,
-      "lastCommit": "어제",
+      "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         7,
         6,
-        6,
-        16,
+        8,
+        14,
         0,
         2,
         2
@@ -233,7 +233,7 @@
       "recent": [
         {
           "message": "[Fix]카드 데이터 수정",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "e3bbe72",
           "url": "https://github.com/23jihwan/7_tim/commit/e3bbe72bcf6cda8737c7d295917b84c867b198fe"
         },
@@ -926,7 +926,7 @@
         },
         {
           "message": "런 시스템 카메라 쪽 코드 추가 확인 아직 안함 개선 해야할 듯",
-          "time": "어제",
+          "time": "2일 전",
           "sha": "28ec3b9",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/28ec3b95e03a53124e573c7de3aa2b31f187d836"
         },
@@ -963,8 +963,8 @@
       "weekly": [
         7,
         6,
-        6,
-        10,
+        7,
+        9,
         0,
         0,
         6
@@ -1014,9 +1014,9 @@
       "status": "active",
       "weekly": [
         0,
-        3,
+        4,
         13,
-        5,
+        4,
         4,
         9,
         8
