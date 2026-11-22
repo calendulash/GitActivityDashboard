@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 22. 07:52",
+  "updatedAt": "2026. 11. 22. 11:58",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -8783,13 +8783,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -26897,6 +26897,52 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "b19e79a8a04ebc9440c0b8bbded98750821b0627",
+      "message": "장식품 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/b19e79a8a04ebc9440c0b8bbded98750821b0627",
+      "date": "2026-11-22T02:41:55Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 12,
+        "additions": 2841,
+        "deletions": 250,
+        "meaningful_change": 3043,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "d48dcb4ca257bb76e4670c5c199fc55c0793f701",
+      "message": "사소한 조정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/d48dcb4ca257bb76e4670c5c199fc55c0793f701",
+      "date": "2026-11-22T02:10:55Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 1,
+        "deletions": 18,
+        "meaningful_change": 19,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "00b9bd35960eaf2231cec35b29b053dd005bad12",
       "message": "일부 모델 교체",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/00b9bd35960eaf2231cec35b29b053dd005bad12",
@@ -29142,52 +29188,6 @@
         "additions": 10,
         "deletions": 1,
         "meaningful_change": 11,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "c63bfec7ac4de7f96c0996b2d165af6e68175bd7",
-      "message": "쏭을 쏘면 문 열리는 코드 수정",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/c63bfec7ac4de7f96c0996b2d165af6e68175bd7",
-      "date": "2026-11-11T11:08:58Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 449,
-        "deletions": 68,
-        "meaningful_change": 517,
-        "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "6f541ba731b4986749f68fc6dc99f5370728b756",
-      "message": "일반 원거리 총알 코드 추가",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/6f541ba731b4986749f68fc6dc99f5370728b756",
-      "date": "2026-11-11T11:06:05Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 20,
-        "deletions": 0,
-        "meaningful_change": 20,
         "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"

@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 22. 07:52",
+  "updatedAt": "2026. 11. 22. 11:58",
   "students": [
     {
       "name": "2학년 1팀",
@@ -219,7 +219,7 @@
       "repo": "23jihwan/7_tim",
       "commits": 2,
       "activeDays": 2,
-      "lastCommit": "2일 전",
+      "lastCommit": "3일 전",
       "status": "active",
       "weekly": [
         7,
@@ -233,7 +233,7 @@
       "recent": [
         {
           "message": "[Fix]카드 데이터 수정",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "e3bbe72",
           "url": "https://github.com/23jihwan/7_tim/commit/e3bbe72bcf6cda8737c7d295917b84c867b198fe"
         },
@@ -932,7 +932,7 @@
         },
         {
           "message": "런 시스템 카메라 쪽 코드 추가 확인 아직 안함 개선 해야할 듯",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "28ec3b9",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/28ec3b95e03a53124e573c7de3aa2b31f187d836"
         },
