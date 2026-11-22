@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 23. 03:20",
+  "updatedAt": "2026. 11. 23. 08:33",
   "students": [
     {
       "name": "2학년 1팀",
@@ -168,8 +168,8 @@
         6,
         13,
         2,
-        8,
-        7,
+        9,
+        6,
         6
       ],
       "recent": [
@@ -337,25 +337,25 @@
         },
         {
           "message": "f",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "8639904",
           "url": "https://github.com/Sine-aw/nohesitate/commit/8639904a79efb6578e8649252824c7c07c47442d"
         },
         {
           "message": "t",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "f2a450f",
           "url": "https://github.com/Sine-aw/nohesitate/commit/f2a450f0b1cb52082279efb3d9e779c65a1fe142"
         },
         {
           "message": "Merge branch 'main' of https://github.com/Sine-aw/nohesitate",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "9b4dfa2",
           "url": "https://github.com/Sine-aw/nohesitate/commit/9b4dfa2c056497025122838275a3a54b211799dd"
         },
         {
           "message": "title settings",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "83a9efc",
           "url": "https://github.com/Sine-aw/nohesitate/commit/83a9efcda9673527b4ed6b50c06f17090a18b0a7"
         }
@@ -492,8 +492,8 @@
       "team": "jeonghyerin002",
       "github": "jeonghyerin002",
       "repo": "jeonghyerin002/2026_2TeamProject",
-      "commits": 9,
-      "activeDays": 4,
+      "commits": 6,
+      "activeDays": 3,
       "lastCommit": "4일 전",
       "status": "watch",
       "weekly": [
@@ -502,8 +502,8 @@
         4,
         1,
         0,
-        6,
-        9
+        9,
+        6
       ],
       "recent": [
         {
@@ -546,12 +546,12 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "26일 전",
+      "lastCommit": "27일 전",
       "status": "inactive",
       "weekly": [
-        4,
-        6,
-        7,
+        9,
+        5,
+        3,
         2,
         0,
         0,
@@ -560,7 +560,7 @@
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "26일 전",
+          "time": "27일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
@@ -801,8 +801,8 @@
       "weekly": [
         0,
         3,
-        15,
-        6,
+        17,
+        4,
         0,
         0,
         21
@@ -1011,8 +1011,8 @@
         6,
         13,
         2,
-        8,
-        7,
+        9,
+        6,
         6
       ],
       "recent": [
