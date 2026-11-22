@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 22. 11:58",
+  "updatedAt": "2026. 11. 22. 19:43",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -24597,6 +24597,29 @@
       "projectName": "2학년 3팀",
       "repo": "jinjooyoung/DUAL-DUEL",
       "branch": "main",
+      "sha": "89a4e5e756cd669f0c3823f12685e96e378cf797",
+      "message": "[Chore] 리소스 적용",
+      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/89a4e5e756cd669f0c3823f12685e96e378cf797",
+      "date": "2026-11-22T08:46:22Z",
+      "expectedGithub": "jinjooyoung",
+      "actualGithub": "jinjooyoung",
+      "gitAuthorName": "jinjooyoung",
+      "gitAuthorEmail": "jjy26297449@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 18,
+        "additions": 786,
+        "deletions": 37,
+        "meaningful_change": 10,
+        "meaningful_file_count": 10,
+        "suspicious_score": 15,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 3팀",
+      "repo": "jinjooyoung/DUAL-DUEL",
+      "branch": "main",
       "sha": "f39557d1681edab7cf5ade210fd4af95915bd161",
       "message": "[Chore] 카드 리소스 추가",
       "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/f39557d1681edab7cf5ade210fd4af95915bd161",
@@ -26871,24 +26894,47 @@
       }
     },
     {
-      "projectName": "2학년 3팀",
-      "repo": "jinjooyoung/DUAL-DUEL",
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
       "branch": "main",
-      "sha": "5f28b5ee39d9090a1afc06f883121405352e284c",
-      "message": "[Chore] 슬라이더 연결",
-      "url": "https://github.com/jinjooyoung/DUAL-DUEL/commit/5f28b5ee39d9090a1afc06f883121405352e284c",
-      "date": "2026-10-19T02:46:33Z",
-      "expectedGithub": "jinjooyoung",
-      "actualGithub": "jinjooyoung",
-      "gitAuthorName": "jinjooyoung",
-      "gitAuthorEmail": "jjy26297449@gmail.com",
-      "verification": "verified",
+      "sha": "31a26753581b752796c58cdc04e39ffc5ce2cc17",
+      "message": "상점 시스템 불편한 점 개산",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/31a26753581b752796c58cdc04e39ffc5ce2cc17",
+      "date": "2026-11-22T05:47:12Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
       "analysis": {
-        "changed_files": 3,
-        "additions": 2210,
-        "deletions": 580,
-        "meaningful_change": 2790,
-        "meaningful_file_count": 3,
+        "changed_files": 2,
+        "additions": 17,
+        "deletions": 3,
+        "meaningful_change": 20,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "3c5e4ff469edd7db01626c0a06ba9576bac19b62",
+      "message": "3d 오브젝트 추가",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/3c5e4ff469edd7db01626c0a06ba9576bac19b62",
+      "date": "2026-11-22T05:24:33Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 13,
+        "additions": 799,
+        "deletions": 69,
+        "meaningful_change": 409,
+        "meaningful_file_count": 7,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -29143,52 +29189,6 @@
         "deletions": 37,
         "meaningful_change": 679,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "958f8c21064a87e28db085eaa35b667be53ff8e6",
-      "message": "수류탄 던지는 거에도 문이 열리게 조정",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/958f8c21064a87e28db085eaa35b667be53ff8e6",
-      "date": "2026-11-11T11:39:44Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 83,
-        "deletions": 12,
-        "meaningful_change": 95,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "0ceab3dbb40c1912952e4dfc6bd4912cce7ace4d",
-      "message": "인스펙터 수치 변경",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/0ceab3dbb40c1912952e4dfc6bd4912cce7ace4d",
-      "date": "2026-11-11T11:15:15Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 10,
-        "deletions": 1,
-        "meaningful_change": 11,
-        "meaningful_file_count": 1,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -35706,6 +35706,29 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "363c787ea11d5b584f8b044546c6664454854ea0",
+      "message": "[Fix]캔버스 패널에 연결이 안되어 있던 찐빠 수정",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/363c787ea11d5b584f8b044546c6664454854ea0",
+      "date": "2026-11-22T09:37:50Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 1184,
+        "deletions": 6,
+        "meaningful_change": 1190,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "62115bc4e8f87bd209dc0fdeeb55b8e9429bd6ee",
       "message": "플레이어 기본 애니메이션 및 적 애니메이션 완성",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/62115bc4e8f87bd209dc0fdeeb55b8e9429bd6ee",
@@ -37977,29 +38000,6 @@
         "meaningful_file_count": 3,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "1학년 A반 1팀",
-      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "branch": "main",
-      "sha": "20b7f12f23b3721ecb888977bf02d55d2b989fc5",
-      "message": "[Feat] 상점 npc 추가 및 강화 메커니즘",
-      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/20b7f12f23b3721ecb888977bf02d55d2b989fc5",
-      "date": "2026-10-12T14:29:46Z",
-      "expectedGithub": "chimchimjam377",
-      "actualGithub": "Ljs0201",
-      "gitAuthorName": "Ljs0201",
-      "gitAuthorEmail": "a01029950314@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 18,
-        "additions": 5585,
-        "deletions": 70,
-        "meaningful_change": 5471,
-        "meaningful_file_count": 7,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
