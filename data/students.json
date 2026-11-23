@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 23. 08:33",
+  "updatedAt": "2026. 11. 23. 13:09",
   "students": [
     {
       "name": "2학년 1팀",
@@ -60,10 +60,10 @@
       "lastCommit": "4일 전",
       "status": "watch",
       "weekly": [
-        4,
+        3,
         6,
-        11,
-        5,
+        12,
+        4,
         0,
         0,
         6
@@ -113,11 +113,11 @@
       "status": "active",
       "weekly": [
         0,
-        0,
-        5,
-        2,
-        3,
         1,
+        4,
+        2,
+        4,
+        0,
         2
       ],
       "recent": [
@@ -135,7 +135,7 @@
         },
         {
           "message": "[Fix] 미션 위치 수정",
-          "time": "13일 전",
+          "time": "14일 전",
           "sha": "1963540",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/19635406b6bf8c46628eb7c2ec9c1f869f68e1e2"
         },
@@ -165,8 +165,8 @@
       "status": "active",
       "weekly": [
         0,
-        6,
-        13,
+        7,
+        12,
         2,
         9,
         6,
@@ -213,12 +213,12 @@
       "repo": "23jihwan/7_tim",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "3일 전",
-      "status": "active",
+      "lastCommit": "4일 전",
+      "status": "watch",
       "weekly": [
         12,
-        1,
-        14,
+        2,
+        13,
         8,
         1,
         2,
@@ -227,7 +227,7 @@
       "recent": [
         {
           "message": "[Fix]카드 데이터 수정",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "e3bbe72",
           "url": "https://github.com/23jihwan/7_tim/commit/e3bbe72bcf6cda8737c7d295917b84c867b198fe"
         },
@@ -269,8 +269,8 @@
       "status": "watch",
       "weekly": [
         5,
-        4,
-        6,
+        5,
+        5,
         3,
         0,
         7,
@@ -374,9 +374,9 @@
       "weekly": [
         0,
         0,
-        6,
-        13,
-        4,
+        7,
+        14,
+        2,
         17,
         41
       ],
@@ -648,7 +648,7 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 49,
+      "commits": 46,
       "activeDays": 7,
       "lastCommit": "오늘",
       "status": "active",
@@ -657,9 +657,9 @@
         0,
         14,
         12,
-        7,
-        18,
-        49
+        13,
+        15,
+        46
       ],
       "recent": [
         {
@@ -801,8 +801,8 @@
       "weekly": [
         0,
         3,
-        17,
-        4,
+        18,
+        3,
         0,
         0,
         21
@@ -853,8 +853,8 @@
       "weekly": [
         5,
         5,
-        15,
-        1,
+        16,
+        0,
         8,
         6,
         0
@@ -906,8 +906,8 @@
         0,
         6,
         14,
-        5,
-        4,
+        6,
+        3,
         6,
         17
       ],
@@ -932,7 +932,7 @@
         },
         {
           "message": "런 시스템 카메라 쪽 코드 추가 확인 아직 안함 개선 해야할 듯",
-          "time": "3일 전",
+          "time": "4일 전",
           "sha": "28ec3b9",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/28ec3b95e03a53124e573c7de3aa2b31f187d836"
         },
@@ -955,10 +955,10 @@
       "lastCommit": "4일 전",
       "status": "watch",
       "weekly": [
-        4,
+        3,
         6,
-        11,
-        5,
+        12,
+        4,
         0,
         0,
         6
@@ -1008,8 +1008,8 @@
       "status": "active",
       "weekly": [
         0,
-        6,
-        13,
+        7,
+        12,
         2,
         9,
         6,
