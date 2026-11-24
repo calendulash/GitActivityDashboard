@@ -1,11 +1,34 @@
 {
-  "updatedAt": "2026. 11. 24. 20:36",
+  "updatedAt": "2026. 11. 25. 06:42",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
     "unlinked": "GitHub 계정 연결을 확인할 수 없음"
   },
   "commits": [
+    {
+      "projectName": "2학년 1팀",
+      "repo": "suyan05/PharaohCube",
+      "branch": "main",
+      "sha": "2691753576dc78e5762f32e7b40fe9a76679698f",
+      "message": "[Feat] 소켓5종,열림 추가",
+      "url": "https://github.com/suyan05/PharaohCube/commit/2691753576dc78e5762f32e7b40fe9a76679698f",
+      "date": "2026-11-24T17:58:23Z",
+      "expectedGithub": "suyan05",
+      "actualGithub": "khy1004",
+      "gitAuthorName": "khy1004",
+      "gitAuthorEmail": "khyseog08@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 58,
+        "additions": 4147,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 29,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
     {
       "projectName": "2학년 1팀",
       "repo": "suyan05/PharaohCube",
@@ -2279,29 +2302,6 @@
         "deletions": 268,
         "meaningful_change": 1029,
         "meaningful_file_count": 40,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 1팀",
-      "repo": "suyan05/PharaohCube",
-      "branch": "main",
-      "sha": "59efeb57ea4a462edeaefb46fd91060c3468fbcd",
-      "message": "[Feat] 호루스 연출, 단서 비석, 숨은 회랑, 목표 표시",
-      "url": "https://github.com/suyan05/PharaohCube/commit/59efeb57ea4a462edeaefb46fd91060c3468fbcd",
-      "date": "2026-11-05T18:14:43Z",
-      "expectedGithub": "suyan05",
-      "actualGithub": "parksarang04",
-      "gitAuthorName": "parksarang04",
-      "gitAuthorEmail": "qkrtkfkd9074@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 32,
-        "additions": 1345,
-        "deletions": 76,
-        "meaningful_change": 1395,
-        "meaningful_file_count": 22,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -4610,6 +4610,29 @@
       "projectName": "3학년 1팀",
       "repo": "ahyun04/26TeamProject_2",
       "branch": "main",
+      "sha": "128fda5268e4a4b62ed4854717f3204e6a5a2efb",
+      "message": "[Fix] 무중력 구간 움직임 자연스럽게 수정 및 애니메이션 적용",
+      "url": "https://github.com/ahyun04/26TeamProject_2/commit/128fda5268e4a4b62ed4854717f3204e6a5a2efb",
+      "date": "2026-11-24T13:10:21Z",
+      "expectedGithub": "ahyun04",
+      "actualGithub": "namsuhan0322",
+      "gitAuthorName": "namsuhan0322",
+      "gitAuthorEmail": "rnatpakfl@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 64,
+        "additions": 20210,
+        "deletions": 17452,
+        "meaningful_change": 37560,
+        "meaningful_file_count": 56,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 1팀",
+      "repo": "ahyun04/26TeamProject_2",
+      "branch": "main",
       "sha": "b4faa2b39ca7ff46d1af1410cd614c557475fe80",
       "message": "[Update] Unity 6 버전 업그레이드",
       "url": "https://github.com/ahyun04/26TeamProject_2/commit/b4faa2b39ca7ff46d1af1410cd614c557475fe80",
@@ -6884,29 +6907,6 @@
       }
     },
     {
-      "projectName": "3학년 1팀",
-      "repo": "ahyun04/26TeamProject_2",
-      "branch": "main",
-      "sha": "97b8f744e201368fb358ca6e30dcd5511eb2cd0a",
-      "message": "[Fix] 게임 중 로비 참가자 표시 및 메인 탭 접근 수정",
-      "url": "https://github.com/ahyun04/26TeamProject_2/commit/97b8f744e201368fb358ca6e30dcd5511eb2cd0a",
-      "date": "2026-10-21T02:13:12Z",
-      "expectedGithub": "ahyun04",
-      "actualGithub": "Im-Dinosaur",
-      "gitAuthorName": "Im-Dinosaur",
-      "gitAuthorEmail": "wnsdl80100@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 5,
-        "additions": 115,
-        "deletions": 19,
-        "meaningful_change": 134,
-        "meaningful_file_count": 5,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
@@ -8461,13 +8461,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 170,
+        "additions": 908171,
+        "deletions": 237150,
+        "meaningful_change": 1145009,
+        "meaningful_file_count": 95,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -8898,13 +8898,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 300,
-        "additions": 102427,
-        "deletions": 36518,
-        "meaningful_change": 1568,
-        "meaningful_file_count": 125,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -11257,6 +11257,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "e1543f5ae25b6bb277cc4e760b352f9278359a4f",
+      "message": "[feat] 아이콘 30종 제작",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/e1543f5ae25b6bb277cc4e760b352f9278359a4f",
+      "date": "2026-11-24T12:33:58Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "ywkang0404",
+      "gitAuthorName": "ywkang0404",
+      "gitAuthorEmail": "ywkang0404@g.shingu.ac.kr",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 61,
+        "additions": 3518,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 30,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "3c65b1f1457d40c0296bf92c00a66c4ffe067a2e",
       "message": "[feat] 업적창2차1",
       "url": "https://github.com/esuvean/PRESS-START_/commit/3c65b1f1457d40c0296bf92c00a66c4ffe067a2e",
@@ -13528,29 +13551,6 @@
         "meaningful_file_count": 8,
         "suspicious_score": 0,
         "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "d16a478fd7b3a8ca1bcdd72cfc59f45a6b3f3404",
-      "message": "[feat]..",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/d16a478fd7b3a8ca1bcdd72cfc59f45a6b3f3404",
-      "date": "2026-09-27T16:21:38Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 4,
-        "additions": 0,
-        "deletions": 16,
-        "meaningful_change": 2,
-        "meaningful_file_count": 2,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
       }
     },
     {
@@ -28898,6 +28898,29 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "b997b2a1bdcb775a9e8212b4cbcf7b058ab333c2",
+      "message": "플레이어 집 히트박스 씌우기 끝",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/b997b2a1bdcb775a9e8212b4cbcf7b058ab333c2",
+      "date": "2026-11-24T12:53:10Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 270,
+        "deletions": 26,
+        "meaningful_change": 296,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "3de831cd31c81d8fd801df20571ac42962bb80bb",
       "message": "플레이어 집 히트박스 작업",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/3de831cd31c81d8fd801df20571ac42962bb80bb",
@@ -31167,29 +31190,6 @@
         "deletions": 0,
         "meaningful_change": 44,
         "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "38b571e3c95c53fca1b6ad9d4de26595df0fc865",
-      "message": "[Fix] 모든 런처에 넉백 추가",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/38b571e3c95c53fca1b6ad9d4de26595df0fc865",
-      "date": "2026-11-11T13:19:23Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 6,
-        "additions": 84,
-        "deletions": 4,
-        "meaningful_change": 88,
-        "meaningful_file_count": 6,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -37707,6 +37707,29 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "2c8be3ae33b26e85c6048edf68a6afb97ff17ac8",
+      "message": "[Feat] 플레이어 효과음 걷기, 뛰기, 착지 완료",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/2c8be3ae33b26e85c6048edf68a6afb97ff17ac8",
+      "date": "2026-11-24T12:48:23Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 261,
+        "deletions": 17,
+        "meaningful_change": 278,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "3c7c48ab369a6e2044bc90a52deeb6f1268ee1c5",
       "message": "[Feat]플레이어 점프 이펙트 추가",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/3c7c48ab369a6e2044bc90a52deeb6f1268ee1c5",
@@ -39976,29 +39999,6 @@
         "deletions": 70,
         "meaningful_change": 618,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 1팀",
-      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "branch": "main",
-      "sha": "5201e2b0008983842a211eb79acd8b4d3bf5b0f5",
-      "message": "[Feat] 에니메이션 수정",
-      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/5201e2b0008983842a211eb79acd8b4d3bf5b0f5",
-      "date": "2026-10-18T05:42:47Z",
-      "expectedGithub": "chimchimjam377",
-      "actualGithub": "Ljs0201",
-      "gitAuthorName": "Ljs0201",
-      "gitAuthorEmail": "a01029950314@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 476,
-        "deletions": 79,
-        "meaningful_change": 555,
-        "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
       }
