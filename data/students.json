@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 25. 06:42",
+  "updatedAt": "2026. 11. 25. 13:43",
   "students": [
     {
       "name": "2학년 1팀",
@@ -35,10 +35,10 @@
       "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
-        1,
+        0,
         7,
-        11,
-        4,
+        12,
+        3,
         0,
         4,
         2
@@ -116,7 +116,7 @@
         },
         {
           "message": "[Fix] 미션 위치 수정",
-          "time": "15일 전",
+          "time": "16일 전",
           "sha": "1963540",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/19635406b6bf8c46628eb7c2ec9c1f869f68e1e2"
         },
@@ -188,7 +188,7 @@
       "repo": "23jihwan/7_tim",
       "commits": 1,
       "activeDays": 1,
-      "lastCommit": "5일 전",
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         11,
@@ -202,7 +202,7 @@
       "recent": [
         {
           "message": "[Fix]카드 데이터 수정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "e3bbe72",
           "url": "https://github.com/23jihwan/7_tim/commit/e3bbe72bcf6cda8737c7d295917b84c867b198fe"
         },
@@ -243,7 +243,7 @@
       "lastCommit": "9일 전",
       "status": "inactive",
       "weekly": [
-        5,
+        4,
         8,
         3,
         2,
@@ -351,8 +351,8 @@
         0,
         12,
         9,
-        14,
-        5,
+        18,
+        1,
         41
       ],
       "recent": [
@@ -394,9 +394,9 @@
       "team": "jeolje934-dot",
       "github": "jeolje934-dot",
       "repo": "jeolje934-dot/GPA_6A_TeamProject",
-      "commits": 7,
-      "activeDays": 3,
-      "lastCommit": "4일 전",
+      "commits": 6,
+      "activeDays": 2,
+      "lastCommit": "5일 전",
       "status": "watch",
       "weekly": [
         4,
@@ -404,37 +404,37 @@
         5,
         9,
         0,
-        31,
-        7
+        32,
+        6
       ],
       "recent": [
         {
           "message": "[Chore] 빌드 시 모든 값 초기화 ( 유저 세팅)",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "3358cc0",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/3358cc0f6a39464513cd411a7f69318035fffe69"
         },
         {
           "message": "[Feat]  최초 실행시 데이터 초기화 기능 ( 빌드한 파일에서 )",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "7d5702d",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/7d5702dee1299b33b644ad9e477436b764469074"
         },
         {
           "message": "[Fix] 프로젝트 빌드 시 화면 설정",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "5d0abc1",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/5d0abc157afbd7b96a7497e29b63ea2b855e5549"
         },
         {
           "message": "[Fix] 업적 칸 나가기 버튼 오류 수정 ( 해당 업적 패널 속 , 업적 모은 칸의 viewport Raycast Targrt의 문제였음)",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "978efc8",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/978efc88a702b97762981ddf3e7e75f520ae3e57"
         },
         {
           "message": "[Fix] 좌우 이동 속도 변경 , 메인 사운드 값 다운",
-          "time": "4일 전",
+          "time": "5일 전",
           "sha": "f43691e",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/f43691e31a7dd5758ffe221f8762d79057131476"
         }
@@ -468,7 +468,7 @@
         },
         {
           "message": "[Feat] 물고기 10종 이미지 추가",
-          "time": "11일 전",
+          "time": "12일 전",
           "sha": "d4f5d61",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/d4f5d61b0ceeaf64bee25e1be1ccb310513a2da8"
         },
@@ -654,7 +654,7 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 41,
+      "commits": 33,
       "activeDays": 6,
       "lastCommit": "어제",
       "status": "active",
@@ -664,8 +664,8 @@
         6,
         13,
         13,
-        19,
-        41
+        27,
+        33
       ],
       "recent": [
         {
@@ -800,7 +800,7 @@
       "team": "surren01522-tech",
       "github": "sw4860",
       "repo": "surren01522-tech/2026_02_GameProject_Eurydice",
-      "commits": 10,
+      "commits": 9,
       "activeDays": 2,
       "lastCommit": "4일 전",
       "status": "watch",
@@ -810,8 +810,8 @@
         17,
         3,
         0,
-        11,
-        10
+        12,
+        9
       ],
       "recent": [
         {
@@ -858,10 +858,10 @@
       "status": "inactive",
       "weekly": [
         10,
-        13,
-        3,
-        2,
-        6,
+        15,
+        1,
+        7,
+        1,
         6,
         0
       ],
@@ -904,20 +904,32 @@
       "team": "chimchimjam377",
       "github": "chimchimjam377",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "commits": 20,
-      "activeDays": 7,
+      "commits": 18,
+      "activeDays": 8,
       "lastCommit": "오늘",
       "status": "active",
       "weekly": [
         0,
-        0,
-        15,
+        4,
+        11,
         6,
-        3,
+        7,
         12,
-        20
+        18
       ],
       "recent": [
+        {
+          "message": "크악끄악크악",
+          "time": "오늘",
+          "sha": "01f1951",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/01f19515298c7160f064d5ee974e18d3a6a92eba"
+        },
+        {
+          "message": "상점 개선해야할 듯",
+          "time": "오늘",
+          "sha": "7f5587e",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/7f5587e921e9ddacd7e99ee887446f2aeff77528"
+        },
         {
           "message": "[Feat] 플레이어 효과음 걷기, 뛰기, 착지 완료",
           "time": "오늘",
@@ -935,18 +947,6 @@
           "time": "오늘",
           "sha": "ff5ece3",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ff5ece377c6bb12b476f78ccf479afa4cf4ee66d"
-        },
-        {
-          "message": "Run 시스템 플레이어 스테이지 넘어가면 제대로 스폰 되는거 확인",
-          "time": "오늘",
-          "sha": "1ac7dc2",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/1ac7dc2b990a12f59f40c7fa3e72e53545a923a6"
-        },
-        {
-          "message": "Run 시작 수정",
-          "time": "오늘",
-          "sha": "e1b3280",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/e1b328097f11103f3c16dfbb56faec14846922a0"
         }
       ]
     },
@@ -961,10 +961,10 @@
       "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
-        1,
+        0,
         7,
-        11,
-        4,
+        12,
+        3,
         0,
         4,
         2

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 25. 06:42",
+  "updatedAt": "2026. 11. 25. 13:43",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -8898,13 +8898,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -11257,6 +11257,29 @@
       "projectName": "2학년 2팀",
       "repo": "esuvean/PRESS-START_",
       "branch": "main",
+      "sha": "a1160e4013275c9616a2ade046d5648a67028e7f",
+      "message": "[feat] 업적 통합 스크립트",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/a1160e4013275c9616a2ade046d5648a67028e7f",
+      "date": "2026-11-24T23:37:58Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "flexinja99",
+      "gitAuthorName": "flexinja",
+      "gitAuthorEmail": "hjgo927@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 16,
+        "additions": 4599,
+        "deletions": 2507,
+        "meaningful_change": 7096,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
       "sha": "e1543f5ae25b6bb277cc4e760b352f9278359a4f",
       "message": "[feat] 아이콘 30종 제작",
       "url": "https://github.com/esuvean/PRESS-START_/commit/e1543f5ae25b6bb277cc4e760b352f9278359a4f",
@@ -13528,29 +13551,6 @@
         "meaningful_file_count": 2,
         "suspicious_score": 35,
         "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "4f47814f9f0ed14d4d54eec71a7a3ed18d66d53a",
-      "message": "[feat] 챕터2,3 메인씬에서 연결 가능하다록 구현",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/4f47814f9f0ed14d4d54eec71a7a3ed18d66d53a",
-      "date": "2026-09-28T17:38:49Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 8,
-        "additions": 448,
-        "deletions": 157,
-        "meaningful_change": 605,
-        "meaningful_file_count": 8,
-        "suspicious_score": 0,
-        "judgment": "정상"
       }
     },
     {
@@ -28898,6 +28898,52 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "3c416bc4c93ace2e7e57ad7df61d4cf480e0f3f7",
+      "message": "총으로 문열기 공통 스크립트 생성. 및 무기로 총 멸기 함수 교체",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/3c416bc4c93ace2e7e57ad7df61d4cf480e0f3f7",
+      "date": "2026-11-25T01:32:58Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 9,
+        "additions": 360,
+        "deletions": 225,
+        "meaningful_change": 583,
+        "meaningful_file_count": 8,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "d7988553f663c5cedd5d499cedd380d7a13c0f32",
+      "message": "[Feat] 새로문 문 코드 및 다시 총알로 문열리는 코드 작업 시작",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/d7988553f663c5cedd5d499cedd380d7a13c0f32",
+      "date": "2026-11-25T00:43:57Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 7,
+        "additions": 773,
+        "deletions": 58,
+        "meaningful_change": 829,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "b997b2a1bdcb775a9e8212b4cbcf7b058ab333c2",
       "message": "플레이어 집 히트박스 씌우기 끝",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/b997b2a1bdcb775a9e8212b4cbcf7b058ab333c2",
@@ -31144,52 +31190,6 @@
         "deletions": 630,
         "meaningful_change": 1392,
         "meaningful_file_count": 4,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "dd7036bc509d4275b5c68316e18783c348e1c12b",
-      "message": "테스트 씬 저장",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/dd7036bc509d4275b5c68316e18783c348e1c12b",
-      "date": "2026-11-11T13:38:52Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 132,
-        "deletions": 4,
-        "meaningful_change": 136,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "9a97cc820b4f47b635bd079bcd2536d9f244c401",
-      "message": "[Feat] 샷건 넉백 추가",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/9a97cc820b4f47b635bd079bcd2536d9f244c401",
-      "date": "2026-11-11T13:37:02Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "rlfahtwkqdl",
-      "gitAuthorName": "rlfahtwkqdl",
-      "gitAuthorEmail": "hongjunsu87@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 44,
-        "deletions": 0,
-        "meaningful_change": 44,
-        "meaningful_file_count": 3,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -37707,6 +37707,52 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "01f19515298c7160f064d5ee974e18d3a6a92eba",
+      "message": "크악끄악크악",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/01f19515298c7160f064d5ee974e18d3a6a92eba",
+      "date": "2026-11-25T01:50:38Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 20,
+        "deletions": 2488,
+        "meaningful_change": 2508,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "7f5587e921e9ddacd7e99ee887446f2aeff77528",
+      "message": "상점 개선해야할 듯",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/7f5587e921e9ddacd7e99ee887446f2aeff77528",
+      "date": "2026-11-25T01:31:18Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 11,
+        "additions": 39937,
+        "deletions": 154,
+        "meaningful_change": 40091,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "2c8be3ae33b26e85c6048edf68a6afb97ff17ac8",
       "message": "[Feat] 플레이어 효과음 걷기, 뛰기, 착지 완료",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/2c8be3ae33b26e85c6048edf68a6afb97ff17ac8",
@@ -39953,52 +39999,6 @@
         "deletions": 0,
         "meaningful_change": 117,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 1팀",
-      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "branch": "main",
-      "sha": "398f565cea41dff09d325f0d80775e7185f31c21",
-      "message": "Merge branch 'main' of https://github.com/chimchimjam377/TeamProject---Singularity-Thief",
-      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/398f565cea41dff09d325f0d80775e7185f31c21",
-      "date": "2026-10-19T11:55:00Z",
-      "expectedGithub": "chimchimjam377",
-      "actualGithub": "jerryseo0220-droid",
-      "gitAuthorName": "jerryseo0220-droid",
-      "gitAuthorEmail": "jerryseo0220@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 1,
-        "additions": 353,
-        "deletions": 10,
-        "meaningful_change": 363,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 1팀",
-      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "branch": "main",
-      "sha": "a8bd1d9e4a6f28eac65cf5ef4a2bdf46e0a73d49",
-      "message": "레이저 함정",
-      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/a8bd1d9e4a6f28eac65cf5ef4a2bdf46e0a73d49",
-      "date": "2026-10-18T05:42:47Z",
-      "expectedGithub": "chimchimjam377",
-      "actualGithub": "Ljs0201",
-      "gitAuthorName": "Ljs0201",
-      "gitAuthorEmail": "a01029950314@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 6,
-        "additions": 826,
-        "deletions": 70,
-        "meaningful_change": 618,
-        "meaningful_file_count": 4,
         "suspicious_score": 0,
         "judgment": "정상"
       }
