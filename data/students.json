@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 26. 08:41",
+  "updatedAt": "2026. 11. 26. 14:31",
   "students": [
     {
       "name": "2학년 1팀",
@@ -35,8 +35,8 @@
       "lastCommit": "7일 전",
       "status": "watch",
       "weekly": [
-        0,
-        10,
+        1,
+        9,
         12,
         0,
         0,
@@ -116,7 +116,7 @@
         },
         {
           "message": "[Fix] 미션 위치 수정",
-          "time": "16일 전",
+          "time": "17일 전",
           "sha": "1963540",
           "url": "https://github.com/ahyun04/26TeamProject_2/commit/19635406b6bf8c46628eb7c2ec9c1f869f68e1e2"
         },
@@ -186,23 +186,23 @@
       "team": "23jihwan",
       "github": "23jihwan",
       "repo": "23jihwan/7_tim",
-      "commits": 1,
-      "activeDays": 1,
-      "lastCommit": "6일 전",
+      "commits": 0,
+      "activeDays": 0,
+      "lastCommit": "7일 전",
       "status": "watch",
       "weekly": [
-        9,
+        8,
         4,
         18,
         0,
         2,
-        1,
-        1
+        2,
+        0
       ],
       "recent": [
         {
           "message": "[Fix]카드 데이터 수정",
-          "time": "6일 전",
+          "time": "7일 전",
           "sha": "e3bbe72",
           "url": "https://github.com/23jihwan/7_tim/commit/e3bbe72bcf6cda8737c7d295917b84c867b198fe"
         },
@@ -245,8 +245,8 @@
       "weekly": [
         1,
         8,
-        3,
-        2,
+        4,
+        1,
         2,
         5,
         0
@@ -278,7 +278,7 @@
         },
         {
           "message": "[Feat] 챕터5로 넘어가는 연출 추가",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "83e3ce4",
           "url": "https://github.com/esuvean/PRESS-START_/commit/83e3ce4aeed8cb6f84225eab6b6065194e14b1f8"
         }
@@ -349,8 +349,8 @@
       "weekly": [
         0,
         0,
-        12,
-        9,
+        13,
+        8,
         19,
         14,
         27
@@ -396,12 +396,12 @@
       "repo": "jeolje934-dot/GPA_6A_TeamProject",
       "commits": 6,
       "activeDays": 2,
-      "lastCommit": "5일 전",
+      "lastCommit": "6일 전",
       "status": "watch",
       "weekly": [
         4,
-        1,
-        5,
+        2,
+        4,
         9,
         0,
         32,
@@ -410,25 +410,25 @@
       "recent": [
         {
           "message": "[Chore] 빌드 시 모든 값 초기화 ( 유저 세팅)",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "3358cc0",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/3358cc0f6a39464513cd411a7f69318035fffe69"
         },
         {
           "message": "[Feat]  최초 실행시 데이터 초기화 기능 ( 빌드한 파일에서 )",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "7d5702d",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/7d5702dee1299b33b644ad9e477436b764469074"
         },
         {
           "message": "[Fix] 프로젝트 빌드 시 화면 설정",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "5d0abc1",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/5d0abc157afbd7b96a7497e29b63ea2b855e5549"
         },
         {
           "message": "[Fix] 업적 칸 나가기 버튼 오류 수정 ( 해당 업적 패널 속 , 업적 모은 칸의 viewport Raycast Targrt의 문제였음)",
-          "time": "5일 전",
+          "time": "6일 전",
           "sha": "978efc8",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/978efc88a702b97762981ddf3e7e75f520ae3e57"
         },
@@ -468,7 +468,7 @@
         },
         {
           "message": "[Feat] 물고기 10종 이미지 추가",
-          "time": "12일 전",
+          "time": "13일 전",
           "sha": "d4f5d61",
           "url": "https://github.com/yungyeong08/4team_project_02/commit/d4f5d61b0ceeaf64bee25e1be1ccb310513a2da8"
         },
@@ -654,18 +654,18 @@
       "team": "jinjooyoung",
       "github": "jinjooyoung",
       "repo": "jinjooyoung/DUAL-DUEL",
-      "commits": 28,
+      "commits": 23,
       "activeDays": 5,
       "lastCommit": "2일 전",
       "status": "active",
       "weekly": [
         0,
-        8,
-        8,
+        10,
+        6,
         12,
         15,
-        29,
-        28
+        34,
+        23
       ],
       "recent": [
         {
@@ -911,22 +911,28 @@
       "weekly": [
         0,
         5,
-        10,
-        6,
-        7,
+        11,
+        5,
+        8,
         14,
         16
       ],
       "recent": [
         {
-          "message": "크악끄악크악",
+          "message": "파일 정리",
           "time": "오늘",
+          "sha": "3ba0363",
+          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/3ba03637010c20fc47c954455cab6ccbc4695e9a"
+        },
+        {
+          "message": "크악끄악크악",
+          "time": "어제",
           "sha": "01f1951",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/01f19515298c7160f064d5ee974e18d3a6a92eba"
         },
         {
           "message": "상점 개선해야할 듯",
-          "time": "오늘",
+          "time": "어제",
           "sha": "7f5587e",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/7f5587e921e9ddacd7e99ee887446f2aeff77528"
         },
@@ -941,12 +947,6 @@
           "time": "어제",
           "sha": "3c7c48a",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/3c7c48ab369a6e2044bc90a52deeb6f1268ee1c5"
-        },
-        {
-          "message": "플레이어의 이펙트 계속 수정해야 할듯",
-          "time": "어제",
-          "sha": "ff5ece3",
-          "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/ff5ece377c6bb12b476f78ccf479afa4cf4ee66d"
         }
       ]
     },
@@ -961,8 +961,8 @@
       "lastCommit": "7일 전",
       "status": "watch",
       "weekly": [
-        0,
-        10,
+        1,
+        9,
         12,
         0,
         0,
