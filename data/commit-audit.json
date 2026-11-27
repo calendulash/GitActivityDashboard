@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 27. 09:27",
+  "updatedAt": "2026. 11. 27. 18:09",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6910,6 +6910,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "afc50517a54cd58a61f1b989f74d1c64d2211e05",
+      "message": "[Feat] 무기 구매 후 페이드 아웃 -> 씬이동",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/afc50517a54cd58a61f1b989f74d1c64d2211e05",
+      "date": "2026-11-27T05:05:53Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 23,
+        "additions": 228634,
+        "deletions": 113,
+        "meaningful_change": 228720,
+        "meaningful_file_count": 18,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "420603d1b95d906c916a830cfcc0c5039fb9d93f",
       "message": "[Feat] 챕터3 컷신 -> 배달 -> 납치 구현",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/420603d1b95d906c916a830cfcc0c5039fb9d93f",
@@ -8921,13 +8944,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 300,
+        "additions": 102427,
+        "deletions": 36518,
+        "meaningful_change": 1568,
+        "meaningful_file_count": 125,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -9179,29 +9202,6 @@
         "deletions": 666,
         "meaningful_change": 1006,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "1c1df5611f95f1fd0584962fc2b297f3f9bffbed",
-      "message": "[Feat] SnowThrower npc 추가",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/1c1df5611f95f1fd0584962fc2b297f3f9bffbed",
-      "date": "2026-10-12T04:56:00Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "Woong1016",
-      "gitAuthorName": "Woong1016",
-      "gitAuthorEmail": "yol7122@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 14,
-        "additions": 820,
-        "deletions": 11,
-        "meaningful_change": 805,
-        "meaningful_file_count": 9,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -11251,6 +11251,52 @@
         "meaningful_file_count": 0,
         "suspicious_score": 95,
         "judgment": "뻥의심"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "c752a68b5b3a66d436b50e4ad6fc570ceb401193",
+      "message": "[Feat] 챕터5 설정창 적용함",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/c752a68b5b3a66d436b50e4ad6fc570ceb401193",
+      "date": "2026-11-27T07:49:56Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "esuvean",
+      "gitAuthorName": "esuvean",
+      "gitAuthorEmail": "esuvean@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 0,
+        "deletions": 4,
+        "meaningful_change": 4,
+        "meaningful_file_count": 1,
+        "suspicious_score": 30,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "2학년 2팀",
+      "repo": "esuvean/PRESS-START_",
+      "branch": "main",
+      "sha": "721248ed8f117cd0c69954a49624ab0877f287cf",
+      "message": "[Feat] 26~30 UI 적용",
+      "url": "https://github.com/esuvean/PRESS-START_/commit/721248ed8f117cd0c69954a49624ab0877f287cf",
+      "date": "2026-11-27T07:43:43Z",
+      "expectedGithub": "esuvean",
+      "actualGithub": "esuvean",
+      "gitAuthorName": "esuvean",
+      "gitAuthorEmail": "esuvean@naver.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 47,
+        "additions": 25571,
+        "deletions": 6603,
+        "meaningful_change": 23795,
+        "meaningful_file_count": 30,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -13503,52 +13549,6 @@
         "deletions": 12,
         "meaningful_change": 385,
         "meaningful_file_count": 3,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "574302eea076c4b973127efa81c396410f009c76",
-      "message": "[feat] 모니터 배경 추가",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/574302eea076c4b973127efa81c396410f009c76",
-      "date": "2026-10-06T15:21:22Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "ywkang0404",
-      "gitAuthorName": "ywkang0404",
-      "gitAuthorEmail": "ywkang0404@g.shingu.ac.kr",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 42,
-        "additions": 133,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 19,
-        "suspicious_score": 35,
-        "judgment": "확인필요"
-      }
-    },
-    {
-      "projectName": "2학년 2팀",
-      "repo": "esuvean/PRESS-START_",
-      "branch": "main",
-      "sha": "df79d47f775983eda4ef23282399ffe162a39645",
-      "message": "[feat] 미니게임 14,15 피드백 수정",
-      "url": "https://github.com/esuvean/PRESS-START_/commit/df79d47f775983eda4ef23282399ffe162a39645",
-      "date": "2026-10-04T13:32:57Z",
-      "expectedGithub": "esuvean",
-      "actualGithub": "flexinja99",
-      "gitAuthorName": "flexinja",
-      "gitAuthorEmail": "hjgo927@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 18,
-        "additions": 4767,
-        "deletions": 2075,
-        "meaningful_change": 6838,
-        "meaningful_file_count": 16,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -17758,6 +17758,29 @@
         "deletions": 0,
         "meaningful_change": 135,
         "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 6팀",
+      "repo": "jeolje934-dot/GPA_6A_TeamProject",
+      "branch": "main",
+      "sha": "b386b8144c925695d76b2bde315f874a9e8b4f7c",
+      "message": "[Fix] 설정창 사운드 조절 기능 개선",
+      "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/b386b8144c925695d76b2bde315f874a9e8b4f7c",
+      "date": "2026-11-27T05:28:12Z",
+      "expectedGithub": "jeolje934-dot",
+      "actualGithub": "mu0e07",
+      "gitAuthorName": "mu0e07",
+      "gitAuthorEmail": "mu0e07@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 9,
+        "additions": 11358,
+        "deletions": 4952,
+        "meaningful_change": 16308,
+        "meaningful_file_count": 8,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -28944,6 +28967,75 @@
       "projectName": "1학년 B반 6팀",
       "repo": "tjd6356-afk/2-_-",
       "branch": "main",
+      "sha": "0f0765d90c5b44d71f7744c04f9c3340bdbe3a77",
+      "message": "스테이지 이동 UI 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/0f0765d90c5b44d71f7744c04f9c3340bdbe3a77",
+      "date": "2026-11-27T03:08:35Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 3,
+        "additions": 198,
+        "deletions": 91,
+        "meaningful_change": 289,
+        "meaningful_file_count": 3,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "d050125dc21072f4d3ef17a6aa81311c9fef7561",
+      "message": "던전 씬 저장",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/d050125dc21072f4d3ef17a6aa81311c9fef7561",
+      "date": "2026-11-27T02:59:49Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 1,
+        "additions": 73,
+        "deletions": 0,
+        "meaningful_change": 73,
+        "meaningful_file_count": 1,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "d51af65c0bb8f42fb73ae4861d606230d54dd736",
+      "message": "씬 포탈 수정",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/d51af65c0bb8f42fb73ae4861d606230d54dd736",
+      "date": "2026-11-27T02:48:18Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "tjd6356-afk",
+      "gitAuthorName": "tjd6356-afk",
+      "gitAuthorEmail": "tjd6356@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 2,
+        "additions": 70,
+        "deletions": 612,
+        "meaningful_change": 682,
+        "meaningful_file_count": 2,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
       "sha": "4a1dbc89775d74d8dd5a55b1c0361cadc670d859",
       "message": "[Fix] 구르는 적 개선",
       "url": "https://github.com/tjd6356-afk/2-_-/commit/4a1dbc89775d74d8dd5a55b1c0361cadc670d859",
@@ -31167,75 +31259,6 @@
         "deletions": 0,
         "meaningful_change": 79,
         "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "36e213340b3f6eb0880f95af8025f89c1a7817fb",
-      "message": "상인 UI 연출 시스템",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/36e213340b3f6eb0880f95af8025f89c1a7817fb",
-      "date": "2026-11-13T10:36:14Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 11,
-        "additions": 582,
-        "deletions": 3964,
-        "meaningful_change": 4542,
-        "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "eac8b0ac66f471c8ce9cd80c4232933830804590",
-      "message": "상인 NPC 추가",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/eac8b0ac66f471c8ce9cd80c4232933830804590",
-      "date": "2026-11-13T08:46:04Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 19,
-        "additions": 261746,
-        "deletions": 1260,
-        "meaningful_change": 262931,
-        "meaningful_file_count": 13,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "185e1334d08d2c82a7fdd3b45b9939f1b53fd6e3",
-      "message": "상인 프리팹 생성",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/185e1334d08d2c82a7fdd3b45b9939f1b53fd6e3",
-      "date": "2026-11-13T07:57:52Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 16,
-        "additions": 1735,
-        "deletions": 220,
-        "meaningful_change": 1573,
-        "meaningful_file_count": 9,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -37753,6 +37776,52 @@
       "projectName": "1학년 A반 1팀",
       "repo": "chimchimjam377/TeamProject---Singularity-Thief",
       "branch": "main",
+      "sha": "33238dcdcf9ce4d57a01a9077b2bf6ad901b3f86",
+      "message": "[Feat] 공격 설명 추가",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/33238dcdcf9ce4d57a01a9077b2bf6ad901b3f86",
+      "date": "2026-11-27T05:48:18Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 6,
+        "additions": 2110,
+        "deletions": 1190,
+        "meaningful_change": 3300,
+        "meaningful_file_count": 6,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
+      "sha": "351efdadfe7f9bff384b45f079d9f3dabade1fc9",
+      "message": "플레이어 공격 편의성 추가",
+      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/351efdadfe7f9bff384b45f079d9f3dabade1fc9",
+      "date": "2026-11-27T04:09:28Z",
+      "expectedGithub": "chimchimjam377",
+      "actualGithub": "chimchimjam377",
+      "gitAuthorName": "chimchimjam377",
+      "gitAuthorEmail": "chimchimjam377@gmail.com",
+      "verification": "verified",
+      "analysis": {
+        "changed_files": 17,
+        "additions": 1285,
+        "deletions": 35,
+        "meaningful_change": 1318,
+        "meaningful_file_count": 11,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 A반 1팀",
+      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
+      "branch": "main",
       "sha": "f635a57440f23a81621b61d3cf26ef8c6d82df77",
       "message": "폭발, 총, 총 연사, 포탄, 포탄 연사 효과음 포함 8개 사운드 추가",
       "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/f635a57440f23a81621b61d3cf26ef8c6d82df77",
@@ -39999,52 +40068,6 @@
         "deletions": 417,
         "meaningful_change": 1076,
         "meaningful_file_count": 7,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 1팀",
-      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "branch": "main",
-      "sha": "478d639c91b76b115b79ec2d66ed229a0f9f78ae",
-      "message": "[Feat] Room 1 타일맵 디자인 추가",
-      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/478d639c91b76b115b79ec2d66ed229a0f9f78ae",
-      "date": "2026-10-21T01:27:38Z",
-      "expectedGithub": "chimchimjam377",
-      "actualGithub": "2026137008",
-      "gitAuthorName": "강민서",
-      "gitAuthorEmail": "2026137008@g.shingu.ac.kr",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 136887,
-        "deletions": 0,
-        "meaningful_change": 136880,
-        "meaningful_file_count": 1,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 A반 1팀",
-      "repo": "chimchimjam377/TeamProject---Singularity-Thief",
-      "branch": "main",
-      "sha": "89b454e66510e5eb9abc070ca225eaa2f16af4f4",
-      "message": "스크립트 수정",
-      "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/89b454e66510e5eb9abc070ca225eaa2f16af4f4",
-      "date": "2026-10-21T00:50:35Z",
-      "expectedGithub": "chimchimjam377",
-      "actualGithub": "chimchimjam377",
-      "gitAuthorName": "chimchimjam377",
-      "gitAuthorEmail": "chimchimjam377@gmail.com",
-      "verification": "verified",
-      "analysis": {
-        "changed_files": 3,
-        "additions": 93,
-        "deletions": 111,
-        "meaningful_change": 202,
-        "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -42353,6 +42376,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "afc50517a54cd58a61f1b989f74d1c64d2211e05",
+      "message": "[Feat] 무기 구매 후 페이드 아웃 -> 씬이동",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/afc50517a54cd58a61f1b989f74d1c64d2211e05",
+      "date": "2026-11-27T05:05:53Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 23,
+        "additions": 228634,
+        "deletions": 113,
+        "meaningful_change": 228720,
+        "meaningful_file_count": 18,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "420603d1b95d906c916a830cfcc0c5039fb9d93f",
       "message": "[Feat] 챕터3 컷신 -> 배달 -> 납치 구현",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/420603d1b95d906c916a830cfcc0c5039fb9d93f",
@@ -44622,29 +44668,6 @@
         "deletions": 666,
         "meaningful_change": 1006,
         "meaningful_file_count": 2,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "1c1df5611f95f1fd0584962fc2b297f3f9bffbed",
-      "message": "[Feat] SnowThrower npc 추가",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/1c1df5611f95f1fd0584962fc2b297f3f9bffbed",
-      "date": "2026-10-12T04:56:00Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "Woong1016",
-      "gitAuthorName": "Woong1016",
-      "gitAuthorEmail": "yol7122@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 14,
-        "additions": 820,
-        "deletions": 11,
-        "meaningful_change": 805,
-        "meaningful_file_count": 9,
         "suspicious_score": 0,
         "judgment": "정상"
       }
