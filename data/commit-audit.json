@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026. 11. 27. 00:52",
+  "updatedAt": "2026. 11. 27. 09:27",
   "verificationLabels": {
     "verified": "등록된 GitHub ID와 일치",
     "mismatch": "다른 GitHub 계정의 커밋",
@@ -6910,6 +6910,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "420603d1b95d906c916a830cfcc0c5039fb9d93f",
+      "message": "[Feat] 챕터3 컷신 -> 배달 -> 납치 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/420603d1b95d906c916a830cfcc0c5039fb9d93f",
+      "date": "2026-11-26T17:07:49Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 35,
+        "additions": 1343178,
+        "deletions": 14,
+        "meaningful_change": 1343023,
+        "meaningful_file_count": 25,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "a2de1484b9dfebbfc2baff6796caf39a7c7fafa9",
       "message": "[Fix] 오토바이타고 터널 지날때 강제로 내려지는 버그 수정",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/a2de1484b9dfebbfc2baff6796caf39a7c7fafa9",
@@ -8461,13 +8484,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 170,
+        "additions": 908171,
+        "deletions": 237150,
+        "meaningful_change": 1145009,
+        "meaningful_file_count": 95,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -8898,13 +8921,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 300,
-        "additions": 102427,
-        "deletions": 36518,
-        "meaningful_change": 1568,
-        "meaningful_file_count": 125,
-        "suspicious_score": 0,
-        "judgment": "정상"
+        "changed_files": 0,
+        "additions": 0,
+        "deletions": 0,
+        "meaningful_change": 0,
+        "meaningful_file_count": 0,
+        "suspicious_score": 80,
+        "judgment": "뻥의심"
       }
     },
     {
@@ -9179,29 +9202,6 @@
         "deletions": 11,
         "meaningful_change": 805,
         "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "439c59f76ac4ce104f04429e5e3a358a3063b2fb",
-      "message": "[Feat] IsSnowing 일 때 눈사람 스폰",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/439c59f76ac4ce104f04429e5e3a358a3063b2fb",
-      "date": "2026-10-12T03:25:10Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "Woong1016",
-      "gitAuthorName": "Woong1016",
-      "gitAuthorEmail": "yol7122@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 418,
-        "deletions": 6,
-        "meaningful_change": 389,
-        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -28724,13 +28724,13 @@
       "gitAuthorEmail": "jjy26297449@gmail.com",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
+        "changed_files": 300,
+        "additions": 8,
         "deletions": 0,
         "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "meaningful_file_count": 130,
+        "suspicious_score": 35,
+        "judgment": "확인필요"
       }
     },
     {
@@ -28936,6 +28936,29 @@
         "deletions": 19,
         "meaningful_change": 358,
         "meaningful_file_count": 96,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "1학년 B반 6팀",
+      "repo": "tjd6356-afk/2-_-",
+      "branch": "main",
+      "sha": "4a1dbc89775d74d8dd5a55b1c0361cadc670d859",
+      "message": "[Fix] 구르는 적 개선",
+      "url": "https://github.com/tjd6356-afk/2-_-/commit/4a1dbc89775d74d8dd5a55b1c0361cadc670d859",
+      "date": "2026-11-26T16:15:31Z",
+      "expectedGithub": "choyeonjung134",
+      "actualGithub": "rlfahtwkqdl",
+      "gitAuthorName": "rlfahtwkqdl",
+      "gitAuthorEmail": "hongjunsu87@gmail.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 5,
+        "additions": 338,
+        "deletions": 79,
+        "meaningful_change": 417,
+        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -31213,29 +31236,6 @@
         "deletions": 220,
         "meaningful_change": 1573,
         "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "1학년 B반 6팀",
-      "repo": "tjd6356-afk/2-_-",
-      "branch": "main",
-      "sha": "b64b17a7d41e82cc846a735825abfa9c5356595e",
-      "message": "상점 작업 시작",
-      "url": "https://github.com/tjd6356-afk/2-_-/commit/b64b17a7d41e82cc846a735825abfa9c5356595e",
-      "date": "2026-11-13T03:43:10Z",
-      "expectedGithub": "choyeonjung134",
-      "actualGithub": "tjd6356-afk",
-      "gitAuthorName": "tjd6356-afk",
-      "gitAuthorEmail": "tjd6356@gmail.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 2,
-        "additions": 128,
-        "deletions": 1,
-        "meaningful_change": 129,
-        "meaningful_file_count": 2,
         "suspicious_score": 0,
         "judgment": "정상"
       }
@@ -42353,6 +42353,29 @@
       "projectName": "3학년 4팀",
       "repo": "yuseongmok/Delivery-service",
       "branch": "main",
+      "sha": "420603d1b95d906c916a830cfcc0c5039fb9d93f",
+      "message": "[Feat] 챕터3 컷신 -> 배달 -> 납치 구현",
+      "url": "https://github.com/yuseongmok/Delivery-service/commit/420603d1b95d906c916a830cfcc0c5039fb9d93f",
+      "date": "2026-11-26T17:07:49Z",
+      "expectedGithub": "yuseongmok",
+      "actualGithub": "shingumingi",
+      "gitAuthorName": "shingumingi",
+      "gitAuthorEmail": "pettid0314@naver.com",
+      "verification": "mismatch",
+      "analysis": {
+        "changed_files": 35,
+        "additions": 1343178,
+        "deletions": 14,
+        "meaningful_change": 1343023,
+        "meaningful_file_count": 25,
+        "suspicious_score": 0,
+        "judgment": "정상"
+      }
+    },
+    {
+      "projectName": "3학년 4팀",
+      "repo": "yuseongmok/Delivery-service",
+      "branch": "main",
       "sha": "a2de1484b9dfebbfc2baff6796caf39a7c7fafa9",
       "message": "[Fix] 오토바이타고 터널 지날때 강제로 내려지는 버그 수정",
       "url": "https://github.com/yuseongmok/Delivery-service/commit/a2de1484b9dfebbfc2baff6796caf39a7c7fafa9",
@@ -43904,13 +43927,13 @@
       "gitAuthorEmail": "yousm112783@daum.net",
       "verification": "verified",
       "analysis": {
-        "changed_files": 0,
-        "additions": 0,
-        "deletions": 0,
-        "meaningful_change": 0,
-        "meaningful_file_count": 0,
-        "suspicious_score": 80,
-        "judgment": "뻥의심"
+        "changed_files": 170,
+        "additions": 908171,
+        "deletions": 237150,
+        "meaningful_change": 1145009,
+        "meaningful_file_count": 95,
+        "suspicious_score": 0,
+        "judgment": "정상"
       }
     },
     {
@@ -44622,29 +44645,6 @@
         "deletions": 11,
         "meaningful_change": 805,
         "meaningful_file_count": 9,
-        "suspicious_score": 0,
-        "judgment": "정상"
-      }
-    },
-    {
-      "projectName": "3학년 4팀",
-      "repo": "yuseongmok/Delivery-service",
-      "branch": "main",
-      "sha": "439c59f76ac4ce104f04429e5e3a358a3063b2fb",
-      "message": "[Feat] IsSnowing 일 때 눈사람 스폰",
-      "url": "https://github.com/yuseongmok/Delivery-service/commit/439c59f76ac4ce104f04429e5e3a358a3063b2fb",
-      "date": "2026-10-12T03:25:10Z",
-      "expectedGithub": "yuseongmok",
-      "actualGithub": "Woong1016",
-      "gitAuthorName": "Woong1016",
-      "gitAuthorEmail": "yol7122@naver.com",
-      "verification": "mismatch",
-      "analysis": {
-        "changed_files": 12,
-        "additions": 418,
-        "deletions": 6,
-        "meaningful_change": 389,
-        "meaningful_file_count": 5,
         "suspicious_score": 0,
         "judgment": "정상"
       }
