@@ -1,7 +1,7 @@
 {
   "course": "Git 프로젝트 활동 현황",
   "notionUrl": "https://abaft-vibraphone-8f7.notion.site/Git-3c28655a72df80199dafc115fef9ddd4?pvs=74",
-  "updatedAt": "2026. 11. 28. 03:50",
+  "updatedAt": "2026. 11. 28. 10:59",
   "students": [
     {
       "name": "2학년 1팀",
@@ -36,8 +36,8 @@
       "status": "inactive",
       "weekly": [
         6,
-        6,
-        10,
+        7,
+        9,
         0,
         0,
         6,
@@ -88,8 +88,8 @@
       "status": "active",
       "weekly": [
         0,
-        0,
-        5,
+        1,
+        4,
         2,
         2,
         2,
@@ -140,8 +140,8 @@
       "status": "watch",
       "weekly": [
         3,
-        13,
-        5,
+        14,
+        4,
         4,
         9,
         8,
@@ -192,8 +192,8 @@
       "status": "inactive",
       "weekly": [
         6,
-        6,
-        16,
+        7,
+        15,
         0,
         2,
         2,
@@ -312,13 +312,13 @@
         },
         {
           "message": "f",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "8639904",
           "url": "https://github.com/Sine-aw/nohesitate/commit/8639904a79efb6578e8649252824c7c07c47442d"
         },
         {
           "message": "t",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "f2a450f",
           "url": "https://github.com/Sine-aw/nohesitate/commit/f2a450f0b1cb52082279efb3d9e779c65a1fe142"
         },
@@ -428,13 +428,13 @@
         },
         {
           "message": "[Fix] 업적 칸 나가기 버튼 오류 수정 ( 해당 업적 패널 속 , 업적 모은 칸의 viewport Raycast Targrt의 문제였음)",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "978efc8",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/978efc88a702b97762981ddf3e7e75f520ae3e57"
         },
         {
           "message": "[Fix] 좌우 이동 속도 변경 , 메인 사운드 값 다운",
-          "time": "7일 전",
+          "time": "8일 전",
           "sha": "f43691e",
           "url": "https://github.com/jeolje934-dot/GPA_6A_TeamProject/commit/f43691e31a7dd5758ffe221f8762d79057131476"
         }
@@ -552,7 +552,7 @@
       "repo": "qkrgml59/2026_2_TeamProject",
       "commits": 0,
       "activeDays": 0,
-      "lastCommit": "31일 전",
+      "lastCommit": "32일 전",
       "status": "inactive",
       "weekly": [
         8,
@@ -566,7 +566,7 @@
       "recent": [
         {
           "message": "[Feat] 공격시 데미지 UI 추가",
-          "time": "31일 전",
+          "time": "32일 전",
           "sha": "f04e30e",
           "url": "https://github.com/qkrgml59/2026_2_TeamProject/commit/f04e30e0864b569dba3a4a66fbfeaefbd3f3654b"
         },
@@ -938,13 +938,13 @@
         },
         {
           "message": "크악끄악크악",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "01f1951",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/01f19515298c7160f064d5ee974e18d3a6a92eba"
         },
         {
           "message": "상점 개선해야할 듯",
-          "time": "2일 전",
+          "time": "3일 전",
           "sha": "7f5587e",
           "url": "https://github.com/chimchimjam377/TeamProject---Singularity-Thief/commit/7f5587e921e9ddacd7e99ee887446f2aeff77528"
         }
@@ -962,8 +962,8 @@
       "status": "inactive",
       "weekly": [
         6,
-        6,
-        10,
+        7,
+        9,
         0,
         0,
         6,
@@ -1014,8 +1014,8 @@
       "status": "watch",
       "weekly": [
         3,
-        13,
-        5,
+        14,
+        4,
         4,
         9,
         8,
